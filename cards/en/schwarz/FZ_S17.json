@@ -1,0 +1,3246 @@
+[
+  {
+    "id": "FZ/S17-E001",
+    "name": "Puppet of Einzbern, Irisviel",
+    "setId": "fz_17",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】［(1)] When this card attacks, if a card named \"Sign of Determination\" is in your climax area, you may pay the cost. If you do, search your deck for up to one level 1 or higher 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "It was all thanks to you… All the happiness of this world,\njoy that was never meant for me…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E001.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E002",
+    "name": "King of Ideals, Saber",
+    "setId": "fz_17",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is four or less, this card gets +1000 power. 【CONT】 The character facing this card gets -1 soul. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose another of your 《Servant》 characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "You are a worthy opponent.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E002.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E003",
+    "name": "Kiritsugu - Belief in Justice",
+    "setId": "fz_17",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your characters, and that character gets +4000 power and +1 soul until end of turn. 【AUTO】 When damage from this card is canceled during its attack, if a card named \"Origin Shot\" is in your climax area, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.",
+    "flavorText": "I will break this endless cycle.\nAnd the Holy Grail alone can make that possible.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E003.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E004",
+    "name": "Kiritsugu - Style of Heresy",
+    "setId": "fz_17",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named \"\"Riding\" Skill, Saber\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room.",
+    "flavorText": "A full frontal confrontation is not my style.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E004.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E005",
+    "name": "Silent Assistant, Maiya",
+    "setId": "fz_17",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If you have a yellow climax in your climax area, this card gets +1 soul. 【CONT】 All of your other characters named \"Kiritsugu - Belief in Justice\" get +1000 power.",
+    "flavorText": "Kiritsugu picked me up, off the ground, anyway. He's free to use my life as he sees fit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E005.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E006",
+    "name": "Beautiful King of Knights, Saber",
+    "setId": "fz_17",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of characters your opponent has is three or less, this card gets +1000 power.",
+    "flavorText": "I'm used to the fact that my appearance is different from what most people would have imagined.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E006.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E007",
+    "name": "Saber - \"Magic Power Unleashed\"",
+    "setId": "fz_17",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【ACT】 Brainstorm ［(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Servant》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "If I cannot block your blade, I need only kill you before it strikes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E007.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E008",
+    "name": "Irisviel - Vessel of the Holy Grail",
+    "setId": "fz_17",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 When this card attacks, choose up to two of your other 《Servant》 characters, and those characters get +1 soul until end of turn. 【AUTO】【CLOCK】 Shift, Level 2 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them.)",
+    "flavorText": "I knew you'd come. I had faith you would make it here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E008.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E009",
+    "name": "Saber - End of Reign",
+    "setId": "fz_17",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is three or less, this card gets +1500 power.",
+    "flavorText": "I, I am unworthy……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E009.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E010",
+    "name": "Irisviel - Living as a Human",
+    "setId": "fz_17",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +500 power. 【AUTO】 Change ［Put this card into your waiting room］ At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Puppet of Einzbern, Irisviel\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "It's Avalon. From now on, you'll need its power more than I will. I'm sure it will help you during your final battle…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E010.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E011",
+    "name": "Future Hope, Shiro",
+    "setId": "fz_17",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When another of your character's battle opponent becomes 【REVERSE】, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E011.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E012",
+    "name": "Kiritsugu - Pursuit of the Ideal",
+    "setId": "fz_17",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1 soul for each of your other characters named \"Parts of Kiritsugu, Maiya\".",
+    "flavorText": "The blood I spill in Fuyuki City, will be the last blood humanity will ever shed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E012.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E013",
+    "name": "Parts of Kiritsugu, Maiya",
+    "setId": "fz_17",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E013.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E014",
+    "name": "Mother and Child, Irisviel & Ilya",
+    "setId": "fz_17",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 Bond／\"\"Mage-Killer\" Kiritsugu\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Mage-Killer\" Kiritsugu\" in your waiting room, and return it to your hand.) 【AUTO】 Bond／\"Puppet of Einzbern, Irisviel\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Puppet of Einzbern, Irisviel\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Ilya only needs Kiritsugu and Mommy with her to be happy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E014.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E015",
+    "name": "Saber - Noble Phantasm Unleashed",
+    "setId": "fz_17",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】［(1) Put a card from your hand into your waiting room] When this card attacks, if a card named \"Excalibur\" is in your climax area, you may pay the cost. If you do, choose a card in your opponent's waiting room, put it into your opponent's memory, and this card gets +1000 power until end of turn.",
+    "flavorText": "--Wind!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E015.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E016",
+    "name": "Innocent Girl, Ilya",
+    "setId": "fz_17",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Master》 or 《Homunculus》 characters get +500 power.",
+    "flavorText": "There it is! I found one, too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E016.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E017",
+    "name": "Irisviel von Einzbern",
+    "setId": "fz_17",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】［(2)] When a yellow climax is placed on your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "Eight more years, and your fight will come to an end.\nAnd our ideal will become reality.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E017.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E018",
+    "name": "\"Riding\" Skill, Saber",
+    "setId": "fz_17",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "My riding skill allows me to command any \"beast or vehicle\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E018.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E019",
+    "name": "Maiya Hisau",
+    "setId": "fz_17",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is four or less, this card gets +1000 power.",
+    "flavorText": "From now on, this will be your base of operations.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E019.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E020",
+    "name": "\"Invisible Air\" Saber",
+    "setId": "fz_17",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】[Reveal any number of climax cards in your hand] At the beginning of your battle step of this card's battle, you may pay the cost. If you do, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards revealed.",
+    "flavorText": "You can't believe that a nice face will save you from my blade, can you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E020.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E021",
+    "name": "Kiritsugu - Time to Hunt",
+    "setId": "fz_17",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "……let us see what you can do, my adorable King of Knights.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E021.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E022",
+    "name": "\"Mage-Killer\" Kiritsugu",
+    "setId": "fz_17",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.）",
+    "flavorText": "We can all mount an attack.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E022.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E023",
+    "name": "Assistant Machine, Maiya",
+    "setId": "fz_17",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】［(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "Understood.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E023.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E024",
+    "name": "\"First Time Out\" Irisviel von Einzbern",
+    "setId": "fz_17",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "-",
+    "flavorText": "This---is the first time I've ventured into the world outside.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E024.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E025",
+    "name": "Search for Chestnut Bud",
+    "setId": "fz_17",
+    "number": "E025",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Each player puts the top three cards of his or her deck into the waiting room. If the number of level 1 or less characters put into your waiting room with this effect is more than the number of level 0 or less characters put into your opponent's waiting room with this effect, you may draw a card. Put this card into your stock.",
+    "flavorText": "I'm so high up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E025.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E026",
+    "name": "Demolition",
+    "setId": "fz_17",
+    "number": "E026",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E026.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E027",
+    "name": "Einzbern Castle",
+    "setId": "fz_17",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of climax cards in your waiting room is one or less, this card cannot be played from your hand. Search your deck for up to one 《Weapon》 or 《Alchemy》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I hereby swear. That I shall be all the good in the world.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E027.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E028",
+    "name": "Sign of Determination",
+    "setId": "fz_17",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Shape ist leben!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E028.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E029",
+    "name": "Origin Shot",
+    "setId": "fz_17",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "The origin shot-- It throws the target's mana into chaos, instantaneously causing the body to destroy itself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E029.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E030",
+    "name": "Excalibur",
+    "setId": "fz_17",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I swear it on my sword, I shall win.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E030.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E031",
+    "name": "Waver Velvet",
+    "setId": "fz_17",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\". 【AUTO】 When a card named \"Bond Between A King and His Retainer\" is placed on your climax area, reveal the top card of your deck. If the revealed card is a 《Royalty》 or 《Alchemy》 character, put it into your stock.　(If it is not, return the revealed card to is its original place.)",
+    "flavorText": "Rider, you must be victorious.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E031.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E032",
+    "name": "King of Military Rule, Rider",
+    "setId": "fz_17",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters. 【AUTO】［(1)］ During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock. 【AUTO】［(2)］ At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage.",
+    "flavorText": "AAAALaLaLaLaLaie!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E032.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E033",
+    "name": "Kayneth El-Melloi Archibald",
+    "setId": "fz_17",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】[【REST】 two of your characters] Choose one of your characters with \"Lancer\" in its card name, and until end of turn that character gets +1500 power and the following ability.\"【CONT】 If the character facing this card is a higher level than this card, this card cannot attack.\"",
+    "flavorText": "Let's have our guest enjoy the magical atelier of Kayneth El-Melloi.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E033.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E034",
+    "name": "Unshakable Pride, Rider",
+    "setId": "fz_17",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】［【REST】 one of your 【STAND】 characters］ When a card named \"Gordius Wheel\" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -2000 power until end of turn.",
+    "flavorText": "Our opponent is the mighty King of Heroes-- a truly worthy foe!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E034.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E035",
+    "name": "\"Saber's left hand\", Lancer",
+    "setId": "fz_17",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your 《Servant》 characters, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）",
+    "flavorText": "So, I believe cooperation to be our best option here, what do you think?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E035.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E036",
+    "name": "Ruler of Macedonia, Rider",
+    "setId": "fz_17",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 All of your other 《Servant》 characters get +1000 power. 【AUTO】［(3) Put a card from your hand into your waiting room] When a card named \"Ionian Hetairoi\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less 《Servant》 characters, and put them on separate positions of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Gather, my comrades!\nTonight, we take our place as the greatest legend in history!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E036.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E037",
+    "name": "Lancer - Red Spear Which Cancels Magic",
+    "setId": "fz_17",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Gae Dearg\" is in your climax area, choose one of your characters, and until end of your opponent's next turn, that character gets +2000 power and the following ability.\"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\"",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E037.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E038",
+    "name": "Apprentice Mage, Waver",
+    "setId": "fz_17",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named \"令呪\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】 Bond／\"Imposing and Majestic, Rider\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Imposing and Majestic, Rider\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Hey, Rider, this is a big deal! One of the seven's already been knocked out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E038.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E039",
+    "name": "Way of the Knight, Lancer",
+    "setId": "fz_17",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】［(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named \"Excalibur\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Then-- let us begin.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E039.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E040",
+    "name": "King of Grandeur, Rider",
+    "setId": "fz_17",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card attacks, each player puts the top card of his or her deck into the waiting room. If the level of the card put into your waiting room with this effect is higher than the level of the card put into your opponent's waiting room with this effect, you may put the top card of your deck into your stock. (Climax are regarded as level 0)",
+    "flavorText": "As king, it is my duty to inspire others to dream. And as retainer, it is your duty to see my dream through, and to pass tales down to future generations.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E040.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E041",
+    "name": "Charming Magical Look, Lancer",
+    "setId": "fz_17",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot direct attack. 【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E041.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E042",
+    "name": "Imposing and Majestic, Rider",
+    "setId": "fz_17",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "Saber, I must defeat her. It is my responsibility as a Heroic Spirit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E042.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E043",
+    "name": "Sola-Ui Nuada-Re Sophia-Ri",
+    "setId": "fz_17",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Love"
+    ],
+    "text": "【AUTO】 Bond／\"Lancer - Red Spear Which Cancels Magic\" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Lancer - Red Spear Which Cancels Magic\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Lancer did well. You were the one who made the mistake.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E043.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E044",
+    "name": "Proof of Entry, Waver",
+    "setId": "fz_17",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power. 【AUTO】【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)",
+    "flavorText": "The Holy Grail would only answer one prayer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E044.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E045",
+    "name": "Bold Nature, Rider",
+    "setId": "fz_17",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When a green climax is placed on your climax area, choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Magnificent!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E045.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E046",
+    "name": "Loyal and Brave, Lancer",
+    "setId": "fz_17",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "What I seek from this life, is but the loyalty denied me in my last.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E046.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E047",
+    "name": "Genius Mage, Kayneth",
+    "setId": "fz_17",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.",
+    "flavorText": "The ninth Archibald family head, Kayneth El-Melloi is here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E047.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E048",
+    "name": "Waver \"MacKenzie\"",
+    "setId": "fz_17",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 When one of your characters attacks, choose another of your 《Servant》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "But I can't promise that.\nThere's no guarantee I'll even make it back alive again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E048.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E049",
+    "name": "Clock Tower Elite, Kayneth",
+    "setId": "fz_17",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "-",
+    "flavorText": "Lancer. Show yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E049.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E050",
+    "name": "Command Seal",
+    "setId": "fz_17",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Servant》 characters, and that character gets +4500 power until end of turn.",
+    "flavorText": "By the power of my Command Seal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E050.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E051",
+    "name": "Treasured Sword and Magic Spear",
+    "setId": "fz_17",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【CONT】 Memory If this card is in your memory, all of your characters with \"Saber\" or \"Lancer\" in its card name get +1000 power.",
+    "flavorText": "What truly must emerge victorious, is the code of chivalry we swore to uphold--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E051.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E052",
+    "name": "Ionian Hetairoi",
+    "setId": "fz_17",
+    "number": "E052",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Now my companions, let us show the first Heroic Spirit where our path of conquest leads!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E052CR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E052CR.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E053",
+    "name": "Bond Between a King and His Retainer",
+    "setId": "fz_17",
+    "number": "E053",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "Rider, you must conquer this world. Failure will not be tolerated.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E053.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E054",
+    "name": "Gordius Wheel",
+    "setId": "fz_17",
+    "number": "E054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Let's roll, Gordius Wheel!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E054.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E055",
+    "name": "Gae Dearg",
+    "setId": "fz_17",
+    "number": "E055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Pierce, Gae Dearg!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E055.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E056",
+    "name": "Knight of Madness, Berserker",
+    "setId": "fz_17",
+    "number": "E056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】［Put this card into your waiting room］ When a card named \"Identity of the Fallen Knight\" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "URRRRRRRR!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E056.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E057",
+    "name": "King of All Creation, Archer",
+    "setId": "fz_17",
+    "number": "E057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】［(1) Put a card named \"Sword of Rupture, Ea\" from your hand into your waiting room］ At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn.",
+    "flavorText": "I am the one true king.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E057.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E058",
+    "name": "Noble Stance, Archer",
+    "setId": "fz_17",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is three or more, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.\" 【AUTO】 Bond／\"Kirei Kotomine\" [Put the top card of your deck into your clock] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Behold, and acknowledge your folly. This is the drink of a king.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E058.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E059",
+    "name": "Bloodthirsty Beast, Berserker",
+    "setId": "fz_17",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】[Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Arondight\" in your waiting room, and return it to your hand. 【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Curse Incarnate, Berserker\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "…… ar…… ur……!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E059.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E060",
+    "name": "Supreme Wine, Archer",
+    "setId": "fz_17",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】［(1)］ When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level. 【ACT】【COUNTER】 Backup 1000, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.）",
+    "flavorText": "Kirei Kotomine, can you imagine what would happen then?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E060.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E061",
+    "name": "Golden Monarch, Archer",
+    "setId": "fz_17",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If a red climax is in your climax area, this card gets the following ability.\"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 1 or less, you may 【REVERSE】 that character.\" 【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "Now show me, Saber.\nShow me the true worth of the light of your Heroic Spirit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E061.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E062",
+    "name": "Curse Incarnate, Berserker",
+    "setId": "fz_17",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "I am- the shunned- the mocked- the despised-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E062.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E063",
+    "name": "Head of Tohsaka Family, Tokiomi",
+    "setId": "fz_17",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Parting with Rin\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "I know you will succeed, even on your own.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E063.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E064",
+    "name": "Venerable Mage, Tokiomi",
+    "setId": "fz_17",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 All of your other 《Royalty》 characters get +500 power. 【ACT】［(2) 【REST】 this card］ Choose a 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "This battle is ours.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E064.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E065",
+    "name": "King of Kings, Archer",
+    "setId": "fz_17",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +1500 power, and this card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.",
+    "flavorText": "May your death provide me some modicum of entertainment, mongrel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E065.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E066",
+    "name": "Matou's Obsession, Zouken",
+    "setId": "fz_17",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Insect",
+      "-"
+    ],
+    "text": "【ACT】［Put the top card of your deck into your clock & 【REST】 this card] Choose one of your 《Master》 characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "I'm amazed that a failure like you would dare show your face here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E066.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E067",
+    "name": "Sakura - Corrupted Heart",
+    "setId": "fz_17",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Insect",
+      "-"
+    ],
+    "text": "【AUTO】[Put a level 2 or higher character from your hand into your waiting room & 【REST】 this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Master》 character in your waiting room, and return it to your hand. 【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）",
+    "flavorText": "What a foolish person.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E067.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E068",
+    "name": "Kariya - Cost of Life",
+    "setId": "fz_17",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Insect"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get the following ability.\"【AUTO】［(1)］ When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, 【REVERSE】 that character.\"",
+    "flavorText": "Just hold on… Sakura…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E068.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E069",
+    "name": "Young Successor, Rin",
+    "setId": "fz_17",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Jewel",
+      "-"
+    ],
+    "text": "【AUTO】［Put a card from your hand into your waiting room］ When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "No! I don't need your help with anything!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E069.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E070",
+    "name": "Berserker - Black Murderous Intent",
+    "setId": "fz_17",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "…… Ar…… thur……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E070.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E071",
+    "name": "Ancient King, Archer",
+    "setId": "fz_17",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them.)",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E071.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E072",
+    "name": "Kariya Matou",
+    "setId": "fz_17",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Insect"
+    ],
+    "text": "【CONT】 All of your other 《Servant》 characters get +500 power.",
+    "flavorText": "My insects, devour him, feast on his flesh!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E072.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E073",
+    "name": "Memories of Distant Past, Sakura & Aoi & Rin",
+    "setId": "fz_17",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Jewel",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose another of your 《Jewel》 characters, and that character gets +1000 power until end of turn. 【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E073.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E074",
+    "name": "Full of Conceit, Archer",
+    "setId": "fz_17",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "…hmph. What now, mad dog?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E074.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E075",
+    "name": "\"The Noble One\", Archer",
+    "setId": "fz_17",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of characters your opponent has is four or more, this card gets +1000 power.",
+    "flavorText": "Hmph…, very well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E075.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E076",
+    "name": "Tokiomi - Artifice to Sure Victory",
+    "setId": "fz_17",
+    "number": "E076",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【ACT】［【REST】 two of your 《Master》 characters］ This card gets +1 level and +2000 power until end of turn.",
+    "flavorText": "To reach the root. That is the Tohsaka family's one desire.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E076.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E077",
+    "name": "Tokiomi - Jewel Magic",
+    "setId": "fz_17",
+    "number": "E077",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "-",
+    "flavorText": "And now that our paths have crossed again, how could I but destroy you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E077.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E078",
+    "name": "Man Who Ran from Fate, Kariya",
+    "setId": "fz_17",
+    "number": "E078",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Insect"
+    ],
+    "text": "-",
+    "flavorText": "I'll never forgive you…… You unfeeling mages……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E078.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E079",
+    "name": "Archer - Proud Royal Path",
+    "setId": "fz_17",
+    "number": "E079",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your 【STAND】 《Servant》 characters, and 【REST】 it.",
+    "flavorText": "Everything of value in this world belongs to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E079.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E080",
+    "name": "Azoth Dagger",
+    "setId": "fz_17",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a 《Servant》 character in your waiting room, and return it to your hand. Choose one of your 《Master》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Tokiomi: \"Proof that you have mastered the Tohsaka family magic, and graduated from student to full-fledged mage.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E080.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E081",
+    "name": "Vimana",
+    "setId": "fz_17",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two characters in your waiting room with \"Archer\" in its card name, return them to your hand, and choose a card in your hand, and put it into your waiting room. Reveal the top card of your deck. If the revealed card is a climax, put it into your clock.（If it is not, return it to its original state）",
+    "flavorText": "Archer: \"Ah, the mad dog again…… Interesting…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E081.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E082",
+    "name": "Arondight",
+    "setId": "fz_17",
+    "number": "E082",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1500 multiplied by that character's cost.",
+    "flavorText": "Saber: \"A… Arondight… You can't be-\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E082.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E083",
+    "name": "Identity of the Fallen Knight",
+    "setId": "fz_17",
+    "number": "E083",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. （【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)",
+    "flavorText": "--and \"he\" lost everything.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E083.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E084",
+    "name": "Parting with Rin",
+    "setId": "fz_17",
+    "number": "E084",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "\"There is only one saying left to pass on as a representative of the past generations, to the offspring of the proud Tohsaka family.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E084.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E085",
+    "name": "Sword of Rupture, Ea",
+    "setId": "fz_17",
+    "number": "E085",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Behold the glory-- Enuma Elish!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E085.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E086",
+    "name": "Kirei - The Emptiness Within",
+    "setId": "fz_17",
+    "number": "E086",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Void",
+      "Master"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Master》 characters get +1000 power. 【AUTO】 Change ［(4) Put a climax from your hand into your waiting room & Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Kirei Kotomine\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I admit it, I am an empty man.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E086.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E087",
+    "name": "Throbbing Soul, Kirei",
+    "setId": "fz_17",
+    "number": "E087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Void",
+      "Master"
+    ],
+    "text": "【AUTO】［Put a 《Master》 character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card.",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E087.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E088",
+    "name": "Sadistic Artist, Caster",
+    "setId": "fz_17",
+    "number": "E088",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Book"
+    ],
+    "text": "【AUTO】[Put another character on your stage into your waiting room] When this card attacks, if you have a blue climax in your climax area, you may pay the cost. If you do, this card gets +2000 power until end of your opponent's next turn.",
+    "flavorText": "You shan't be disappointed, Ryunosuke.\nThis will be, as you might say, the coolest thing you'll ever see.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E088.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E089",
+    "name": "Kirei Kotomine",
+    "setId": "fz_17",
+    "number": "E089",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Void",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【ACT】［(2) 【REST】 two of your characters］ Search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I will fear no evil, for you are with me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E089.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E090",
+    "name": "Aesthetics of Death, Caster",
+    "setId": "fz_17",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Book"
+    ],
+    "text": "【AUTO】 When a card named \"Prank of Fate\" is placed on your climax area, if this card is on the center stage, search your deck for up to one level 0 or lower character, and put it on any position of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Indeed! Exactly so! Impressive, Ryunosuke!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E090.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E091",
+    "name": "Receiving New Flesh, Archer",
+    "setId": "fz_17",
+    "number": "E091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is three or more, this unit gets \"【AUTO】 Encore ［Put a character from your hand into your waiting room］\". 【ACT】［(1)] Choose one of your 《Servant》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "You really are quite a difficult man.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E091.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E092",
+    "name": "Regulator, Risei",
+    "setId": "fz_17",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "God",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "…let's get to the point.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E092.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E093",
+    "name": "Many, but One, Assassin",
+    "setId": "fz_17",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mask"
+    ],
+    "text": "【ACT】［【REST】 two of your 《Master》 characters] Until end of turn, this card's soul does not decrease by side attacking.",
+    "flavorText": "And this time, we shall become true shadow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E093.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E094",
+    "name": "Mage Apprentice, Kirei",
+    "setId": "fz_17",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Void",
+      "Master"
+    ],
+    "text": "-",
+    "flavorText": "No Flavor Text",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E094.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E095",
+    "name": "Psycho Killer, Ryunosuke",
+    "setId": "fz_17",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Death"
+    ],
+    "text": "【AUTO】 When another of your or your opponent's character becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn.",
+    "flavorText": "Go get them, Sir Bluebeard!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E095.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E096",
+    "name": "Protector of the Faith, Kirei",
+    "setId": "fz_17",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Void",
+      "Master"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is 5 or more, this card gets +1000 power. 【AUTO】 When this card attacks, if a card named \"The Eighth Contract\" is in your climax area, you may draw a card.",
+    "flavorText": "…entertainment, you mean joy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E096.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E097",
+    "name": "Flames of Purgatory",
+    "setId": "fz_17",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one 《Master》 character and up to one 《Servant》 character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Put this card into your clock.",
+    "flavorText": "That's impossible… There's no way!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E097.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E098",
+    "name": "Sea Monster",
+    "setId": "fz_17",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a character in your hand, and put it into your memory face down. Your opponent chooses the number 2 or 3. Reveal the face down card, and if that card is a character of a level that matches the number that your opponent chose, put it on any position of your stage. If it is not, put that card into your waiting room.",
+    "flavorText": "It glistens with a foul slime which induces nausea.\nIt is truly an island made of flesh.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E098.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E099",
+    "name": "The Eighth Contract",
+    "setId": "fz_17",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Until I find my answer, I will gladly be your jester…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E099.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E100",
+    "name": "Prank of Fate",
+    "setId": "fz_17",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "I have obtained the means to command a demonic legion.\nWhat do you think, Jeanne!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E100.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E101",
+    "name": "Proxy Master, Irisviel",
+    "setId": "fz_17",
+    "number": "E101",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【CONT】 The character facing this card gets +1 soul.",
+    "flavorText": "SECRET",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E101.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E102",
+    "name": "Saber in a Dark Suit",
+    "setId": "fz_17",
+    "number": "E102",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【ACT】[【REST】 two of your characters] This card gets +2000 power until end of turn.",
+    "flavorText": "You will surely survive. I will protect you until the end.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E102.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E103",
+    "name": "Top Class, Saber",
+    "setId": "fz_17",
+    "number": "E103",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "SECRET",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E103.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E104",
+    "name": "Hill of Camlann",
+    "setId": "fz_17",
+    "number": "E104",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "I'm sorry...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E104.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E105",
+    "name": "\"Shallow Blooded\" Magus, Waver",
+    "setId": "fz_17",
+    "number": "E105",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "A battle of pure skill, where titles and influence mean nothing. It's the perfect place for me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_E105.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E106",
+    "name": "Mini Saber",
+    "setId": "fz_17",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When another of your character's battle opponent becomes REVERSE, this card gets +1000 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_106.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_106.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E107",
+    "name": "Mini Irisviel",
+    "setId": "fz_17",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "-",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_107.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_107.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E108",
+    "name": "Mini Rider",
+    "setId": "fz_17",
+    "number": "E108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【ACT】 [(1)] Choose one of your opponent's characters on the center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_108.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_108.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E109",
+    "name": "Mini Waver",
+    "setId": "fz_17",
+    "number": "E109",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST.)",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_109.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_109.png"
+    }
+  },
+  {
+    "id": "FZ/S17-E110",
+    "name": "Mini Archer",
+    "setId": "fz_17",
+    "number": "E110",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_110.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_110.png"
+    }
+  },
+  {
+    "id": "FZ/S17-PE03",
+    "name": "Master of the Golden Sheath, Saber",
+    "setId": "fz_17",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose another of your <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "When the never-ending war draws to a close, she will be the one who grasps the Holy Grail.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE03.png"
+    }
+  },
+  {
+    "id": "FZ/S17-PE04",
+    "name": "Moment of Peace, Saber",
+    "setId": "fz_17",
+    "number": "PE04",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "－",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE04.png"
+    }
+  },
+  {
+    "id": "FZ/S17-PE05",
+    "name": "Illya & Irisviel",
+    "setId": "fz_17",
+    "number": "PE05",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, you may pay the cost. If you do, this card gets +2500 power until end of turn.",
+    "flavorText": "Illya will always be with mother.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE05.png"
+    }
+  },
+  {
+    "id": "FZ/S17-PE06",
+    "name": "Saber & Irisviel & Ilya",
+    "setId": "fz_17",
+    "number": "PE06",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】 When this card direct attacks, choose another of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE06.png"
+    }
+  },
+  {
+    "id": "FZ/S17-PE10",
+    "name": "Style of a King, Saber",
+    "setId": "fz_17",
+    "number": "PE10",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other <<Master>> or <<Homunculus>> characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "A king is a martyr to their ideals.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_PE10.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE01",
+    "name": "Summoned Heroine, Saber",
+    "setId": "fz_17",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When another of your 《Master》 or 《Homunculus》 character is placed on stage from your hand, this card gets +1000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE01.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE02",
+    "name": "Irisviel von Einzbern",
+    "setId": "fz_17",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "【AUTO】[2] When a yellow climax is placed on your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "Very well, Saber. Grant me victory!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE02.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE03",
+    "name": "Maiya Hisau",
+    "setId": "fz_17",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is four or less, this card gets +1000 power.",
+    "flavorText": "Focus on what matters now. Think of nothing else...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE03.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE04",
+    "name": "\"Riding\" Skill, Saber",
+    "setId": "fz_17",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "My Riding skill allows me to command any beast or vehicle.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE04.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE05",
+    "name": "\"Invisible Air\" Saber",
+    "setId": "fz_17",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】[Reveal any number of climax cards in your hand] At the beginning of your battle step of this card's battle, you may pay the cost. If you do, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards revealed.(The revealed cards are returned to hand)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE05.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE06",
+    "name": "\"Mage-Killer\" Kiritsugu",
+    "setId": "fz_17",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 3000, Level 2 [(1) & Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Non-magical attacks are what mages are truly vulnerable to.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE06.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE07",
+    "name": "Assistant Machine, Maiya",
+    "setId": "fz_17",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】[(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "Understood.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE07.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE08",
+    "name": "“First Time Out” Irisviel von Einzbern",
+    "setId": "fz_17",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Alchemy"
+    ],
+    "text": "-",
+    "flavorText": "This is the first time I've ventured into the world outside.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE08.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE09",
+    "name": "Einzbern Castle",
+    "setId": "fz_17",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If the number of climax cards in your waiting room is one or less, this card cannot be played from your hand. Search your deck for up to one 《Weapon》 or 《Alchemy》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I hereby swear. That I shall be all the good in the world.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE09.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE10",
+    "name": "Proof of Entry, Waver",
+    "setId": "fz_17",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power. 【AUTO】【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)",
+    "flavorText": "I've got a command seal, too! The Grail chose me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE10.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE11",
+    "name": "Loyal and Brave, Lancer",
+    "setId": "fz_17",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Yes, master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE11.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE12",
+    "name": "Imposing and Majestic, Rider",
+    "setId": "fz_17",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE12.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE13",
+    "name": "Clock Tower Elite, Kayneth",
+    "setId": "fz_17",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "-",
+    "flavorText": "Come forth, Lancer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE13.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE14",
+    "name": "Gordius Wheel",
+    "setId": "fz_17",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Go, Gordius Wheel!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE14.png"
+    }
+  },
+  {
+    "id": "FZ/S17-TE15",
+    "name": "Gae Dearg",
+    "setId": "fz_17",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Gash, Gae Dearg!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fz_s17/FZ_S17_TE15.png"
+    }
+  }
+]

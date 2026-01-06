@@ -1,0 +1,3352 @@
+[
+  {
+    "id": "RZ/S46-E001",
+    "name": "Royal Election Candidate, Felt",
+    "setId": "rz_46",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "Fang Teeth"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +2000 power. 【AUTO】 When this card attacks, search your deck for up to one 《Magic》 or 《Weapon》 character, reveal it to your opponent, put it into your stock, and shuffle your deck. 【AUTO】 [(2)] When this card attacks, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "We'll talk later, Old Man Rom.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E001.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E002",
+    "name": "Former Sword Saint, Theresia",
+    "setId": "rz_46",
+    "number": "E002",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Flower",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other cards named \"Young Swordsman, Wilhelm\" get +1 level and +500 power. 【AUTO】 [(1) Put this card into your memory] When you level up, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Hey... Have you grown to like flowers?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E002.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E003",
+    "name": "Head of House Karsten, Crusch",
+    "setId": "rz_46",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Magic》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 Brainstorm [(1)] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one 《Magic》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "How goes the healing of your gate?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E003.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E004",
+    "name": "Young Swordsman, Wilhelm",
+    "setId": "rz_46",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If you do not have any other characters on your center stage, this card gets +1500 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing it.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E004.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E005",
+    "name": "Declaration of War, Felt",
+    "setId": "rz_46",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Fang Teeth"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Magic》 or 《Weapon》 character, you may move this card to an open position of your center stage.",
+    "flavorText": "Sure, I'm in. But let me just say one thing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E005.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E006",
+    "name": "The Greatest Knight, Julius",
+    "setId": "rz_46",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Knight"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Magic》 or 《Weapon》 or 《Merchant》, this card gets +2000 power. 【CONT】 If the number of other 《Magic》 or 《Weapon》 or 《Merchant》 characters you have is three or more, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Forgive me for interrupting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E006.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E007",
+    "name": "Sword Saint, Reinhard",
+    "setId": "rz_46",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "Knight"
+    ],
+    "text": "【CONT】 Great Performance 【CONT】 Experience If the total level of the cards in your level is six or higher, and you do not have any other characters, this card gets +10000 power and the following five abilities. \"【CONT】 This card cannot be chosen by your opponent's effects, and cannot become 【REVERSE】 by your opponent character's 【AUTO】 effects.\" \"【CONT】 During this card's battle, your opponent cannot play event cards and \"Backup\" from hand.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\" \"【AUTO】 [Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent.\" \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.\" (This damage may be canceled)",
+    "flavorText": "If you've lost your weapon, I strongly suggest you surrender.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E007.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E008",
+    "name": "Expert Negotiator, Anastasia",
+    "setId": "rz_46",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Merchant",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Merchant》 or 《Beast Man》 or 《Knight》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "So I figured it'd be easy to get all sorts of information from your mouth, eyes, and expressions!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E008.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E009",
+    "name": "Healer, Felix",
+    "setId": "rz_46",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Knight"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage with \"Crusch(クルシュ)\" in its card name gets +1500 power. 【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+    "flavorText": "Oh, come on. All I said was, \"Maybe it'll be a drinking party.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E009.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E010",
+    "name": "White Whale Hunt, Crusch",
+    "setId": "rz_46",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +4000 power. 【AUTO】 When this card attacks, if the number of other 《Magic》 or 《Weapon》 characters you have is three or more, look at up to two cards from the top of your deck, choose a card from among them, put it on the top of your deck, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"Hundred Man Sword Strike\" is in your climax area, you may pay the cost. If you do, put the top card of your deck into your stock, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "You greatly underestimate us, looking away so carelessly.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E010.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E011",
+    "name": "Felt's Knight, Reinhard",
+    "setId": "rz_46",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Knight"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Magic》 or 《Weapon》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "As you can see, the dragon gem has recognized Felt-sama as a priestess.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E011.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E012",
+    "name": "Old Man Rom",
+    "setId": "rz_46",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Titan"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Felt(フェルト)\" in its card name, this card cannot 【STAND】 during your stand phase. 【AUTO】 When this card is placed on the stage from your hand, if you have another character with \"Felt(フェルト)\" in its card name, this card gets +2000 power until end of turn. 【AUTO】 [(1) Put this card into your waiting room] When your other character with \"Felt(フェルト)\" in its card name is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2500 power until end of turn.",
+    "flavorText": "...Who's that?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E012.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E013",
+    "name": "Pride of the Slums, Felt",
+    "setId": "rz_46",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Fang Teeth"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put a card named \"Mistral Maiden\" from your hand into your waiting room & Put this card into your waiting room] When this card is placed on the stage from your hand, if the number of cards in your deck is five or less, you may pay the cost. If you do, return all cards in your waiting room to your deck, search your deck for up to one character with \"Felt(フェルト)\" or \"Old Man Rom(ロム爺)\" or \"Reinhard(ラインハルト)\" in its card name, reveal it to your opponent, put it into your hand, search your deck for up to one card named \"Royal Election Candidate, Felt\", and put it on the stage position that this card was on. Shuffle your deck afterward, and that character gets +1000 power until end of turn.",
+    "flavorText": "Don't lump me in with those guys! They're all talk. They're not strong at all. They're just a bunch of stingy losers at life.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E013.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E014",
+    "name": "Wilhelm van Astrea",
+    "setId": "rz_46",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If the number of cards named \"Wilhelm van Astrea\" in your waiting room is two or more, this card gets -1 level while in your hand. 【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +3000 power. 【CONT】 Memory If the number of cards named \"Former Sword Saint, Theresia\" in your memory is two or more, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E014.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E015",
+    "name": "Unseen Hand, Petelgeuse",
+    "setId": "rz_46",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Witch Cult",
+      "Magic"
+    ],
+    "text": "【CONT】 If this card is on the stage, this card gets 《Sloth》 and 《Diligence》, and the character facing this card gets 《Sloth》. 【AUTO】 [Put the top card of your deck into your clock & Put a 《Magic》 or 《Weapon》 character from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, if the number of cards in your hand is five or more, you may pay the cost. If you do, 【REST】 this card, and deal one damage to your opponent. (This damage may be canceled) 【AUTO】 At the beginning of your encore step, if you do not have another character with \"Subaru(スバル)\" in its card name, choose one of your characters, and put it into your waiting room.",
+    "flavorText": "Complacency! Negligence! That is sloth!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E015.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E016",
+    "name": "Sloth Sin Archbishop, Petelgeuse",
+    "setId": "rz_46",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Witch Cult",
+      "Magic"
+    ],
+    "text": "【CONT】 If this card is on the stage, this card gets 《Sloth》 and 《Diligence》, and the character facing this card gets 《Sloth》. 【CONT】 This card cannot direct attack. 【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of markers underneath this card is ten or less, put the top card of your stock underneath this card as a marker. If you do, 【REST】 this card.",
+    "flavorText": "If you really meant it, you would pay no heed to the gazes of others.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E016.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E017",
+    "name": "Thankful Feelings, Felt",
+    "setId": "rz_46",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Fang Teeth"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, your opponent may reveal his or her hand. If your opponent does, if there is a climax revealed among those cards, 【REST】 this card.",
+    "flavorText": "You saved my life, and I can't let a debt go unpaid.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E017.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E018",
+    "name": "Fang of Iron Vice-Captain, Mimi",
+    "setId": "rz_46",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Beast Man"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 Bond/\"Fang of Iron Vice-Captain, Hetaro\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Fang of Iron Vice-Captain, Hetaro\" in your waiting room, and return it to your hand) 【AUTO】 Resonate [Reveal a card named \"Fang of Iron Vice-Captain, Hetaro\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +6000 power until end of turn.",
+    "flavorText": "Hey, my lady, I wanna eat some more! Can I order?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E018.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E019",
+    "name": "Fang of Iron Vice-Captain, Hetaro",
+    "setId": "rz_46",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Beast Man"
+    ],
+    "text": "【CONT】 This card cannot become 【REVERSE】 by your opponent character's 【AUTO】 effects. 【AUTO】 Bond/\"Fang of Iron Vice-Captain, Mimi\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Fang of Iron Vice-Captain, Mimi\" in your waiting room, and return it to your hand) 【AUTO】 Resonate [Reveal a card named \"Fang of Iron Vice-Captain, Mimi\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +4000 power and +1 soul until end of turn.",
+    "flavorText": "Sis! Together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E019.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E020",
+    "name": "Priscilla's Knight, Aldebaran",
+    "setId": "rz_46",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Knight"
+    ],
+    "text": "【CONT】 If you have another card named \"Royal Election Candidate, Priscilla\", this card gets +3000 power. 【CONT】 If this card is on the center stage, all of your other cards named \"Royal Election Candidate, Priscilla\" get +1 level and +1500 power.",
+    "flavorText": "Hey. That's where we're supposed to stand.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E020.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E021",
+    "name": "Royal Election Candidate, Anastasia",
+    "setId": "rz_46",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Merchant",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Which one of 'em issued the challenge?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E021.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E022",
+    "name": "Royal Election Candidate, Priscilla",
+    "setId": "rz_46",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 During this card's battle, if the level of this card's battle opponent is lower than the level of this card, this card gets +2000 power. 【CONT】 The character facing this card gets the following ability. \"【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.\"",
+    "flavorText": "I don't want drooling commoners following me around.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E022.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E023",
+    "name": "Negotiating An Alliance, Crusch",
+    "setId": "rz_46",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +2000 power. 【ACT】 [Put two cards from your hand into your waiting room] This card gets the following ability until end of turn. \"【CONT】 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\"",
+    "flavorText": "On what grounds do you know that the White Whale will appear?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E023.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E024",
+    "name": "Airs of a Queen, Priscilla",
+    "setId": "rz_46",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(4) Put a 《Magic》 or 《Weapon》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters, and 【REST】 it. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "So… I will give you an opportunity.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E024.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E025",
+    "name": "Bowel Hunter, Elsa",
+    "setId": "rz_46",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to two cards from the top of your opponent's deck, and put it on the top of his or her deck in any order.",
+    "flavorText": "What's wrong? You don't have to be so scared. I won't do anything to you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E025.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E026",
+    "name": "Fang of Iron Captain, Ricardo",
+    "setId": "rz_46",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Beast Man"
+    ],
+    "text": "【AUTO】 When this card attacks, if all of your other characters on the center stage are 【STAND】, this card gets +2000 power until end of turn.",
+    "flavorText": "You're takin' on the Witch's Cult, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E026.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E027a",
+    "name": "Royal Election",
+    "setId": "rz_46",
+    "number": "E027a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a card from your hand, and put it into your waiting room. Declare one of the following combinations. \"A character with \"Crusch(クルシュ) in its card name and a character with \"Felix(フェリックス)\" or \"Ferris(フェリス)\" in its card name\" \"A character with \"Priscilla(プリシラ)\" in its card name and a character with \"Al(アル)\" in its card name\" \"A character with \"Anastasia(アナスタシア)\" in its card name and a character with \"Julius(ユリウス)\" in its card name\" \"A character with \"Emilia(エミリア)\" in its card name and a character with \"Roswaal(ロズワール)\" or \"Puck(パック)\" or \"Subaru(スバル)\" in its card name\" \"A character with \"Felt(フェルト)\" in its card name and a character with \"Reinhard(ラインハルト)\" in its card name\" Search your deck for one of each character in the combination you declared, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027a.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E027b",
+    "name": "Royal Election",
+    "setId": "rz_46",
+    "number": "E027b",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a card from your hand, and put it into your waiting room. Declare one of the following combinations. \"A character with \"Crusch(クルシュ) in its card name and a character with \"Felix(フェリックス)\" or \"Ferris(フェリス)\" in its card name\" \"A character with \"Priscilla(プリシラ)\" in its card name and a character with \"Al(アル)\" in its card name\" \"A character with \"Anastasia(アナスタシア)\" in its card name and a character with \"Julius(ユリウス)\" in its card name\" \"A character with \"Emilia(エミリア)\" in its card name and a character with \"Roswaal(ロズワール)\" or \"Puck(パック)\" or \"Subaru(スバル)\" in its card name\" \"A character with \"Felt(フェルト)\" in its card name and a character with \"Reinhard(ラインハルト)\" in its card name\" Search your deck for one of each character in the combination you declared, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027b.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E027c",
+    "name": "Royal Election",
+    "setId": "rz_46",
+    "number": "E027c",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a card from your hand, and put it into your waiting room. Declare one of the following combinations. \"A character with \"Crusch(クルシュ) in its card name and a character with \"Felix(フェリックス)\" or \"Ferris(フェリス)\" in its card name\" \"A character with \"Priscilla(プリシラ)\" in its card name and a character with \"Al(アル)\" in its card name\" \"A character with \"Anastasia(アナスタシア)\" in its card name and a character with \"Julius(ユリウス)\" in its card name\" \"A character with \"Emilia(エミリア)\" in its card name and a character with \"Roswaal(ロズワール)\" or \"Puck(パック)\" or \"Subaru(スバル)\" in its card name\" \"A character with \"Felt(フェルト)\" in its card name and a character with \"Reinhard(ラインハルト)\" in its card name\" Search your deck for one of each character in the combination you declared, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027c.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027c.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E027d",
+    "name": "Royal Election",
+    "setId": "rz_46",
+    "number": "E027d",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a card from your hand, and put it into your waiting room. Declare one of the following combinations. \"A character with \"Crusch(クルシュ) in its card name and a character with \"Felix(フェリックス)\" or \"Ferris(フェリス)\" in its card name\" \"A character with \"Priscilla(プリシラ)\" in its card name and a character with \"Al(アル)\" in its card name\" \"A character with \"Anastasia(アナスタシア)\" in its card name and a character with \"Julius(ユリウス)\" in its card name\" \"A character with \"Emilia(エミリア)\" in its card name and a character with \"Roswaal(ロズワール)\" or \"Puck(パック)\" or \"Subaru(スバル)\" in its card name\" \"A character with \"Felt(フェルト)\" in its card name and a character with \"Reinhard(ラインハルト)\" in its card name\" Search your deck for one of each character in the combination you declared, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027d.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027d.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E027e",
+    "name": "Royal Election",
+    "setId": "rz_46",
+    "number": "E027e",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a card from your hand, and put it into your waiting room. Declare one of the following combinations. \"A character with \"Crusch(クルシュ) in its card name and a character with \"Felix(フェリックス)\" or \"Ferris(フェリス)\" in its card name\" \"A character with \"Priscilla(プリシラ)\" in its card name and a character with \"Al(アル)\" in its card name\" \"A character with \"Anastasia(アナスタシア)\" in its card name and a character with \"Julius(ユリウス)\" in its card name\" \"A character with \"Emilia(エミリア)\" in its card name and a character with \"Roswaal(ロズワール)\" or \"Puck(パック)\" or \"Subaru(スバル)\" in its card name\" \"A character with \"Felt(フェルト)\" in its card name and a character with \"Reinhard(ラインハルト)\" in its card name\" Search your deck for one of each character in the combination you declared, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027e.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E027e.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E028",
+    "name": "Mistral Maiden",
+    "setId": "rz_46",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Hehe…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E028.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E029",
+    "name": "Hundred Man Sword Strike",
+    "setId": "rz_46",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Troops, get back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E029.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E030",
+    "name": "Pink-Haired Maid, Ram",
+    "setId": "rz_46",
+    "number": "E030",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 When a card named \"Subaru Natsuki's Decoy Tactic\" is placed on your climax area, if this card is on your center stage, choose up to two cards in your opponent's waiting room, return it to your opponent's deck, your opponent shuffles his or her deck, and this card gets +3000 power until end of turn. 【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "I'm cute? Well, that much is obvious.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E030.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E031",
+    "name": "Cute Girl, Beatrice",
+    "setId": "rz_46",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 Memory [(1)] At the beginning of your opponent's attack phase, if you have a card named \"Forbidden Library\" in your memory, you may pay the cost. If you do, choose one of your other 《Magic》 or 《Weapon》 characters and this card, exchange them as 【STAND】, and this card getes +1000 power until end of turn.",
+    "flavorText": "No one interrupts Betty's time with Bubby, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E031.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E032",
+    "name": "Roswaal Mansion Maid, Ram",
+    "setId": "rz_46",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If all of your characters have \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, this card gets +1000 power. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if a card named \"As the Older Sister\" is in your climax area, and all of your characters have \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, you may pay the cost. If you do, choose up to two characters in your waiting room with \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, and return them to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E032.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E033",
+    "name": "Clairvoyance, Ram",
+    "setId": "rz_46",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other characters with \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name get +500 power. 【AUTO】 When your other character with \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original position) 【ACT】 [(1) Put a climax from your hand into your waiting room] Choose a character in your waiting room with \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, and return it to your hand.",
+    "flavorText": "Barusu, I'm going to use my clairvoyance. Wait a moment.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E033.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E034",
+    "name": "The Maid Saw! Ram",
+    "setId": "rz_46",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 The card names of all of your other characters with \"Subaru(スバル)\" in its card name are also regarded as \"Barusu(バルス)\". 【AUTO】 Bond/\"Dim Light Seen With Those Eyes, Rem\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Dim Light Seen With Those Eyes, Rem\" in your waiting room, and return it to your hand) 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand.",
+    "flavorText": "Cover up that sorry thing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E034.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E035",
+    "name": "Canopy-Piercing Sunlight, Rem & Ram",
+    "setId": "rz_46",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [Put a card from your hand into your waiting room & Put this card into your waiting room] Choose a 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E035.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E036",
+    "name": "Sunset Knoll, Beatrice",
+    "setId": "rz_46",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Wait!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E036.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E037",
+    "name": "Forbidden Library Warden, Beatrice",
+    "setId": "rz_46",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Breaking the Curse\" is in your climax area, put the top card of your deck into your waiting room. If that card is a 《Magic》 or 《Weapon》 character, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "You burst in here late at night, and that's what you say, I suppose?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E037.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E038",
+    "name": "Bathtime! Rem & Ram",
+    "setId": "rz_46",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If all of your characters have \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, this card gets +1000 power. 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a character with \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, deal X damage to your opponent. X is equal to that character's level. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card in your opponent's waiting room, and put it on the top of his or her deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E038.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E039",
+    "name": "With Puck, Subaru",
+    "setId": "rz_46",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Forbidden Library\" in your waiting room, and return it to your hand. 【AUTO】 [(1) Put a card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E039.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E040",
+    "name": "Court Sorcerer, Roswaal",
+    "setId": "rz_46",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Odd Eye"
+    ],
+    "text": "【CONT】 This card cannot be chosen by your opponent's effects. 【CONT】 Assist All of your 《Magic》 or 《Weapon》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power. 【ACT】 [(2) 【REST】 this card] Draw a card. 【ACT】 [(1)] Choose a level 0 or lower character on your opponent's center stage and put it into his or her waiting room.",
+    "flavorText": "However, to guard him with your life, you must have taken quite a liking to him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E040.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E041",
+    "name": "Forbidden Library Librarian, Beatrice",
+    "setId": "rz_46",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +2000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E041.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E042",
+    "name": "Oni Prodigy, Ram",
+    "setId": "rz_46",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Roswaal(ロズワール)\" in its card name, this card cannot 【STAND】 during your stand phase. 【CONT】 If you have another character with \"Roswaal(ロズワール)\" in its card name, this card gets +1 level and +2500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E042.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E043",
+    "name": "With Puck, Beatrice",
+    "setId": "rz_46",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Magic》 or 《Weapon》 characters. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Mana Drain\" is in your climax area, and if the number of other 《Magic》 or 《Weapon》 characters you have is three or more, you may pay the cost. If you do, deal one damage to your opponent, and this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\" (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E043.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E044",
+    "name": "Self-Praise, Ram",
+    "setId": "rz_46",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If the character facing this card is level 3 or higher, this card gets +4500 power. 【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Magic》 or 《Weapon》 characters you have is four or more, you may put the top card of your deck into your stock.",
+    "flavorText": "I do believe my honesty is my most charming feature.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E044.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E045",
+    "name": "Sticking with Bubby, Beatrice",
+    "setId": "rz_46",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【AUTO】[(1) Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses one of your opponent's characters, and puts it into his or her waiting room. 【AUTO】 Bond/\"Great Spirit, Puck\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Great Spirit, Puck\" in your waiting room, and return it to your hand)",
+    "flavorText": "Betty was only waiting for Bubby!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E045.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E046",
+    "name": "Innocent Child, Petra",
+    "setId": "rz_46",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose one of your 《Magic》 or 《Weapon》 characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Hee♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E046.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E047",
+    "name": "Door Crossing, Beatrice",
+    "setId": "rz_46",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, you may choose a 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "So now you can break through my Door Crossing like it's natural, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E047.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E048",
+    "name": "Sulking Beatrice",
+    "setId": "rz_46",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card.",
+    "flavorText": "Hmph.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E048.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E049",
+    "name": "A Flower in Each Arm, Ram",
+    "setId": "rz_46",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other cards named \"A Flower in Each Arm, Rem\" get +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card named \"A Flower in Each Arm, Rem\" from among them, put it on any position of your stage, and put the rest into your waiting room. 【AUTO】 When this card attacks, if you have another card named \"A Flower in Each Arm, Rem\", this card gets +2000 power until end of turn.",
+    "flavorText": "But I'm going with you. You'll have a pretty flower on each arm, Barusu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E049.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E050",
+    "name": "Challenging Another World, Subaru",
+    "setId": "rz_46",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E050.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E051",
+    "name": "Sister's Avenger, Ram",
+    "setId": "rz_46",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters have \"Roswaal(ロズワール)\" or \"Ram(ラム)\" or \"Rem(レム)\" in its card name, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Don't touch Rem... Don't touch my little sister!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E051.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E052",
+    "name": "Margrave Roswaal",
+    "setId": "rz_46",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Odd Eye"
+    ],
+    "text": "-",
+    "flavorText": "Why not? That can be kept separate from our royal selection business. Subaru-kun should go to the capital to thank everyone, as well as to receive treatment.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E052.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E053",
+    "name": "Forbidden Library",
+    "setId": "rz_46",
+    "number": "E053",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to one card named \"Cute Girl, Beatrice\" in your hand, and put it on any position of your stage. Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E053.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E054",
+    "name": "Subaru Natsuki's Decoy Tactic",
+    "setId": "rz_46",
+    "number": "E054",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "When this is over, take an objective look at what you just said until you wish you were dead!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E054.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E055",
+    "name": "As the Older Sister",
+    "setId": "rz_46",
+    "number": "E055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "What do you know about Rem and me?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E055.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E056",
+    "name": "Mana Drain",
+    "setId": "rz_46",
+    "number": "E056",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "It took you long enough to notice, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E056.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E057",
+    "name": "Breaking the Curse",
+    "setId": "rz_46",
+    "number": "E057",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E057.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E058",
+    "name": "Peaceful Life, Rem",
+    "setId": "rz_46",
+    "number": "E058",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, you may put the top card of your deck into your waiting room. If that card is a climax, draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E058.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E059",
+    "name": "Silver-Haired Beauty, Emilia",
+    "setId": "rz_46",
+    "number": "E059",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Starting Life in Another World\" is in your climax area, and the number of other 《Magic》 or 《Weapon》 characters you have is three or more, look at up to four cards from the top of your deck, choose up to one 《Magic》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn.",
+    "flavorText": "Thank you... for staying with me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E059.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E060",
+    "name": "Blue-Haired Maid, Rem",
+    "setId": "rz_46",
+    "number": "E060",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a 《Magic》 or 《Weapon》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Thank you for waiting. Your Rem is here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E060.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E061",
+    "name": "Half-Elf Maiden, Emilia",
+    "setId": "rz_46",
+    "number": "E061",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\" 【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card was placed on the stage from your hand,when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card named \"Great Spirit, Puck\" in your waiting room, and put it on any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E061.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E062",
+    "name": "Angel's Smile, Emilia",
+    "setId": "rz_46",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one cost 0 or lower character in your waiting room, and put it on separate positions of your stage.",
+    "flavorText": "Please stop... You're both too funny... Haha... Ahahaha...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E062.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E063",
+    "name": "Happy Daydream, Rem",
+    "setId": "rz_46",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 or 《Weapon》 characters get +500 power. 【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, 【REST】 this card. 【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +500 power until the end of your opponent's next turn.",
+    "flavorText": "Whether we have a boy or a girl, twins or even triplets, I know they would be adorable.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E063.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E064",
+    "name": "Pure Maiden, Emilia",
+    "setId": "rz_46",
+    "number": "E064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 or 《Weapon》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【AUTO】 When this card attacks, if the number of other characters you have is one or less, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E064.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E065",
+    "name": "Unconditional Trust, Rem",
+    "setId": "rz_46",
+    "number": "E065",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
+    "flavorText": "But I think that is what's so wonderful about you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E065.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E066",
+    "name": "Bathtime! Emilia",
+    "setId": "rz_46",
+    "number": "E066",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your own hand, and put it into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose one of your opponent's characters. Those characters cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E066.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E067",
+    "name": "Demon's Demeanor, Rem",
+    "setId": "rz_46",
+    "number": "E067",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "14000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If this card is on the stage, this card gets 《Oni》. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Oni's Smile\" is in your climax area, reveal the top card of your deck. If that card is a character with \"Ram(ラム)\" or \"Rem(レム)\" or \"Subaru(スバル)\" in its card name, you may choose a level 3 or lower character on your opponent's back stage, and put it at the bottom of his or her deck. (The revealed card is returned to its original place) 【AUTO】 At the beginning of your encore step, put this card into your waiting room. 【AUTO】 [Put the top card of your deck into your clock & Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, if you have another character with \"Ram(ラム)\" or \"Subaru(スバル)\" in its card name, you may pay the cost. If you do, choose a card named \"Modest Request, Rem\" in your waiting room, and put it on any position of your stage as 【REST】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E067.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E068",
+    "name": "Subaru Natsuki",
+    "setId": "rz_46",
+    "number": "E068",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "3000",
+      "soul": 3
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【CONT】 Great Performance 【AUTO】 Memory At the beginning of your climax phase, if a card named \"Subaru Natsuki\" is in your memory, choose one of your 《Magic》 or 《Weapon》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, you may deal one damage to your opponent.\" (This damage may be canceled) 【AUTO】 【CXCOMBO】 Memory [(7) Put four cards and a card named \"Like A Demon\" from your hand into your waiting room & Put this card into your memory] At the beginning of the encore step, if you have a card named \"Return by Death\" in your memory, and this card is 【REVERSE】, you may pay the cost. If you do, put all cards from your clock into your waiting room, all players return all their characters to their hand, and return all cards in their waiting room to their deck. Search your deck afterwards for up to one card named \"Subaru Natsuki\", put it on the stage position that this card was on, and all players shuffle their decks.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E068.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E069",
+    "name": "Modest Request, Rem",
+    "setId": "rz_46",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card with \"Ram(ラム)\" or \"Rem(レム)\" or \"Subaru(スバル)\" in its card name get +2000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"Demon's Demeanor, Rem\", draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock. 【AUTO】 【CXCOMBO】 [Put a character from your hand into your waiting room & Put a card named \"Oni's Smile\" from your climax area into your waiting room] At the end of your turn, you may pay the cost. If you do, return the top card of your clock to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E069.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E070",
+    "name": "In Uniforms, Rem & Ram",
+    "setId": "rz_46",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Magic》 or 《Weapon》 characters, and that character gets +1000 power until end of turn. 【AUTO】 Bond/\"Self-Praise, Ram\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Self-Praise, Ram\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E070.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E071",
+    "name": "Stunned, Emilia",
+    "setId": "rz_46",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck. 【ACT】 [Put this card into your clock] All of your characters get +1000 power until end of turn.",
+    "flavorText": "I don't know what you're talking about, but the fact that I know it's something stupid is disappointing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E071.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E072",
+    "name": "Talking About the Future Smiling, Rem",
+    "setId": "rz_46",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 If you have another card named \"Talking About the Future Smiling, Subaru\", this card gets +3000 power. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Wishing\" is in your climax area, you may pay the cost. If you do, look at up to five cards from the top of your deck, choose up to one 《Magic》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "You are demonically inspired…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E072.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E073",
+    "name": "Talking About the Future Smiling, Subaru",
+    "setId": "rz_46",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other characters with \"Rem(レム)\" in its card name, and that character gets +1000 power until end of turn. 【AUTO】 [(1) Put this card into your waiting room] When your other card with \"Rem(レム)\" in its card named is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E073.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E074",
+    "name": "Gaze of Admiration, Rem",
+    "setId": "rz_46",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 You cannot play event cards and \"Backup\" from hand.",
+    "flavorText": "\"My sister really is amazing. I can't match her in anything. In that case, I don't have to do anything anymore. I can just walk behind her...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E074.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E075",
+    "name": "Great Spirit, Puck",
+    "setId": "rz_46",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 If you have another chracter with \"Emilia(エミリア)\" in its card name, this card gets +1 level and +2500 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "Magic users cast magic with their own mana, but spirit arts users draw from mana in the atmosphere.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E075.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E076",
+    "name": "Midnight Visit, Rem",
+    "setId": "rz_46",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of characters you have with \"Ram(ラム)\" or \"Rem(レム)\" or \"Subaru(スバル)\" in its card name. 【ACT】 【COUNTER】 Backup 500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +500 power until end of turn)",
+    "flavorText": "I can't sleep, so I hoped we could talk.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E076.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E077",
+    "name": "Peaceful Life, Emilia",
+    "setId": "rz_46",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 If you have another card named \"Great Spirit, Puck\", this card gets +2500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E077.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E078",
+    "name": "Smug Look, Emilia",
+    "setId": "rz_46",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 [(1) Put a 《Magic》 or 《Weapon》 character from your hand into your waiting room & Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it at the bottom of his or her deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "There, you see? That came back around and worked in our favor!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E078.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E079",
+    "name": "Dim Light Seen With Those Eyes, Rem",
+    "setId": "rz_46",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck. 【AUTO】 【CXCOMBO】 [Put a card named \"Demon's True Form\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search you deck for up to two 《Magic》 or 《Weapon》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E079.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E080",
+    "name": "Intense Ire, Puck",
+    "setId": "rz_46",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +10000 power. 【AUTO】 When this card is placed on the stage from your hand or attacks, put the top card of your deck underneath this card as a marker. 【AUTO】 At the end of your opponent's turn, if the number of markers underneath this card is three or more, choose a card in your hand, put it into your waiting room, put all markers underneath this card and all characters of all players except this card into their waiting room, and all players return all cards in their waiting room to their deck. All players shuffle their decks afterwards.",
+    "flavorText": "Can't you tell? Maybe it's cruel of me to ask that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E080.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E081",
+    "name": "Capital's Fruit Seller, Kadomon",
+    "setId": "rz_46",
+    "number": "E081",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Merchant",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, all of your other characters get +1500 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Return by Death\" in your waiting room, and return it to your hand.",
+    "flavorText": "Asking questions without buying anything? You've really got guts.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E081.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E082",
+    "name": "Fated Encounter, Subaru",
+    "setId": "rz_46",
+    "number": "E082",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other character with \"Emilia(エミリア)\" in its card name is put into your waiting room from the stage, if this card is on your back stage, you may pay the cost. If you do, put that character on the stage position that it was on as 【REST】. 【ACT】 [【REST】 this card] Choose one of your characters with \"Emilia(エミリア)\" in its card name, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E082.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E083",
+    "name": "Ground Dragon, Patrasche",
+    "setId": "rz_46",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Magic"
+    ],
+    "text": "【AUTO】 [(2) Return this card to your hand] When your other character becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, return that character to your hand. 【AUTO】 Bond/\"Subaru Natsuki\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Subaru Natsuki\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E083.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E084",
+    "name": "In My Hero's Arms, Rem",
+    "setId": "rz_46",
+    "number": "E084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "-",
+    "flavorText": "Subaru-kun...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E084.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E085",
+    "name": "In a Corner of This Dark World, Emilia",
+    "setId": "rz_46",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, put this card into your waiting room. (The revealed card is returned to its original place) 【AUTO】 When this card direct attacks, choose up to one level 0 or lower character on your opponent's center stage. That character cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E085.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E086",
+    "name": "Fire Spirit, Puck",
+    "setId": "rz_46",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When you level up, put this card into your waiting room.",
+    "flavorText": "That was a brilliant display of awkwardness that I hope will live through the ages. I'd better live up to your expectations!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E086.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E087",
+    "name": "A Morning Moment, Emilia",
+    "setId": "rz_46",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. 【AUTO】 [(1) Put the top card of your deck into your clock & Put two of your other characters from the stage into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a card named \"Intense Ire, Puck\" in your waiting room, put it on an open stage position as 【REST】, and put this card face down underneath that card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E087.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E088",
+    "name": "A Flower in Each Arm, Rem",
+    "setId": "rz_46",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 During your opponent's turn, if you have another card named \"A Flower in Each Arm, Ram\", this card gets +2000 power. 【CONT】 All of your other cards named \"A Flower in Each Arm, Ram\" get +1000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may choose one of your cards named \"A Flower in Each Arm, Ram\" and this card, and exchange them as 【STAND】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E088.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E089",
+    "name": "Masterly Maid, Rem",
+    "setId": "rz_46",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of other characters you have with \"Ram(ラム)\" or \"Rem(レム)\" in its card name is two or more, draw a card, choose a card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 [(3) Put this card into your waiting room] When a card named \"Oni's Smile\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Demon's Demeanor, Rem\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E089.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E090",
+    "name": "Two Riding A Ground Dragon, Rem",
+    "setId": "rz_46",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "-",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E090.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E091",
+    "name": "Merchant, Otto",
+    "setId": "rz_46",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Merchant",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E091.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E092",
+    "name": "Gentle Disparagement, Emilia",
+    "setId": "rz_46",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When your other 《Magic》 or 《Weapon》 character attacks, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"A Boy's Fantasy\" is in your climax area, this card gets +3500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\"",
+    "flavorText": "...Subaru, you're such a dunderhead!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E092.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E093",
+    "name": "Anxious Emilia",
+    "setId": "rz_46",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "-",
+    "flavorText": "You might be in an even more precarious position than I am...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E093.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E094",
+    "name": "Return by Death",
+    "setId": "rz_46",
+    "number": "E094",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm Flip over three cards from the top of your deck, and put them into your waiting room. Choose a level X or lower 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand. X is equal to the number of 《Magic》 or 《Weapon》 characters revealed among those cards. Choose one of your characters, and that character gets +2000 power. Put this card into your memory.",
+    "flavorText": "Wait there... I'm... going to…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E094.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E095",
+    "name": "Oni's Smile",
+    "setId": "rz_46",
+    "number": "E095",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E095.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E096",
+    "name": "Starting Life in Another World",
+    "setId": "rz_46",
+    "number": "E096",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E096.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E097",
+    "name": "A Boy's Fantasy",
+    "setId": "rz_46",
+    "number": "E097",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Uh-huh, I know.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E097.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E098",
+    "name": "Demon's True Form",
+    "setId": "rz_46",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Ha... haha... ahahaha…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E098.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E099",
+    "name": "Wishing",
+    "setId": "rz_46",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E099.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E100",
+    "name": "Like A Demon",
+    "setId": "rz_46",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Today, I'm more demonically inspired than a real demon!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E100.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E101",
+    "name": "Petit Felt",
+    "setId": "rz_46",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Fang Teeth"
+    ],
+    "text": "【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Magic》 or 《Weapon》 character, this card gets the following ability until end of turn. \"【CONT】 This card cannot frontal attack.\" (The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E101.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E102",
+    "name": "Petit Beatrice",
+    "setId": "rz_46",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When your other 《Magic》 or 《Weapon》 character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E102.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E103",
+    "name": "Petit Ram",
+    "setId": "rz_46",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When a climax is placed on your climax area, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E103.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E104",
+    "name": "Petit Emilia",
+    "setId": "rz_46",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E104.png"
+    }
+  },
+  {
+    "id": "RZ/S46-E105",
+    "name": "Petit Rem",
+    "setId": "rz_46",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 This card gets +500 power for each of your other 《Magic》 or 《Weapon》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_E105.png"
+    }
+  },
+  {
+    "id": "RZ/S46-PE02",
+    "name": "Roscchi's Library Librarian, Beatrice",
+    "setId": "rz_46",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 or 《Weapon》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Magic》 or 《Weapon》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I'd never want to be his sister, I suppose!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_PE02.png"
+    }
+  },
+  {
+    "id": "RZ/S46-PE03",
+    "name": "Reciprocative Feelings, Emilia",
+    "setId": "rz_46",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn. 【AUTO】 When this card attacks, 【REST】 all of your other 【STAND】 characters.",
+    "flavorText": "W-Well, it's partly my fault that you haven't healed yet... So you could say I'm repaying a debt. It's equal compensation for what you gave up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_PE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_PE03.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE23",
+    "name": "Sweetly Smiling Ram",
+    "setId": "rz_46",
+    "number": "TE23",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 【AUTO】 Bond/\"The Younger Twin, Rem\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"The Younger Twin, Rem\" in your waiting room, and return it to your hand)",
+    "flavorText": "You'll have a pretty flower on each arm, Barusu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE23.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE24",
+    "name": "Sharp-Tongued Maid, Ram",
+    "setId": "rz_46",
+    "number": "TE24",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Well, isn't it obvious? The more you can do, the less I have to do.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE24.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE25",
+    "name": "Determined Look Beatrice",
+    "setId": "rz_46",
+    "number": "TE25",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "-",
+    "flavorText": "I believe you've already experienced it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE25.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE26",
+    "name": "Dumbfounded Subaru",
+    "setId": "rz_46",
+    "number": "TE26",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "...What's going on??",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE26.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE26.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE27",
+    "name": "Obstinate, Beatrice",
+    "setId": "rz_46",
+    "number": "TE27",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.Ngh… Well, I might feel just a tiiiiiny bit sorry, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE27.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE27.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE28",
+    "name": "The Older Twin, Ram",
+    "setId": "rz_46",
+    "number": "TE28",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other cards named \"The Younger Twin, Rem\".",
+    "flavorText": "Frankly speaking, my best dish is steamed tatoes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE28.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE28.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE29",
+    "name": "High, High, So Very High",
+    "setId": "rz_46",
+    "number": "TE29",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Whaaa?! Let me― Put me down, I suppose!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE29.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE29.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE30",
+    "name": "Morning Greeting, Puck",
+    "setId": "rz_46",
+    "number": "TE30",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, choose one of your other characters with \"Emilia(エミリア)\" in its card name, and that character gets +1000 power until end of turn.",
+    "flavorText": "Hi, Subaru! Great morning, isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE30.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE30.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE31",
+    "name": "Roswaal Mansion Maid, Rem",
+    "setId": "rz_46",
+    "number": "TE31",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 Bond/\"The Older Twin, Ram\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"The Older Twin, Ram\" in your waiting room, and return it to your hand)",
+    "flavorText": "I think that is an admirable attitude, but you were the one who knocked it over.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE31.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE31.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE32",
+    "name": "Bride in Pure White, Rem",
+    "setId": "rz_46",
+    "number": "TE32",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Magic》 or 《Weapon》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Magic》 or 《Weapon》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original position)",
+    "flavorText": "I know…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE32.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE32.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE33",
+    "name": "Lap Pillow Emilia",
+    "setId": "rz_46",
+    "number": "TE33",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +2000 power. 【AUTO】 When this card attacks, if a blue climax is in your climax area, draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "You don't have to put on that weird tough act now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE33.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE33.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE34",
+    "name": "The Younger Twin, Rem",
+    "setId": "rz_46",
+    "number": "TE34",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other cards named \"The Older Twin, Ram\".",
+    "flavorText": "As always, you make such a lovely image when peeling vegetables, Sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE34.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE34.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE35",
+    "name": "Welcome to This World! Emilia & Rem",
+    "setId": "rz_46",
+    "number": "TE35",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Do your best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE35.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE35.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE36a",
+    "name": "Death Stare, Rem",
+    "setId": "rz_46",
+    "number": "TE36a",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Magic》 or 《Weapon》 characters you have.",
+    "flavorText": "My sister is too kind.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE36a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE36a.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE36b",
+    "name": "Death Stare, Rem",
+    "setId": "rz_46",
+    "number": "TE36b",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Magic》 or 《Weapon》 characters you have.",
+    "flavorText": "I... I have to do this alone. No one else... needs to get hurt anymore!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE36b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE36b.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE37",
+    "name": "Refreshing Smile, Subaru",
+    "setId": "rz_46",
+    "number": "TE37",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【CONT】 If you have another character with \"Emilia(エミリア)\" in its card name, this card gets +1500 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Sorry, but I'm broke beyond compare!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE37.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE37.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE38",
+    "name": "Spirit User, Emilia",
+    "setId": "rz_46",
+    "number": "TE38",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When a card named \"Speaking to the Spirit\" is placed on your climax area, if this card is on your center stage, and all of your characters are 《Magic》 or 《Weapon》, search your deck for up to one 《Magic》 or 《Weapon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards, and this card gets +2500 power until the end of your opponent's next turn.",
+    "flavorText": "Thank you so much!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE38.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE38.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE39a",
+    "name": "Subaru's Choice",
+    "setId": "rz_46",
+    "number": "TE39a",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to two 《Magic》 or 《Weapon》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "Ram: \"...What a foolish answer. If you want to befriend both, you must be the indecisive, adulterous type. You'll regret it one day.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE39a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE39a.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE39b",
+    "name": "Subaru's Choice",
+    "setId": "rz_46",
+    "number": "TE39b",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to two 《Magic》 or 《Weapon》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "Ram: \"...What a foolish answer. If you want to befriend both, you must be the indecisive, adulterous type. You'll regret it one day.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE39b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE39b.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE40",
+    "name": "Speaking to the Spirit",
+    "setId": "rz_46",
+    "number": "TE40",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE40.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE40.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE41",
+    "name": "Parting Passions",
+    "setId": "rz_46",
+    "number": "TE41",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "You've done enough, Subaru Natsuki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE41.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE41.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE42",
+    "name": "A Short Snooze, Emilia",
+    "setId": "rz_46",
+    "number": "TE42",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Celestial Spirit"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to one card.",
+    "flavorText": "Honestly, you're so silly…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE42.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE42.png"
+    }
+  },
+  {
+    "id": "RZ/S46-TE43",
+    "name": "Light of Love, Rem",
+    "setId": "rz_46",
+    "number": "TE43",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the top five cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)",
+    "flavorText": "Of course! Anywhere.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE43.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s46/RZ_S46_TE43.png"
+    }
+  }
+]

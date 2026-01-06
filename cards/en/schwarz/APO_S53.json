@@ -1,0 +1,3177 @@
+[
+  {
+    "id": "APO/S53-E001",
+    "name": "\"Saint\" Ruler",
+    "setId": "apo_53",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【CONT】 All of your other 《Master》 or 《Servant》 or 《Homunculus》 characters get +500 power. 【ACT】 [【REST】 this card] Choose a face down card in your level, and put it face up.",
+    "flavorText": "Seeking the Holy Grail, seven Servants fight seven more in a Holy Grail War of the largest scale…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E001.png"
+    }
+  },
+  {
+    "id": "APO/S53-E002",
+    "name": "\"Luminosité Eternelle\" Ruler",
+    "setId": "apo_53",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose up to one cost 1 or lower character in your hand, and put it on any position of your stage. 【AUTO】 [Put a card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 or 《Homunculus》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Here's the work of the Lord!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E002.png"
+    }
+  },
+  {
+    "id": "APO/S53-E003",
+    "name": "\"Inherited Prayer\" Sieg",
+    "setId": "apo_53",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room & Put a card named \"\"Growl\" Berserker of Black\" from your memory into your waiting room & Put this card into your waiting room] When this card's battle opponent becomes 【REVERSE】, if a card named \"Blasted Tree\" is in your climax area, you may pay the cost. If you do, choose up to one card in your hand named \"\"Depraved Dragon\" Fafnir\", and put it on the stage position that this card was on.",
+    "flavorText": "This is the path I have chosen!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E003.png"
+    }
+  },
+  {
+    "id": "APO/S53-E004",
+    "name": "\"Faraway Promise\" Ruler",
+    "setId": "apo_53",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one 《Master》 or 《Servant》 or 《Homunculus》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I am in love with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E004.png"
+    }
+  },
+  {
+    "id": "APO/S53-E005",
+    "name": "\"Master's Qualifications\" Sieg",
+    "setId": "apo_53",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Master》 or 《Servant》 or 《Homunculus》 characters revealed among those cards.",
+    "flavorText": "I have Command Spells! It seems I have the qualifications to be a Master!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E005.png"
+    }
+  },
+  {
+    "id": "APO/S53-E006",
+    "name": "\"Adjudicator\" Ruler",
+    "setId": "apo_53",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Luminosité Eternelle\" is in your climax area, and the number of cards in your stock is five or less, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 or 《Homunculus》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "I chose to fight. From that instant, my hands were covered in blood.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E006.png"
+    }
+  },
+  {
+    "id": "APO/S53-E007",
+    "name": "\"La Pucelle\" Ruler",
+    "setId": "apo_53",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Master》 or 《Servant》 or 《Homunculus》 characters. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +6500 power and the following ability until end of turn. \"【AUTO】 At the beginning of the encore step, deal one damage to your opponent, put this card into your waiting room, choose up to one card named \"Laetitia\" in your waiting room, and put it on the stage position that this card was on.\" (This damage may be canceled)",
+    "flavorText": "L'espoir vient apres desespoir.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E007.png"
+    }
+  },
+  {
+    "id": "APO/S53-E008",
+    "name": "\"Depraved Dragon\" Fafnir",
+    "setId": "apo_53",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" Then, at the beginning of your encore step, put this card face down into your memory. (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E008.png"
+    }
+  },
+  {
+    "id": "APO/S53-E009",
+    "name": "\"Return to the Greater Grail\" Ruler",
+    "setId": "apo_53",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room. 【AUTO】 Bond/\"\"Apocrypha\" Sieg\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Apocrypha\" Sieg\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E009.png"
+    }
+  },
+  {
+    "id": "APO/S53-E010",
+    "name": "\"Great Holy Grail War\" Sieg",
+    "setId": "apo_53",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Master》 or 《Servant》 or 《Homunculus》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Yeah. Not running away is the one thing I have already decided.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E010.png"
+    }
+  },
+  {
+    "id": "APO/S53-E011",
+    "name": "\"With My Command Spell\" Ruler",
+    "setId": "apo_53",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 or 《Homuculus》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put a face up card in your level face down] When this card attacks, you may pay the cost. If you do, all of your other 《Servant》 characters get +1 soul until end of turn.",
+    "flavorText": "I order with my Command Spell!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E011.png"
+    }
+  },
+  {
+    "id": "APO/S53-E012",
+    "name": "\"Hero Possession\" Sieg",
+    "setId": "apo_53",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place) 【ACT】 [(2) Put a face up card in your level face down & Put this card into your memory] Choose up to one card named \"\"Volition\" Saber of Black\" in your hand, put it on the stage position that this card was on, and at the beginning of the encore step, return that character to your hand, choose a card named \"\"Hero Possession\" Sieg\" in your memory, and put it on the stage position that that character was on.",
+    "flavorText": "Grrk…..",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E012.png"
+    }
+  },
+  {
+    "id": "APO/S53-E013",
+    "name": "Lord El-Melloi II",
+    "setId": "apo_53",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses a climax in your opponent's waiting room, returns all cards in your opponent's waiting room except that card into your opponent's deck, and shuffles his or her deck.",
+    "flavorText": "They want their first fireworks to be grand.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E013.png"
+    }
+  },
+  {
+    "id": "APO/S53-E014",
+    "name": "\"Legend of Dracula\" Dracula",
+    "setId": "apo_53",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Blood",
+      "Servant"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E014.png"
+    }
+  },
+  {
+    "id": "APO/S53-E015",
+    "name": "Gilles de Rais",
+    "setId": "apo_53",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put this card into your waiting room] When your other character with \"Ruler(ルーラー)\" in its card name is put into your waiting room from the stage, if this card is on your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "Jeanne? …It cannot be!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E015.png"
+    }
+  },
+  {
+    "id": "APO/S53-E016",
+    "name": "\"King of Knights\" Altria",
+    "setId": "apo_53",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Royalty",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "(--Bring peace to Britain!)",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E016.png"
+    }
+  },
+  {
+    "id": "APO/S53-E017",
+    "name": "\"To the Hanging Gardens\" Ruler",
+    "setId": "apo_53",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E017.png"
+    }
+  },
+  {
+    "id": "APO/S53-E018",
+    "name": "Laetitia",
+    "setId": "apo_53",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 If your level is 3 or higher, the character facing this card gets -1 soul. 【ACT】 [Put this card at the bottom of your deck] Choose up to one card in your hand named \"\"Luminosité Eternelle\" Ruler\" with level equal to or lower than your level, and put it on any position of your stage.",
+    "flavorText": "...Ahh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E018.png"
+    }
+  },
+  {
+    "id": "APO/S53-E019",
+    "name": "\"Apocrypha\" Sieg",
+    "setId": "apo_53",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "I'm not letting you go anywhere!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E019.png"
+    }
+  },
+  {
+    "id": "APO/S53-E020",
+    "name": "\"Dead Count Shapeshifter\" Sieg",
+    "setId": "apo_53",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "Master"
+    ],
+    "text": "【CONT】 If the number of your other 《Master》 or 《Servant》 or 《Homunculus》 characters is two or more, this card gets +2000 power. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Why do I… have Command Spells...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E020.png"
+    }
+  },
+  {
+    "id": "APO/S53-E021",
+    "name": "\"The Me in the Mirror\" Ruler",
+    "setId": "apo_53",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Master》 or 《Servant》 or 《Homunculus》 characters you have. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, you may pay the cost. If you do, choose a card named \"Speaking To My Reflection\" in your climax area, return it to your deck, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E021.png"
+    }
+  },
+  {
+    "id": "APO/S53-E022",
+    "name": "The Greater Grail",
+    "setId": "apo_53",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one yellow character and up to one red character and up to one blue character from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. Put this card into your memory.",
+    "flavorText": "Welcome… Do you desire the activation of the Third Magic?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E022.png"
+    }
+  },
+  {
+    "id": "APO/S53-E023",
+    "name": "Luminosité Eternelle",
+    "setId": "apo_53",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "She still has such strength…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E023.png"
+    }
+  },
+  {
+    "id": "APO/S53-E024",
+    "name": "Speaking To My Reflection",
+    "setId": "apo_53",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I have a bad feeling… Is it fear?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E024.png"
+    }
+  },
+  {
+    "id": "APO/S53-E025",
+    "name": "Blasted Tree",
+    "setId": "apo_53",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Shirou: \"Siegfried… Frankenstein… These seemingly defeated Servants are my final enemies…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E025.png"
+    }
+  },
+  {
+    "id": "APO/S53-E026",
+    "name": "\"Great Holy Grail War\" Shirou",
+    "setId": "apo_53",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Return this card to your hand] When a card named \"Hanging Gardens of Babylon\" is placed on your climax area, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Then, let us begin. The salvation of humanity!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E026RR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E026RR.png"
+    }
+  },
+  {
+    "id": "APO/S53-E027",
+    "name": "\"Brimming with Confidence\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand.",
+    "flavorText": "You're so dumb! You just need to win! Win!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E027.png"
+    }
+  },
+  {
+    "id": "APO/S53-E028",
+    "name": "\"Final Flash\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E028",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put a face up card in your level face down] When this card attacks, if a card named \"Clarent\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +3500 power until the end of your opponent's next turn. X is equal to the number of face down cards in your level. (This damage may be canceled)",
+    "flavorText": "That's why, I have just one wish!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E028.png"
+    }
+  },
+  {
+    "id": "APO/S53-E029",
+    "name": "\"Secret of Pedigree\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 This card cannot be chosen by your opponent's card effects. 【CONT】 Your other character in the middle position of your center stage gets +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand.",
+    "flavorText": "I smell something fishy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E029.png"
+    }
+  },
+  {
+    "id": "APO/S53-E030",
+    "name": "\"Humanity's Salvation\" Shirou Kotomine",
+    "setId": "apo_53",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 [【REST】 two of your characters] Choose a card in your level and a card in your waiting room, and exchange them.",
+    "flavorText": "And now, the people shall be saved.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E030.png"
+    }
+  },
+  {
+    "id": "APO/S53-E031",
+    "name": "\"Promised Rematch\" Lancer of Red",
+    "setId": "apo_53",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Sun"
+    ],
+    "text": "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Is it finally time?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E031.png"
+    }
+  },
+  {
+    "id": "APO/S53-E032",
+    "name": "\"Blessing of Immortality\" Rider of Red",
+    "setId": "apo_53",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Immortal"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power. 【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0)",
+    "flavorText": "I suppose you're proud of your endurance, huh… Looks like this might take awhile.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E032.png"
+    }
+  },
+  {
+    "id": "APO/S53-E033",
+    "name": "\"Duel\" Rider of Red",
+    "setId": "apo_53",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Immortal"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose a card in your level and a climax in your waiting room, and exchange them. 【ACT】 【COUNTER】 Backup 3000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Truly a plan fit to call salvation!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E033.png"
+    }
+  },
+  {
+    "id": "APO/S53-E034",
+    "name": "\"Before the Throne\" Assassin of Red",
+    "setId": "apo_53",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Poison"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Hanging Gardens of Babylon\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Kuh…Hahahahahaha!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E034.png"
+    }
+  },
+  {
+    "id": "APO/S53-E035",
+    "name": "\"Knight of the Round Table\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Vermillion Peal\" is in your climax area, you may pay the cost. If you do, choose up to one card named \"\"Final Flash\" Saber of Red\" and up to one card named \"Two Cigarettes\" in your waiting room, and return them to your hand.",
+    "flavorText": "I'll be taking the Holy Grail.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E035R.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E035R.png"
+    }
+  },
+  {
+    "id": "APO/S53-E036",
+    "name": "\"Apocrypha\" Shirou",
+    "setId": "apo_53",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand. 【AUTO】 【CXCOMBO】 [(2) Put a card named \"\"Before the Throne\" Assassin of Red\" from your hand into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Conflict of Desires\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "Don't deny tomorrow for the people, Sieg!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E036.png"
+    }
+  },
+  {
+    "id": "APO/S53-E037",
+    "name": "\"Demonic Beast Strength\" Archer of Red",
+    "setId": "apo_53",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Animal"
+    ],
+    "text": "【CONT】 If you have another 《Master》 or 《Servant》 character, this card gets +1500 power. 【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is on your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E037.png"
+    }
+  },
+  {
+    "id": "APO/S53-E038",
+    "name": "\"Overflowing Interest\" Caster of Red",
+    "setId": "apo_53",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Book"
+    ],
+    "text": "【AUTO】 [Put a 《Master》 or 《Servant》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named \"Miike Tenta\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters, put it into your opponent's memory, and at the beginning of the encore step, your opponent puts that character from your opponent's memory on any position of his or her stage.",
+    "flavorText": "I am highly curious!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E038.png"
+    }
+  },
+  {
+    "id": "APO/S53-E039",
+    "name": "\"Bewitching Smile\" Assassin of Red",
+    "setId": "apo_53",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Poison"
+    ],
+    "text": "【AUTO】 [(1)] This ability activates up to one time per turn. When a card is put into your level, you may pay the cost. If you do, look at up to three cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Impossible.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E039.png"
+    }
+  },
+  {
+    "id": "APO/S53-E040",
+    "name": "\"Quick Judgment\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose one of your other 《Master》 or 《Servant》 characters, 【REST】 it, and move it to an open position of your back stage. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "Run, Master!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E040.png"
+    }
+  },
+  {
+    "id": "APO/S53-E041",
+    "name": "Kairi Shishigou",
+    "setId": "apo_53",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Death"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【AUTO】 Bond/\"\"Knight of the Round Table\" Saber of Red\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Knight of the Round Table\" Saber of Red\" in your waiting room, and return it to your hand)",
+    "flavorText": "I believe in you, Saber.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E041.png"
+    }
+  },
+  {
+    "id": "APO/S53-E042",
+    "name": "\"Command Spell\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [(1) Put a face up card in your level face down] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Some nerve, defective Saber!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E042.png"
+    }
+  },
+  {
+    "id": "APO/S53-E043",
+    "name": "\"Gold Armor\" Lancer of Red",
+    "setId": "apo_53",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Sun"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "That makes you worthy of being pierced by this lance.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E043.png"
+    }
+  },
+  {
+    "id": "APO/S53-E044",
+    "name": "\"Transformation\" Archer of Red",
+    "setId": "apo_53",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [(2) Put this card into your waiting room] Choose up to one card named \"\"Demonic Beast Strength\" Archer of Red\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "That goes without saying!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E044.png"
+    }
+  },
+  {
+    "id": "APO/S53-E045",
+    "name": "\"Empress\" Assassin of Red",
+    "setId": "apo_53",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Poison"
+    ],
+    "text": "【CONT】 All of your other red characters get +1000 power. 【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Losses are unacceptable… Emerge victorious!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E045.png"
+    }
+  },
+  {
+    "id": "APO/S53-E046",
+    "name": "\"Tauropolos\" Archer of Red",
+    "setId": "apo_53",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E046.png"
+    }
+  },
+  {
+    "id": "APO/S53-E047",
+    "name": "\"With My Command Spell\" Kairi Shishigou",
+    "setId": "apo_53",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Death"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your waiting room] When your other character with \"Saber(セイバー)\" in its card name is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2000 power until end of turn. 【ACT】 [【REST】 this card] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "I order you with my Command Spell! It's time to avenge the king, Saber!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E047.png"
+    }
+  },
+  {
+    "id": "APO/S53-E048",
+    "name": "\"Crying Warmonger\" Berserker of Red",
+    "setId": "apo_53",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Muscle"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card becomes 【REVERSE】 in battle, if you are level 2 or lower, put the top card of your stock underneath this card as a marker, and 【REST】 this card. If you do not, choose three cards in your hand, put them into your waiting room, deal X damage to your opponent, and put this card into your waiting room. X is equal to the number of markers underneath this card. (This damage may be canceled)",
+    "flavorText": "You cannot stop my iron will!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E048.png"
+    }
+  },
+  {
+    "id": "APO/S53-E049",
+    "name": "\"In the Gardens\" Assassin of Red",
+    "setId": "apo_53",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Poison"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E049.png"
+    }
+  },
+  {
+    "id": "APO/S53-E050",
+    "name": "\"Realization of the Goal\" Shirou",
+    "setId": "apo_53",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Master》 or 《Servant》 characters you have. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Here goes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E050.png"
+    }
+  },
+  {
+    "id": "APO/S53-E051",
+    "name": "\"Huntress\" Archer of Red",
+    "setId": "apo_53",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 This card gets -1 level while on the stage. 【CONT】 This card gets +500 power for each of your other level 0 or lower characters.",
+    "flavorText": "I'll kill you, and fulfill my wish.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E051.png"
+    }
+  },
+  {
+    "id": "APO/S53-E052",
+    "name": "\"Playwright\" Caster of Red",
+    "setId": "apo_53",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Book"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your 《Master》 or 《Servant》 characters, and that character gets +2000 power until end of turn. 【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not becomes a direct attack)",
+    "flavorText": "O, I beg for your gracious viewing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E052.png"
+    }
+  },
+  {
+    "id": "APO/S53-E053",
+    "name": "\"Defense\" Lancer of Red",
+    "setId": "apo_53",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Sun"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Master》 or 《Servant》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I must ask a question. Shooting arrows can wait until that is done.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E053.png"
+    }
+  },
+  {
+    "id": "APO/S53-E054",
+    "name": "\"In the Gardens\" Shirou",
+    "setId": "apo_53",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Priest"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1500 power for each of your other 《Master》 or 《Servant》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"\"In the Gardens\" Assassin of Red\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "…But still, thank you very much.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E054.png"
+    }
+  },
+  {
+    "id": "APO/S53-E055",
+    "name": "\"Rebel\" Berserker of Red",
+    "setId": "apo_53",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Muscle"
+    ],
+    "text": "【CONT】 This card gets -2 level while on the stage. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.",
+    "flavorText": "I'll bring death to each and every oppressor!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E055.png"
+    }
+  },
+  {
+    "id": "APO/S53-E056",
+    "name": "\"Promised Feast\" Saber of Red",
+    "setId": "apo_53",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 When you play this card from your hand, you may choose one of your cards named \"\"King of Knights\" Altria\", and put it into your waiting room. If you do, you may play this card for 0 cost. 【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is two or more, this card gets +2500 power and \"【AUTO】 Encore [Put a 《Master》 or 《Servant》 character from your hand into your waiting room]\".",
+    "flavorText": "You want me to become the king of drunks or something?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E056.png"
+    }
+  },
+  {
+    "id": "APO/S53-E057a",
+    "name": "Two Cigarettes",
+    "setId": "apo_53",
+    "number": "E057a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Shishigou(獅子劫)\" or \"Saber of Red(赤のセイバー)\" in its card name, this card cannot be played from your hand. Put the top two cards of your deck into your waiting room, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E057a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E057a.png"
+    }
+  },
+  {
+    "id": "APO/S53-E057b",
+    "name": "Two Cigarettes",
+    "setId": "apo_53",
+    "number": "E057b",
+    "rarity": "",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Shishigou(獅子劫)\" or \"Saber of Red(赤のセイバー)\" in its card name, this card cannot be played from your hand. Put the top two cards of your deck into your waiting room, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E057b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E057b.png"
+    }
+  },
+  {
+    "id": "APO/S53-E058",
+    "name": "Miike Tenta",
+    "setId": "apo_53",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Master》 or 《Servant》 characters, and that character gets +4500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E058.png"
+    }
+  },
+  {
+    "id": "APO/S53-E059",
+    "name": "Clarent",
+    "setId": "apo_53",
+    "number": "E059",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "I have just one wish, Assassin…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E059.png"
+    }
+  },
+  {
+    "id": "APO/S53-E060",
+    "name": "Hanging Gardens of Babylon",
+    "setId": "apo_53",
+    "number": "E060",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "You are such a fool.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E060.png"
+    }
+  },
+  {
+    "id": "APO/S53-E061",
+    "name": "Vermillion Peal",
+    "setId": "apo_53",
+    "number": "E061",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Blockhead dolls aren't supposed to be acting so tough!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E061.png"
+    }
+  },
+  {
+    "id": "APO/S53-E062",
+    "name": "Conflict of Desires",
+    "setId": "apo_53",
+    "number": "E062",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Don't underestimate me for being one-armed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E062.png"
+    }
+  },
+  {
+    "id": "APO/S53-E063",
+    "name": "\"Like Scattered Petals\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "E063",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Come… with… me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E063.png"
+    }
+  },
+  {
+    "id": "APO/S53-E064",
+    "name": "\"Outstretched Hand\" Rider of Black",
+    "setId": "apo_53",
+    "number": "E064",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Master's Command\" is in your climax area, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\" Then, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 or 《Homunculus》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Live! You are qualified to do so.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E064.png"
+    }
+  },
+  {
+    "id": "APO/S53-E065",
+    "name": "\"Unleashing the True Name\" Rider of Black",
+    "setId": "apo_53",
+    "number": "E065",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If a card named \"\"Outstretched Hand\" Rider of Black\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 At the beginning of your opponent's draw phase, if this card is on your center stage, choose one of your characters, and that character gets +4000 power.",
+    "flavorText": "For me to unleash the True Name, I need Master to supply the magical energy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E065.png"
+    }
+  },
+  {
+    "id": "APO/S53-E066",
+    "name": "\"Massacre\" Assassin of Black",
+    "setId": "apo_53",
+    "number": "E066",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand. 【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Mommy, I'm hungry!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E066.png"
+    }
+  },
+  {
+    "id": "APO/S53-E067",
+    "name": "\"Battle Ready\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "E067",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card in your opponent's hand, and puts it into his or her waiting room.",
+    "flavorText": "Uhh...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E067.png"
+    }
+  },
+  {
+    "id": "APO/S53-E068",
+    "name": "\"Savagery\" Assassin of Black",
+    "setId": "apo_53",
+    "number": "E068",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Yeah!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E068.png"
+    }
+  },
+  {
+    "id": "APO/S53-E069",
+    "name": "Fiore Forvedge Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Wheelchair"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "After the preparations, we will use a plane to raid the Hanging Gardens!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E069.png"
+    }
+  },
+  {
+    "id": "APO/S53-E070",
+    "name": "\"Growl\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "E070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Master》 or 《Servant》 characters you have. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Blasted Tree\" is in your climax area, this card gets +1500 power until end of turn, and at the end of this card's attack, put this card into your memory, and put the top three cards of your deck into your waiting room. If there is a climax revealed among those cards, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Uuuhhhh…….!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E070.png"
+    }
+  },
+  {
+    "id": "APO/S53-E071",
+    "name": "\"Duel\" Archer of Black",
+    "setId": "apo_53",
+    "number": "E071",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Teacher"
+    ],
+    "text": "【AUTO】 [Put a 《Master》 or 《Servant》 character from your hand into your waiting room & Put a face up card in your level face down] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Proper time, proper coordinates, proper speed… That is all one needs.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E071.png"
+    }
+  },
+  {
+    "id": "APO/S53-E072",
+    "name": "\"King of Capital Punishment\" Lancer of Black",
+    "setId": "apo_53",
+    "number": "E072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "If you cannot handle the despair, you're not fit to be called a hero.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E072.png"
+    }
+  },
+  {
+    "id": "APO/S53-E073",
+    "name": "\"Before the Duel\" Rider of Black",
+    "setId": "apo_53",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Entrusted Shield\" in your waiting room, and return it to your hand.",
+    "flavorText": "Sieg: \"Rider?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E073.png"
+    }
+  },
+  {
+    "id": "APO/S53-E074",
+    "name": "\"Divine Blade\" Saber of Black",
+    "setId": "apo_53",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Dragon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】 【CXCOMBO】 [(3)] When this card attacks, if a card named \"Balmung\" is in your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Rise, my sword!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E074.png"
+    }
+  },
+  {
+    "id": "APO/S53-E075",
+    "name": "Reika Rikudou",
+    "setId": "apo_53",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Love"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other character with \"Assassin(アサシン)\" in its card name becomes 【REVERSE】, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character. 【AUTO】 Bond/\"\"Massacre\" Assassin of Black\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Massacre\" Assassin of Black\" in your waiting room, and return it to your hand)",
+    "flavorText": "All right. I'll make Hamburg steaks and wait for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E075.png"
+    }
+  },
+  {
+    "id": "APO/S53-E076",
+    "name": "\"Heroic Spirit\" Saber of Black",
+    "setId": "apo_53",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Dragon"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one cost 0 or lower 《Master》 or 《Servant》 or 《Homuculus》 character with level equal to or lower than your level, put it on any position of your stage, and shuffle your deck.",
+    "flavorText": "For what purpose do you unleash your sword?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E076.png"
+    }
+  },
+  {
+    "id": "APO/S53-E077",
+    "name": "\"Poison Mist\" Assassin of Black",
+    "setId": "apo_53",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When a card named \"Maria the Ripper\" is placed on your climax area, if this card is on your center stage, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, all of the characters on your opponent's center stage get -2000 power until end of turn. 【AUTO】 Encore [Put a blue character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Where's my Mommy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E077.png"
+    }
+  },
+  {
+    "id": "APO/S53-E078",
+    "name": "\"The Twelve Paladins\" Rider of Black",
+    "setId": "apo_53",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal your hand. 【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.",
+    "flavorText": "Hehe, I'm gonna be real special tonight.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E078.png"
+    }
+  },
+  {
+    "id": "APO/S53-E079",
+    "name": "Gordes Musik Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Alchemy"
+    ],
+    "text": "【CONT】 All of your other cards named \"Homunculus\" get +1000 power. 【CONT】 Assist All of your 《Master》 or 《Servant》 or 《Homunculus》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [【REST】 this card] Choose one of your 《Homunculus》 characters, and put it into your stock.",
+    "flavorText": "Don't do anything? Dammit!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E079.png"
+    }
+  },
+  {
+    "id": "APO/S53-E080",
+    "name": "\"Deep Satisfaction\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【AUTO】 [(2) Put a 《Master》 or 《Servant》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose a character with level higher than your opponent's level, and put it at the bottom of your opponent's deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Uuh!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E080.png"
+    }
+  },
+  {
+    "id": "APO/S53-E081",
+    "name": "Golem Keter Malkuth",
+    "setId": "apo_53",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Homunculus》 character or a card named \"Roche Frain Yggdmillennia\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker, and 【REST】 this card.",
+    "flavorText": "Caules: \"Is that perhaps the golem Caster was talking about?!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E081.png"
+    }
+  },
+  {
+    "id": "APO/S53-E082",
+    "name": "Caules Forvedge Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Glasses"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Master》 or 《Servant》 characters. 【AUTO】 When you level up, this card gets \"【AUTO】 Encore [(1)]\" until end of turn.",
+    "flavorText": "The Fifth of the Black orders with a Command Spell!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E082.png"
+    }
+  },
+  {
+    "id": "APO/S53-E083",
+    "name": "\"Twice Ovelapping\" Assassin of Black",
+    "setId": "apo_53",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【CONT】 This card gets +5000 power for each marker underneath this card. 【ACT】 [Put two cards from your hand into your waiting room & Put two face up cards in your level face down] Look at the top card of your deck, and put it face down underneath this card as a marker.",
+    "flavorText": "Reina: \"Even if I'm not around, you will be all right.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E083.png"
+    }
+  },
+  {
+    "id": "APO/S53-E084",
+    "name": "\"Mage\" Caster of Black",
+    "setId": "apo_53",
+    "number": "E084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mask"
+    ],
+    "text": "【CONT】 All of your other 《Master》 or《Servant》 characters or characters with \"Keter Malkuth(叡智)\" in its card name get +500 power. 【AUTO】 [Put this card face up underneath a card in battle as a marker] When your other card named \"Golem Keter Malkuth\" becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character.",
+    "flavorText": "Bring us Paradise.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E084.png"
+    }
+  },
+  {
+    "id": "APO/S53-E085",
+    "name": "\"Relieved Expression\" Rider of Black",
+    "setId": "apo_53",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. The revealed card is returned to its original place) 【AUTO】 Bond/\"\"Master's Qualifications\" Sieg\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Master's Qualifications\" Sieg\" in your waiting room, and return it to your hand)",
+    "flavorText": "He's… an idiot!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E085.png"
+    }
+  },
+  {
+    "id": "APO/S53-E086",
+    "name": "\"Bowman\" Archer of Black",
+    "setId": "apo_53",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Teacher"
+    ],
+    "text": "【CONT】 All of your other blue characters get +500 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put it on the top of your deck in any order.",
+    "flavorText": "I want… to win against you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E086.png"
+    }
+  },
+  {
+    "id": "APO/S53-E087",
+    "name": "\"Transfiguration\" Lancer of Black",
+    "setId": "apo_53",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose a character on your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "Darnic! Damn youuuuu!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E087.png"
+    }
+  },
+  {
+    "id": "APO/S53-E088",
+    "name": "\"On the Phone\" Assassin of Black",
+    "setId": "apo_53",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【AUTO】 [Put a blue character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is a blue character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Umm, hello? Is it you, Mommy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E088.png"
+    }
+  },
+  {
+    "id": "APO/S53-E089",
+    "name": "Roche Frain Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Puppet"
+    ],
+    "text": "-",
+    "flavorText": "But Master's Noble Phantasm is much, much more amazing. I'd like to see it soon!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E089.png"
+    }
+  },
+  {
+    "id": "APO/S53-E090",
+    "name": "Homunculus",
+    "setId": "apo_53",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 This card gets +1500 power for each of your other cards named \"Homunculus\".",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E090.png"
+    }
+  },
+  {
+    "id": "APO/S53-E091",
+    "name": "\"Bridal Chest\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E091.png"
+    }
+  },
+  {
+    "id": "APO/S53-E092",
+    "name": "\"Inherited Heart\" Saber of Black",
+    "setId": "apo_53",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you do not have a card named \"\"Heroic Spirit\" Saber of Black\" in your waiting room, 【REST】 this card.",
+    "flavorText": "My power is your power! Wield that sword in order to live!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E092.png"
+    }
+  },
+  {
+    "id": "APO/S53-E093",
+    "name": "Darnic Prestone Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【ACT】 Fusion [Put a card named \"\"Transfiguration\" Lancer of Black\" from your stage face up underneath this card as a marker] Search your deck for up to one card named \"\"Legend of Dracula\" Dracula\", put it on this card's stage position, put this card and all markers underneath this card face up in any order underneath the card named \"\"Legend of Dracula\" Dracula\" as markers, and shuffle your deck.",
+    "flavorText": "No, you are a vampire! You are Count Dracula!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E093.png"
+    }
+  },
+  {
+    "id": "APO/S53-E094",
+    "name": "Celenike Icecolle Yggdmillennia",
+    "setId": "apo_53",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Glasses"
+    ],
+    "text": "【CONT】 If the number of cards in your opponent's clock is four or more, this card gets +10000 power. 【AUTO】 [(1) Put a face up card in your level face down] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your other 《Servant》 characters, and that character gets +4000 power and the following ability until end of turn. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "This is good! Good, good! The best! Feel despair! Distort that face!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E094.png"
+    }
+  },
+  {
+    "id": "APO/S53-E095",
+    "name": "La Black Luna",
+    "setId": "apo_53",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Rider of Black(黒のライダー)\" in its card name, you cannot play this card from your hand. You may choose a card in your hand, and put it into your waiting room. If you do, all of your opponent's characters get -1500 power until end of turn.",
+    "flavorText": "Disperse!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E095.png"
+    }
+  },
+  {
+    "id": "APO/S53-E096",
+    "name": "Entrusted Shield",
+    "setId": "apo_53",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "4",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Choose one of your own characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Take it with you. I don't need a shield anymore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E096.png"
+    }
+  },
+  {
+    "id": "APO/S53-E097",
+    "name": "Master's Command",
+    "setId": "apo_53",
+    "number": "E097",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "If I could, too… I wish I could do that, as well…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E097.png"
+    }
+  },
+  {
+    "id": "APO/S53-E098",
+    "name": "Blasted Tree",
+    "setId": "apo_53",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E098.png"
+    }
+  },
+  {
+    "id": "APO/S53-E099",
+    "name": "Balmung",
+    "setId": "apo_53",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E099.png"
+    }
+  },
+  {
+    "id": "APO/S53-E100",
+    "name": "Maria the Ripper",
+    "setId": "apo_53",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E100.png"
+    }
+  },
+  {
+    "id": "APO/S53-E101",
+    "name": "Petit Ruler",
+    "setId": "apo_53",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Master》 or 《Servant》 or 《Homunculus》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "O Lord, I entrust my body to you…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E101PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E101PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-E102",
+    "name": "Petit Saber of Red",
+    "setId": "apo_53",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Master》 or 《Servant》 characters.",
+    "flavorText": "Such a fine roar!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E102PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E102PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-E103",
+    "name": "Petit Rider of Black",
+    "setId": "apo_53",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Master》 or 《Servant》 or 《Homunculus》 characters you have.",
+    "flavorText": "I'm leaving the rest to you, Master!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E103PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E103PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-E104",
+    "name": "Petit Assassin of Black",
+    "setId": "apo_53",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mist"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand. 【CONT】 This card gets -1 level while on the stage.",
+    "flavorText": "It's normal to crush spots that are easy to crush!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E104PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_E104PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-PE01",
+    "name": "\"Greatest Heroic Spirit\" Saber of Red",
+    "setId": "apo_53",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 At the beginning of your encore step, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Understood... Master!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_PE01PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_PE01PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-PE02",
+    "name": "\"Great Holy Grail War\" Ruler",
+    "setId": "apo_53",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose one of your 《Master》 or 《Servant》 or 《Homunculus》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Something is different about this Holy Grail War…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_PE02PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_PE02PR.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE01",
+    "name": "\"Summoning\" Kairi Shishigou",
+    "setId": "apo_53",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Death"
+    ],
+    "text": "【CONT】 All of your other cards named \"\"Summoning\" Saber of Red\" get +1000 power. 【AUTO】 Bond/\"\"Summoning\" Saber of Red\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Summoning\" Saber of Red\" in your waiting room, and return it to your hand)",
+    "flavorText": "Thou Seventh Heaven, clad in the three great words of power, come forth from the circle of binding, Guardian of the Scales!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE01.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE02",
+    "name": "\"Shadow Maneuvers\" Shirou Kotomine & Assassin of Red",
+    "setId": "apo_53",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Shirou Kotomine: \"Then, shall we start by exchanging information?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE02.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE03",
+    "name": "\"Declaration of War\" Lancer of Red",
+    "setId": "apo_53",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Sun"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters on your back stage. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Clash of Spear and Sword\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Do you plan to overpower me by fighting two against one? I would not mind that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE03.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE04",
+    "name": "\"Summoning\" Saber of Red",
+    "setId": "apo_53",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "Now, I shall inquire. Are you my Master?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE04.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE05",
+    "name": "\"Advance\" Berserker of Red",
+    "setId": "apo_53",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Muscle"
+    ],
+    "text": "【CONT】 You cannot play event cards and \"Backup\" from hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE05.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE06",
+    "name": "\"Guardian\" Archer of Red",
+    "setId": "apo_53",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "They're coming!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE06.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE07",
+    "name": "\"Taunt\" Rider of Red",
+    "setId": "apo_53",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Immortal"
+    ],
+    "text": "【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is two or more, this card gets +3000 power. 【AUTO】 Encore [Put a 《Master》 or 《Servant》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Well, they sure underestimate me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE07.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE08",
+    "name": "\"Great Holy Grail War\" Saber of Red",
+    "setId": "apo_53",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Master》 or 《Servant》 characters you have. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Master》 or 《Servant》 characters you have.",
+    "flavorText": "I won't become king by the Holy Grail.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE08.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE09",
+    "name": "Summoning Rite",
+    "setId": "apo_53",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Shishigou: \"For the elements, silver and iron.\nFor the foundation, stone and the Archduke of Pacts.\nThe color I bestow is \"Red\".\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE09.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE10",
+    "name": "Clash of Spear and Sword",
+    "setId": "apo_53",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE10.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE11",
+    "name": "\"Lord of the Land\" Lancer of Black",
+    "setId": "apo_53",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Royalty"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put that character into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Rebel, you shall change!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE11.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE12",
+    "name": "\"Genesis\" Caster of Black",
+    "setId": "apo_53",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Mask"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to one card.",
+    "flavorText": "Indeed, I have all the ingredients, but there's one thing I still need.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE12.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE13",
+    "name": "\"True Name\" Rider of Black",
+    "setId": "apo_53",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "It's fine, it's fine! Please!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE13.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE14",
+    "name": "\"The First Steps of Fate\" Ruler",
+    "setId": "apo_53",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Flag"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 or 《Homunculus》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Master》 or 《Servant》 or 《Homuculus》 characters you have.",
+    "flavorText": "I have the duty to uphold the rules of this battle.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE14.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE15",
+    "name": "\"The First Steps of Fate\" Sieg",
+    "setId": "apo_53",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Homunculus",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE15.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE16",
+    "name": "\"Berserk\" Berserker of Black",
+    "setId": "apo_53",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Electricity"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters.",
+    "flavorText": "Darnic: \"Then, I shall leave the battle with the other two up to you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE16.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE17",
+    "name": "\"Interception\" Archer of Black",
+    "setId": "apo_53",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Teacher"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [(1) 【REST】 this card] Choose a character on your opponent's center stage, and that character gets -2000 power until end of turn.",
+    "flavorText": "Atalante: \"What!?... So it is their Archer!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE17.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE18",
+    "name": "\"Volition\" Saber of Black",
+    "setId": "apo_53",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Dragon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 or 《Homunculus》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "If so, I may be liable for having him shoulder a violent destiny.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE18.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE19",
+    "name": "Holy Smile",
+    "setId": "apo_53",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "It was because there was a kind hero who sacrificed his life for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE19.png"
+    }
+  },
+  {
+    "id": "APO/S53-TE20",
+    "name": "Stra?e/Gehen",
+    "setId": "apo_53",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "That's why… I…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/apo_s53/APO_S53_TE20.png"
+    }
+  }
+]

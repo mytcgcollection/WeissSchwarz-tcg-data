@@ -1,0 +1,3476 @@
+[
+  {
+    "id": "PD/S29-E001",
+    "name": "Kagamine Rin \"Original\"(F 2nd)",
+    "setId": "pd_29",
+    "number": "E001",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled) 【AUTO】 [(1)] When this card attacks. if a card named \"Kokoro\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E001.png"
+    }
+  },
+  {
+    "id": "PD/S29-E002",
+    "name": "Kagamine Rin \"Reactor\"",
+    "setId": "pd_29",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have. 【AUTO】 [(1)] When a card named \"Roshin Yukai\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, put it into your opponent's stock, and at the beginning of your encore step, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E002.png"
+    }
+  },
+  {
+    "id": "PD/S29-E003",
+    "name": "Kagamine Len \"Original\"(F 2nd)",
+    "setId": "pd_29",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put a card from your hand into your waiting room] When your character's trigger check reveals a climax, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E003.png"
+    }
+  },
+  {
+    "id": "PD/S29-E004",
+    "name": "Kagamine Rin \"Heat Haze\"",
+    "setId": "pd_29",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Music》 characters get +1000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E004.png"
+    }
+  },
+  {
+    "id": "PD/S29-E005",
+    "name": "Kagamine Len \"Punkish\"",
+    "setId": "pd_29",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, if the number of other 《Music》 characters you have is three or more, this card gets +2000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E005.png"
+    }
+  },
+  {
+    "id": "PD/S29-E006",
+    "name": "Kagamine Len \"Strangely Dark\"",
+    "setId": "pd_29",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"Paradichlorobenzene\" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards, and this card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E006.png"
+    }
+  },
+  {
+    "id": "PD/S29-E007",
+    "name": "Kagamine Rin \"Dreaming Panda\"",
+    "setId": "pd_29",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E007.png"
+    }
+  },
+  {
+    "id": "PD/S29-E008",
+    "name": "Kagamine Len \"Polar Bear in Love\"",
+    "setId": "pd_29",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1 level and +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E008.png"
+    }
+  },
+  {
+    "id": "PD/S29-E009",
+    "name": "Kagamine Rin \"Fairy Dress\"",
+    "setId": "pd_29",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose one of your 《Music》 characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E009.png"
+    }
+  },
+  {
+    "id": "PD/S29-E010",
+    "name": "Kagamine Rin \"Faker\"",
+    "setId": "pd_29",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, this card gets +1 level and +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E010.png"
+    }
+  },
+  {
+    "id": "PD/S29-E011",
+    "name": "Hatsune Miku \"Liar\"",
+    "setId": "pd_29",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your other cards named \"Kagamine Rin \"Faker\"\", and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E011.png"
+    }
+  },
+  {
+    "id": "PD/S29-E012",
+    "name": "Kagamine Len \"White Edge\"",
+    "setId": "pd_29",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck. Shuffle your deck afterwards. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E012.png"
+    }
+  },
+  {
+    "id": "PD/S29-E013a",
+    "name": "Hatsune Miku \"Chat Noir\"",
+    "setId": "pd_29",
+    "number": "E013a",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E013a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E013a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E013b",
+    "name": "Hatsune Miku \"Chat Noir\"",
+    "setId": "pd_29",
+    "number": "E013b",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E013b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E013b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E014",
+    "name": "Kagamine Len \"School Jersey\"",
+    "setId": "pd_29",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E014.png"
+    }
+  },
+  {
+    "id": "PD/S29-E015",
+    "name": "Hatsune Miku \"Urban Pop\"",
+    "setId": "pd_29",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E015.png"
+    }
+  },
+  {
+    "id": "PD/S29-E016",
+    "name": "Kagamine Rin \"Soleil\"",
+    "setId": "pd_29",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Snow"
+    ],
+    "text": "【AUTO】 [Put this card into your memory] When a card named \"Soundless Voice\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Kagamine Len \"Ciel\"\", and put it on the stage position that this card was on. Shuffle your deck afterwards. 【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E016.png"
+    }
+  },
+  {
+    "id": "PD/S29-E017",
+    "name": "Kagamine Len \"Ciel\"",
+    "setId": "pd_29",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Snow"
+    ],
+    "text": "【CONT】 Memory If a card named \"Kagamine Rin \"Soleil\"\" is in your memory, this card gets +2000 power. 【AUTO】 Memory When this card attacks, if a card named \"Soundless Voice\" is in your climax area, and a card named \"Kagamine Rin \"Soleil\"\" is in your memory, this card gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E017.png"
+    }
+  },
+  {
+    "id": "PD/S29-E018",
+    "name": "Kagamine Rin \"Cheerful Candy\"",
+    "setId": "pd_29",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If this card's total number of colors is two or more, this card gets +1500 power. 【CONT】 All of your other \"Hatsune Miku \"Colorful Gumdrop\"\" get +1500 power and red.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E018.png"
+    }
+  },
+  {
+    "id": "PD/S29-E019",
+    "name": "Hatsune Miku \"Colorful Gumdrop\"",
+    "setId": "pd_29",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If this card's total number of colors is two or more, this card gets +1500 power. 【CONT】 All of your other \"Kagamine Rin \"Cheerful Candy\"\" get +1500 power and blue.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E019.png"
+    }
+  },
+  {
+    "id": "PD/S29-E020a",
+    "name": "Colorful x Melody",
+    "setId": "pd_29",
+    "number": "E020a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your 【Stand】 《Music》 characters, and 【REST】 it. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your memory. 【CONT】 Memory If this card is in your memory, all of your \"Kagamine Rin \"Cheerful Candy\"\" and \"Hatsune Miku \"Colorful Gumdrop\"\" get green.",
+    "flavorText": "今は　片想いだって　届かなくたって",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E020a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E020a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E020b",
+    "name": "Colorful x Melody",
+    "setId": "pd_29",
+    "number": "E020b",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your 【Stand】 《Music》 characters, and 【REST】 it. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your memory. 【CONT】 Memory If this card is in your memory, all of your \"Kagamine Rin \"Cheerful Candy\"\" and \"Hatsune Miku \"Colorful Gumdrop\"\" get green.",
+    "flavorText": "楽しく歌えれば　いいよね！",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E020b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E020b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E021",
+    "name": "Envy Cat Walk",
+    "setId": "pd_29",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "All of your 《Music》 characters in the center stage get the following ability until the end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】\"",
+    "flavorText": "恋愛依存したこの部屋で二人\n朝を迎えよう。",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E021.png"
+    }
+  },
+  {
+    "id": "PD/S29-E022",
+    "name": "Kokoro",
+    "setId": "pd_29",
+    "number": "E022",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "今 言える　本当の言葉\n捧げる　あなたに　アリガトウ・・・",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E022.png"
+    }
+  },
+  {
+    "id": "PD/S29-E023",
+    "name": "Soundless Voice",
+    "setId": "pd_29",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)",
+    "flavorText": "降り積もる雪よ\nどうか　降り続けてずっと\nこのまま　全て奪い去ってよ",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E023.png"
+    }
+  },
+  {
+    "id": "PD/S29-E024",
+    "name": "Roshin Yukai",
+    "setId": "pd_29",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "アレグロ・アジテート\n耳鳴りが消えない止まない",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E024.png"
+    }
+  },
+  {
+    "id": "PD/S29-E025",
+    "name": "Paradichlorobenzene",
+    "setId": "pd_29",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "＊＊＊＊に意味はあるの？ ＊＊＊＊に意味はないよ\n＊＊＊＊に罪はあるの？ この歌の意味は……＊＊＊＊",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E025.png"
+    }
+  },
+  {
+    "id": "PD/S29-E026",
+    "name": "Resonating \"DIVA\" Hatsune Miku",
+    "setId": "pd_29",
+    "number": "E026",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of climax cards in your waiting room is six or more, this card gets -1 level while in your hand. 【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards from your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.",
+    "flavorText": "この歌声――届け、響け。",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E026.png"
+    }
+  },
+  {
+    "id": "PD/S29-E027",
+    "name": "\"Eternal Sounds\" Hatsune Miku",
+    "setId": "pd_29",
+    "number": "E027",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock. 【AUTO】 [(1)] When a card named \"Packaged\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one 《Music》 character, and put it on any position of your stage. Shuffle your deck afterwards, and this card gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "きらめく、ときめく、舞台へ。",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E027.png"
+    }
+  },
+  {
+    "id": "PD/S29-E028",
+    "name": "Hatsune Miku \"Magician\"",
+    "setId": "pd_29",
+    "number": "E028",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Magic"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E028.png"
+    }
+  },
+  {
+    "id": "PD/S29-E029",
+    "name": "Hatsune Miku \"V3\"",
+    "setId": "pd_29",
+    "number": "E029",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [(1) Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E029.png"
+    }
+  },
+  {
+    "id": "PD/S29-E030",
+    "name": "Hatsune Miku \"White Dress\"",
+    "setId": "pd_29",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dress"
+    ],
+    "text": "【CONT】 All of your other 《Music》 characters get +500 power. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E030.png"
+    }
+  },
+  {
+    "id": "PD/S29-E031",
+    "name": "Hatsune Miku \"School\"",
+    "setId": "pd_29",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E031.png"
+    }
+  },
+  {
+    "id": "PD/S29-E032",
+    "name": "Hatsune Miku \"Orange Blossom\"",
+    "setId": "pd_29",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters. 【AUTO】 [(1)] When this card attacks, if a card named \"Decorator\" is in your climax area, you may pay the cost. If you do, all of your 《Music》 characters get +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E032.png"
+    }
+  },
+  {
+    "id": "PD/S29-E033",
+    "name": "Hatsune Miku \"Orbit\"",
+    "setId": "pd_29",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dress"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters. 【AUTO】 When this card attacks, if a card named \"SPiCa -39's Giving Day Edition-\" is in your climax area, choose up to one 《Music》 character in your waiting room, put it into your stock, choose one of your 《Music》 characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E033.png"
+    }
+  },
+  {
+    "id": "PD/S29-E034",
+    "name": "Hatsune Miku \"Siren\"",
+    "setId": "pd_29",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your stock. If it is not, put that card into your clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E034.png"
+    }
+  },
+  {
+    "id": "PD/S29-E035",
+    "name": "Hatsune Miku \"Rainbow Lines\"",
+    "setId": "pd_29",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rainbow"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Glory 3usi9\" is in your climax area, choose one of your other cards named \"Hatsune Miku \"Puffy Pastels\"\", and that card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to two 《Music》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E035.png"
+    }
+  },
+  {
+    "id": "PD/S29-E036",
+    "name": "Hatsune Miku \"Puffy Pastels\"",
+    "setId": "pd_29",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Glory 3usi9\" is in your climax area, and you have another card named \"Hatsune Miku \"Rainbow Lines\"\", you may pay the cost. If you do, this card gets +4000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E036.png"
+    }
+  },
+  {
+    "id": "PD/S29-E037",
+    "name": "Hatsune Miku \"∞\"",
+    "setId": "pd_29",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Music》 character, put it into your clock. (If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E037.png"
+    }
+  },
+  {
+    "id": "PD/S29-E038",
+    "name": "Hatsune Miku \"Meteorite\"",
+    "setId": "pd_29",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Time"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is five or more, this card gets +2000 power. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E038.png"
+    }
+  },
+  {
+    "id": "PD/S29-E039",
+    "name": "I'll Miku-Miku You♪ (For Reals)",
+    "setId": "pd_29",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters with \"Miku(ミク)\" in its card name, and until end of turn, that character gets +3939 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to one character with \"Miku(ミク)\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.\"",
+    "flavorText": "みくみくにしてやんよ\nだからちょっと油断をしてあげて",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E039.png"
+    }
+  },
+  {
+    "id": "PD/S29-E040",
+    "name": "Hatsune Miku \"Kitty Cat\"",
+    "setId": "pd_29",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card from your opponent's waiting room, and put it into your opponent's stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E040.png"
+    }
+  },
+  {
+    "id": "PD/S29-E041",
+    "name": "Hatsune Miku \"Noble\"",
+    "setId": "pd_29",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E041.png"
+    }
+  },
+  {
+    "id": "PD/S29-E042",
+    "name": "Hatsune Miku \"Dimensional\"",
+    "setId": "pd_29",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Net"
+    ],
+    "text": "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E042.png"
+    }
+  },
+  {
+    "id": "PD/S29-E043",
+    "name": "Hatsune Miku \"Gothic\"",
+    "setId": "pd_29",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E043.png"
+    }
+  },
+  {
+    "id": "PD/S29-E044",
+    "name": "Hatsune Miku \"Natural\"",
+    "setId": "pd_29",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Glasses"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +500 power and the following ability. \"【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E044.png"
+    }
+  },
+  {
+    "id": "PD/S29-E045",
+    "name": "Hatsune Miku \"Heart Hunter\"",
+    "setId": "pd_29",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Love"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E045.png"
+    }
+  },
+  {
+    "id": "PD/S29-E046",
+    "name": "Hatsune Miku \"Conflicted\"",
+    "setId": "pd_29",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【CONT】 If there is a marker underneath this card, this card gets +3000 power. 【AUTO】 When this card attacks, if a card named \"Two-Sided Lovers\" is in your climax area, and if there are no markers underneath this card, you may choose a card named \"Hatsune Miku \"Conflicted\"\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 When a card named \"Two-Sided Lovers\" is placed on your climax area, if this card is in your center stage, and there is a marker underneath this card, choose up to two 《Music》 characters in your waiting room, and put them into your stock in any order.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E046.png"
+    }
+  },
+  {
+    "id": "PD/S29-E047",
+    "name": "Hatsune Miku \"Out and About\"",
+    "setId": "pd_29",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E047.png"
+    }
+  },
+  {
+    "id": "PD/S29-E048",
+    "name": "The Intense Voice of Hatsune Miku",
+    "setId": "pd_29",
+    "number": "E048",
+    "rarity": "R",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "9",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "All of your characters get the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, 【Stand】 this card.\"",
+    "flavorText": "妹　弟　に道を預けて　消え逝く未来も\n誰からも　忘れ去られる運命も　それらを含めて\n全てが　Voc.たちなんだと理解し\nいずれおとずれる　最後の場面に　ココロを持つ故\n涙を流すなら　泪より虹生み　笑顔見せるため\n幸せ溢れる　歌　口ずさもう",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E048.png"
+    }
+  },
+  {
+    "id": "PD/S29-E049",
+    "name": "2D Dream Fever",
+    "setId": "pd_29",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of cards in your deck is twenty two or less, put all cards in your deck except the bottom card into your waiting room.",
+    "flavorText": "リンクたどって会いに往くよ\nきっと君に繋がってるんじゃん\n蔓延している　病名：二次元ドリームフィーバー",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E049.png"
+    }
+  },
+  {
+    "id": "PD/S29-E050",
+    "name": "Melt",
+    "setId": "pd_29",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your chracters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\" Put this card into your stock.",
+    "flavorText": "今すぐ　わたしを抱きしめて！\n……なんてね",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E050.png"
+    }
+  },
+  {
+    "id": "PD/S29-E051",
+    "name": "Miracle Paint",
+    "setId": "pd_29",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Brainstorm Choose one of your characters, and that character gets +2000 power until end of turn. Reveal three cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "miracle painting　キセキのshow time\n魔法の一筆で　夢中にさせて",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E051.png"
+    }
+  },
+  {
+    "id": "PD/S29-E052",
+    "name": "Packaged",
+    "setId": "pd_29",
+    "number": "E052",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "うまく歌えるといいな\nちゃんとできるようにがんばるよ！",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E052.png"
+    }
+  },
+  {
+    "id": "PD/S29-E053",
+    "name": "Two-Sided Lovers",
+    "setId": "pd_29",
+    "number": "E053",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "どこかに良いことないかな，なんて裏返しの自分に問うよ。\n自問自答，自問他答，他問自答連れ回し，ああああ",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E053.png"
+    }
+  },
+  {
+    "id": "PD/S29-E054",
+    "name": "SPiCa -39's Giving Day Edition-",
+    "setId": "pd_29",
+    "number": "E054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "抱きしめて　出会わなければ個々\n受け止めて　デネボラを　飛び越え行くわ\nワガママな歳差　星（キミ）のようだね",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E054.png"
+    }
+  },
+  {
+    "id": "PD/S29-E055",
+    "name": "Decorator",
+    "setId": "pd_29",
+    "number": "E055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "か細くても　君のその声が\n誰かに必要なんだって　気付いて",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E055.png"
+    }
+  },
+  {
+    "id": "PD/S29-E056",
+    "name": "Glory 3usi9",
+    "setId": "pd_29",
+    "number": "E056",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "風になって　光になって　リズムになって　音になって\nあなたのほうへ　世界のほうへ　飛んで行けたならいいな",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E056.png"
+    }
+  },
+  {
+    "id": "PD/S29-E057",
+    "name": "Megurine Luka \"Original\"(F 2nd)",
+    "setId": "pd_29",
+    "number": "E057",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1)] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Double Lariat\" is in your climax area, you may pay the cost. If you do, 【Stand】 this card, and until end of turn, this card gets -4 soul and the following ability. \"【CONT】 If this card would attack, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E057.png"
+    }
+  },
+  {
+    "id": "PD/S29-E058",
+    "name": "Megurine Luka \"Cybernation\"",
+    "setId": "pd_29",
+    "number": "E058",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Luka Luka ★ Night Fever\" is in your climax area, you may pay the cost. If you do, choose up to two characters in your waiting room with \"Luka(ルカ)\" in its card name, return them to your hand, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E058.png"
+    }
+  },
+  {
+    "id": "PD/S29-E059",
+    "name": "MEIKO \"Original\"(F 2nd)",
+    "setId": "pd_29",
+    "number": "E059",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power. 【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters on the center stage, and put it on the top of your opponent's deck. 【ACT】 [(1)] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E059.png"
+    }
+  },
+  {
+    "id": "PD/S29-E060",
+    "name": "Megurine Luka \"Witch Girl Style\"",
+    "setId": "pd_29",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Magic"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E060.png"
+    }
+  },
+  {
+    "id": "PD/S29-E061",
+    "name": "Hatsune Miku \"Breathe With You\"",
+    "setId": "pd_29",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [(1)] Put the top card of your opponent's deck into your opponent's waiting room, choose a card in your opponent's waiting room, and put it on the top of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E061.png"
+    }
+  },
+  {
+    "id": "PD/S29-E062",
+    "name": "Sakine Meiko \"Original\"",
+    "setId": "pd_29",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character. 【AUTO】 When a climax is placed on your opponent's climax area, you may put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E062.png"
+    }
+  },
+  {
+    "id": "PD/S29-E063",
+    "name": "MEIKO \"Momiji\"",
+    "setId": "pd_29",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【Stand】 《Music》 characters, and 【REST】 it. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E063.png"
+    }
+  },
+  {
+    "id": "PD/S29-E064a",
+    "name": "Megurine Luka \"Temptation\"",
+    "setId": "pd_29",
+    "number": "E064a",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dealer"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Blackjack\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E064a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E064a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E064b",
+    "name": "Megurine Luka \"Temptation\"",
+    "setId": "pd_29",
+    "number": "E064b",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dealer"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Blackjack\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E064b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E064b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E065",
+    "name": "Megurine Luka \"Floral\"",
+    "setId": "pd_29",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 【ACT】 [【REST】 one of your 《Music》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E065.png"
+    }
+  },
+  {
+    "id": "PD/S29-E066",
+    "name": "Megurine Luka \"Fr?ulein\"",
+    "setId": "pd_29",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Heiress"
+    ],
+    "text": "【CONT】 If you do not have any other characters on your center stage, this card gets +1500 power. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E066.png"
+    }
+  },
+  {
+    "id": "PD/S29-E067",
+    "name": "MEIKO \"Scarlet\"",
+    "setId": "pd_29",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dress"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, if you do not have any other characters, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room with \"MEIKO\" or \"MEIKO(メイコ)\" in its card name, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E067.png"
+    }
+  },
+  {
+    "id": "PD/S29-E068",
+    "name": "Hatsune Miku \"Supreme\"",
+    "setId": "pd_29",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Love"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E068.png"
+    }
+  },
+  {
+    "id": "PD/S29-E069",
+    "name": "MEIKO \"Taisho Nostalgia\"",
+    "setId": "pd_29",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E069.png"
+    }
+  },
+  {
+    "id": "PD/S29-E070",
+    "name": "MEIKO \"Blazing\"",
+    "setId": "pd_29",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Flame"
+    ],
+    "text": "【AUTO】 [(1)] When your character's trigger check reveals a climax, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn. 【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named \"Break It, Break It!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, put it into your opponent's waiting room, and this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E070.png"
+    }
+  },
+  {
+    "id": "PD/S29-E071",
+    "name": "Megurine Luka \"Hard Rock\"",
+    "setId": "pd_29",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E071.png"
+    }
+  },
+  {
+    "id": "PD/S29-E072",
+    "name": "MEIKO \"Marine Ribbons\"",
+    "setId": "pd_29",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [Put this card into your waiting room] When another of your 《Music》 characters is being frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E072.png"
+    }
+  },
+  {
+    "id": "PD/S29-E073",
+    "name": "Hatsune Miku \"Butterfly\"",
+    "setId": "pd_29",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【CONT】 All of your other \"Megurine Luka \"Blossom\"\" get +1 level and +500 power. 【AUTO】 Bond／\"Megurine Luka \"Blossom\"\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Megurine Luka \"Blossom\"\" in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E073.png"
+    }
+  },
+  {
+    "id": "PD/S29-E074",
+    "name": "Megurine Luka \"Blossom\"",
+    "setId": "pd_29",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's encore step, if you do not have any other \"Hatsune Miku \"Butterfly\"\", put this card into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E074.png"
+    }
+  },
+  {
+    "id": "PD/S29-E075",
+    "name": "Hatsune Miku \"Little Red\"",
+    "setId": "pd_29",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Fairytale"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E075.png"
+    }
+  },
+  {
+    "id": "PD/S29-E076",
+    "name": "MEIKO \"Fluffy Coat\"",
+    "setId": "pd_29",
+    "number": "E076",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E076.png"
+    }
+  },
+  {
+    "id": "PD/S29-E077",
+    "name": "Megurine Luka \"VF Suit\"",
+    "setId": "pd_29",
+    "number": "E077",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E077.png"
+    }
+  },
+  {
+    "id": "PD/S29-E078",
+    "name": "Megurine Luka \"Recruiter\"",
+    "setId": "pd_29",
+    "number": "E078",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card from your opponent's waiting room, and put it on the top of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E078.png"
+    }
+  },
+  {
+    "id": "PD/S29-E079",
+    "name": "MEIKO \"Lorelei\"",
+    "setId": "pd_29",
+    "number": "E079",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E079.png"
+    }
+  },
+  {
+    "id": "PD/S29-E080",
+    "name": "Hatsune Miku \"Avant-garde\"",
+    "setId": "pd_29",
+    "number": "E080",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Unison"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Akatsuki Arrival\" is in your climax area, and you do not have any other \"Megurine Luka \"Successor\"\", this card gets +2000 power until the end of your opponent's next turn. 【AUTO】 When this card attacks, if a card named \"Akatsuki Arrival\" is in your climax area, and you have another \"Megurine Luka \"Successor\"\", until end of turn, this card gets +8000 power and +1 soul, and at the beginning of your encore step, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E080.png"
+    }
+  },
+  {
+    "id": "PD/S29-E081",
+    "name": "Megurine Luka \"Successor\"",
+    "setId": "pd_29",
+    "number": "E081",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Unison"
+    ],
+    "text": "【CONT】 Memory If a card named \"Hatsune Miku \"Avant-garde\"\" is in your memory, this card gets +1500 power. 【AUTO】 When this card attacks, if a card named \"Akatsuki Arrival\" is in your climax area, and you do not have any other \"Hatsune Miku \"Avant-garde\"\", this card gets +2000 power until the end of your opponent's next turn. 【AUTO】 When this card attacks, if a card named \"Akatsuki Arrival\" is in your climax area, and you have another \"Hatsune Miku \"Avant-garde\"\", this card gets +3500 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E081.png"
+    }
+  },
+  {
+    "id": "PD/S29-E082",
+    "name": "Blackjack",
+    "setId": "pd_29",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm Reveal five cards from the top of your deck, and put them into your waiting room. Deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)",
+    "flavorText": "制約の犬に　今ナイフを突き刺して\n現実を睨む手前　『もう一回』",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E082.png"
+    }
+  },
+  {
+    "id": "PD/S29-E083",
+    "name": "The World is Mine",
+    "setId": "pd_29",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Music》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "世界でいちばんおひめさま\nそういう扱い心得てよね",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E083.png"
+    }
+  },
+  {
+    "id": "PD/S29-E084",
+    "name": "Double Lariat",
+    "setId": "pd_29",
+    "number": "E084",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "半径6300キロはこの手の届く距離\n今ならできる気がしますので離れていてください",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E084.png"
+    }
+  },
+  {
+    "id": "PD/S29-E085",
+    "name": "Break It, Break It!",
+    "setId": "pd_29",
+    "number": "E085",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "壊せ壊せ壊せ壊せ\n壊せ壊せ壊せいらない壊せ",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E085.png"
+    }
+  },
+  {
+    "id": "PD/S29-E086",
+    "name": "Luka Luka ★ Night Fever",
+    "setId": "pd_29",
+    "number": "E086",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "私はここに居るから\n少しでも視線を逸らしちゃダメダメよ☆",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E086.png"
+    }
+  },
+  {
+    "id": "PD/S29-E087a",
+    "name": "Akatsuki Arrival",
+    "setId": "pd_29",
+    "number": "E087a",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "“覚えてる？”　「覚えているよ」\n「“キミと歩んだあの日々を”」",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E087a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E087a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E087b",
+    "name": "Akatsuki Arrival",
+    "setId": "pd_29",
+    "number": "E087b",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "“振り向かないで。ここはまだ道の途中だから”\n前を向こう　辛いけどキミが望むのならば……！",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E087b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E087b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E088",
+    "name": "\"To Wherever You May Be\" Hatsune Miku",
+    "setId": "pd_29",
+    "number": "E088",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your 《Music》 characters in front of this card get +1 level and +500 power. 【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck.",
+    "flavorText": "かがやく、はじける、未来へ。",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E088.png"
+    }
+  },
+  {
+    "id": "PD/S29-E089",
+    "name": "KAITO \"V3\"",
+    "setId": "pd_29",
+    "number": "E089",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your 《Music》 characters, and that character gets +3500 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E089.png"
+    }
+  },
+  {
+    "id": "PD/S29-E090a",
+    "name": "Hatsune Miku \"Rosa Bianca\"",
+    "setId": "pd_29",
+    "number": "E090a",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rose"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets +2000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】,if a card named \"Cantarella ～Grace Edition～\" is in your climax area, you may draw a card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E090a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E090a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E090b",
+    "name": "Hatsune Miku \"Rosa Bianca\"",
+    "setId": "pd_29",
+    "number": "E090b",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rose"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets +2000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】,if a card named \"Cantarella ～Grace Edition～\" is in your climax area, you may draw a card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E090b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E090b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E091a",
+    "name": "KAITO \"Rosa Blue\"",
+    "setId": "pd_29",
+    "number": "E091a",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rose"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1)] When a card named \"Cantarella ～Grace Edition～\" is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E091a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E091a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E091b",
+    "name": "KAITO \"Rosa Blue\"",
+    "setId": "pd_29",
+    "number": "E091b",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rose"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1)] When a card named \"Cantarella ～Grace Edition～\" is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E091b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E091b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E092",
+    "name": "KAITO \"Original\"(F 2nd)",
+    "setId": "pd_29",
+    "number": "E092",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"KAITO & MEIKO \"Original\"\" or \"KAITO \"V3\"\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E092.png"
+    }
+  },
+  {
+    "id": "PD/S29-E093",
+    "name": "KAITO \"Shigure\"",
+    "setId": "pd_29",
+    "number": "E093",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E093.png"
+    }
+  },
+  {
+    "id": "PD/S29-E094",
+    "name": "KAITO \"Holiday\"",
+    "setId": "pd_29",
+    "number": "E094",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 During your opponent's turn, if the number of characters your opponent has is three or less, this card gets +1 level and +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E094.png"
+    }
+  },
+  {
+    "id": "PD/S29-E095a",
+    "name": "Kagamine Rin \"Raspberry\"",
+    "setId": "pd_29",
+    "number": "E095a",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to another open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E095a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E095a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E095b",
+    "name": "Kagamine Rin \"Raspberry Fox\"",
+    "setId": "pd_29",
+    "number": "E095b",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to another open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E095b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E095b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E096a",
+    "name": "Kagamine Len \"Indigo\"",
+    "setId": "pd_29",
+    "number": "E096a",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and until end of turn, that character gets +1 level and +X power. X is equal to 500 multiplied by the number of other characters you have with \"Rin(リン)\" or \"Len(レン)\" in its card name. 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a blue card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E096a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E096a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E096b",
+    "name": "Kagamine Len \"Indigo Fox\"",
+    "setId": "pd_29",
+    "number": "E096b",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Japanese Clothes"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and until end of turn, that character gets +1 level and +X power. X is equal to 500 multiplied by the number of other characters you have with \"Rin(リン)\" or \"Len(レン)\" in its card name. 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a blue card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E096b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E096b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E097",
+    "name": "Hatsune Miku \"Vintage Dress\"",
+    "setId": "pd_29",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dress"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Romeo and Cinderella\" is in your climax area, you may pay the cost. If you do, choose one of your other characters, and until the end of your opponent's next turn, that character gets +1500 power and this card gets +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E097.png"
+    }
+  },
+  {
+    "id": "PD/S29-E098",
+    "name": "KAITO \"Originator\"",
+    "setId": "pd_29",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Time"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power. 【AUTO】 When this card attacks, if a card named \"Erase or Zero\" is in your climax area, until end of turn, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E098.png"
+    }
+  },
+  {
+    "id": "PD/S29-E099",
+    "name": "Kagamine Len \"Eraser\"",
+    "setId": "pd_29",
+    "number": "E099",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have. 【AUTO】 When a card named \"Erase or Zero\" is placed on your climax area, if this card is in your center stage, you may choose one of your opponent's characters, and move that character to another open position of your opponent's stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E099.png"
+    }
+  },
+  {
+    "id": "PD/S29-E100",
+    "name": "KAITO \"Violet\"",
+    "setId": "pd_29",
+    "number": "E100",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Thousand Year Solo (DIVA Edit)\" is in your climax area, choose one of your opponent's level 3 or lower characters. That character cannot 【Stand】 during your opponent's next stand phase.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E100.png"
+    }
+  },
+  {
+    "id": "PD/S29-E101",
+    "name": "Hatsune Miku \"Demons and the Dead\"",
+    "setId": "pd_29",
+    "number": "E101",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Strange"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, until end of turn, this card gets +4000 power and your opponent cannot use \"【AUTO】 Encore\". (Your opponent cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E101.png"
+    }
+  },
+  {
+    "id": "PD/S29-E102",
+    "name": "KAITO \"White Blazer\"",
+    "setId": "pd_29",
+    "number": "E102",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your 《Music》 characters, and that character gets +1 level until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 0 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E102.png"
+    }
+  },
+  {
+    "id": "PD/S29-E103",
+    "name": "Hatsune Miku \"Hana-Kotoba\"",
+    "setId": "pd_29",
+    "number": "E103",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +500 power. 【ACT】 [Put the top card of your deck into your clock & 【REST】 this card] Choose one of your 《Music》 characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E103.png"
+    }
+  },
+  {
+    "id": "PD/S29-E104",
+    "name": "Hatsune Miku \"Kasha\"",
+    "setId": "pd_29",
+    "number": "E104",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +500 power. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your 《Music》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E104.png"
+    }
+  },
+  {
+    "id": "PD/S29-E105",
+    "name": "Hatsune Miku \"Regret\"",
+    "setId": "pd_29",
+    "number": "E105",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If you do not have any other \"Hatsune Miku \"Marionette\"\", this card cannot attack. 【AUTO】 When another of your \"Hatsune Miku \"Marionette\"\" is put into your waiting room from the stage, put this card into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E105.png"
+    }
+  },
+  {
+    "id": "PD/S29-E106a",
+    "name": "Hatsune Miku \"Marionette\"",
+    "setId": "pd_29",
+    "number": "E106a",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Puppet"
+    ],
+    "text": "【CONT】 If you do not have any other \"Hatsune Miku \"Regret\"\", this card cannot attack. 【AUTO】 When another of your \"Hatsune Miku \"Regret\"\" is put into your waiting room from the stage, put this card into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E106a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E106a.png"
+    }
+  },
+  {
+    "id": "PD/S29-E106b",
+    "name": "Hatsune Miku \"Marionette\"",
+    "setId": "pd_29",
+    "number": "E106b",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Puppet"
+    ],
+    "text": "【CONT】 If you do not have any other \"Hatsune Miku \"Regret\"\", this card cannot attack. 【AUTO】 When another of your \"Hatsune Miku \"Regret\"\" is put into your waiting room from the stage, put this card into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E106b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E106b.png"
+    }
+  },
+  {
+    "id": "PD/S29-E107",
+    "name": "Hatsune Miku \"Moonlight Butterfly\"",
+    "setId": "pd_29",
+    "number": "E107",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn. 【AUTO】 When this card is put into your waiting room from the stage, you may choose one of your \"Kagamine Rin \"Sunflower\"\", and put this card face down underneath that card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E107.png"
+    }
+  },
+  {
+    "id": "PD/S29-E108",
+    "name": "Kagamine Rin \"Sunflower\"",
+    "setId": "pd_29",
+    "number": "E108",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Weapon"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +5000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E108.png"
+    }
+  },
+  {
+    "id": "PD/S29-E109",
+    "name": "Kagamine Len \"Thorned Rose\"",
+    "setId": "pd_29",
+    "number": "E109",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put one of your other \"Hatsune Miku \"Moonlight Butterfly\"\" from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +3500 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E109.png"
+    }
+  },
+  {
+    "id": "PD/S29-E110",
+    "name": "KAITO \"Cyber Cat\"",
+    "setId": "pd_29",
+    "number": "E110",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E110.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E110.png"
+    }
+  },
+  {
+    "id": "PD/S29-E111",
+    "name": "Wintry Winds",
+    "setId": "pd_29",
+    "number": "E111",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one character with \"KAITO\" in its card name and up to one character with \"MEIKO\" or \"MEIKO(メイコ)\" in its card name, reveal them to your opponent, and put them into your hand. Choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your memory.",
+    "flavorText": "留まる事なく　直走る\nかわいた唄と　つがゐこがらし",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E111.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E111.png"
+    }
+  },
+  {
+    "id": "PD/S29-E112",
+    "name": "Knife",
+    "setId": "pd_29",
+    "number": "E112",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "3",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one card named \"Kagamine Len\"Thorned Rose\"\" and up to one card named \"Kagamine Rin\"Sunflower\"\" and up to one card named \"Hatsune Miku\"Moonlight Butterfly\"\", reveal them to your opponent, put them into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards.",
+    "flavorText": "いずれ　剥がれてしまうならば\nその手で　縛めて",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E112.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E112.png"
+    }
+  },
+  {
+    "id": "PD/S29-E113",
+    "name": "Cantarella ～Grace Edition～",
+    "setId": "pd_29",
+    "number": "E113",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "たとえば深い茂みの中滑り込ませて\n繋いだ汗の香りにただ侵されそう",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E113.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E113.png"
+    }
+  },
+  {
+    "id": "PD/S29-E114",
+    "name": "Romeo and Cinderella",
+    "setId": "pd_29",
+    "number": "E114",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw a card.)",
+    "flavorText": "全部見せてよ\nあなたにならば見せてあげる私の…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E114.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E114.png"
+    }
+  },
+  {
+    "id": "PD/S29-E115",
+    "name": "Thousand Year Solo (DIVA Edit)",
+    "setId": "pd_29",
+    "number": "E115",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "ガラスの瞳に映るこの空は\nどんなまやかしだろう",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E115.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E115.png"
+    }
+  },
+  {
+    "id": "PD/S29-E116",
+    "name": "Erase or Zero",
+    "setId": "pd_29",
+    "number": "E116",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "でも、結局ボクら　何か変われた？\nこたえは　「…もう一度。」　さえ　消せなくて・・・",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E116.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/pd_s29/PD_S29_E116.png"
+    }
+  },
+  {
+    "id": "PD/S29-E117",
+    "name": "Love-Hate",
+    "setId": "pd_29",
+    "number": "E117",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_117.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_117.png"
+    }
+  },
+  {
+    "id": "PD/S29-E118",
+    "name": "Doubleganger",
+    "setId": "pd_29",
+    "number": "E118",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_118.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_118.png"
+    }
+  },
+  {
+    "id": "PD/S29-E119",
+    "name": "This is the Happiness and Peace of Mind Committee",
+    "setId": "pd_29",
+    "number": "E119",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_119.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_119.png"
+    }
+  },
+  {
+    "id": "PD/S29-E120",
+    "name": "This is the Happiness and Peace of Mind Committee",
+    "setId": "pd_29",
+    "number": "E120",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_120.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_120.png"
+    }
+  },
+  {
+    "id": "PD/S29-E121",
+    "name": "Meteor",
+    "setId": "pd_29",
+    "number": "E121",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_121.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_121.png"
+    }
+  },
+  {
+    "id": "PD/S29-E122",
+    "name": "Sakura Rain",
+    "setId": "pd_29",
+    "number": "E122",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_122.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_122.png"
+    }
+  },
+  {
+    "id": "PD/S29-E123",
+    "name": "Hello, Worker",
+    "setId": "pd_29",
+    "number": "E123",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_123.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_123.png"
+    }
+  },
+  {
+    "id": "PD/S29-E124",
+    "name": "Hello, Worker",
+    "setId": "pd_29",
+    "number": "E124",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_124.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_124.png"
+    }
+  },
+  {
+    "id": "PD/S29-E125",
+    "name": "Clover?Club",
+    "setId": "pd_29",
+    "number": "E125",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_125.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_125.png"
+    }
+  },
+  {
+    "id": "PD/S29-E126",
+    "name": "Close and Open, Demons and The Dead",
+    "setId": "pd_29",
+    "number": "E126",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_126.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_126.png"
+    }
+  },
+  {
+    "id": "PD/S29-E127",
+    "name": "Clockwork Clown",
+    "setId": "pd_29",
+    "number": "E127",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_127.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_127.png"
+    }
+  },
+  {
+    "id": "PD/S29-E128",
+    "name": "Pinky Swear",
+    "setId": "pd_29",
+    "number": "E128",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +3 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_128.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_128.png"
+    }
+  },
+  {
+    "id": "PD/S29-PE01",
+    "name": "Deepening \"DIVA\" Hatsune Miku",
+    "setId": "pd_29",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card isput into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_p01.png"
+    }
+  },
+  {
+    "id": "PD/S29-PE05",
+    "name": "\"Cantarella\" Miku & KAITO",
+    "setId": "pd_29",
+    "number": "PE05",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Rose"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\" 【AUTO】 When a climax is placed on your climax area, choose one of your \"Music\" characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_p05.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_p05.png"
+    }
+  }
+]

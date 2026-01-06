@@ -1,0 +1,327 @@
+[
+  {
+    "id": "MK/S11-E101",
+    "name": "\"Milky Holmes\" Shalo",
+    "setId": "mk_11",
+    "number": "E101",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Camera"
+    ],
+    "text": "【CONT】 If all of your characters are 《Detective》, this card gets +1000 power.",
+    "flavorText": "I will try harder!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E101.png"
+    }
+  },
+  {
+    "id": "MK/S11-E103",
+    "name": "\"Milky Holmes\" Ellie",
+    "setId": "mk_11",
+    "number": "E103",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Book"
+    ],
+    "text": "-",
+    "flavorText": "I-I… can't really… express myself… that well…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E103.png"
+    }
+  },
+  {
+    "id": "MK/S11-E105",
+    "name": "\"Milky Holmes\" Nero",
+    "setId": "mk_11",
+    "number": "E105",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Sweets"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "Don't worry. There's nothing to fear with me around.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_E105.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE02",
+    "name": "Joint Investigation, Kokoro & Shalo",
+    "setId": "mk_11",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Police"
+    ],
+    "text": "【CONT】 ［【REST】 one of your 【STAND】 characters］ When this card is placed on stage from your hand, if your opponent has a character named \"Joint Investigation, Kokoro & Shalo\", you may pay the cost. If you do, play \"Rock-Paper-Scissors\" with your opponent until someone wins. The winner draws a card.",
+    "flavorText": "Shalo: \"Kokoro! Let's look for clues together!\"\nKokoro: \"Stop calling my name like that～!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE02.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE03",
+    "name": "Shalo Under the Cherry Blossoms",
+    "setId": "mk_11",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Camera"
+    ],
+    "text": "【CONT】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is not a 《Detective》 character, put it into your clock. （If it is, return the revealed card to its original place.）",
+    "flavorText": "I'll do my best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE03.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE04",
+    "name": "Problem Child, Nero",
+    "setId": "mk_11",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Sweets"
+    ],
+    "text": "【CONT】 ［(1)] When this card attacks, if a card named \"Direct Hack\" is in your climax area, you may pay the cost. If you do, choose a character from your waiting room, and return it to your hand.",
+    "flavorText": "M-my snacks～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE04.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE05",
+    "name": "Leader of G4, Kokoro",
+    "setId": "mk_11",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Umbrella"
+    ],
+    "text": "-",
+    "flavorText": "Look, the rain is stopping!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE05.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE08",
+    "name": "Direct Hack",
+    "setId": "mk_11",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "My Toys is called Direct Hack. The ability to hack any electrical devices just by touching it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE08.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE09",
+    "name": "Psychokinesis",
+    "setId": "mk_11",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. （: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Moving objects with just a thought…\nbut only light objects…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE09.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE10",
+    "name": "Cordelia Glauca",
+    "setId": "mk_11",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "That's where you've been hiding. Come on, let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE10.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE11",
+    "name": "Pessimistic Thoughts, Ellie",
+    "setId": "mk_11",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "Book"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）",
+    "flavorText": "It's embarrassing… to be looked at… by so many people…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE11.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE14",
+    "name": "Shy Girl, Ellie",
+    "setId": "mk_11",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Detective",
+      "Book"
+    ],
+    "text": "-",
+    "flavorText": "Eh!? Ehhh!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE14.png"
+    }
+  },
+  {
+    "id": "MK/S11-TE15",
+    "name": "Cat Ears Magnifying Glass",
+    "setId": "mk_11",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to two 《Detective》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Where will the thieves appear next…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mk_s11/MK_S11_TE15.png"
+    }
+  }
+]

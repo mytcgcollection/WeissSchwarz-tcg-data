@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "AW/S18-E001",
+    "name": "Cornered Silver Crow",
+    "setId": "aw_18",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "Even if I lose… I've gotta keep on going and clawing my way back‘til the bitter end. If I’m goin’ down, I’m goin’ down fighting. That’s… what a pawn is supposed to do!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E001.png"
+    }
+  },
+  {
+    "id": "AW/S18-E002",
+    "name": "Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】 [Put all cards in your stock except the bottom card into your waiting room] This ability activates up to one time per turn. When this card attacks, if a card named \"A Feeling Never Felt Before\" is in your climax area and the number of cards in your stock is five or more, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "Oh right, I still have a reward to give you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E002.png"
+    }
+  },
+  {
+    "id": "AW/S18-E003",
+    "name": "\"Churakagi\" Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power. 【AUTO】 When this card attacks, choose one of your other level 2 or higher characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I bought this yesterday. The color seems a little bit off from the demo though.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E003.png"
+    }
+  },
+  {
+    "id": "AW/S18-E004",
+    "name": "Intimate Relationship, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "【AUTO】 Bond/\"Bullied Kid, Haruyuki\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Bullied Kid, Haruyuki\" in your waiting room, and return it to your hand.) 【ACT】 [Put the top card of your deck into your clock & Put a card named \"Bullied Kid, Haruyuki\" from your stage into your waiting room] Choose up to one card named \"Challenging a Formidable Foe, Silver Crow\" in your hand, and put it on any position of your stage.",
+    "flavorText": "Then let’s continue this conversation via cable link.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E004.png"
+    }
+  },
+  {
+    "id": "AW/S18-E005",
+    "name": "In Pursuit of the End, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's stock.\"",
+    "flavorText": "The time has come…… I must leave my peaceful cocoon and aim for the sky once again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E005.png"
+    }
+  },
+  {
+    "id": "AW/S18-E006",
+    "name": "Maiden in Love, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【CONT】 All of your other 《Avatar》 or 《Student Council》 characters get +500 power. 【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "And none of them felt as long as the one short week I was apart from you in the real world.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E006.png"
+    }
+  },
+  {
+    "id": "AW/S18-E007",
+    "name": "Challenging a Formidable Foe, Silver Crow",
+    "setId": "aw_18",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power and +1 soul until end of turn.",
+    "flavorText": "Ooh…… Ohhh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E007.png"
+    }
+  },
+  {
+    "id": "AW/S18-E008",
+    "name": "Pure Desire to Monopolize, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【AUTO】 [Return two characters in your waiting room to your deck., shuffle your deck afterwards] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "You…… belong to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E008.png"
+    }
+  },
+  {
+    "id": "AW/S18-E009",
+    "name": "Black Lotus",
+    "setId": "aw_18",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters, and return it to his or her hand.",
+    "flavorText": "And in my quest for speed and power I've slaughtered thousands of enemies... and along the way, even a few of my friends.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E009.png"
+    }
+  },
+  {
+    "id": "AW/S18-E010",
+    "name": "Black Lotus Facing a Crossroad Duel",
+    "setId": "aw_18",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "……very interesting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E010.png"
+    }
+  },
+  {
+    "id": "AW/S18-E011",
+    "name": "Amateur Burst Linker, Silver Crow",
+    "setId": "aw_18",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, all of your characters get +500 power until end of turn.",
+    "flavorText": "I can do better, I know it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E011.png"
+    }
+  },
+  {
+    "id": "AW/S18-E012",
+    "name": "《Black King》Black Lotus",
+    "setId": "aw_18",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When a card named \"Death By Piercing\" is placed on your climax area, if this card in your center stage, search your deck for up to one card named \"Real Strength, Kuroyukihime\", reveal it to your opponent, put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I am 《Black Lotus》!! The one who rebelled against your kings' rule!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E012.png"
+    }
+  },
+  {
+    "id": "AW/S18-E013",
+    "name": "Twilight Promise, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Well I'm glad to hear you feel that way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E013.png"
+    }
+  },
+  {
+    "id": "AW/S18-E014",
+    "name": "Real Strength, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Kuroyukihime\" or \"Black Lotus\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "……Strength isn’t solely defined by the number of victories you have won.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E014.png"
+    }
+  },
+  {
+    "id": "AW/S18-E015",
+    "name": "To the Unexplored Heights of Mankind, Haruyuki",
+    "setId": "aw_18",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Heart That Yearns for the Sky\" is in your climax area, you may pay the cost. If you do, until end of turn, all of your characters get +2000 power and your opponent cannot use \"【AUTO】 Encore\". (Your opponent cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "If 《Brain Burst》 does have an ending then there’s no doubt in my mind, that is exactly what we should be aiming for.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E015.png"
+    }
+  },
+  {
+    "id": "AW/S18-E016",
+    "name": "The Boy Who Wanted Wings, Haruyuki",
+    "setId": "aw_18",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, all of your other characters with \"Kuroyukihime（黒雪姫）\" in its card name get +500 power until end of turn. 【AUTO】 Bond/\"Twilight Promise, Kuroyukihime\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Twilight Promise, Kuroyukihime\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Take me with you! That’s where I want to be! Up there!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E016.png"
+    }
+  },
+  {
+    "id": "AW/S18-E017",
+    "name": "Pink Pig, Haruyuki",
+    "setId": "aw_18",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "So… what do we do now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E017.png"
+    }
+  },
+  {
+    "id": "AW/S18-E018",
+    "name": "King's Return, Black Lotus",
+    "setId": "aw_18",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "The Black King!!《Black Lotus》!!\nI can’t believe she’s still alive--!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E018.png"
+    }
+  },
+  {
+    "id": "AW/S18-E019",
+    "name": "School Madonna, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "Sorry for dragging you all the way here, Haruyuki Arita.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E019.png"
+    }
+  },
+  {
+    "id": "AW/S18-E020",
+    "name": "Bullied Kid, Haruyuki",
+    "setId": "aw_18",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Don't cry! And don't smile! Give them either and you lose……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E020.png"
+    }
+  },
+  {
+    "id": "AW/S18-E021",
+    "name": "Enormous Klutz, Haruyuki",
+    "setId": "aw_18",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "Ugh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E021.png"
+    }
+  },
+  {
+    "id": "AW/S18-E022",
+    "name": "Silver Wings, Silver Crow",
+    "setId": "aw_18",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Knight of the 《Black King》\" is in your climax area, this card gets +3000 power until end of turn.",
+    "flavorText": "I want to fly-- somewhere far away……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E022.png"
+    }
+  },
+  {
+    "id": "AW/S18-E023",
+    "name": "Pony Tail Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "So what do you think of my hair? This is how you said you liked it yesterday.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E023.png"
+    }
+  },
+  {
+    "id": "AW/S18-E024",
+    "name": "Impeding Wall, Haruyuki",
+    "setId": "aw_18",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "There’s someone who’s better at this than me!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E024.png"
+    }
+  },
+  {
+    "id": "AW/S18-E025",
+    "name": "Betrayal",
+    "setId": "aw_18",
+    "number": "E025",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of yellow characters you have is two or less, this card cannot be played from your hand. Choose one of your opponent's level 1 or lower characters, and put it into his or her stock.",
+    "flavorText": "And when they did…… I beheaded the Red King… the person closest to me calling for peace.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E025.png"
+    }
+  },
+  {
+    "id": "AW/S18-E026",
+    "name": "Gale Thruster",
+    "setId": "aw_18",
+    "number": "E026",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "--Armor up! 《Gale Thruster》!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E026.png"
+    }
+  },
+  {
+    "id": "AW/S18-E027",
+    "name": "The Heart That Yearns for the Sky",
+    "setId": "aw_18",
+    "number": "E027",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "……incarnation isn't about desire. It's about hope!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E027.png"
+    }
+  },
+  {
+    "id": "AW/S18-E028",
+    "name": "A Feeling Never Felt Before",
+    "setId": "aw_18",
+    "number": "E028",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "I'm sure we'll meet again…….someday.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E028.png"
+    }
+  },
+  {
+    "id": "AW/S18-E029",
+    "name": "Death By Piercing",
+    "setId": "aw_18",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Death By Piercing!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E029.png"
+    }
+  },
+  {
+    "id": "AW/S18-E030",
+    "name": "Knight of the《Black King》",
+    "setId": "aw_18",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Fight under her command, just like I do. C’mon, will you do it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E030.png"
+    }
+  },
+  {
+    "id": "AW/S18-E031",
+    "name": "Sea of Cushions, Chiyuri",
+    "setId": "aw_18",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【CONT】 All of your other characters get +500 power. 【AUTO】 [(1) 【REST】 two of your 【STAND】 characters] When you use \"Accelerate\", you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "You're still using that avatar? Ah, come on. Why don’t you change it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E031.png"
+    }
+  },
+  {
+    "id": "AW/S18-E032",
+    "name": "《Healer》Lime Bell",
+    "setId": "aw_18",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Time"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Citron Call\" is in your climax area, you may pay the cost. If you do, 【REST】 all of your 【REVERSE】 《Avatar》 or 《Net》 characters. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Choir Chime\" in your waiting room, and return it to your hand.",
+    "flavorText": "Take thatーーー!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E032.png"
+    }
+  },
+  {
+    "id": "AW/S18-E033",
+    "name": "Nonchalant Talk, Chiyuri",
+    "setId": "aw_18",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Oh, Takkun, is this your debut as a professor?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E033.png"
+    }
+  },
+  {
+    "id": "AW/S18-E034",
+    "name": "Apology Ice Cream, Chiyuri",
+    "setId": "aw_18",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "So did you get them?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E034.png"
+    }
+  },
+  {
+    "id": "AW/S18-E035",
+    "name": "Optimistic Lime Bell",
+    "setId": "aw_18",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 characters you have. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "You wanna get as many points as you can by winning tons of fights. And when you get to Level 10 you've cleared the game, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E035.png"
+    }
+  },
+  {
+    "id": "AW/S18-E036",
+    "name": "Taking Care of Friends, Chiyuri",
+    "setId": "aw_18",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power. 【AUTO】 When this card attacks, if a card named \"Chiyuri's Tears\" is in your climax area, choose one of your other characters, and that character gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "We can go back, right? To the way things were, before?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E036.png"
+    }
+  },
+  {
+    "id": "AW/S18-E037",
+    "name": "Chiyuri Kurashima",
+    "setId": "aw_18",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +1500 power. 【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Alright, let's go.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E037.png"
+    }
+  },
+  {
+    "id": "AW/S18-E038",
+    "name": "Lime Bell",
+    "setId": "aw_18",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Time"
+    ],
+    "text": "【CONT】 All of your other 《Avatar》 characters get +500 power.",
+    "flavorText": "Oh~, I get it~",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E038.png"
+    }
+  },
+  {
+    "id": "AW/S18-E039",
+    "name": "Seiji Nomi",
+    "setId": "aw_18",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【ACT】 [【REST】 two of your 《Avatar》 or 《Net》 characters] Choose a character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "Game over… Arita. Or should I say… 《Silver Crow》?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E039.png"
+    }
+  },
+  {
+    "id": "AW/S18-E040",
+    "name": "Ash Roller",
+    "setId": "aw_18",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Bike"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is three or less, this card gets +1000 power.",
+    "flavorText": "Hah ha ha ha ha! Ready to dance some more----?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E040.png"
+    }
+  },
+  {
+    "id": "AW/S18-E041",
+    "name": "Dusk Taker",
+    "setId": "aw_18",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When a card named \"Demonic Commandeer\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a character in your opponent's center stage, until end of turn, that character gets -2000 power and this card gets +2500 power.",
+    "flavorText": "But before I take your points away from you today… There’s something else I’m going to take from you first.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E041.png"
+    }
+  },
+  {
+    "id": "AW/S18-E042",
+    "name": "Betrayer, Lime Bell",
+    "setId": "aw_18",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Time"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "……Sorry, Takkun…… Sorry, Haru……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E042.png"
+    }
+  },
+  {
+    "id": "AW/S18-E043",
+    "name": "Younger Days, Chiyuri",
+    "setId": "aw_18",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【AUTO】 Bond/\"To The Unexplored Heights of Mankind, Haruyuki\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"To The Unexplored Heights of Mankind, Haruyuki\" in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E043.png"
+    }
+  },
+  {
+    "id": "AW/S18-E044",
+    "name": "Suspicious Gaze, Chiyuri",
+    "setId": "aw_18",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Return all cards in your opponent's waiting room to his or her deck. Shuffle your opponent's deck afterwards.",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E044.png"
+    }
+  },
+  {
+    "id": "AW/S18-E045",
+    "name": "Silver Cat, Chiyuri",
+    "setId": "aw_18",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Oh~ okay. So that’s how you're going to be, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E045.png"
+    }
+  },
+  {
+    "id": "AW/S18-E046",
+    "name": "Bright and Cheerful, Chiyuri",
+    "setId": "aw_18",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Hey Haru- ‘Sup?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E046.png"
+    }
+  },
+  {
+    "id": "AW/S18-E047",
+    "name": "Manly Skull Mask, Ash Roller",
+    "setId": "aw_18",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Bike"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "V-twin fists, baby! Yeah!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E047.png"
+    }
+  },
+  {
+    "id": "AW/S18-E048",
+    "name": "Sunny Smile, Chiyuri",
+    "setId": "aw_18",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "I did it---!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E048.png"
+    }
+  },
+  {
+    "id": "AW/S18-E049",
+    "name": "Lovable Charm, Chiyuri",
+    "setId": "aw_18",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "You’re supposed to be my pillow. Stop moving around so much.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E049.png"
+    }
+  },
+  {
+    "id": "AW/S18-E050",
+    "name": "Good Rival, Ash Roller",
+    "setId": "aw_18",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Bike"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.",
+    "flavorText": "And even better, my opponent is a newbie. Now I’m mega lucky!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E050.png"
+    }
+  },
+  {
+    "id": "AW/S18-E051",
+    "name": "Pyro Dealer",
+    "setId": "aw_18",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters, until end of turn, that character gets +3000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\" At the end of turn, put that character into your waiting room.",
+    "flavorText": "Now I can go on forever…… Let’s just be honest, I’m unstoppable.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E051.png"
+    }
+  },
+  {
+    "id": "AW/S18-E052",
+    "name": "Choir Chime",
+    "setId": "aw_18",
+    "number": "E052",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 【REST】 one of your 【STAND】 characters with \"Chiyuri(チユリ)\" or \"Lime Bell(ライム・ベル)\" in its card name. If you do, choose up to two of your characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\"",
+    "flavorText": "Pile: ”Just as I thought……《Lime Bell》 is a 《Healer》!”",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E052.png"
+    }
+  },
+  {
+    "id": "AW/S18-E053",
+    "name": "Chiyuri's Tears",
+    "setId": "aw_18",
+    "number": "E053",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Stop, please stop-----!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E053.png"
+    }
+  },
+  {
+    "id": "AW/S18-E054",
+    "name": "Citron Call",
+    "setId": "aw_18",
+    "number": "E054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Citron Call!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E054.png"
+    }
+  },
+  {
+    "id": "AW/S18-E055",
+    "name": "Demonic Commandeer",
+    "setId": "aw_18",
+    "number": "E055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Remember what I said earlier? That I’m going to take something important from you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E055.png"
+    }
+  },
+  {
+    "id": "AW/S18-E056",
+    "name": "Good at Cooking, Niko",
+    "setId": "aw_18",
+    "number": "E056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a card in your opponent's waiting room, and put it on the top of his or her deck.\"",
+    "flavorText": "No! Give it up. What’s with all this instant noodle crap anyway! Do neither of you two think that I can cook?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E056.png"
+    }
+  },
+  {
+    "id": "AW/S18-E057",
+    "name": "Yuniko Kozuki",
+    "setId": "aw_18",
+    "number": "E057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(3)] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Sure. I'll listen for 10 more strawberries.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E057.png"
+    }
+  },
+  {
+    "id": "AW/S18-E058",
+    "name": "Emotional Scarlet Rain",
+    "setId": "aw_18",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 [(1) 【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, until end of turn, that character gets +500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand. If you do, choose a card in your hand, and put it into your waiting room.\"",
+    "flavorText": "……I get it now, ya’ bastard! You set this up 《Yellow Radio》-- This was all you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E058.png"
+    }
+  },
+  {
+    "id": "AW/S18-E059",
+    "name": "Cute Cousin!? Niko",
+    "setId": "aw_18",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Wow! Are they really? I’m so glad!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E059.png"
+    }
+  },
+  {
+    "id": "AW/S18-E060",
+    "name": "Rain & Leopard",
+    "setId": "aw_18",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, put the top two cards of your deck into your waiting room. If those cards are all 《Avatar》 or 《Net》 characters, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E060.png"
+    }
+  },
+  {
+    "id": "AW/S18-E061",
+    "name": "《Immobile Fortress》Scarlet Rain",
+    "setId": "aw_18",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +1500 power. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Oh no, 'coz I'm about to crush you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E061.png"
+    }
+  },
+  {
+    "id": "AW/S18-E062",
+    "name": "《Red King》Scarlet Rain",
+    "setId": "aw_18",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card attacks, if a card named \"Hailstorm Domination\" is in your climax area, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters, and put it into his or her waiting room.",
+    "flavorText": "Let's go, Enhanced Armament---!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E062.png"
+    }
+  },
+  {
+    "id": "AW/S18-E063",
+    "name": "Niko Staying Over",
+    "setId": "aw_18",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"《Immobile Fortress》 Scarlet Rain\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "You don’t expect me to go home every time, do you? What a pain.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E063.png"
+    }
+  },
+  {
+    "id": "AW/S18-E064",
+    "name": "Heart Race in the Bath, Niko",
+    "setId": "aw_18",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card.",
+    "flavorText": "But p-please don't stare at me like that... It makes me uncomfortable-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E064.png"
+    }
+  },
+  {
+    "id": "AW/S18-E065",
+    "name": "Angel Mode, Niko",
+    "setId": "aw_18",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "Ow, why are you doing this to me~!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E065.png"
+    }
+  },
+  {
+    "id": "AW/S18-E066",
+    "name": "Darkness of the Heart, Silver Crow",
+    "setId": "aw_18",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Black Repercussions\" is in your climax area, this card gets +5500 power until end of turn, and at the beginning of your encore step, put this card into your waiting room.",
+    "flavorText": "Then destroy him. Destroy and devour.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E066.png"
+    }
+  },
+  {
+    "id": "AW/S18-E067",
+    "name": "Strongest Name, C.K",
+    "setId": "aw_18",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Mecha"
+    ],
+    "text": "【AUTO】 When your other 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Build up!! Super Kingbolt!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E067.png"
+    }
+  },
+  {
+    "id": "AW/S18-E068",
+    "name": "Crimson Kingbolt",
+    "setId": "aw_18",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Mecha"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "Whatever, It's fine. I mean after all, I am just a crummy old screw!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E068.png"
+    }
+  },
+  {
+    "id": "AW/S18-E069",
+    "name": "Maid of Nerima, Pard",
+    "setId": "aw_18",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Maid"
+    ],
+    "text": "【AUTO】 Bond/\"Good at Cooking, Niko\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Good at Cooking, Niko\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Are we done with the questions? K.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E069.png"
+    }
+  },
+  {
+    "id": "AW/S18-E070",
+    "name": "Megumi Wakamiya",
+    "setId": "aw_18",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "I’d like to ask you something because we're all dying to know.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E070.png"
+    }
+  },
+  {
+    "id": "AW/S18-E071",
+    "name": "《Bloody Storm》 Scarlet Rain",
+    "setId": "aw_18",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Looks like I win, big brother.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E071.png"
+    }
+  },
+  {
+    "id": "AW/S18-E072",
+    "name": "Close Friend Going Out-of-control, Scarlet Rain",
+    "setId": "aw_18",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Judgement Blow\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Let’s stay focused. We should get moving.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E072.png"
+    }
+  },
+  {
+    "id": "AW/S18-E073",
+    "name": "5th Generation Chrome Disaster",
+    "setId": "aw_18",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "--I will eat you alive. All of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E073.png"
+    }
+  },
+  {
+    "id": "AW/S18-E074",
+    "name": "《Prominence》's Top, Niko & Pard",
+    "setId": "aw_18",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Maid"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E074.png"
+    }
+  },
+  {
+    "id": "AW/S18-E075",
+    "name": "Peak of Impudence, Niko",
+    "setId": "aw_18",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 [Put another character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2500 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "No, I really can’t say that I hate her. If anything, I'm grateful to her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E075.png"
+    }
+  },
+  {
+    "id": "AW/S18-E076",
+    "name": "Invincible",
+    "setId": "aw_18",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two of your characters, and they get the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "So… not gonna run are ya’? How very brave!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E076.png"
+    }
+  },
+  {
+    "id": "AW/S18-E077",
+    "name": "Armor of Calamity",
+    "setId": "aw_18",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【CONT】 Memory If this card is in your memory, your 《Avatar》 character in the middle position of the center stage gets +1500 power and the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your clock.\"",
+    "flavorText": "Kuroyukihime: \"Even when the possessed Linker was destroyed, the armor never disappeared. It would simply possess another player and corrupt them as well.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E077.png"
+    }
+  },
+  {
+    "id": "AW/S18-E078",
+    "name": "Hailstorm Domination",
+    "setId": "aw_18",
+    "number": "E078",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Get ready ya’ little bastards……‘cuz you’re about to find out what it’s like to suffer the wrath of the 《Red King》!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E078.png"
+    }
+  },
+  {
+    "id": "AW/S18-E079",
+    "name": "Black Repercussions",
+    "setId": "aw_18",
+    "number": "E079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Shut up, Nomi! I’m sick of you! Get out of my life!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E079.png"
+    }
+  },
+  {
+    "id": "AW/S18-E080",
+    "name": "Judgment Blow",
+    "setId": "aw_18",
+    "number": "E080",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E080.png"
+    }
+  },
+  {
+    "id": "AW/S18-E081",
+    "name": "Hermit, Sky Raker",
+    "setId": "aw_18",
+    "number": "E081",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.",
+    "flavorText": "It’s so nice to meet you. My name is 《Sky Raker》.　It’s an honor to make your acquaintance, Mr. Crow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E081.png"
+    }
+  },
+  {
+    "id": "AW/S18-E082",
+    "name": "Kendo Club, Takumu",
+    "setId": "aw_18",
+    "number": "E082",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 If you have another character with \"Chiyuri(チユリ)\" in its card name, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Judge: \"On white, Mayuzumi.\"\nTakumu: \"Yessir!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E082.png"
+    }
+  },
+  {
+    "id": "AW/S18-E083",
+    "name": "Calm Smile, Fuko",
+    "setId": "aw_18",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in your center stage, this card cannot 【STAND】 during your stand phase.",
+    "flavorText": "Those tears… are proof that you will find some sort of truth for yourself in Accelerated World.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E083.png"
+    }
+  },
+  {
+    "id": "AW/S18-E084",
+    "name": "Cyan Pile",
+    "setId": "aw_18",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, draw a card, choose a card in your hand, put it into your waiting room, and this card gets +3000 power until end of turn.",
+    "flavorText": "If my guess is correct, then……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E084.png"
+    }
+  },
+  {
+    "id": "AW/S18-E085",
+    "name": "Fuko Kurasaki",
+    "setId": "aw_18",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【ACT】 [(1) 【REST】 two of your 《Avatar》 characters] This card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "As you now know, I did something really foolish, and as a result I lost a friend.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E085.png"
+    }
+  },
+  {
+    "id": "AW/S18-E086",
+    "name": "Former Ally, Sky Raker",
+    "setId": "aw_18",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.",
+    "flavorText": "Let me tell you a little bedtime story. About a foolish Burst Linker who reached for the sky… and what happened to her one and only friend……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E086.png"
+    }
+  },
+  {
+    "id": "AW/S18-E087",
+    "name": "Reliable Partner, Cyan Pile",
+    "setId": "aw_18",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "Haru, to your right!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E087.png"
+    }
+  },
+  {
+    "id": "AW/S18-E088",
+    "name": "Intelligent and Cute, Fuko",
+    "setId": "aw_18",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Incarnation\" is in your climax area, choose one of your other characters, and that character gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "Hello, Mr. Crow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E088.png"
+    }
+  },
+  {
+    "id": "AW/S18-E089",
+    "name": "Ash's Teacher, Sky Raker",
+    "setId": "aw_18",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【ACT】 [(1) 【REST】 one of your 《Avatar》 or 《Net》 characters] Draw a card, choose a card in your hand, put it into your waiting room, and this card gets +1000 power until end of turn.",
+    "flavorText": "It's been a long time, Ash. It's good to see you. I’m glad to know that you haven't forgotten about me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E089.png"
+    }
+  },
+  {
+    "id": "AW/S18-E090",
+    "name": "Mana Itosu",
+    "setId": "aw_18",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card.",
+    "flavorText": "Churakagi means beauty. She thinks you’re really pretty!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E090.png"
+    }
+  },
+  {
+    "id": "AW/S18-E091",
+    "name": "New Ally, Takumu",
+    "setId": "aw_18",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "……thank you…… my master……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E091.png"
+    }
+  },
+  {
+    "id": "AW/S18-E092",
+    "name": "《Bouncer》 Aqua Current",
+    "setId": "aw_18",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Water"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "And now, I’m going to strip you of all your points.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E092.png"
+    }
+  },
+  {
+    "id": "AW/S18-E093",
+    "name": "Ruka Asato",
+    "setId": "aw_18",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "Wassaibiin. ~ It's just… ~ I didn't know you’d be a major churakagi……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E093.png"
+    }
+  },
+  {
+    "id": "AW/S18-E094",
+    "name": "Glasses Character, Takumu",
+    "setId": "aw_18",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power.",
+    "flavorText": "Most likely, her plan was to threaten you with the 《Judgment Blow》 to get you to do some sort of bidding for her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E094.png"
+    }
+  },
+  {
+    "id": "AW/S18-E095",
+    "name": "Unlimited Field, Cyan Pile",
+    "setId": "aw_18",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When a card named \"Lightning Cyan Spike\" is placed on your climax area, if this card in your center stage, you may choose one of your opponent's characters, and move that character to another open position of your opponent's stage.",
+    "flavorText": "Once you're here it's possible to stay forever. Of course you have to be Level 4 or higher to even enter.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E095.png"
+    }
+  },
+  {
+    "id": "AW/S18-E096",
+    "name": "Silent Beauty, Aqua Current",
+    "setId": "aw_18",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "Please give that back to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E096.png"
+    }
+  },
+  {
+    "id": "AW/S18-E097",
+    "name": "Pile Driver",
+    "setId": "aw_18",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your opponent's level 3 or lower characters. That character cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "……The person who taught me Incarnation taught me something else. Cyan Pile’s true capabilities lie entirely within its Pile Driver.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E097.png"
+    }
+  },
+  {
+    "id": "AW/S18-E098",
+    "name": "Forced Transition",
+    "setId": "aw_18",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of 《Avatar》 characters you have is two or less, this card cannot be played from your hand. Choose one of your opponent's cost 1 or less characters, and put it on the bottom of his or her deck. Put this card into your memory.",
+    "flavorText": "Dolphin: \"Don’t worry about us, Nee-Nee. We’re in the ocean now!\"\nMerrow: \"Whenever we’re in the water, we’re always at our best!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E098.png"
+    }
+  },
+  {
+    "id": "AW/S18-E099",
+    "name": "Incarnation",
+    "setId": "aw_18",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "I fully visualize an image of my two wheels set in motion…… and through the incarnation of this image, I can control my wheelchair.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E099.png"
+    }
+  },
+  {
+    "id": "AW/S18-E100",
+    "name": "Lightning Cyan Spike",
+    "setId": "aw_18",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Exactly. And I had faith you believed in me too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E100.png"
+    }
+  },
+  {
+    "id": "AW/S18-E101",
+    "name": "Meddlesome Childhood Friend, Chiyuri",
+    "setId": "aw_18",
+    "number": "E101",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【ACT】 [【REST】 two of your 《Net》 or 《Avatar》 characters] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I got over the door of course.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E101.png"
+    }
+  },
+  {
+    "id": "AW/S18-E102",
+    "name": "Miraculous Survival, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E102",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【ACT】 [(1) 【REST】 this card] Choose one of your opponent's level 0 or lower characters, and return it to his or her hand.",
+    "flavorText": "…...I was surrounded by a dark void…...and all I could hear was your voice.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E102.png"
+    }
+  },
+  {
+    "id": "AW/S18-E103",
+    "name": "Jet Black Swallowtail Butterfly, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E103",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.",
+    "flavorText": "Want to 《accelerate》……. Want to take this even further, young man?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E103.png"
+    }
+  },
+  {
+    "id": "AW/S18-E104",
+    "name": "Silver Crow",
+    "setId": "aw_18",
+    "number": "E104",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【CONT】 The character facing this card gets -1 soul. 【ACT】 [(1)] This card gets +1 soul until end of turn.",
+    "flavorText": "…...So I'll fight. I’ll do it! I’ll become a Burst Linker……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E104.png"
+    }
+  },
+  {
+    "id": "AW/S18-E105",
+    "name": "Pajama Look, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E105",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "It's been a while… Haruyuki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_E105.png"
+    }
+  },
+  {
+    "id": "AW/S18-E106",
+    "name": "Conditions of Reward, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Student Council"
+    ],
+    "text": "-",
+    "flavorText": "If you successfully defend our territory while I'm gone, as a reward I'll grant you any wish you want when I'm back.",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_106.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_106.png"
+    }
+  },
+  {
+    "id": "AW/S18-E107",
+    "name": "Compensation for Black-talk, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Student Council"
+    ],
+    "text": "【CONT】 All of your other 《Student Council》 characters get +500 power.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_107.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_107.png"
+    }
+  },
+  {
+    "id": "AW/S18-E108",
+    "name": "Haruyuki's《Guardian》, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Student Council"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Haruyuki\" in its card name, reveal it to your opponent and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_108.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_108.png"
+    }
+  },
+  {
+    "id": "AW/S18-E110",
+    "name": "Jealous for the First Time, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "E110",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "Student Council"
+    ],
+    "text": "【ACT】 [(1)] This card gets +1 soul until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_110.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_110.png"
+    }
+  },
+  {
+    "id": "AW/S18-PE05",
+    "name": "Cute Sense of Rivalry, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "PE05",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Student Council"
+    ],
+    "text": "【ACT】 [(1)] This card gets +2000 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_p05.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_p05.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE01",
+    "name": "Pink Pig, Haruyuki",
+    "setId": "aw_18",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "So… what do we do now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE01.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE02",
+    "name": "Novice Burst Linker, Silver Crow",
+    "setId": "aw_18",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, all of your characters get +500 power until end of turn.",
+    "flavorText": "Is that…… Is this……. thing me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE02.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE03",
+    "name": "The King's Return, Black Lotus",
+    "setId": "aw_18",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "The Black King!!《Black Lotus》!!\nI can’t believe she’s still alive--!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE03.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE04",
+    "name": "School Madonna, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Net"
+    ],
+    "text": "-",
+    "flavorText": "Sorry for dragging you all the way here, Haruyuki Arita.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE04.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE05",
+    "name": "Bullied Kid, Haruyuki",
+    "setId": "aw_18",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Game"
+    ],
+    "text": "-",
+    "flavorText": "N-No, I probably, can't use it for anything anyway……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE05.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE06",
+    "name": "Twilight Promise, Kuroyukihime",
+    "setId": "aw_18",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Avatar"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Do you honestly believe that this gap between us, is so great it can never be closed?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE06.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE07",
+    "name": "Silver Wings, Silver Crow",
+    "setId": "aw_18",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"\" is in your climax area, this card gets +3000 power until end of turn.",
+    "flavorText": "This world, it just…...goes on forever……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE07.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE08",
+    "name": "Impeding Wall, Haruyuki",
+    "setId": "aw_18",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "There’s someone who’s better at this than me!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE08.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE09",
+    "name": "A Feeling Never Felt Before",
+    "setId": "aw_18",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "I'm sure we'll meet again…….someday.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE09.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE10",
+    "name": "Knight of the《Black King》",
+    "setId": "aw_18",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "--Are these…...wings?\n--It burns!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE10.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE11",
+    "name": "Silver Cat, Chiyuri",
+    "setId": "aw_18",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Oh~ okay. So that’s how you're going to be, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE11.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE12",
+    "name": "Bright and Cheerful, Chiyuri",
+    "setId": "aw_18",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Hey Haru- ‘Sup?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE12.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE13",
+    "name": "Adorable Charm, Chiyuri",
+    "setId": "aw_18",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Animal"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "You’re supposed to be my pillow. Stop moving around so much.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE13.png"
+    }
+  },
+  {
+    "id": "AW/S18-TE14",
+    "name": "Citron Call",
+    "setId": "aw_18",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Citron Call!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/aw_s18/AW_S18_TE14.png"
+    }
+  }
+]

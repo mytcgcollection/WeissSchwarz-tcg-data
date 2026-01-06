@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "MTI/S83-E001",
+    "name": "\"Talent for Magic\" Rudeus",
+    "setId": "mti_83",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If your hand has 5 or more cards, this card gets +2000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.",
+    "flavorText": "Oh, dear magnificent water spirit, the thunder god which rose to heaven! Grant my wish and lend us your ferocious blessings. Show the insignificant beings your power!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E001.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E002",
+    "name": "\"Living Earnestly\" Rudeus",
+    "setId": "mti_83",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Six-Sided World》 characters, this card gets -1 level while in your hand. 【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power. 【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\"",
+    "flavorText": "※「男」\nI know that it wasn't on purpose... But, I respect that petite girl.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E002.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E003",
+    "name": "\"In the Sunlight\" Rudeus",
+    "setId": "mti_83",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Little Magician\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\" 【ACT】 [(1) Put 1 \"\"Talented Swordsman\" Paul\" from your hand into your waiting room & 【REST】 2 of your 《Six-Sided World》 characters] Choose up to 2 《Maid》 or 《Younger Sister》 characters in your waiting room, and return them to your hand.",
+    "flavorText": "Sylph! Wait up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E003.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E004",
+    "name": "\"Adventurer Party Dead End\" Rudeus",
+    "setId": "mti_83",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 All of your other \"\"Adventurer Party Dead End\" Eris\" and \"\"Adventurer Party Dead End\" Ruijerd\" get +2000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Six-Sided World》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)",
+    "flavorText": "Hey hey! Are you guys here really adventurers?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E004.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E005",
+    "name": "\"Daily Growth\" Rudeus",
+    "setId": "mti_83",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"\"Talent for Magic\" Rudeus\" from your hand into your waiting room] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to 1 \"From Master to Disciple\", put it on your climax area, and shuffle your deck. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into their stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "Such a valuable item... Thank you so much!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E005.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E006",
+    "name": "\"Words of Encouragement\" Rudeus",
+    "setId": "mti_83",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If you have another \"\"Things I Can Give You\" Roxy\" in your back stage, this card gets +3000 power and +1 soul. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Aqua Heartia\" is in your climax area, and you have another 《Six-Sided World》 character, choose 1 《Six-Sided World》 character in your waiting room, return it to your hand, and this card gets the following ability until end of turn. \"【AUTO】 When damage dealt by this card is canceled, this card gets +4000 power until the end of your opponent's next turn.\"",
+    "flavorText": "Master, you did not fail. You are just gaining experience.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E006.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E007",
+    "name": "\"Life's Starting Line\" Rudeus",
+    "setId": "mti_83",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "Wow...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E007.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E008",
+    "name": "\"Courageous Young Man\" Rudeus",
+    "setId": "mti_83",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Six-Sided World》 characters get +500 power. 【ACT】 Experience [【REST】 this card] If \"\"Living Earnestly\" Rudeus\" is in your level, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Stop it...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E008.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E009",
+    "name": "\"Just a Child\" Rudeus",
+    "setId": "mti_83",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 [(4) Put 1 《Six-Sided World》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and 【REST】 it. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Uiiiee~!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E009.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E010",
+    "name": "\"Talented Swordsman\" Paul",
+    "setId": "mti_83",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If this card is in your center stage, all of your 《Six-Sided World》 characters get +1500 power. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step. 【AUTO】 [Put 1 character from your hand into your waiting room] This ability activates up to 1 time per turn. During this card's battle, when the damage you received is canceled, put the top card of your deck into your waiting room. If that card has in its trigger icon, you may pay the cost. If you do, deal the same damage to your opponent. (Damage may be canceled)",
+    "flavorText": "※「男」\nPaul is trash, to say the least. But I recognize this man despite all his flaws. Why? Because he is strong.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E010.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E011",
+    "name": "\"Friends\" Rudeus",
+    "setId": "mti_83",
+    "number": "E011",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Your other 《Six-Sided World》 character in the middle position of your center stage gets +1500 power. 【AUTO】 【CXCOMBO】 [Put 1 \"\"Overflowing Tears\" Sylphiette\" from your hand into your waiting room] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to 1 \"The Smile You Gave\", put it on your climax area, and shuffle your deck.",
+    "flavorText": "※「男」\nHe looks like someone who can't refuse others. I guess if an older guy was into young boys he would be completely smitten by him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E011.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E012",
+    "name": "\"Unraveling Heart\" Lilia",
+    "setId": "mti_83",
+    "number": "E012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Maid"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\" 【ACT】 [Put 1 event card from your hand into your waiting room & 【REST】 this card] Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand.",
+    "flavorText": "※「男」\nAfter that day, Lilia began opening up to me. Surprisingly, Lilia and Paul studied swordsmanship together in the same training hall during her younger days.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E012.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E013",
+    "name": "\"Offering a Hand\" Rudeus",
+    "setId": "mti_83",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Six-Sided World》 characters, and that character gets +1000 power until end of turn. 【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "May I have this dance?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E013.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E014",
+    "name": "Aisha & Norn",
+    "setId": "mti_83",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Younger Sister"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\" 【AUTO】 When your other 《Six-Sided World》 character attacks, this card gets +2000 power until end of turn.",
+    "flavorText": "Paul: \"Look it's papa~\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E014.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E015",
+    "name": "\"Blessed With Life\" Zenith",
+    "setId": "mti_83",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 Bond/\"\"Living Earnestly\" Rudeus\" \"\"Talented Swordsman\" Paul\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Living Earnestly\" Rudeus\" or \"\"Talented Swordsman\" Paul\" in your waiting room, and return it to your hand) 【ACT】 [【REST】 this card] Choose 1 of your \"\"Living Earnestly\" Rudeus\" or \"\"Talented Swordsman\" Paul\", and that character gets +2500 power until end of turn.",
+    "flavorText": "Hello. Nice to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E015.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E016",
+    "name": "Holy Relic",
+    "setId": "mti_83",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【AUTO】 Memory At the beginning of your climax phase, if this card is in your memory, choose 1 of your characters with \"Rudeus(ルーデウス)\" in its card name, and that character gets +2500 power until end of turn.",
+    "flavorText": "※「男」\nThose are the panties I stole from Roxy a few months ago... I'm sorry.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E016.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E017a",
+    "name": "Figure Making",
+    "setId": "mti_83",
+    "number": "E017a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Put this card into your memory. Choose up to X 《Six-Sided World》 characters in your waiting room, and return them to your hand. X is equal to the number of \"Figure Making\" in your memory.",
+    "flavorText": "Rudeus: \"It's done! Fufu... This is well-made, even if I say so myself.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E017a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E017a.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E018",
+    "name": "Man-God",
+    "setId": "mti_83",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "5",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Perform the following effects 1 time each in any order. \"Choose 1 of your opponent's characters, 【STAND】 it, and move it to another open position of their stage, or choose another of your opponent's characters, and exchange them as 【STAND】.\" \"Your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.\" \"Your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, and shuffles their deck.\"",
+    "flavorText": "Ahahahaha...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E018.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E019",
+    "name": "Aqua Heartia",
+    "setId": "mti_83",
+    "number": "E019",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ( When this card triggers, you may choose a character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock) (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Oh gather, magical power!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E019.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E020",
+    "name": "Little Magician",
+    "setId": "mti_83",
+    "number": "E020",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ( When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand) (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "I request upon here the great blessing of water. Come now, refreshing stream of water... \"Water Ball\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E020.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E021",
+    "name": "\"Smile to Be Protected\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E021",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 All of your other 《Six-Sided World》 characters get +500 power. 【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "※「男」\nI must put all my effort into treasuring this friend that I have made in this new world.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E021.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E022",
+    "name": "\"Pure and Innocent Heart\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E022",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"The Smile You Gave\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn. 【AUTO】 Memory When this card attacks, if \"\"Smile to Be Protected\" Sylphiette\" is in your memory, this card gets +2000 power until end of turn.",
+    "flavorText": "Ahaha! Fufu-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E022.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E023",
+    "name": "\"Warrior of Superd Race\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E023",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all of your opponent's characters get -X power until end of turn. X is equal to that character's level ×1000. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Dead End\" is in your climax area, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of their deck in any order, put the rest into their waiting room, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, put them on the top of your deck in any order, and put the rest into your waiting room.",
+    "flavorText": "If I abandoned you here, it would be a disgrace to the Superd race. Well... Not like we have a good reputation in the first place.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E023.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E024",
+    "name": "\"Angel's Haven\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Memory If \"\"Smile to Be Protected\" Sylphiette\" is in your memory, all of your other 《Six-Sided World》 characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Haa... Ha...Ha...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E024.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E025",
+    "name": "\"Eye on the Forehead\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Ah, you're right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E025.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E026",
+    "name": "\"Adventurer Party Dead End\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【CONT】 If you have \"\"Adventurer Party Dead End\" Rudeus\" and \"\"Adventurer Party Dead End\" Eris\", this card gets -1 level while in your hand. 【CONT】 If you have \"\"Adventurer Party Dead End\" Rudeus\" and \"\"Adventurer Party Dead End\" Eris\", this card gets +1 soul and the following abilities. \"【CONT】 During this card's battle, your opponent cannot play event cards from their hand.\" \"【AUTO】 When this card direct attacks, you may choose 1 《Six-Sided World》 character in your waiting room, and put it into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E026.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E027",
+    "name": "\"Tomboyish Childhood Friend\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E027",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Memory If your memory has 2 or more \"\"Smile to Be Protected\" Sylphiette\", this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E027.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E028",
+    "name": "\"Battle Stance\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【CONT】 If \"\"Talent for Magic\" Rudeus\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the bottom card of your clock into your waiting room. 【AUTO】 Change [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 1 \"\"Warrior of Superd Race\" Ruijerd\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "It's so frustrating... Don't they realize that they are surrounded by monsters?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E028.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E029",
+    "name": "\"Quarter-Elf Girl\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 The character facing this card gets -1 soul. 【CONT】 Memory If your memory has 3 or more cards, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Future Magician\" is in your climax area, and you have 2 or more other 《Six-Sided World》 characters, put up to 1 card from the top of your clock into your waiting room, and this card gets the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -1 soul.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E029.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E030",
+    "name": "\"Pretty Boy?\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand.",
+    "flavorText": "※「男」\nMy, what a surprise! A shockingly pretty boy. I guess if an older woman was into young boys she would be completely smitten by him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E030.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E031",
+    "name": "Adventurer's Guild Receptionist",
+    "setId": "mti_83",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Guild"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Six-Sided World》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\"",
+    "flavorText": "Are you sure you are ok with \"Dead End\" as your party name?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E031.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E032a",
+    "name": "Tokurabu Toughs",
+    "setId": "mti_83",
+    "number": "E032a",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Adventurer"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put it on any position of your back stage. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Bachirou!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E032a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E032a.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E033a",
+    "name": "P Hunter",
+    "setId": "mti_83",
+    "number": "E033a",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Adventurer"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Dead End's Ruijerd\". 【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E033a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E033a.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E034",
+    "name": "\"Magic Practice\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Memory During your turn, if there is a card in your memory, this card gets +2500 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\" 【CONT】 Experience If \"\"Living Earnestly\" Rudeus\" is in your level, this card gets +1000 power and the following ability. \"【CONT】 This card can be played from your hand without fulfilling color requirements.\"",
+    "flavorText": "Teach that to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E034.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E035",
+    "name": "\"Sparkly Eyes\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" in its card name, this card gets +6000 power. 【AUTO】 【CXCOMBO】 [(1) Put this card into your memory] When \"Future Magician\" is placed on your climax area, if you have a 《Six-Sided World》 character, you may pay the cost. If you do, choose 1 \"\"Quarter-Elf Girl\" Sylphiette\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Uwaa......!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E035.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E036",
+    "name": "\"Feared Race\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Superd's Soul\" in your waiting room, and return it to your hand. 【ACT】 【COUNTER】 Backup 1000, Level 0 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E036.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E037",
+    "name": "Nokopara",
+    "setId": "mti_83",
+    "number": "E037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Adventurer"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+    "flavorText": "See. You. Soon! Newbie!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E037.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E038",
+    "name": "\"Overflowing Tears\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "-",
+    "flavorText": "N-No...! Please don't go...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E038.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E039",
+    "name": "\"Alone Time for Two\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" or \"Sylphiette(シルフィエット)\" in its card name, this card gets +3000 power.",
+    "flavorText": "Sorry, did you wait long?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E039.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E040",
+    "name": "\"Friends\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +1000 power. 【AUTO】 Memory When this card attacks, if \"\"Smile to Be Protected\" Sylphiette\" is in your memory, choose 1 of your other 《Six-Sided World》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "......Yes...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E040.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E041",
+    "name": "\"Intense Outrage\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Six-Sided World》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "You are wrong! That isn't the truth. It is a scheme of Laplace's!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E041.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E042",
+    "name": "\"Studying with Rudy\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your memory has 2 or less cards, you may choose 1 \"\"Smile to Be Protected\" Sylphiette\" in your waiting room, and put it into your memory. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "Huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E042.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E043",
+    "name": "\"In the Sunlight\" Sylphiette",
+    "setId": "mti_83",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Assist All of your 《Six-Sided World》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it in your waiting room.",
+    "flavorText": "Rudy, what shall we do today?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E043.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E044",
+    "name": "\"Wounded Pride\" Ruijerd",
+    "setId": "mti_83",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Warrior"
+    ],
+    "text": "【CONT】 Memory If \"Superd's Soul\" is in your memory, this card gets +4500 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Children and Warriors\" is in your climax area, choose up to 1 《Six-Sided World》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is \"Superd's Soul\" or a 《Six-Sided World》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "You never learn. Do I seem that untrustworthy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E044.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E045",
+    "name": "Superd's Soul",
+    "setId": "mti_83",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your characters, and that character gets +4000 power until end of turn. Put this card into your memory. 【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "This spear is the soul of my son who sacrificed himself to save me from the curse. The Superd's notoriety is our punishment for our carelessness in believing Laplace and accepting his cursed spears.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E045.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E046",
+    "name": "Sylph",
+    "setId": "mti_83",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 1 or less 《Six-Sided World》 characters, this card cannot be played from your hand. Choose 1 of the following effects, and perform it. \"Choose 1 of your characters, and that character gets +4000 power until end of turn.\" \"You may choose 1 \"Sylph\" in your hand, and put it into your waiting room. If you do, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\"\"",
+    "flavorText": "Rudeus: \"You'll catch a cold if you don't hurry.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E046.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E047",
+    "name": "The Smile You Gave",
+    "setId": "mti_83",
+    "number": "E047",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Sylphiette: \"I've done it! I've done it!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E047.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E048",
+    "name": "Dead End",
+    "setId": "mti_83",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E048.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E049",
+    "name": "Future Magician",
+    "setId": "mti_83",
+    "number": "E049",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "I did it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E049.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E050",
+    "name": "Children and Warriors",
+    "setId": "mti_83",
+    "number": "E050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with level equal to or lower than your level in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn.",
+    "flavorText": "Ruijerd: \"Well then...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E050.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E051",
+    "name": "\"Swordsman of Beauty\" Eris",
+    "setId": "mti_83",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 During your turn, if there is a marker underneath this card, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"You Can't Buy Dere With Money!\" or a 《Six-Sided World》 character, you may put it face down underneath this card as a marker. (Otherwise, return to its original place) 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other characters, 【REST】 it, and move it to an open position in your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E051.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E052",
+    "name": "\"Violent Tsundere Young Lady\" Eris",
+    "setId": "mti_83",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If all of your characters are 《Six-Sided World》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When \"Eris's Request\" is placed on your climax area, if this card is in your center stage, and you have another 《Six-Sided World》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Six-Sided World》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "How conceited!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E052.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E053",
+    "name": "\"Strong Swordswoman\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 During your turn, if you have 4 or more other 《Six-Sided World》 characters, this card gets +5000 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play event cards or \"Backup\" from their hand.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"Right Demon Eye\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I swear upon the names of my master, Sword God Gal Farion and my clan Dedoldia!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E053.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E054",
+    "name": "\"Seductive Invitation\" Eris",
+    "setId": "mti_83",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "※「男」\nSuch smooth hair. Her daily training means that her hair is usually more unkempt.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E054.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E055",
+    "name": "\"Swordsmanship Coach\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "Use your legs more! Don't only move your hands!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E055.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E056",
+    "name": "\"Sword God Style\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Rudeus! Bring young mistress back to safety!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E056.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E057",
+    "name": "\"Strong Body\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Six-Sided World》 character in your back stage. 【CONT】 All of your other 《Six-Sided World》 characters get +1000 power.",
+    "flavorText": "Yeah.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E057.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E058",
+    "name": "\"Boreas Family's Daughter\" Eris",
+    "setId": "mti_83",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +1500 power and the following ability. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】, you may pay the cost. If you do, return this card to your hand.\" 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"You Can't Buy Dere With Money!\" or a 《Six-Sided World》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)",
+    "flavorText": "Hurry up and follow me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E058.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E059",
+    "name": "\"Hidden Strength\" Eris",
+    "setId": "mti_83",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand, choose up to 1 \"Special\" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When damage dealt by this card is not canceled, if \"Special\" is in your climax area, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E059.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E060",
+    "name": "\"Adventurer Party Dead End\" Eris",
+    "setId": "mti_83",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If you have another \"\"Adventurer Party Dead End\" Rudeus\" in your back stage, this card gets +2000 power. 【CONT】 If you have another \"\"Adventurer Party Dead End\" Ruijerd\", this card gets +3000 power.",
+    "flavorText": "I can't read this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E060.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E061",
+    "name": "\"Angelic Sleeping Face\" Eris",
+    "setId": "mti_83",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room.",
+    "flavorText": "Zzz...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E061.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E062",
+    "name": "\"Magic Practice\" Eris",
+    "setId": "mti_83",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Six-Sided World》 characters, this card gets +2000 power. 【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Yes, I did it-!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E062.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E063",
+    "name": "\"Boreas Family's Bodyguard\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If you have another character with \"Rudeus(ルーデウス)\" or \"Eris(エリス)\" in its card name, this card gets +1500 power. 【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E063.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E064",
+    "name": "\"Beast Race\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Six-Sided World》 character in your back stage. 【AUTO】 【CXCOMBO】 [(1) Put 1 character from your hand into your waiting room] When \"Sword King Ghislaine\" is placed on your climax area, if this card is in your center stage, and you have 2 or more other 《Six-Sided World》 characters, you may pay the cost. If you do, choose 1 level 3 or lower character in your opponent's center stage, put it into their waiting room, and reveal the top card of your deck. If that card is a 《Six-Sided World》 character, choose 1 level 2 or lower character in your opponent's back stage, and put it in their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E064.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E065",
+    "name": "Philip Boreas Greyrat",
+    "setId": "mti_83",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Noble"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, choose up to 3 \"Beast Race Maids of the Boreas Family\" in your waiting room, and put them face down underneath this card as markers.",
+    "flavorText": "I am Philip Boreas Greyrat, the mayor of this town. Paul and I are cousins.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E065.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E066",
+    "name": "Sauros Boreas Greyrat",
+    "setId": "mti_83",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Noble"
+    ],
+    "text": "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Philip Boreas Greyrat\" in your hand, and put it on the stage position that this card was on.\" 【AUTO】 Bond/\"\"Violent Tsundere Young Lady\" Eris\" \"Philip Boreas Greyrat\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Violent Tsundere Young Lady\" Eris\" or \"Philip Boreas Greyrat\" in your waiting room, and return it to your hand)",
+    "flavorText": "※「男」\nWow, he is identical to Eris... Could it be that Eris became that way because she followed this guy's footsteps?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E066.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E067",
+    "name": "Beast Race Maids of the Boreas Family",
+    "setId": "mti_83",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Maid"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 All of your other red characters or characters with \"Rudeus (ルーデウス)\" in their card names get +500 power. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. If \"Beast Race Maids of the Boreas Family\" is among those cards, search your deck for up to 1 red character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Philip: \"My, you understand the greatness of that?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E067b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E067b.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E068",
+    "name": "Hilda Boreas Greyrat",
+    "setId": "mti_83",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Noble"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "※「男」\nShe is Philip's wife, huh...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E068.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E069",
+    "name": "\"Study Time\" Eris",
+    "setId": "mti_83",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 During your turn, this card gets +2000 power.",
+    "flavorText": "How about this!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E069.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E070",
+    "name": "\"Magic Practice\" Ghislaine",
+    "setId": "mti_83",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your 《Six-Sided World》 characters, and that character gets the following ability until end of turn. \"【AUTO】 At the beginning of your attack phase, choose 1 of your other \"\"Insolence\" Eris\", and 【STAND】 it.\"",
+    "flavorText": "I request upon here the great blessing of fire. Come now, warmth of bold light... \"Fire Ball\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E070.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E071",
+    "name": "\"Penetrating Gaze\" Eris",
+    "setId": "mti_83",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is level 0 or lower, choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. (Climax are regarded as level 0) 【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not become a direct attack)",
+    "flavorText": "You're not quite there yet, Rudeus!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E071.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E072",
+    "name": "\"What Lies Beyond Effort\" Eris",
+    "setId": "mti_83",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "......Sure.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E072.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E073",
+    "name": "\"Fine Feathers Make Fine Birds\" Eris",
+    "setId": "mti_83",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Six-Sided World》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "※「男」\nFine feathers make fine birds indeed...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E073.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E074",
+    "name": "\"Insolence\" Eris",
+    "setId": "mti_83",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E074.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E075",
+    "name": "Fangs of the Black Wolf",
+    "setId": "mti_83",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand. Choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Our party was called \"Fangs of the Black Wolf\". We had 6 members - 2 swordsmen, a warrior, a thief, a priest, as well as a magician.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E075.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E076",
+    "name": "You Can't Buy Dere With Money!",
+    "setId": "mti_83",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose up to 1 of your 《Six-Sided World》 characters in battle, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E076.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E077",
+    "name": "Eris's Request",
+    "setId": "mti_83",
+    "number": "E077",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E077.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E078",
+    "name": "Right Demon Eye",
+    "setId": "mti_83",
+    "number": "E078",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "...Such tremendous magic power.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E078.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E079",
+    "name": "Special",
+    "setId": "mti_83",
+    "number": "E079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E079.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E080",
+    "name": "Sword King Ghislaine",
+    "setId": "mti_83",
+    "number": "E080",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E080.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E081",
+    "name": "\"Things I Can Give You\" Roxy",
+    "setId": "mti_83",
+    "number": "E081",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Around here should be fine.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E081.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E082",
+    "name": "\"Warm Gaze\" Roxy",
+    "setId": "mti_83",
+    "number": "E082",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 At the end of this card's attack, if \"Blessing\" is in your climax area, and you have another 《Six-Sided World》 character, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"Choose 2 cards in your hand, and put them into your waiting room. If you put 2 cards into your waiting room, deal 3 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E082.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E083",
+    "name": "\"Audible Gasps\" Roxy",
+    "setId": "mti_83",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top and bottom cards of your opponent's deck. (Return the cards you saw to their original place) 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Amulet of Migurd Race\" in your waiting room, and return it to your hand.",
+    "flavorText": "Haa...Haa...Haa...Nngh.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E083.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E084",
+    "name": "\"Future Guide\" Roxy",
+    "setId": "mti_83",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Six-Sided World》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Look. You can see the small mountain over there, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E084.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E085",
+    "name": "\"Culinary Class\" Roxy",
+    "setId": "mti_83",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"\"Migurd Race Magician\" Roxy\" in your hand, and put it on the stage position this card was on.\" 【CONT】 All of your other \"\"Jobless Reincarnation\" Rudeus\" get +1000 power. 【CONT】 All of your other 《Six-Sided World》 characters get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E085.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E086",
+    "name": "\"In the Sunlight\" Roxy",
+    "setId": "mti_83",
+    "number": "E086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Six-Sided World》 characters. 【AUTO】 【CXCOMBO】 [(1)] When your character's trigger check reveals \"From Master to Disciple\" or \"Blessing\", you may pay the cost. If you do, draw 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E086.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E087",
+    "name": "\"Migurd Race Magician\" Roxy",
+    "setId": "mti_83",
+    "number": "E087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "3500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E087.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E088",
+    "name": "\"Composing a Letter\" Roxy",
+    "setId": "mti_83",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, this card's soul does not decrease by side attacking until end of turn. (Return the revealed card to its original place) 【AUTO】 When this card attacks, choose 1 of your 《Six-Sided World》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Dear Rudeus. I have read your letter.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E088.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E089",
+    "name": "Almanfi the Radiant",
+    "setId": "mti_83",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Familiar"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Almanfi the Radiant\" in your memory, and put it on any position on your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E089.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E090",
+    "name": "Pax Shirone",
+    "setId": "mti_83",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Royalty"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Roxy(ロキシー)\" in its card name, this card cannot attack. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "Roxy: \"Speaking of which, the prince bought this sculpture which looks exactly like me the other day. The robe was removable, and its body was identical to mine down to the positions of the moles.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E090.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E091",
+    "name": "\"Rudy's Home Tutor\" Roxy",
+    "setId": "mti_83",
+    "number": "E091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Six-Sided World》 characters. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Cumulonimbus\" is in your climax area, perform the following action 2 times. \"Reveal the top card of your deck. If that card is an event or a 《Six-Sided World》 character, put it into your hand.\" (Otherwise, return it to its original place)",
+    "flavorText": "You rarely encounter monsters around here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E091.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E092",
+    "name": "Kishirika Kishirisu",
+    "setId": "mti_83",
+    "number": "E092",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Great Demon Emperor"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, choose up to 1 card from among them, put it at the bottom of their deck, put the rest on top of their deck in any order, and this card gets +2000 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your 《Six-Sided World》 characters, and that character gets +3000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "The Empress of the Demon Realm! Kishirika Kishirisu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E092.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E093",
+    "name": "\"Mischievous Smile\" Roxy",
+    "setId": "mti_83",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 If all of your characters are 《Six-Sided World》, this card gets +1000 power. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "...Oh? You're scared, aren't you? Of the horses.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E093.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E094",
+    "name": "Rokari Migurdia",
+    "setId": "mti_83",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Demon Continent"
+    ],
+    "text": "【AUTO】 Bond/ \"\"Warm Gaze\" Roxy\" \"Rowin Migurdia\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Warm Gaze\" Roxy\" or \"Rowin Migurdia\" in your waiting room, and return it to your hand) 【AUTO】 Resonate [Reveal 1 \"Rowin Migurdia\" in your hand] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, all of your other characters get +2000 power until end of turn.",
+    "flavorText": "Such flattery. I'm already 1-2 years old.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E094.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E095",
+    "name": "Rowin Migurdia",
+    "setId": "mti_83",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Demon Continent"
+    ],
+    "text": "【AUTO】 Bond/ \"\"Things I Can Give You\" Roxy\" \"Rokari Migurdia\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Things I Can Give You\" Roxy\" or \"Rokari Migurdia\" in your waiting room, and return it to your hand) 【AUTO】 Resonate [Reveal 1 \"Rokari Migurdia\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E095.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E096",
+    "name": "Orsted",
+    "setId": "mti_83",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Dragon God"
+    ],
+    "text": "【CONT】 If you have 1 or less other characters in your center stage, this card gets +3500 power, and the character facing this card gets the following ability. \"【CONT】 This card gets -1 level while in the stage.\" 【CONT】 The character facing this card gets the following ability. \"【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E096.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E097",
+    "name": "\"Cringe\" Roxy",
+    "setId": "mti_83",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Experience If \"\"Living Earnestly\" Rudeus\" is in your level, this card gets +2000 power, and \"【AUTO】 Encore [Put 1 《Six-Sided World》 character from your hand into your waiting room] \". 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×1000.",
+    "flavorText": "......?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E097.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E098",
+    "name": "Amulet of Migurd Race",
+    "setId": "mti_83",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Roxy(ロキシー)\" in its card name, this card cannot be played from your hand. Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. If you put a character into your hand, choose 1 card in your hand, and put it into your waiting room. Put this card into your memory. 【AUTO】 Memory [Put this card into your waiting room] When you level up, if this card is in your memory, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Roxy: \"This is an amulet from my hometown. I didn't have time to prepare a gift for your graduation, so you would have to make do with this.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E098.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E099",
+    "name": "Blessing",
+    "setId": "mti_83",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Congratulations. You are now a saint-level water magician.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E099.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E100",
+    "name": "Cumulonimbus",
+    "setId": "mti_83",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E100.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E101",
+    "name": "Rudeus Greyrat",
+    "setId": "mti_83",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Six-Sided World》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Nice to meet you, I am Rudeus Greyrat.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E101.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E102",
+    "name": "Sylphiette",
+    "setId": "mti_83",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Six-Sided World》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "......Syl...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E102.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E103",
+    "name": "Ghislaine Dedoldia",
+    "setId": "mti_83",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 If you do not have another character, this card gets +1 level and +1500 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Name's Ghislaine. Will be in your care from tomorrow on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E103.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E104",
+    "name": "Eris Boreas Greyrat",
+    "setId": "mti_83",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When your other 《Six-Sided World》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×500.",
+    "flavorText": "I will specially allow you to call me \"Eris\"!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E104.png"
+    }
+  },
+  {
+    "id": "MTI/S83-E105",
+    "name": "Roxy Migurdia",
+    "setId": "mti_83",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【AUTO】 [【REST】 1 of your other 《Six-Sided World》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+    "flavorText": "I'm Roxy Migurdia. I will be in your care.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_E105.png"
+    }
+  },
+  {
+    "id": "MTI/S83-PE02",
+    "name": "\"The Beautiful Scenery of Buena Village\" Roxy & Rudeus",
+    "setId": "mti_83",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Roxy & Rudeus: \"Good day!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/BP/MTI_S83_PE02.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE01",
+    "name": "\"Good Wife, Wise Mother\" Zenith",
+    "setId": "mti_83",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 All of your other \"\"The Beginning of a New Life\" Rudeus\" and \"\"Sword Training\" Paul\" get +1000 power. 【AUTO】 Bond/\"\"The Beginning of a New Life\" Rudeus\" \"\"Sword Training\" Paul\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"The Beginning of a New Life\" Rudeus\" or \"\"Sword Training\" Paul\" in your waiting room, and return it to your hand)",
+    "flavorText": "Well, we should introduce ourselves first.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE01.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE02",
+    "name": "\"Graduation Exam\" Rudeus",
+    "setId": "mti_83",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Six-Sided World》 characters, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE02.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE03",
+    "name": "Paul Greyrat",
+    "setId": "mti_83",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Well, this sword may be too early for you, but a man should always carry a sword inside his heart.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE03.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE04",
+    "name": "Zenith Greyrat",
+    "setId": "mti_83",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 All of your other 《Six-Sided World》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Six-Sided World》 character in your waiting room, and exchange them.",
+    "flavorText": "As expected, our son is a genius!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE04.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE05",
+    "name": "Lilia Greyrat",
+    "setId": "mti_83",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Maid"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Six-Sided World》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Milady, it's a little hard to say... But I suspect young master Rudeus is... Possessed by something evil...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE05.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE06",
+    "name": "\"Jobless Reincarnation\" Rudeus",
+    "setId": "mti_83",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"From Master to Disciple\" is in your climax area, and the total level of the cards in your level is 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 《Six-Sided World》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1500 power until end of turn.",
+    "flavorText": "Huuuuh... Haaaah.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE06.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE07",
+    "name": "\"The Beginning of a New Life\" Rudeus",
+    "setId": "mti_83",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "-",
+    "flavorText": "※「男」\n...What?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE07.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE08",
+    "name": "\"Magic Practice\" Rudeus",
+    "setId": "mti_83",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Hehe! I did it! It flew-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE08.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE09",
+    "name": "\"Sword Training\" Paul",
+    "setId": "mti_83",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Swordsman"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×1000. 【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE09.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE10",
+    "name": "\"Chant\" Rudeus",
+    "setId": "mti_83",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1000 power and cannot be chosen by your opponent's effects. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Six-Sided World》 characters you have.",
+    "flavorText": "I request upon here the great blessing of water...Hah!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE10.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE11",
+    "name": "Previous Life's Trauma",
+    "setId": "mti_83",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "－",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Six-Sided World》 character, this card cannot be played from your hand. Choose 1 of the following effects, and perform it. \"Search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Choose 1 of your 《Six-Sided World》 characters, and that character gets +3500 power until the end of your opponent's next turn. That character cannot 【STAND】 during your next stand phase.\"",
+    "flavorText": "※「男」\nIf I look outside it all comes back to me. The memories of those days...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE11.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE12",
+    "name": "From Master to Disciple",
+    "setId": "mti_83",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Oh...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE12.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE13",
+    "name": "Amidst the Passing Days",
+    "setId": "mti_83",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE13.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE14",
+    "name": "\"Loli, Scornful Eyes, Unfriendly\" Roxy",
+    "setId": "mti_83",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Six-Sided World》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "※「男」\nLoli, scornful eyes, unfriendly, a perfect combination. I really want to make her my wife.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE14.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE15",
+    "name": "\"Demon Race\" Roxy",
+    "setId": "mti_83",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Six-Sided World》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "My hair looks green under varying lighting conditions.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE15.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE16",
+    "name": "\"Depressed Feelings\" Roxy",
+    "setId": "mti_83",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, your opponent may put the top 2 cards of their stock into their waiting room. If they do, this card cannot frontal attack until end of turn.",
+    "flavorText": "Rudy, you will understand some day.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE16.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE17",
+    "name": "\"Welcome Party\" Roxy",
+    "setId": "mti_83",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power for each other 《Six-Sided World》 character in your back stage. 【AUTO】 When this card attacks, choose 1 of your other 《Six-Sided World》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Six-Sided World》 characters you have ×500.",
+    "flavorText": "Wah!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE17.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE18",
+    "name": "\"Unexpected Failure\" Roxy",
+    "setId": "mti_83",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Six-Sided World》 character in your waiting room, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE18.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE19",
+    "name": "\"Chant\" Roxy",
+    "setId": "mti_83",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Six-Sided World",
+      "Magical Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I request upon here the great blessing of water. Come now, refreshing stream of water... \"Water Ball\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE19.png"
+    }
+  },
+  {
+    "id": "MTI/S83-TE20",
+    "name": "Little Master",
+    "setId": "mti_83",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card) (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "※「男」\nRoxy is a good tutor. The lessons were interesting and enjoyable. Thanks to her, I am able to use intermediate attack magic with relative ease.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MTI/TD/MTI_S83_TE20.png"
+    }
+  }
+]

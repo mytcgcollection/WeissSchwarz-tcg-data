@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "RZ/S68-E001",
+    "name": "Snow Bunny",
+    "setId": "rz_68",
+    "number": "E001",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Petra: \"Wow! It's really a rabbit now!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E001.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E002",
+    "name": "Aim for New York? Petra",
+    "setId": "rz_68",
+    "number": "E002",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your attack phase, choose 1 of your yellow characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "It's a town that was in Subaru's homeland.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E002.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E003",
+    "name": "Snow Bunny and Petra",
+    "setId": "rz_68",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 \"Aim for New York? Petra\" or \"Delicious Reward, Petra\" in your waiting room, and exchange them. 【AUTO】 Memory [Put 1 card from your hand into your stock] When this card is placed on the stage from your hand, if \"Snow Bunny\" is in your memory, you may pay the cost. If you do, this card gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E003.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E004",
+    "name": "\"Memory Snow\" Subaru",
+    "setId": "rz_68",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Flying Assault Form of the Ultra-Firepower Weapon S-N0 BUN-E\" in your waiting room, and return it to your hand. 【AUTO】 Memory When this card attacks, if you have 4 or more \"Snow Bunny\" in your memory, choose 1 of your characters, and that character gets +3000 power and +1 soul until end of turn.",
+    "flavorText": "We'll call it… The Roswaal Mansion's First Wild and Crazy Snow Festival!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E004.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E005",
+    "name": "Aim for New York? Dine",
+    "setId": "rz_68",
+    "number": "E005",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Memory Snow》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Memory Snow》 characters you have ×500.",
+    "flavorText": "He called it a town swirling with love and desire!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E005.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E006",
+    "name": "Aim for New York? Lucas",
+    "setId": "rz_68",
+    "number": "E006",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into his or her stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "Swirling-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E006.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E007",
+    "name": "Girl from Village Irlam, Petra",
+    "setId": "rz_68",
+    "number": "E007",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【CONT】 Experience If \"Aim for New York? Petra\" and \"Delicious Reward, Petra\" are in your level, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 When \"Out-of-Season Snow Festival\" is placed on your climax area, if this card is on your center stage, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of the attack phase, choose up to 2 level 0 or lower 《Memory Snow》 characters in your waiting room, put them on separate positions of your stage, and you may put the top card of your deck into your waiting room. If that card is a 《Memory Snow》 character or \"Flying Assault Form of the Ultra-Firepower Weapon S-N0 BUN-E\", choose 1 of your other level 0 or lower characters, and that character gets +9000 power and +1 soul until end of turn.\"",
+    "flavorText": "Ah, Subaru!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E007.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E008",
+    "name": "Delicious Reward, Petra",
+    "setId": "rz_68",
+    "number": "E008",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【CONT】 If you are level 3 or higher, the character facing this card gets -1 soul. 【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Memory Snow》 character or \"Flying Assault Form of the Ultra-Firepower Weapon S-N0 BUN-E\", you may move this card to an open position of your center stage.",
+    "flavorText": "Yummy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E008.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E009",
+    "name": "Aim for New York? Mildo",
+    "setId": "rz_68",
+    "number": "E009",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Memory Snow",
+      "-"
+    ],
+    "text": "【CONT】 If you do not have another 《Memory Snow》 character, this card cannot 【STAND】 during your stand phase. 【CONT】 This card cannot side attack.",
+    "flavorText": "Where's New York?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E009.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E010",
+    "name": "Another World-Style? Incitement, Subaru",
+    "setId": "rz_68",
+    "number": "E010",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Memory Snow》 characters, this card gets +1 level and +3500 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or less cards in your memory, you may choose 1 \"Snow Bunny\" in your waiting room, and put it into your memory. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"First Wild and Crazy Snow Festival\" is in your climax area, search your deck for up to 1 yellow character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Do you wanna go to New York-?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E010.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E011",
+    "name": "Flying Assault Form of the Ultra-Firepower Weapon S-N0 BUN-E",
+    "setId": "rz_68",
+    "number": "E011",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Memory If you do not have any 《Memory Snow》 characters, this card cannot be played from your hand. If you have 3 or more \"Snow Bunny\" in your memory, deal 2 damage to your opponent, and put up to 1 card from the top of your clock into your waiting room. (Damage may be canceled)",
+    "flavorText": "Subaru: \"We'll give it a tail and wings, and missiles and a transformation ability, and a cockpit and caterpillar tracks…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E011.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E012",
+    "name": "First Wild and Crazy Snow Festival",
+    "setId": "rz_68",
+    "number": "E012",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E012.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E013",
+    "name": "Out-of-Season Snow Festival",
+    "setId": "rz_68",
+    "number": "E013",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "There's Subaru!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E013.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E014",
+    "name": "\"Memory Snow\" Ram & Rem",
+    "setId": "rz_68",
+    "number": "E014",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Memory Snow》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Rem: \"Sister, look at that!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E014.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E015",
+    "name": "God's Vantage Point, Ram",
+    "setId": "rz_68",
+    "number": "E015",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Memory If \"Leave Everything to Me, Rem\" is in your memory, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Daily Duties\" is in your climax area, choose up to 1 《Memory Snow》 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Strong and weak points are purely a matter of subjectivity. I don't look at the world from such a narrow perspective.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E015.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E016",
+    "name": "\"Memory Snow\" Beatrice",
+    "setId": "rz_68",
+    "number": "E016",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other 《Memory Snow》 characters get +1500 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "It wasn't bad, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E016.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E017",
+    "name": "Heavy Drinker, Ram",
+    "setId": "rz_68",
+    "number": "E017",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Memory Snow》 characters, you may put the top card of your clock into your waiting room. 【AUTO】 Memory When this card attacks, if you have 2 or more \"Leave Everything to Me, Rem\" in your memory, choose 1 of your characters, and that character gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "Obviously, I've trained myself differently.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E017.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E018",
+    "name": "Beatrice Trying Her Best Alone",
+    "setId": "rz_68",
+    "number": "E018",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have 2 or more other 《Memory Snow》 characters, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Beatrice Trying Her Best Alone\" in your memory, put it on any position of your stage, choose 1 of your other characters, and that character gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E018.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E019",
+    "name": "Ram With a Weakness to Cold",
+    "setId": "rz_68",
+    "number": "E019",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Memory Snow》 character, you may move this card to an open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E019.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E020",
+    "name": "Ram Holding Her Breath",
+    "setId": "rz_68",
+    "number": "E020",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E020.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E021",
+    "name": "Unexpectedly Low Rating, Ram",
+    "setId": "rz_68",
+    "number": "E021",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Memory Snow》 character in your waiting room, and return it to your hand.",
+    "flavorText": "N-No... That can't be…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E021.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E022",
+    "name": "Delightful Banquet, Ram",
+    "setId": "rz_68",
+    "number": "E022",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with \"Memory\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E022.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E023",
+    "name": "Subaru Shining Under the Night Sky",
+    "setId": "rz_68",
+    "number": "E023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Memory Snow》 characters. 【AUTO】 Memory When this card is placed on the stage from your hand, if you have 2 or more \"Leave Everything to Me, Rem\" in your memory, choose 1 of your characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "You're all going to try to find Subaru together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E023.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E024",
+    "name": "Actually Having Fun? Beatrice",
+    "setId": "rz_68",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Memory Snow》 characters. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Participating in the Snow Festival!\" is in your climax area, you may pay the cost. If you do, choose 1 《Memory Snow》 character with a level equal to or less than your level +1 in your waiting room, put it on any position of your stage as 【REST】, and this card gets +2000 power until end of turn.",
+    "flavorText": "Bubby insisted.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E024.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E025",
+    "name": "Super Artist, Ram",
+    "setId": "rz_68",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If you have another \"Magnificent Subawaal Sculpture\", this card gets +2000 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Combination of Ideals, Rem\" in your waiting room, and put it on any position of your stage. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if \"Expectant Gazes\" is in your climax area, and you have 4 or more other 《Memory Snow》 characters, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I suppose our supreme artistic sense drew you here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E025.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E026",
+    "name": "Magnificent Subawaal Sculpture",
+    "setId": "rz_68",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ideal",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card cannot attack. 【CONT】 If all of your characters are 《Memory Snow》, this card gets +1000 power and cannot be chosen by your opponent's effects. 【AUTO】 When this card is placed on the stage from your hand or by the effect of \"Fusion\", you may put the top card of your clock into your waiting room. 【AUTO】 At the beginning of your encore step, if this card is on your center stage, and this card is 【STAND】, reveal the top card of your deck, put it into your stock, and deal X damage to your opponent. X is equal to the total number of in the trigger icon of the revealed card +2. (Damage may be canceled)",
+    "flavorText": "Ram: \"After searching for a compromise, this is the solution we reached.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E026.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E027",
+    "name": "Cold Surprise Attack, Beatrice",
+    "setId": "rz_68",
+    "number": "E027",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Hyaa-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E027.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E028",
+    "name": "Magic-Release Season Strategy Meeting, Beatrice",
+    "setId": "rz_68",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0) 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Memory Snow》 character in your waiting room, and return it to your hand.",
+    "flavorText": "For a great spirit as powerful as Bubby, the magic release period is something he can never be rid of.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E028.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E029",
+    "name": "Slight Omen, Roswaal",
+    "setId": "rz_68",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card attacks, choose 1 of your 《Memory Snow》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "It appears something quite troubling has found its way to us.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E029.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E030",
+    "name": "Presented by Me! Subaru",
+    "setId": "rz_68",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other 《Memory Snow》 characters get +500 power. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 level until end of turn.",
+    "flavorText": "Well, it's a gorgeous, one-of-a-kind item presented by me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E030.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E031",
+    "name": "Scornful Gaze, Ram",
+    "setId": "rz_68",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E031.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E032",
+    "name": "Expectedly Cold, Beatrice",
+    "setId": "rz_68",
+    "number": "E032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other 《Memory Snow》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+    "flavorText": "Achoo",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E032.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E033",
+    "name": "Harsher Than Usual, Ram",
+    "setId": "rz_68",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If all of your characters are 《Memory Snow》, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Memory Snow》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "You don't even know what od is? I question your common sense. You're as superficial and thoughtless as they come, Barusu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E033.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E034",
+    "name": "Dinner Drink, Roswaal",
+    "setId": "rz_68",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+    "flavorText": "That's quite an extreme statement.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E034.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E035",
+    "name": "A Day to Remember, Ram",
+    "setId": "rz_68",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Memory Snow》 characters, you may choose 1 \"Leave Everything to Me, Rem\" in your waiting room, and put it into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E035.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E036",
+    "name": "\"Memory Snow\" Roswaal",
+    "setId": "rz_68",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 2 \"Magnificent Subawaal Sculpture\" in your waiting room, and put them at the bottom of your deck in any order. 【ACT】 Fusion [Put 1 \"Presented by Me! Subaru\" from your stage face up underneath this card as a marker] Search your deck for up to 1 \"Magnificent Subawaal Sculpture\", put it on this card's stage position, put this card and all markers underneath this card face up in any order underneath that \"Magnificent Subawaal Sculpture\" as markers, and shuffle your deck.",
+    "flavorText": "But it just sort of… gives me chills.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E036.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E037",
+    "name": "Ram Being a Wet Blanket",
+    "setId": "rz_68",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "That means you mean less than such trivial matters, Barusu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E037.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E038",
+    "name": "Taking Care of the Drunkards, Ram",
+    "setId": "rz_68",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When your other \"Drunk Rem\" is placed on the stage from your hand, you may put the top card of your deck into your stock. 【AUTO】 Bond/\"Drunk Rem\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Drunk Rem\" in your waiting room, and return it to your hand)",
+    "flavorText": "What are you doing, Barusu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E038.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E039",
+    "name": "Busy, Beatrice",
+    "setId": "rz_68",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1 level and +500 power until end of turn.",
+    "flavorText": "I'm quite busy. I have no time to play with you, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E039.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E040",
+    "name": "Abnormal Weather? Subaru",
+    "setId": "rz_68",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 \"Tranquil Reception\" in your waiting room, and return it to your hand.",
+    "flavorText": "Okay, something's obviously wrong here!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E040.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E041",
+    "name": "Banquet's Corner, Beatrice",
+    "setId": "rz_68",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Not a Bad Day\" is in your climax area, choose up to 1 《Memory Snow》 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +1 level until end of turn.",
+    "flavorText": "You're being way too rude, I suppose!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E041.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E042",
+    "name": "Judge, Roswaal",
+    "setId": "rz_68",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Memory Snow》 character in your waiting room, return it to your hand, choose 1 of your other 《Memory Snow》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E042.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E043",
+    "name": "Slight Change, Ram",
+    "setId": "rz_68",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "-",
+    "flavorText": "What could have happened? They only just bloomed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E043.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E044",
+    "name": "Precious Alcohol, Ram",
+    "setId": "rz_68",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Memory Snow》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place) 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "I heard that Roswaal-sama's grandmother was a heavy drinker.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E044.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E045",
+    "name": "Bored Spectator, Beatrice",
+    "setId": "rz_68",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "-",
+    "flavorText": "Sheesh... He is unbelievable, I suppose.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E045.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E046",
+    "name": "Madly in Love With Bubby, Beatrice",
+    "setId": "rz_68",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When your other 《Memory Snow》 character attacks, this card gets +2000 power until end of turn. 【AUTO】 Encore [Put 1 《Memory Snow》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E046.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E047",
+    "name": "Strong Enemy, Roswaal",
+    "setId": "rz_68",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【ACT】 [(1) Put 1 \"Great Spirit Attack, Puck\" from your stage into your waiting room & Put this card into your waiting room] Put all players' characters in the middle position of their center stage into their waiting room. All players cannot choose the middle position of their center stage to place cards on or move characters to until the end of your opponent's next turn. (Playing onto, moving to or placing onto by effects are also not allowed)",
+    "flavorText": "We spent a full day and night clashing in earnest.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E047.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E048",
+    "name": "Tranquil Reception",
+    "setId": "rz_68",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your opponent's characters, and that character gets -2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E048.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E049",
+    "name": "Daily Duties",
+    "setId": "rz_68",
+    "number": "E049",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Subaru: \"Why'd you look at Ram when you mentioned daily duties?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E049.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E050",
+    "name": "Participating in the Snow Festival!",
+    "setId": "rz_68",
+    "number": "E050",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E050.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E051",
+    "name": "Expectant Gazes",
+    "setId": "rz_68",
+    "number": "E051",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E051.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E052",
+    "name": "Not a Bad Day",
+    "setId": "rz_68",
+    "number": "E052",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Subaru: \"The snow festival was fun, wasn't it?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E052.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E053",
+    "name": "Secret Flower Garden, Emilia",
+    "setId": "rz_68",
+    "number": "E053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "What is it, Subaru?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E053.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E054",
+    "name": "Leave Everything to Me, Rem",
+    "setId": "rz_68",
+    "number": "E054",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 Memory When this card is put into your memory, or if this card is in your memory at the beginning of your turn, and all of your characters are 《Memory Snow》, all players cannot receive damage of 1 or less dealt by 【AUTO】 effects of their respective opponent's characters until the end of your opponent's next turn. 【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Memory Snow》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "You can count on me to keep you warm!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E054.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E055",
+    "name": "That's Not It, Rem",
+    "setId": "rz_68",
+    "number": "E055",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Memory Snow》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Praise me! Praise me! Aura\" is in your climax area, and you have another 《Memory Snow》 character, look at up to 3 cards from the top of your deck, choose up to 1 《Memory Snow》 character or \"Horrific Mayonnaise Human\" from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1 level until end of turn.",
+    "flavorText": "If we boil it, it'll be a nice, warm mayonnaise bath!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E055.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E056",
+    "name": "The World Reflected in Her Eyes, Emilia",
+    "setId": "rz_68",
+    "number": "E056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Memory If you have 2 or more \"Leave Everything to Me, Rem\" in your memory, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place) 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "It might be a bit bland, but I think it looks just like you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E056.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E057",
+    "name": "\"Memory Snow\" Emilia",
+    "setId": "rz_68",
+    "number": "E057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Memory Snow》 characters, you may choose 1 character in your clock, and put it into your memory. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if \"Peaceful Moment\" is in your climax area, and you have another 《Memory Snow》 character, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"Put all cards in your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of your opponent's deck into his or her stock, choose 1 of your characters, and that character gets +6000 power until end of turn.\" \"Deal 2 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "Look, look! Lots of snow spirits!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E057.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E058",
+    "name": "Delightful Banquet, Rem",
+    "setId": "rz_68",
+    "number": "E058",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Memory Snow》 characters, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 Memory [(1)] When this card attacks, if \"It's All Subaru's Fault\" is in your climax area, and you have 2 or more \"Leave Everything to Me, Rem\" in your memory, you may pay the cost. If you do, look at up to 5 cards from the bottom of your opponent's deck, choose up to 1 climax from among them, put it into your opponent's clock, and put the rest into his or her waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E058.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E059",
+    "name": "Dream-Like Scenery, Rem & Emilia",
+    "setId": "rz_68",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your other characters with \"Emilia(エミリア)\" or \"Rem(レム)\" in its card name, and that character gets +1000 power until end of turn. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Memory Snow》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Emilia: \"C'mon over here, Rem...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E059.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E060",
+    "name": "I Worked Hard! Rem",
+    "setId": "rz_68",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If all of your characters are 《Memory Snow》, this card gets the following ability. \"【AUTO】 During the climax phase or attack phase, when your or your opponent's character is placed onto the stage from the waiting room due to the respective player's card effects, all characters on that player's center stage get -X power until end of turn. X is equal to the cost of the character placed on the stage ×2000.\" 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "If you wish to compliment me, I don't mind.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E060.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E061",
+    "name": "About the Future, Puck",
+    "setId": "rz_68",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck. 【AUTO】 [(1) Put the top card of your deck into your clock & Put this card face down underneath \"Magic-Release Season Strategy Meeting, Puck\" as a marker] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I hope we can have another snow festival next year.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E061.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E062",
+    "name": "No Cheating, Emilia",
+    "setId": "rz_68",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 Memory When this card is placed on the stage from your hand, if \"Leave Everything to Me, Rem\" is in your memory, draw up to 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "No magic allowed! Cheating is wrong.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E062.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E063",
+    "name": "Unsettling Declaration, Rem",
+    "setId": "rz_68",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 Memory When this card attacks, if there is a card in your memory, this card gets +X power until end of turn. X is equal to the number of 《Memory Snow》 characters you have ×500.",
+    "flavorText": "I was gazing upon your face in order to get my spirits up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E063.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E064",
+    "name": "Recognition-Hindering Robe, Emilia",
+    "setId": "rz_68",
+    "number": "E064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Memory Snow》 character from your hand into your waiting room & Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of his or her deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E064.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E065",
+    "name": "Magic-Release Season Strategy Meeting, Emilia",
+    "setId": "rz_68",
+    "number": "E065",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If you have another \"Magic-Release Season Strategy Meeting, Puck\", all of your other characters get +500 power. 【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "To overcome it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E065.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E066",
+    "name": "Date-Day Morning, Emilia",
+    "setId": "rz_68",
+    "number": "E066",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【ACT】 [【REST】 1 of your 《Memory Snow》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E066.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E067",
+    "name": "Combination of Ideals, Rem",
+    "setId": "rz_68",
+    "number": "E067",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Super Artist, Ram\", look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Memory Snow》 characters you have. 【AUTO】 [(1)] This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if you have another \"Magnificent Subawaal Sculpture\", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "It makes no sense that a merging of my ideals and yours could fail!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E067.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E068",
+    "name": "Satisfying Conclusion, Puck",
+    "setId": "rz_68",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other 《Memory Snow》 characters get +500 power. 【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it at the bottom of his or her deck.",
+    "flavorText": "There's still hope even for you, Subaru.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E068.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E069",
+    "name": "Delightful Banquet, Emilia",
+    "setId": "rz_68",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E069.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E070",
+    "name": "Great Spirit Attack, Puck",
+    "setId": "rz_68",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Memory Snow》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Want another one?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E070.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E071",
+    "name": "Internet Literacy? Emilia",
+    "setId": "rz_68",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Memory Snow》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Memory Snow》 characters you have ×500.",
+    "flavorText": "I don't know what \"adult websites\" are...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E071.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E072",
+    "name": "Concaved Puck",
+    "setId": "rz_68",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Memory Snow》 characters revealed among those cards ×1000.",
+    "flavorText": "It scares me to think about how I look to you, but maybe it's just too artistic for ordinary folks to understand.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E072.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E073",
+    "name": "Earnest Admiration, Rem",
+    "setId": "rz_68",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Memory Snow》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Impressive as always, Subaru-kun! You have my respect!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E073.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E074",
+    "name": "Madly in Love With Puck, Emilia",
+    "setId": "rz_68",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 During your turn, if you have another \"Magic-Release Season Strategy Meeting, Puck\", this card gets +4000 power. 【AUTO】 Bond/\"About the Future, Puck\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"About the Future, Puck\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E074.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E075",
+    "name": "Hot Springs Operation, Subaru",
+    "setId": "rz_68",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Horrific Mayonnaise Human\" in your waiting room, and return it to your hand.",
+    "flavorText": "Is this... mayonnaise?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E075.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E076",
+    "name": "Magic-Release Season Strategy Meeting, Puck",
+    "setId": "rz_68",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All characters without 《Memory Snow》 get -1000 power for every 2 markers underneath this card. 【AUTO】 【CXCOMBO】 When \"It's Magic-Release Season!\" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Memory Snow》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "The last time was probably when I fought that lady in black in the capital. I actually ran out of mana.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E076.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E077",
+    "name": "Aloof Emilia",
+    "setId": "rz_68",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When your other 《Memory Snow》 character attacks, this card gets +1500 power until end of turn. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Oh, of course, it's not only because I promised. I was sort of looking forward to it myself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E077.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E078",
+    "name": "Speaking in Riddles, Puck",
+    "setId": "rz_68",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Memory Snow》 characters. 【AUTO】 Encore [Put 1 《Memory Snow》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Personally, Subaru, I think that part of you is really... you know.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E078.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E079",
+    "name": "Drunk Emilia",
+    "setId": "rz_68",
+    "number": "E079",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 【CXCOMBO】 When your opponent levels up, if \"First Experience With Alcohol\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Memory Snow》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "I's no fair that y'kept this secret f'so long!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E079.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E080",
+    "name": "Secret Mission, Subaru",
+    "setId": "rz_68",
+    "number": "E080",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.",
+    "flavorText": "Scouting out a course for my date with Emilia-tan.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E080.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E081",
+    "name": "Highly Considerate, Puck",
+    "setId": "rz_68",
+    "number": "E081",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 During your turn, all of your other \"Bored Spectator, Beatrice\" get +2000 power. 【AUTO】 Bond/\"Bored Spectator, Beatrice\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Bored Spectator, Beatrice\" in your waiting room, and return it to your hand)",
+    "flavorText": "I think Subaru just wants to play with you, Betty.\nActually, I'd like to do that too, if possible.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E081.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E082",
+    "name": "Slight Change, Rem",
+    "setId": "rz_68",
+    "number": "E082",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other \"Slight Change, Ram\" get +500 power and the following ability. \"【AUTO】 [Put this card into your waiting room] When your other 《Memory Snow》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.\" 【AUTO】 Bond/\"Slight Change, Ram\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Slight Change, Ram\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E082.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E083",
+    "name": "Can't Get Enough of This, Subaru",
+    "setId": "rz_68",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Memory Snow》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "Oh, damn it! She's so cute!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E083.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E084",
+    "name": "Emilia Working Hard",
+    "setId": "rz_68",
+    "number": "E084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Memory Snow》 characters, and that character gets +1000 power until end of turn. 【AUTO】 When this card direct attacks, choose 1 of your other 《Memory Snow》 characters, and that character gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "Okay.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E084.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E085",
+    "name": "Magic-Release Season Strategy Meeting, Rem",
+    "setId": "rz_68",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position on the stage. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "The magic release period is a phenomenon that occurs in beings that possess very powerful magic.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E085.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E086",
+    "name": "Winter Clothing, Rem",
+    "setId": "rz_68",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Memory Snow》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E086.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E087",
+    "name": "Unsatisfied With the Grading, Emilia",
+    "setId": "rz_68",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "-",
+    "flavorText": "I worked so hard, and I only got nine points? I don't think that's right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E087.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E088",
+    "name": "Releasing Mana, Puck",
+    "setId": "rz_68",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other 《Memory Snow》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn.",
+    "flavorText": "Hey, maybe I can get away with a little more. Yes! I definitely can! They're more simple-minded than I thought!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E088.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E089",
+    "name": "The One Who Did the Work, Rem",
+    "setId": "rz_68",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 All of your other \"Magnificent Subawaal Sculpture\" get +1000 power. 【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+    "flavorText": "Yes, I believe this is the best work my sister's direction and my meager abilities could produce.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E089.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E090",
+    "name": "Secret Flower Garden, Subaru",
+    "setId": "rz_68",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 【CXCOMBO】 [(2)] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to 1 \"Arrival of the Next Morning\", put it on your climax area, and shuffle your deck.",
+    "flavorText": "Emilia-tan!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E090.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E091",
+    "name": "Imploring Gaze, Rem",
+    "setId": "rz_68",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Memory During your turn, if \"Leave Everything to Me, Rem\" is in your memory, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return the revealed card to its original place)",
+    "flavorText": "Then what about you, Roswaal-sama?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E091.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E092",
+    "name": "Drunk Rem",
+    "setId": "rz_68",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "-",
+    "flavorText": "Subaru-kun.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E092.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E093",
+    "name": "Horrific Mayonnaise Human",
+    "setId": "rz_68",
+    "number": "E093",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CXCOMBO】 If you do not have a character with \"Rem(レム)\" in its card name, this card cannot be played from your hand. Look at up to 7 cards from the top of your deck, choose up to 1 \"That's Not It, Rem\" or \"Praise me! Praise me! Aura\" from among them, reveal it to your opponent, put it into your hand, return the rest to your deck, and shuffle your deck.",
+    "flavorText": "Rem: \"Before... When there wasn't enough mayonnaise, you were angry at me.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E093.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E094",
+    "name": "Avant-Garde Sculpture",
+    "setId": "rz_68",
+    "number": "E094",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Memory Snow》 character, this card cannot be played from your hand. Choose 1 of the following effects and perform it. \"You may put the top 2 cards of your stock into your waiting room. If you do, search your deck for up to 2 《Memory Snow》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.\" \"You may choose 1 \"Unsatisfied With the Grading, Emilia\" in your hand, and put it into your waiting room. If you do, search your deck for up to 2 《Memory Snow》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.\"",
+    "flavorText": "Puck: \"This is me?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E094.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E095",
+    "name": "Peaceful Moment",
+    "setId": "rz_68",
+    "number": "E095",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E095.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E096",
+    "name": "It's All Subaru's Fault",
+    "setId": "rz_68",
+    "number": "E096",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Subaru-kun. Subaru-kun. Subaru-kun.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E096 copy.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E096 copy.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E097",
+    "name": "Praise me! Praise me! Aura",
+    "setId": "rz_68",
+    "number": "E097",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E097.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E098",
+    "name": "It's Magic-Release Season!",
+    "setId": "rz_68",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Sorry for causing so much trouble.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E098.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E099",
+    "name": "First Experience With Alcohol",
+    "setId": "rz_68",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Everyone's been sneakin'... sneakin'... sneakin' around me with it, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E099.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E100",
+    "name": "Arrival of the Next Morning",
+    "setId": "rz_68",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Emilia: \"Did you wait long?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E100.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E101",
+    "name": "Dot Ram [Memory Snow]",
+    "setId": "rz_68",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order. 【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.",
+    "flavorText": "Feeling my sister's love so keenly gives me a superiority complex.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E101.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E102",
+    "name": "Dot Beatrice [Memory Snow]",
+    "setId": "rz_68",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Memory If you have a card in your memory, this card gets +2500 power and \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+    "flavorText": "There's no rule written anywhere saying it's wrong.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E102.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E103",
+    "name": "Dot Rem [Memory Snow]",
+    "setId": "rz_68",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【CONT】 Assist All of your 《Memory Snow》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your character direct attacks, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Subaru-kun, look at this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E103.png"
+    }
+  },
+  {
+    "id": "RZ/S68-E104",
+    "name": "Dot Emilia & Puck [Memory Snow]",
+    "setId": "rz_68",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Memory Snow"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of his or her deck.",
+    "flavorText": "Yes, this looks great!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/r/rz_s68/RZ_S68_E104.png"
+    }
+  }
+]

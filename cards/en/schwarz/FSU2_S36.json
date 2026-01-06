@@ -1,0 +1,2677 @@
+[
+  {
+    "id": "FS/S36-E001",
+    "name": "“Trace On” Shirou",
+    "setId": "fs_36",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one character with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "―Trace, on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E001.png"
+    }
+  },
+  {
+    "id": "FS/S36-E002",
+    "name": "“Excalibur” Saber",
+    "setId": "fs_36",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your deck is five or less, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other characters with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "“Excalibur”――!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E002.png"
+    }
+  },
+  {
+    "id": "FS/S36-E003",
+    "name": "“Unlimited Blade Works” Shirou",
+    "setId": "fs_36",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to one card, and this card gets +2000 power until end of turn. 【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] When this card's battle opponent becomes 【REVERSE】, if a card named \"Unlimited Blade Works\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with the same level as that battle opponent, put it on any position of your stage, and at the beginning of your encore step, if that character is on the stage, put that character into your memory.",
+    "flavorText": "I create a world that contains an infinite number of swords. That is the only magic\nallowed to Shirou Emiya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E003.png"
+    }
+  },
+  {
+    "id": "FS/S36-E004",
+    "name": "“Summoning with a Command Seal” Shirou",
+    "setId": "fs_36",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When a climax is put on your climax area, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Please… Come to me… Saber!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E004.png"
+    }
+  },
+  {
+    "id": "FS/S36-E005",
+    "name": "“Contract Concluded” Saber",
+    "setId": "fs_36",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.",
+    "flavorText": "Victory is yours, Rin.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E005.png"
+    }
+  },
+  {
+    "id": "FS/S36-E006",
+    "name": "“King's Self-esteem” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, put the top two cards of your deck into your waiting room. If there is a climax among those cards, this card gets -3000 power until end of turn.",
+    "flavorText": "When I'm done with you, there won't be a single bone shard left of that counterfeiting cranium of yours!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E006.png"
+    }
+  },
+  {
+    "id": "FS/S36-E007",
+    "name": "“Tough Strength” Saber",
+    "setId": "fs_36",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other characters with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name. 【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may choose a character in your waiting room, and put it on the top of your deck.",
+    "flavorText": "Hurry!! Rin!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E007.png"
+    }
+  },
+  {
+    "id": "FS/S36-E008",
+    "name": "“Gate of Babylon” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"“Gate of Babylon”\" is in your climax area, put the top two cards of your deck into your waiting room. For each trigger icon revealed among those cards, perform the following action. \"Deal one damage to your opponent.\" (This damage may be canceled) 【ACT】 [Put a 《Weapon》 character from your hand into your waiting room] This card gets +4000 power until end of turn.",
+    "flavorText": "Hero of justice? A world where no one is hurt? Don't be absurd.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E008.png"
+    }
+  },
+  {
+    "id": "FS/S36-E009",
+    "name": "“Serious Assault” Shirou",
+    "setId": "fs_36",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"“Rho Aias”\" is in your climax area, you may pay the cost. If you do, put X cards from the top of your deck underneath this card as a marker, and this card gets +1500 power until end of turn. X is equal to the number of 《Weapon》 or 《Jewel》 characters you have. 【AUTO】 At the beginning of your opponent's attack phase, put all markers from underneath this card into your waiting room. For each trigger icon among those cards, the character facing this card gets -1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E009.png"
+    }
+  },
+  {
+    "id": "FS/S36-E010",
+    "name": "“Non-intersecting Ideals” Shirou & Archer",
+    "setId": "fs_36",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other characters, and that character gets +1500 power until end of turn. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Signal to Counterattack\" in your waiting room, and return it to your hand.",
+    "flavorText": "Shirou: \"-I can't be beaten by you. I don't mind losing to someone else. But I'm not about to be beaten by myself-!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E010.png"
+    }
+  },
+  {
+    "id": "FS/S36-E011",
+    "name": "“Divine Construct” Saber",
+    "setId": "fs_36",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put X cards from the top of your deck into your waiting room. X is equal to the number of characters you have with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of cards in your clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E011.png"
+    }
+  },
+  {
+    "id": "FS/S36-E012",
+    "name": "“Pure White Dress” Saber",
+    "setId": "fs_36",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E012.png"
+    }
+  },
+  {
+    "id": "FS/S36-E013",
+    "name": "“Top Servant” Saber",
+    "setId": "fs_36",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is three or more, this card gets +1500 power, and this card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects. 【AUTO】 When this card attacks, if a card named \"“Excalibur”\" is in your climax area, you may put a card from the top of your deck underneath this card as a marker. 【AUTO】 At the beginning of your climax phase, if there is a marker underneath this card, you may choose one of your opponent's level 1 or lower characters, and put it into his or her stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room, and at the beginning of your encore step, put this card into your memory.",
+    "flavorText": "Master, what is the situation?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E013.png"
+    }
+  },
+  {
+    "id": "FS/S36-E014",
+    "name": "“Using a Command Seal” Shirou",
+    "setId": "fs_36",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When another of your 《Master》 or 《Servant》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E014.png"
+    }
+  },
+  {
+    "id": "FS/S36-E015",
+    "name": "“Furious Punch” Shirou",
+    "setId": "fs_36",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name get +500 power and +1 soul. 【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"“Unlimited Blade Works” Shirou\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Damn you!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E015.png"
+    }
+  },
+  {
+    "id": "FS/S36-E016",
+    "name": "“Defeat's End” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters with \"Gilgamesh(ギルガメッシュ)\" or \"Archer(アーチャー)\" in its card name get +500 power.",
+    "flavorText": "Victory is yours. Die with that satisfaction, faker.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E016.png"
+    }
+  },
+  {
+    "id": "FS/S36-E017",
+    "name": "“A Battle of Legend” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If a yellow climax is in your climax area, this card gets +1 soul.",
+    "flavorText": "Let us reenact a battle of legend here, shall we?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E017.png"
+    }
+  },
+  {
+    "id": "FS/S36-E018",
+    "name": "“Greatest Natural Enemy” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Damn you… Damn you, damn you, damn you, damn you!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E018.png"
+    }
+  },
+  {
+    "id": "FS/S36-E019",
+    "name": "“Endless Blades” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, put the top card of your deck into your waiting room. If that card is a climax, all of your characters get +1 soul until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "So, let us pick up where we left off 10 years ago.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E019.png"
+    }
+  },
+  {
+    "id": "FS/S36-E020",
+    "name": "“Highest Class Noble Phantasm” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one climax, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Vexing as it is, it would seem that only the highest class of arms will work on that man.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E020.png"
+    }
+  },
+  {
+    "id": "FS/S36-E021",
+    "name": "“Dauntless Heart” Shirou",
+    "setId": "fs_36",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a 《Weapon》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn.",
+    "flavorText": "You'll never know… unless I try!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E021.png"
+    }
+  },
+  {
+    "id": "FS/S36-E022",
+    "name": "“New Contract” Saber",
+    "setId": "fs_36",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Archer, your wish is a mistake.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E022.png"
+    }
+  },
+  {
+    "id": "FS/S36-E023",
+    "name": "“Neat and Tidy Appearance” Saber",
+    "setId": "fs_36",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a character with \"Shirou(士郎)\" or \"Saber(セイバー)\" or \"Rin(凛)\" in its card name, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E023.png"
+    }
+  },
+  {
+    "id": "FS/S36-E024",
+    "name": "“Challenging a King” Gilgamesh",
+    "setId": "fs_36",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(2) Put two climax from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\"",
+    "flavorText": "…Hm.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E024.png"
+    }
+  },
+  {
+    "id": "FS/S36-E025",
+    "name": "“Ultimate Slash” Saber",
+    "setId": "fs_36",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If a card named \"“Trace On” Shirou\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I shall take over from here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E025.png"
+    }
+  },
+  {
+    "id": "FS/S36-E026",
+    "name": "Signal to Counterattack",
+    "setId": "fs_36",
+    "number": "E026",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Master》 or 《Servant》 characters, and that character gets +3500 power until end of turn.",
+    "flavorText": "Let's get started, King of Heroes――\nDo you have enough weapons stored up?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E026.png"
+    }
+  },
+  {
+    "id": "FS/S36-E027",
+    "name": "Idealism's End",
+    "setId": "fs_36",
+    "number": "E027",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters with \"Shirou(士郎)\" in its card name, and that character gets +5000 power until end of turn. Put this card into your stock.",
+    "flavorText": "Shirou: \"I know my dream isn't a mistake!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E027.png"
+    }
+  },
+  {
+    "id": "FS/S36-E028",
+    "name": "“Unlimited Blade Works”",
+    "setId": "fs_36",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E028.png"
+    }
+  },
+  {
+    "id": "FS/S36-E029",
+    "name": "“Gate of Babylon”",
+    "setId": "fs_36",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E029.png"
+    }
+  },
+  {
+    "id": "FS/S36-E030",
+    "name": "“Excalibur”",
+    "setId": "fs_36",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.) (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E030.png"
+    }
+  },
+  {
+    "id": "FS/S36-E031",
+    "name": "“Battle Mode” Rider",
+    "setId": "fs_36",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of green characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E031.png"
+    }
+  },
+  {
+    "id": "FS/S36-E032",
+    "name": "“Dedicated Junior” Sakura",
+    "setId": "fs_36",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 When a climax is put on your climax area, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.\"",
+    "flavorText": "Thank you, Senpai.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E032.png"
+    }
+  },
+  {
+    "id": "FS/S36-E033",
+    "name": "“Cold and Ruthless” Rider",
+    "setId": "fs_36",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E033.png"
+    }
+  },
+  {
+    "id": "FS/S36-E034",
+    "name": "“Gae Bolg” Lancer",
+    "setId": "fs_36",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "But I wouldn't be much of a hero if a little scratch like this did me in right away.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E034.png"
+    }
+  },
+  {
+    "id": "FS/S36-E035",
+    "name": "“Gae・Bolg” Lancer",
+    "setId": "fs_36",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, choose one of your opponent's characters, and that character gets -500 power until end of turn.",
+    "flavorText": "Here it comes. Accept my blow as a gift\nfor you who are about to die…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E035.png"
+    }
+  },
+  {
+    "id": "FS/S36-E036",
+    "name": "“Deadly Strike” Lancer",
+    "setId": "fs_36",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a 《Weapon》 character from your hand into waiting room & 【REST】 one of your other 【STAND】 green characters] When this card attacks, if a card named \"“Gae Bolg”\" is in you climax area, you may pay the cost. If you do, choose one of your opponent's characters, and that character gets -3000 power until end of turn.",
+    "flavorText": "I'll have your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E036.png"
+    }
+  },
+  {
+    "id": "FS/S36-E037",
+    "name": "“Quiet Personality” Sakura",
+    "setId": "fs_36",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 When a card named \"Daily Visits\" is placed on your climax area, if this card is in your center stage, search your deck for up to one green character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When your other green character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E037.png"
+    }
+  },
+  {
+    "id": "FS/S36-E038",
+    "name": "“Battle Continues” Lancer",
+    "setId": "fs_36",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E038.png"
+    }
+  },
+  {
+    "id": "FS/S36-E039",
+    "name": "“Self-defense Class” Luvia",
+    "setId": "fs_36",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Jewel",
+      "Heiress"
+    ],
+    "text": "【CONT】 If you have another character with \"Rin(凛)\" in its card name, this card gets +2000 power, and this card cannot side attack.",
+    "flavorText": "Self-defense. The class where one expresses one's vitality through physical ability.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E039.png"
+    }
+  },
+  {
+    "id": "FS/S36-E040",
+    "name": "“Complex Emotions” Sakura",
+    "setId": "fs_36",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in your center stage, this card cannot 【STAND】 during your stand phase.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E040.png"
+    }
+  },
+  {
+    "id": "FS/S36-E041",
+    "name": "“Uneasiness in the Heart” Sakura",
+    "setId": "fs_36",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E041.png"
+    }
+  },
+  {
+    "id": "FS/S36-E042",
+    "name": "“United Battlefront” Lancer",
+    "setId": "fs_36",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 The character facing this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "For someone like me who can't casually betray my own Master, that little lady is pretty dazzling.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E042.png"
+    }
+  },
+  {
+    "id": "FS/S36-E043",
+    "name": "“Invading the Base” Shinji",
+    "setId": "fs_36",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Book",
+      "Sports"
+    ],
+    "text": "【CONT】 Experience All of your other characters get +500 power for each card named \"Self-conscious, Shinji\" in your level.",
+    "flavorText": "If so, it's convenient. Take me to Berserker's…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E043.png"
+    }
+  },
+  {
+    "id": "FS/S36-E044",
+    "name": "Shaken",
+    "setId": "fs_36",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a green character in your clock, return it to your hand, and put this card into your clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E044.png"
+    }
+  },
+  {
+    "id": "FS/S36-E045",
+    "name": "Last Farewell",
+    "setId": "fs_36",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of green characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E045.png"
+    }
+  },
+  {
+    "id": "FS/S36-E046",
+    "name": "“Gae Bolg”",
+    "setId": "fs_36",
+    "number": "E046",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E046.png"
+    }
+  },
+  {
+    "id": "FS/S36-E047",
+    "name": "Daily Visits",
+    "setId": "fs_36",
+    "number": "E047",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E047.png"
+    }
+  },
+  {
+    "id": "FS/S36-E048",
+    "name": "“Invitation to London” Rin",
+    "setId": "fs_36",
+    "number": "E048",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 If the number of other characters you have with \"Rin(凛)\" or \"Archer(アーチャー)\"in its card name is three or more, this card gets +1000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Mischievous Smile\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Will you come with me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E048.png"
+    }
+  },
+  {
+    "id": "FS/S36-E049",
+    "name": "“Idealism's Despair” Archer",
+    "setId": "fs_36",
+    "number": "E049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Weapon》 or 《Jewel》 characters get +1000 power. 【AUTO】 [【REST】 one of your 【STAND】 characters] When a card named \"“Rho Aias”\" is placed on your climax area, you may pay the cost. If you do, put seven cards from the top of your deck underneath this card as markers. 【AUTO】 At the beginning of your opponent's draw phase, put all markers from underneath this card into your waiting room. If there is a climax among those cards, this card gets the following ability until end of turn. \"【CONT】 You cannot take damage from your opponent character's 【AUTO】 effects.\"",
+    "flavorText": "―Farewell. Let your ideals drag you down to your death.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E049.png"
+    }
+  },
+  {
+    "id": "FS/S36-E050",
+    "name": "“Lord and Retainer” Rin & Archer",
+    "setId": "fs_36",
+    "number": "E050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1)] When this card attacks, if a card named \"Last Words\" is in your climax area, you may pay the cost. If you do, deal one damage to your opponent, and this card gets +3000 power until end of turn. (This damage may be canceled)",
+    "flavorText": "Archer: \"I will call you \"Rin,\" then… Yes, the sound of it suits you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E050.png"
+    }
+  },
+  {
+    "id": "FS/S36-E051",
+    "name": "“Super First-rate Mage” Rin",
+    "setId": "fs_36",
+    "number": "E051",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 Resonate [(1) Reveal a card named \"“Caladbolg II”\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"“Lord and Retainer” Rin & Archer\" in your waiting room, and return it to your hand.",
+    "flavorText": "Archer! Fire support!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E051.png"
+    }
+  },
+  {
+    "id": "FS/S36-E052",
+    "name": "“Successor of Tohsaka” Rin",
+    "setId": "fs_36",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a character with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【ACT】 [(1) 【REST】 two of your characters] Choose one of your characters with \"Archer(アーチャー)\" in its card name, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E052.png"
+    }
+  },
+  {
+    "id": "FS/S36-E053",
+    "name": "“Counterattack Barrage” Archer",
+    "setId": "fs_36",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 Resonate [Reveal a card named \"“Caladbolg II”\" in your hand] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, choose a level 0 or lower character in your opponent's center stage, and put it into his or her waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E053.png"
+    }
+  },
+  {
+    "id": "FS/S36-E054",
+    "name": "“Caladbolg Ⅱ” Archer",
+    "setId": "fs_36",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you play a card named \"“Caladbolg II”\", choose one of your characters, and that character gets +2000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "That was magnificent. But not enough.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E054.png"
+    }
+  },
+  {
+    "id": "FS/S36-E055",
+    "name": "“Fire Support” Archer",
+    "setId": "fs_36",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn. 【AUTO】 Resonate [Reveal a card named \"“Caladbolg II”\" in your hand] When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may pay the cost. If you do, 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E055.png"
+    }
+  },
+  {
+    "id": "FS/S36-E056",
+    "name": "“Beautiful and Smart Honor Student” Rin",
+    "setId": "fs_36",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 If you have another 《Weapon》 character, this card gets +1500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Master》 or 《Servant》 character, put it into your clock. (If it is, return the revealed card to its original place)",
+    "flavorText": "I'll finish you off for good this time♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E056.png"
+    }
+  },
+  {
+    "id": "FS/S36-E057",
+    "name": "“Dual-wielding” Archer",
+    "setId": "fs_36",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to one 《Weapon》 character in your hand with level equal to or lower than your level, and put it on any position of your stage. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 3 or lower character in your opponent's center stage, and put it into his or her waiting room.",
+    "flavorText": "If you can't live without clinging to such a dream, then let it drag you down\nand drown you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E057.png"
+    }
+  },
+  {
+    "id": "FS/S36-E058",
+    "name": "“Ideal Existence” Archer",
+    "setId": "fs_36",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"“Caladbolg II”\" in your waiting room, and return it to your hand. 【ACT】 [【REST】 two of your 《Master》 or 《Servant》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "As long as I am your ideal, Shirou Emiya must deny me more than anyone.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E058.png"
+    }
+  },
+  {
+    "id": "FS/S36-E059",
+    "name": "“Jewel Magic” Rin",
+    "setId": "fs_36",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 If the number of your other characters is one or less, this card gets +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E059.png"
+    }
+  },
+  {
+    "id": "FS/S36-E060",
+    "name": "“Complex Emotions” Rin",
+    "setId": "fs_36",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 [Put two cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E060.png"
+    }
+  },
+  {
+    "id": "FS/S36-E061",
+    "name": "“Further Pursuit” Archer",
+    "setId": "fs_36",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name get +500 power. 【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E061.png"
+    }
+  },
+  {
+    "id": "FS/S36-E062",
+    "name": "“End of Fight” Archer",
+    "setId": "fs_36",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Master》 or 《Servant》 characters you have.",
+    "flavorText": "Now, be gone.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E062.png"
+    }
+  },
+  {
+    "id": "FS/S36-E063",
+    "name": "“Full Power Pitch” Rin",
+    "setId": "fs_36",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 All of your other characters with \"Shirou(士郎)\" or \"Saber(セイバー)\" in its card name get +500 power. 【ACT】 [【REST】 this card] Choose a character in your waiting room with \"Shirou(士郎)\" or \"Saber(セイバー)\" in its card name, and put it into your stock.",
+    "flavorText": "Don't hold back, I'm using everything I've got.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E063.png"
+    }
+  },
+  {
+    "id": "FS/S36-E064",
+    "name": "“Time to Part Ways” Rin",
+    "setId": "fs_36",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "-",
+    "flavorText": "I'll try my hardest to make sure he doesn't turn into a twisted jerk like you. I will try hard so that he'll learn to like himself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E064.png"
+    }
+  },
+  {
+    "id": "FS/S36-E065",
+    "name": "“Center Breakthrough” Rin",
+    "setId": "fs_36",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 Encore [Put a red card from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【AUTO】 Resonate [Reveal a card named \"“Caladbolg II”\" in your hand] When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may pay the cost. If you do, 【REVERSE】 that battle opponent.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E065.png"
+    }
+  },
+  {
+    "id": "FS/S36-E066",
+    "name": "“In the Conflict” Archer",
+    "setId": "fs_36",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 characters with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name, and 【REST】 it.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E066.png"
+    }
+  },
+  {
+    "id": "FS/S36-E067",
+    "name": "“Caladbolg Ⅱ”",
+    "setId": "fs_36",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one red character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E067.png"
+    }
+  },
+  {
+    "id": "FS/S36-E068",
+    "name": "Conclusion to the Fight",
+    "setId": "fs_36",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. If there is a climax among those cards, choose one of your opponent's characters, and put it on the top of his or her deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E068.png"
+    }
+  },
+  {
+    "id": "FS/S36-E069",
+    "name": "“Rho Aias”",
+    "setId": "fs_36",
+    "number": "E069",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E069.png"
+    }
+  },
+  {
+    "id": "FS/S36-E070",
+    "name": "Last Words",
+    "setId": "fs_36",
+    "number": "E070",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Don't you worry, Tohsaka. I'll try my best from now on, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E070.png"
+    }
+  },
+  {
+    "id": "FS/S36-E071",
+    "name": "Mischievous Smile",
+    "setId": "fs_36",
+    "number": "E071",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "What about you, Shirou?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E071.png"
+    }
+  },
+  {
+    "id": "FS/S36-E072",
+    "name": "“Snow Fairy” Illya",
+    "setId": "fs_36",
+    "number": "E072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Official Contract\" is in your climax area, and the number of other 《Master》 or 《Servant》 characters you have is four or more, you may draw a card.",
+    "flavorText": "Besides, what do you want me to say\nto someone who is going to die here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E072.png"
+    }
+  },
+  {
+    "id": "FS/S36-E073",
+    "name": "“Signal to Commence Battle” Illya",
+    "setId": "fs_36",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw a card.",
+    "flavorText": "Get them… Berserker!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E073.png"
+    }
+  },
+  {
+    "id": "FS/S36-E074",
+    "name": "“Mage from the Age of Myths” Caster",
+    "setId": "fs_36",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your waiting room] When another of your 《Master》 characters is being frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2500 power until end of turn.",
+    "flavorText": "Yes. That is a wise decision, Master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E074.png"
+    }
+  },
+  {
+    "id": "FS/S36-E075",
+    "name": "“Mage of Tragedy” Caster",
+    "setId": "fs_36",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【AUTO】 When another of your 《Master》 or 《Servant》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(3) Put a card named \"Granted Wish\" from your hand into your waiting room] At the beginning of your opponent's draw phase, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's 【STAND】 level 3 or lower characters, 【REST】 it, and deal X damage to your opponent. X is equal to that character's soul. (This damage may be canceled)",
+    "flavorText": "You should actually be proud. You forced me into a magic duel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E075.png"
+    }
+  },
+  {
+    "id": "FS/S36-E076",
+    "name": "“Relationship of Trust” Illya & Berserker",
+    "setId": "fs_36",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other cards in the back stage with \"Illya(イリヤ)\" in its card name. 【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card attacks, if a card named \"Encounter and Bond\" is in your climax area, put the top five cards of your deck into your waiting room, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the number of climax revealed among those cards. (This damage may be canceled)",
+    "flavorText": "Illya: \"Because Berserker's stronger than anyone!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E076.png"
+    }
+  },
+  {
+    "id": "FS/S36-E077",
+    "name": "“Strong Bond” Illya",
+    "setId": "fs_36",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one card named \"“Relationship of Trust” Illya & Berserker\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Bond/\"“Sturdy Servant” Berserker\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Sturdy Servant” Berserker\" in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E077.png"
+    }
+  },
+  {
+    "id": "FS/S36-E078",
+    "name": "“Strongest Warrior” Berserker",
+    "setId": "fs_36",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of markers underneath this card is ten or less, put the top card of your stock underneath this card as a marker. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E078.png"
+    }
+  },
+  {
+    "id": "FS/S36-E079",
+    "name": "“Confronting a King” Illya",
+    "setId": "fs_36",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Berserker(バーサーカー)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [(2) Return this card to your hand] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"“Strong Will” Berserker\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E079.png"
+    }
+  },
+  {
+    "id": "FS/S36-E080",
+    "name": "“A Battle of Legend” Illya",
+    "setId": "fs_36",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【CONT】 All of your other \"“Strong Will” Berserker\" get +1000 power. 【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E080.png"
+    }
+  },
+  {
+    "id": "FS/S36-E081",
+    "name": "“Strong Will” Berserker",
+    "setId": "fs_36",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other cards in the back stage with \"Illya(イリヤ)\" in its card name.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E081.png"
+    }
+  },
+  {
+    "id": "FS/S36-E082",
+    "name": "“Further Attack” Souichirou Kuzuki",
+    "setId": "fs_36",
+    "number": "E082",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Teacher"
+    ],
+    "text": "【AUTO】 Bond/\"“Mage from the Age of Myths” Caster\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Mage from the Age of Myths” Caster\" in your waiting room, and return it to your hand.) 【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E082.png"
+    }
+  },
+  {
+    "id": "FS/S36-E083",
+    "name": "“Great Magic” Caster",
+    "setId": "fs_36",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +1000 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Encounter on a Rainy Day\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E083.png"
+    }
+  },
+  {
+    "id": "FS/S36-E084",
+    "name": "“Magic Duel” Caster",
+    "setId": "fs_36",
+    "number": "E084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【CONT】 If there is a blue climax in your climax area, this card gets +2000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E084.png"
+    }
+  },
+  {
+    "id": "FS/S36-E085",
+    "name": "“Swallow Reversal” Assassin",
+    "setId": "fs_36",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When a card named \"Swallow Reversal\" is placed on your climax area, if this card is in your center stage, put the top three cards of your deck into your waiting room. If there is a climax among those cards, you may choose a level 1 or lower character facing this card, and put it on the bottom of your opponent's deck.",
+    "flavorText": "I will break open that belief of yours with brute force.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E085.png"
+    }
+  },
+  {
+    "id": "FS/S36-E086",
+    "name": "“Repeated Pursuit” Souichirou Kuzuki",
+    "setId": "fs_36",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Teacher"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Master》 or 《Servant》 character, put it into your clock. (If it is, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E086.png"
+    }
+  },
+  {
+    "id": "FS/S36-E087",
+    "name": "“A Short Rest” Illya",
+    "setId": "fs_36",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw two cards. If your opponent does, your opponent chooses two cards from his or her hand, and puts them into his or her waiting room.",
+    "flavorText": "I wonder if they'll reach here safely, though?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E087.png"
+    }
+  },
+  {
+    "id": "FS/S36-E088",
+    "name": "“Sturdy Servant” Berserker",
+    "setId": "fs_36",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E088.png"
+    }
+  },
+  {
+    "id": "FS/S36-E089",
+    "name": "“Fictional Heroic Spirit” Assassin",
+    "setId": "fs_36",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Master》 or 《Servant》 characters is four or more, until end of turn, this card's soul does not decrease by side attacking.",
+    "flavorText": "If, that is, a man who went to his death in obscurity had such a thing as a wish…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E089.png"
+    }
+  },
+  {
+    "id": "FS/S36-E090",
+    "name": "“Middle of the Final Test” Illya",
+    "setId": "fs_36",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "-",
+    "flavorText": "I'll summon something that won't cause me pain and isn't as scary as Berserker…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E090.png"
+    }
+  },
+  {
+    "id": "FS/S36-E091",
+    "name": "“Fulfilling the Wish” Souichirou Kuzuki",
+    "setId": "fs_36",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Teacher"
+    ],
+    "text": "【CONT】 If you have another character with \"Caster(キャスター)\" in its card name, this card gets +1500 power. 【CONT】 The character facing this card gets +1 soul.",
+    "flavorText": "There is no need to grieve. I will fulfill your wish in your place, that's all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E091.png"
+    }
+  },
+  {
+    "id": "FS/S36-E092",
+    "name": "“A Visitor” Illya",
+    "setId": "fs_36",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.",
+    "flavorText": "Shirou is coming here… to the castle\nwhere mother once stayed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E092.png"
+    }
+  },
+  {
+    "id": "FS/S36-E093",
+    "name": "“Priest of Fuyuki Church” Kirei",
+    "setId": "fs_36",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 characters, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E093.png"
+    }
+  },
+  {
+    "id": "FS/S36-E094",
+    "name": "“Reverberation of Defeat” Assassin",
+    "setId": "fs_36",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a 《Master》 or 《Servant》 character from your hand into your waiting room] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your memory.",
+    "flavorText": "And here I considered myself a fair judge of women. I suppose my training in\nthat art is equally wanting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E094.png"
+    }
+  },
+  {
+    "id": "FS/S36-E095",
+    "name": "Encounter on a Rainy Day",
+    "setId": "fs_36",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E095.png"
+    }
+  },
+  {
+    "id": "FS/S36-E096",
+    "name": "Berserker's Will",
+    "setId": "fs_36",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters with \"Illya(イリヤ)\" or \"Berserker(バーサーカー)\" in its card name, and put it into your waiting room. If you do, look at up to four cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "You've been protecting me of your own free will, haven't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E096.png"
+    }
+  },
+  {
+    "id": "FS/S36-E097",
+    "name": "Encounter and Bond",
+    "setId": "fs_36",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "You're so strong, Berserker…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E097.png"
+    }
+  },
+  {
+    "id": "FS/S36-E098",
+    "name": "Official Contract",
+    "setId": "fs_36",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I won't be beaten… I'm the most powerful Master in the world!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E098.png"
+    }
+  },
+  {
+    "id": "FS/S36-E099",
+    "name": "Granted Wish",
+    "setId": "fs_36",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "After all, my wish… was already being granted until this moment.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E099.png"
+    }
+  },
+  {
+    "id": "FS/S36-E100",
+    "name": "Swallow Reversal",
+    "setId": "fs_36",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Ultimate Technique, Swallow Reversal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s36/FS_S36_E100.png"
+    }
+  },
+  {
+    "id": "FS/S36-E101",
+    "name": "Petit Gilgamesh",
+    "setId": "fs_36",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If this is in the front row center slot, this gains +1 soul. 【AUTO】 [(1)] When the damage dealt by this card is cancelled, you may pay the cost. If so, draw a card.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_101.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_101.png"
+    }
+  },
+  {
+    "id": "FS/S36-E102",
+    "name": "Petit Saber",
+    "setId": "fs_36",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a character with \"Shirou\" or \"Saber\" or \"Rin\" in its card name, this card gets +1 soul until end of turn. (The revealed card is returned to its original place).",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_102.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_102.png"
+    }
+  },
+  {
+    "id": "FS/S36-E103",
+    "name": "Petit Lancer",
+    "setId": "fs_36",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_103.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_103.png"
+    }
+  },
+  {
+    "id": "FS/S36-E104",
+    "name": "Petit Rin",
+    "setId": "fs_36",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, REST this card. (The revealed card is returned to its original place) 【AUTO】 When this card's battle opponent becomes REVERSE, put that character into your memory.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_104.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_104.png"
+    }
+  },
+  {
+    "id": "FS/S36-E105",
+    "name": "Petit Illya",
+    "setId": "fs_36",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【CONT】 All your other Characters with \"Illya\" or \"Berserker\" in its card name get +500 power.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_105.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_105.png"
+    }
+  },
+  {
+    "id": "FS/S36-PE01",
+    "name": "“Christmas Party” Saber & Rin",
+    "setId": "fs_36",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_p01.png"
+    }
+  },
+  {
+    "id": "FS/S36-PE02",
+    "name": "“Loggerheads” Archer & Lancer",
+    "setId": "fs_36",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_p02.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_p02.png"
+    }
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "FS/S34-E001",
+    "name": "Style of a Knight, Saber",
+    "setId": "fs_34",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Search your deck for up to one character with \"Shirou(士郎)\" or \"Saber(セイバー)\" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E001.png"
+    }
+  },
+  {
+    "id": "FS/S34-E002",
+    "name": "\"Saber's Master\" Shirou",
+    "setId": "fs_34",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Anger Towards Evil\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.\"",
+    "flavorText": "I will be your Master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E002.png"
+    }
+  },
+  {
+    "id": "FS/S34-E003",
+    "name": "A Knight's Oath, Saber",
+    "setId": "fs_34",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》characters. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled)",
+    "flavorText": "Allow me to renew my vow. So long as there are Command Seals on your body, mine will be your blade.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E003.png"
+    }
+  },
+  {
+    "id": "FS/S34-E004",
+    "name": "Resolution to Fight Together, Shirou",
+    "setId": "fs_34",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Master》 characters get \"【AUTO】 Encore [Put the top card of your deck into your clock]\". 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one \"\"Saber's Master\" Shirou\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I've decided to fight as a Master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E004.png"
+    }
+  },
+  {
+    "id": "FS/S34-E005",
+    "name": "\"Heroic Spirit\" Saber",
+    "setId": "fs_34",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have another 《Master》 or 《Servant》 character, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E005.png"
+    }
+  },
+  {
+    "id": "FS/S34-E006",
+    "name": "Resolution to Fight Together, Saber",
+    "setId": "fs_34",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+    "flavorText": "I have come in response to your summons. Master, what is the situation?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E006.png"
+    }
+  },
+  {
+    "id": "FS/S34-E007",
+    "name": "Resolution Not to Fight, Shirou",
+    "setId": "fs_34",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have another character with \"Saber(セイバー)\" in its card name, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's stock.\"",
+    "flavorText": "These are Gandr shots?! It's different from what I know!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E007.png"
+    }
+  },
+  {
+    "id": "FS/S34-E008",
+    "name": "Battle with Soichiro, Saber",
+    "setId": "fs_34",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Armor Release\" is in your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +5000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E008.png"
+    }
+  },
+  {
+    "id": "FS/S34-E009",
+    "name": "Shirou in the Morning Glow",
+    "setId": "fs_34",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put a 《Weapon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +2500 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E009.png"
+    }
+  },
+  {
+    "id": "FS/S34-E010",
+    "name": "Battle Within the Field, Saber",
+    "setId": "fs_34",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your characters, and that character gets +4000 power until end of turn. 【AUTO】 Resonate [(1) Reveal a card named \"Activating a Command Seal, Shirou\" in your hand] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E010.png"
+    }
+  },
+  {
+    "id": "FS/S34-E011",
+    "name": "Battle After School, Shirou",
+    "setId": "fs_34",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "Rin: \"You finally came out, eh, Emiya?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E011.png"
+    }
+  },
+  {
+    "id": "FS/S34-E012",
+    "name": "Past Hero, Saber",
+    "setId": "fs_34",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if a card named \"A Fateful Night\" is in your climax area, you may choose one of your other characters, and return it to your hand.",
+    "flavorText": "Rin: \"Servants are basically always\nwith you in spirit form, and should the need arise, you can materialize them and make them fight.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E012.png"
+    }
+  },
+  {
+    "id": "FS/S34-E013",
+    "name": "Confronting a Servant, Shirou",
+    "setId": "fs_34",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until end of turn. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Weapon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Rider: \"I'm surprised. You aren't going to use a Command Seal?\"\nShirou: \"Sorry, I don't have many left.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E013.png"
+    }
+  },
+  {
+    "id": "FS/S34-E014",
+    "name": "Heading for the Rescue, Saber",
+    "setId": "fs_34",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"\"Heroic Spirit\" Saber\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn.",
+    "flavorText": "Assassin: \"Even now, you will not\nreveal your Noble Phantasm.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E014.png"
+    }
+  },
+  {
+    "id": "FS/S34-E015",
+    "name": "Mischievous Smile, Taiga",
+    "setId": "fs_34",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into your opponent's stock.",
+    "flavorText": "Yay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E015.png"
+    }
+  },
+  {
+    "id": "FS/S34-E016",
+    "name": "\"Servant\" Gilgamesh",
+    "setId": "fs_34",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E016.png"
+    }
+  },
+  {
+    "id": "FS/S34-E017",
+    "name": "Kind Soul, Shirou",
+    "setId": "fs_34",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "…man, this place never changes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E017.png"
+    }
+  },
+  {
+    "id": "FS/S34-E018",
+    "name": "Archery Club Captain, Mitsuzuri",
+    "setId": "fs_34",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +3500 power. 【ACT】 [Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your next draw phase, choose a card named \"Archery Club Captain, Ayako\" in your memory, put it on any position of your stage, and put the top card of your deck underneath that character as a marker.",
+    "flavorText": "Well, I need to go to the faculty room.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E018.png"
+    }
+  },
+  {
+    "id": "FS/S34-E019",
+    "name": "Commanding Aura, Saber",
+    "setId": "fs_34",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E019.png"
+    }
+  },
+  {
+    "id": "FS/S34-E020",
+    "name": "At the School Cafeteria, Mitsuzuri",
+    "setId": "fs_34",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until end of turn.",
+    "flavorText": "You're not eating with the student\ncouncil president today.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E020.png"
+    }
+  },
+  {
+    "id": "FS/S34-E021",
+    "name": "Shirou's Close Friend, Issei",
+    "setId": "fs_34",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Student Council",
+      "Glasses"
+    ],
+    "text": "【CONT】 This card gets +1500 power and the character facing this card gets +1 soul for each of your other \"Battle After School, Shirou\".",
+    "flavorText": "Emiya, you'd better hurry and eat\nbefore the lunch break ends.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E021.png"
+    }
+  },
+  {
+    "id": "FS/S34-E022",
+    "name": "Tinkering with Machines, Shirou",
+    "setId": "fs_34",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "It's okay, I'm almost done.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E022.png"
+    }
+  },
+  {
+    "id": "FS/S34-E023",
+    "name": "During Morning Practice, Mitsuzuri",
+    "setId": "fs_34",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck, and your opponent may put the top card of your deck on the bottom of your deck. (If not, return the revealed card to its original place)",
+    "flavorText": "Hey, Tohsaka?\nYou're early today.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E023.png"
+    }
+  },
+  {
+    "id": "FS/S34-E024",
+    "name": "Usual Morning, Shirou",
+    "setId": "fs_34",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "Morning, Fuji-nee.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E024.png"
+    }
+  },
+  {
+    "id": "FS/S34-E025",
+    "name": "Student\nCouncil President, Issei",
+    "setId": "fs_34",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Student Council",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "Tohsaka…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E025.png"
+    }
+  },
+  {
+    "id": "FS/S34-E026",
+    "name": "Usual Morning, Taiga",
+    "setId": "fs_34",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, your opponent chooses the number 0 or 1 or 2. Reveal the top card of your deck, and if that card is a card of a level that matches the number that your opponent chose, draw up to X cards. X is equal to the number that your opponent chose +1. (Climax are regarded as level 0. If it is not, the revealed card is returned to its original place)",
+    "flavorText": "Sakura, good morning～",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E026.png"
+    }
+  },
+  {
+    "id": "FS/S34-E027",
+    "name": "Activating a Command Seal, Shirou",
+    "setId": "fs_34",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Return this card to your hand] When a card named \"Summoning Saber\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Battle Within the Field, Saber\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "That means it's my turn.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E027.png"
+    }
+  },
+  {
+    "id": "FS/S34-E028",
+    "name": "Servant with Blond Hair",
+    "setId": "fs_34",
+    "number": "E028",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.",
+    "flavorText": "There is a sneer on your lips, holy man.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E028.png"
+    }
+  },
+  {
+    "id": "FS/S34-E029",
+    "name": "Hidden Weapon, Saber",
+    "setId": "fs_34",
+    "number": "E029",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Lancer: \"Your Noble Phantasm, is it a sword?\"\nSaber: \"Perhaps, perhaps not. It may be a battle axe.\nOr perhaps it is a polearm.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E029.png"
+    }
+  },
+  {
+    "id": "FS/S34-E030",
+    "name": "Temporary Rest",
+    "setId": "fs_34",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one 《Weapon》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room. Choose one of your characters, and that character gets +4000 power until end of turn. Put this card into your clock.",
+    "flavorText": "I can also minimize my mana expenditure by sleeping.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E030.png"
+    }
+  },
+  {
+    "id": "FS/S34-E031",
+    "name": "Self-training",
+    "setId": "fs_34",
+    "number": "E031",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Until end of turn, all of your characters get +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "Tracing basic structure. Tracing component materials!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E031.png"
+    }
+  },
+  {
+    "id": "FS/S34-E032",
+    "name": "Armor Release",
+    "setId": "fs_34",
+    "number": "E032",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E032.png"
+    }
+  },
+  {
+    "id": "FS/S34-E033",
+    "name": "A Fateful Night",
+    "setId": "fs_34",
+    "number": "E033",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I ask you. Are you my Master?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E033.png"
+    }
+  },
+  {
+    "id": "FS/S34-E034",
+    "name": "Anger Towards Evil",
+    "setId": "fs_34",
+    "number": "E034",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Like hell I will! Let Fuji-nee go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E034.png"
+    }
+  },
+  {
+    "id": "FS/S34-E035",
+    "name": "Summoning Saber",
+    "setId": "fs_34",
+    "number": "E035",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Please… Come to me, Saber!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E035.png"
+    }
+  },
+  {
+    "id": "FS/S34-E036",
+    "name": "\"Heroic Spirit\" Rider",
+    "setId": "fs_34",
+    "number": "E036",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room. If you do, your opponent chooses up to one level 0 or lower character in his or her waiting room, and puts it on the stage position that character was on. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Dancing After School\" is in your climax area, you may put that character into your opponent's clock.",
+    "flavorText": "t You've been caught by me from the beginning.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E036.png"
+    }
+  },
+  {
+    "id": "FS/S34-E037",
+    "name": "Daily Symbol, Sakura",
+    "setId": "fs_34",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one green character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "…about that, Senpai. Maybe you could stop by the dojo?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E037.png"
+    }
+  },
+  {
+    "id": "FS/S34-E038",
+    "name": "Bewitching Beauty, Rider",
+    "setId": "fs_34",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put another character from your stage into your waiting room] When this card attacks, if a card named \"\" is in your climax area, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E038.png"
+    }
+  },
+  {
+    "id": "FS/S34-E039",
+    "name": "\"Heroic Spirit\" Lancer",
+    "setId": "fs_34",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your 《Servant》 characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters, and that character gets -500 power until end of turn.",
+    "flavorText": "Curse with your dying breath that\nyou were born with no luck and no power.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E039.png"
+    }
+  },
+  {
+    "id": "FS/S34-E040",
+    "name": "Morning Greeting, Sakura",
+    "setId": "fs_34",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【CONT】 Your other 《Sports》 or 《Weapon》 character in the middle position of the center stage gets +1500 power.",
+    "flavorText": "And good morning to you, Senpai.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E040.png"
+    }
+  },
+  {
+    "id": "FS/S34-E041",
+    "name": "Archery Club Member, Sakura",
+    "setId": "fs_34",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 When another of your 《Sports》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E041.png"
+    }
+  },
+  {
+    "id": "FS/S34-E042",
+    "name": "Bystander, Lancer",
+    "setId": "fs_34",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "You just want me to stand by and watch, right? Don't worry, I'm not gonna help you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E042.png"
+    }
+  },
+  {
+    "id": "FS/S34-E043",
+    "name": "Self-concious, Shinji",
+    "setId": "fs_34",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Book",
+      "Sports"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "Really? I thought you were.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E043.png"
+    }
+  },
+  {
+    "id": "FS/S34-E044",
+    "name": "Archery Club Vice-captain, Shinji",
+    "setId": "fs_34",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Book",
+      "Sports"
+    ],
+    "text": "【CONT】 Experience This card gets +3000 power for each card named \"Self-concious, Shinji\" in your level.",
+    "flavorText": "I was wondering what you've been up to after quitting the club. You're the student council\npresident's errand boy, eh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E044.png"
+    }
+  },
+  {
+    "id": "FS/S34-E045",
+    "name": "Moving Like a Beast, Lancer",
+    "setId": "fs_34",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order.",
+    "flavorText": "If you're a man,\nshow some dignity, damn it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E045.png"
+    }
+  },
+  {
+    "id": "FS/S34-E046",
+    "name": "Usual Morning, Sakura",
+    "setId": "fs_34",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "I always double-check the gas valve, so we're safe.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E046.png"
+    }
+  },
+  {
+    "id": "FS/S34-E047",
+    "name": "Shinji's Servant, Rider",
+    "setId": "fs_34",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E047.png"
+    }
+  },
+  {
+    "id": "FS/S34-E048",
+    "name": "Noble Phantasm Unleashed",
+    "setId": "fs_34",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of green characters you have is two or less, this card cannot be played from your hand. Put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.",
+    "flavorText": "So, will you face my\nmightiest blow, then?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E048.png"
+    }
+  },
+  {
+    "id": "FS/S34-E049",
+    "name": "Dancing After School",
+    "setId": "fs_34",
+    "number": "E049",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I will kill you gently.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E049.png"
+    }
+  },
+  {
+    "id": "FS/S34-E050",
+    "name": "Bounded Field",
+    "setId": "fs_34",
+    "number": "E050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E050.png"
+    }
+  },
+  {
+    "id": "FS/S34-E051",
+    "name": "For Victory, Rin",
+    "setId": "fs_34",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 Experience If there is a card named \"For Victory, Rin\" and \"Dual-wielding Bowman, Archer\" in your level, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm not as na?ve as Shirou Emiya, but there are some things I won't budge on.\n[「i」の上の2点をご注意ください]",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E051.png"
+    }
+  },
+  {
+    "id": "FS/S34-E052",
+    "name": "Great Day for a Date, Rin",
+    "setId": "fs_34",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it. 【AUTO】 [(2)] When this card attacks, if a card named \"Tohsaka's Magic Crest\" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of climax in your waiting room. (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E052.png"
+    }
+  },
+  {
+    "id": "FS/S34-E053",
+    "name": "\"Heroic Spirit\" Archer",
+    "setId": "fs_34",
+    "number": "E053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power. 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, deal X damage to your opponent. X is equal to that character's level. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E053.png"
+    }
+  },
+  {
+    "id": "FS/S34-E054",
+    "name": "Devilish Smile, Rin",
+    "setId": "fs_34",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 All of your other characters with \"Rin(凛)\" or \"Archer(アーチャー)\" in its card name gets \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+    "flavorText": "Emotional flab.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E054.png"
+    }
+  },
+  {
+    "id": "FS/S34-E055",
+    "name": "As a Mage, Rin",
+    "setId": "fs_34",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\"",
+    "flavorText": "You don't have to go to such extremes to help others!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E055.png"
+    }
+  },
+  {
+    "id": "FS/S34-E056",
+    "name": "Rin's Servant, Archer",
+    "setId": "fs_34",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your 《Weapon》 characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Oh, and this is the most damning. Your appeal is hard to see.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E056.png"
+    }
+  },
+  {
+    "id": "FS/S34-E057",
+    "name": "Latecomer, Archer",
+    "setId": "fs_34",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power. 【AUTO】 [(1) Put the top card of your deck into your clock] When a card named \"Precision Piercing\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 0 or lower characters, put it into your opponent's waiting room, and this card gets +3000 power until end of turn.",
+    "flavorText": "I sensed a threat\nto my Master and rushed to her side. It appears I was too late, though.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E057.png"
+    }
+  },
+  {
+    "id": "FS/S34-E058",
+    "name": "Cursed Magic Bullet, Rin",
+    "setId": "fs_34",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "You'll die instantly\nif they hit a vital spot!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E058.png"
+    }
+  },
+  {
+    "id": "FS/S34-E059",
+    "name": "A Master's Mental State, Rin",
+    "setId": "fs_34",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 Resonate [(1) Reveal a card named \"Proof of Contract, Rin\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, and put it into your opponent's waiting room.",
+    "flavorText": "I brought you here because you weren't officially my enemy yet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E059.png"
+    }
+  },
+  {
+    "id": "FS/S34-E060",
+    "name": "A Bowman's True Value, Archer",
+    "setId": "fs_34",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room. 【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Imbecile!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E060.png"
+    }
+  },
+  {
+    "id": "FS/S34-E061",
+    "name": "Proof of Contract, Rin",
+    "setId": "fs_34",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [【REST】 this card] Choose one of your characters with \"Archer(アーチャー)\" in its card name, until end of turn, that character gets +1500 power and the following ability. \"【CONT】 If the character facing this card is a lower level than this card, this card cannot attack.\"",
+    "flavorText": "This is all the proof you need that I am your Master, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E061.png"
+    }
+  },
+  {
+    "id": "FS/S34-E062",
+    "name": "Fashionable Glasses, Rin",
+    "setId": "fs_34",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power. 【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named \"Summoning Ritual\" is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Well?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E062.png"
+    }
+  },
+  {
+    "id": "FS/S34-E063",
+    "name": "Proof of Contract, Archer",
+    "setId": "fs_34",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《Master》 or 《Servant》, this card gets +1000 power.",
+    "flavorText": "As a mage, you should be able to sense the bond between us through our pact.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E063.png"
+    }
+  },
+  {
+    "id": "FS/S34-E064",
+    "name": "Archer's Surprise Attack",
+    "setId": "fs_34",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"Proof of Contract, Rin\" in your hand] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E064.png"
+    }
+  },
+  {
+    "id": "FS/S34-E065",
+    "name": "A Bowman's Speciality, Archer",
+    "setId": "fs_34",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of \"A Bowman's Speciality\" in your waiting room is three or more, this card gets -1 level while in your hand. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "He's more an embodiment of\nsavagery than a mad warrior.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E065.png"
+    }
+  },
+  {
+    "id": "FS/S34-E066",
+    "name": "Cynic, Archer",
+    "setId": "fs_34",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn. 【AUTO】 Bond／\"Cursed Magic Bullet, Rin\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Cursed Magic Bullet, Rin\" in your waiting room, and return it to your hand.)",
+    "flavorText": "If we were to fight now, I wouldn't\nhave a choice but to die just like Rider.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E066.png"
+    }
+  },
+  {
+    "id": "FS/S34-E067",
+    "name": "Rough Summoning, Archer",
+    "setId": "fs_34",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "…hm?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E067.png"
+    }
+  },
+  {
+    "id": "FS/S34-E068",
+    "name": "Dual-wielding Bowman, Archer",
+    "setId": "fs_34",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E068.png"
+    }
+  },
+  {
+    "id": "FS/S34-E069",
+    "name": "A Different Morning, Rin",
+    "setId": "fs_34",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "-",
+    "flavorText": "I guess it's just one of those days.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E069.png"
+    }
+  },
+  {
+    "id": "FS/S34-E070",
+    "name": "Summon Rites, Rin",
+    "setId": "fs_34",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters.",
+    "flavorText": "Close the gates of the four directions. Come forth from the Crown and follow the forked road leading to the Kingdom.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E070.png"
+    }
+  },
+  {
+    "id": "FS/S34-E071",
+    "name": "Father's Keepsake",
+    "setId": "fs_34",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two 《Jewel》 characters in your waiting room, return them to your hand, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Oh, right. That pendant.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E071.png"
+    }
+  },
+  {
+    "id": "FS/S34-E072",
+    "name": "Tohsaka's Magic Crest",
+    "setId": "fs_34",
+    "number": "E072",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "This is the embodiment of\nthe magics passed down in my family.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E072.png"
+    }
+  },
+  {
+    "id": "FS/S34-E073",
+    "name": "Summoning Ritual",
+    "setId": "fs_34",
+    "number": "E073",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Come forth from the circle of\nbinding, Guardian of the Scales!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E073.png"
+    }
+  },
+  {
+    "id": "FS/S34-E074",
+    "name": "Precision Piercing",
+    "setId": "fs_34",
+    "number": "E074",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "I am the bone of my sword.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E074.png"
+    }
+  },
+  {
+    "id": "FS/S34-E075",
+    "name": "A Bowman's Speciality",
+    "setId": "fs_34",
+    "number": "E075",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E075.png"
+    }
+  },
+  {
+    "id": "FS/S34-E076",
+    "name": "\"Heroic Spirit\" Caster",
+    "setId": "fs_34",
+    "number": "E076",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Master》 or 《Servant》 characters you have. 【AUTO】 [(4) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "Do you think you can escape?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E076.png"
+    }
+  },
+  {
+    "id": "FS/S34-E077",
+    "name": "Mages' Fighting Style, Caster",
+    "setId": "fs_34",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +500 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.",
+    "flavorText": "Had you worked with me, I would have been willing\nto share the Grail with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E077.png"
+    }
+  },
+  {
+    "id": "FS/S34-E078",
+    "name": "Silver Thread Alchemy Elgen Lied, Illya",
+    "setId": "fs_34",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Attacking without warning? What are you, an animal, Rin?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E078.png"
+    }
+  },
+  {
+    "id": "FS/S34-E079",
+    "name": "\"Heroic Spirit\" Assassin",
+    "setId": "fs_34",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponent's turn, if this card is in the middle position of the center stage, this card gets +2000 power.",
+    "flavorText": "Kojiro Sasaki,\nAssassin-class Servant.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E079.png"
+    }
+  },
+  {
+    "id": "FS/S34-E080",
+    "name": "\"Caster's Master\" Soichiro Kuzuki",
+    "setId": "fs_34",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Teacher"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "You underestimated me, Saber",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E080.png"
+    }
+  },
+  {
+    "id": "FS/S34-E081",
+    "name": "Rin's Classmate, Kane Himuro",
+    "setId": "fs_34",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card. 【ACT】 [【REST】 one of your characters with \"Assist\"] This card gets +1000 power until end of turn.",
+    "flavorText": "Maki, all we need to do is go eat lunch at the cafeteria, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E081.png"
+    }
+  },
+  {
+    "id": "FS/S34-E082",
+    "name": "Overwhelming Violence, Berserker",
+    "setId": "fs_34",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "2",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.",
+    "flavorText": "■■■■■―――！",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E082.png"
+    }
+  },
+  {
+    "id": "FS/S34-E083",
+    "name": "Lady, Illya",
+    "setId": "fs_34",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Illya's Magic, Storch Ritter\" is in your climax area and the number of your other 《Master》 or 《Servant》 characters is three or more, you may draw up to two cards. If you do, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "It's nice to meet you, Rin. I'm Illya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E083.png"
+    }
+  },
+  {
+    "id": "FS/S34-E084",
+    "name": "Hypocritical Courtesy, Kirei",
+    "setId": "fs_34",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Priest"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until the end of turn.",
+    "flavorText": "It is the sixth day since the war commenced. You are the first to have\nmade his way here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E084.png"
+    }
+  },
+  {
+    "id": "FS/S34-E085",
+    "name": "\"Finishing\" Move, Assassin",
+    "setId": "fs_34",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other \"\"Finishing\" Move, Assassin\". 【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two \"\"Finishing\" Move, Assassin\", and put them on separate positions of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Ultimate Technique, Swallow Reversal",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E085.png"
+    }
+  },
+  {
+    "id": "FS/S34-E086",
+    "name": "Tactician, Caster",
+    "setId": "fs_34",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【CONT】 Assist All of your 《Master》 characters in front of this card gets +1000 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"\"Heroic Spirit\" Caster\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I am leaving\nto claim my prize early.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E086.png"
+    }
+  },
+  {
+    "id": "FS/S34-E087",
+    "name": "Warning Before the Battle, Illya",
+    "setId": "fs_34",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets \"【CONT】 Assist All of your characters in front of this card gets +1000 power.\". 【AUTO】 When this card is placed on the stage from your hand, choose up to one card named \"Warning Before the Battle, Illya\" in your hand, reveal it to your opponent, and put it face down underneath this card as a marker.",
+    "flavorText": "If you don't summon yours soon, you're gonna die, Big Brother.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E087.png"
+    }
+  },
+  {
+    "id": "FS/S34-E088",
+    "name": "Modern Power, Kirei",
+    "setId": "fs_34",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Priest"
+    ],
+    "text": "【AUTO】 When another of your 《Weapon》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E088.png"
+    }
+  },
+  {
+    "id": "FS/S34-E089",
+    "name": "\"Heroic Spirit\" Berserker",
+    "setId": "fs_34",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Encore [Put a 《Servant》 character from your stage into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Rin: \"Berserker!?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E089.png"
+    }
+  },
+  {
+    "id": "FS/S34-E090",
+    "name": "Rin's Classmate, Yukika Saegusa",
+    "setId": "fs_34",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Manager"
+    ],
+    "text": "【CONT】 All of your other \"Rin's Classmate, Kane Himuro\" and \"Rin's Classmate, Kaede Makidera\" get +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "E-Excuse me, Tohsaka?\nIf you don't mind, would you like to eat lunch together?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E090.png"
+    }
+  },
+  {
+    "id": "FS/S34-E091",
+    "name": "\"Berserker's Master\" Illya",
+    "setId": "fs_34",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Homunculus"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E091.png"
+    }
+  },
+  {
+    "id": "FS/S34-E092",
+    "name": "Rin's Classmate, Kaede Makidera",
+    "setId": "fs_34",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Didn't I tell you? Tohsaka never brings a boxed lunch.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E092.png"
+    }
+  },
+  {
+    "id": "FS/S34-E093",
+    "name": "Rule-breaking Noble Phantasm, Caster",
+    "setId": "fs_34",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Master"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Rule-breaking Noble Phantasm\" is in your climax area, choose one trait of a character on your opponent's stage, and until end of turn, all of your opponent's characters lose that trait.",
+    "flavorText": "Hmph…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E093.png"
+    }
+  },
+  {
+    "id": "FS/S34-E094",
+    "name": "Overseer of the Holy Grail War, Kirei",
+    "setId": "fs_34",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Priest"
+    ],
+    "text": "-",
+    "flavorText": "It chooses the Master who is worthy of it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E094.png"
+    }
+  },
+  {
+    "id": "FS/S34-E095",
+    "name": "Reticent Teacher, Soichiro Kuzuki",
+    "setId": "fs_34",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Teacher"
+    ],
+    "text": "【AUTO】 [Put a \"\"Caster's Master\" Soichiro Kuzuki\" from your hand into your clock] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it on the bottom of your opponent's deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "Ryudou, I need to speak to you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E095.png"
+    }
+  },
+  {
+    "id": "FS/S34-E096",
+    "name": "Illusion magic",
+    "setId": "fs_34",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.",
+    "flavorText": "Saber: \"Rider-class Servant!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E096.png"
+    }
+  },
+  {
+    "id": "FS/S34-E097",
+    "name": "Taken",
+    "setId": "fs_34",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your 【STAND】 《Master》 characters, and 【REST】 it. If you do, choose one of your opponent's level 2 or lower characters, and put it on the bottom of your opponent's deck.",
+    "flavorText": "Saber is now my puppet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E097.png"
+    }
+  },
+  {
+    "id": "FS/S34-E098",
+    "name": "Immense Power",
+    "setId": "fs_34",
+    "number": "E098",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Master》 characters you have.",
+    "flavorText": "■■■―――！",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E098.png"
+    }
+  },
+  {
+    "id": "FS/S34-E099",
+    "name": "Illya's Magic, Storch Ritter",
+    "setId": "fs_34",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Besides, what do you want me to say\nto someone who is going to die here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E099.png"
+    }
+  },
+  {
+    "id": "FS/S34-E100",
+    "name": "Rule-breaking Noble Phantasm",
+    "setId": "fs_34",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "I had thought that\nyou were utterly irrational, but you do understand\nyour situation, don't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E100.png"
+    }
+  },
+  {
+    "id": "FS/S34-E101",
+    "name": "SD Shirou",
+    "setId": "fs_34",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Master》 or 《Servant》 characters get +500 power.",
+    "flavorText": "I like people like you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E101.png"
+    }
+  },
+  {
+    "id": "FS/S34-E102",
+    "name": "SD Saber",
+    "setId": "fs_34",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your clock is zero, this card cannot attack.",
+    "flavorText": "Give me an order.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E102.png"
+    }
+  },
+  {
+    "id": "FS/S34-E103",
+    "name": "SD Archer",
+    "setId": "fs_34",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "If presented with an enemy that is easy to slay, we ought to do so.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E103.png"
+    }
+  },
+  {
+    "id": "FS/S34-E104",
+    "name": "SD Rin",
+    "setId": "fs_34",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top three cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "For starters, good evening, Emiya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_E104.png"
+    }
+  },
+  {
+    "id": "FS/S34-PE01",
+    "name": "The Ones Fighting Against Fate",
+    "setId": "fs_34",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【CONT】 If you have another 《Servant》 character, this card gets +1500 power.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_PE01.png"
+    }
+  },
+  {
+    "id": "FS/S34-PE02",
+    "name": "In an Alliance",
+    "setId": "fs_34",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【CONT】 Assist During your turn, all of your characters in front of this card get +1000 power. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_PE02.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE01",
+    "name": "Commanding Aura, Saber",
+    "setId": "fs_34",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE01.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE02",
+    "name": "Tinkering with Machines, Shirou",
+    "setId": "fs_34",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "It's okay, I'm almost done.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE02.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE03",
+    "name": "Usual Morning, Shirou",
+    "setId": "fs_34",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "Morning, Fuji-nee.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE03.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE04",
+    "name": "Past Hero, Saber",
+    "setId": "fs_34",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if a card named \"A Fateful Night\" is in your climax area, you may choose one of your other characters, and return it to your hand.",
+    "flavorText": "Rin: \"Servants are basically always\nwith you in spirit form, and should the need arise, you can materialize them and make them fight.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE04.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE05",
+    "name": "Kind Soul, Shirou",
+    "setId": "fs_34",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【ACT】 COUNTER@ Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "…man, this place never changes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE05.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE06",
+    "name": "Hidden Weapon, Saber",
+    "setId": "fs_34",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Lancer: \"Your Noble Phantasm, is it a sword?\"\nSaber: \"Perhaps, perhaps not. It may be a battle axe.\nOr perhaps it is a polearm.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE06.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE07",
+    "name": "Self-training",
+    "setId": "fs_34",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Until end of turn, all of your characters get +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "Tracing basic structure. Tracing component materials!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE07.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE08",
+    "name": "A Fateful Night",
+    "setId": "fs_34",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 2
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I ask you. Are you my Master?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE08.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE09",
+    "name": "Proof of Contract, Rin",
+    "setId": "fs_34",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [【REST】 this card] Choose one of your characters with \"Archer(アーチャー)\" in its card name, until end of turn, that character gets +1500 power and the following ability. \"【CONT】 If the character facing this card is a lower level than this card, this card cannot attack.\"",
+    "flavorText": "This is all the proof you need that I am your Master, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE09.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE10",
+    "name": "Rough Summoning, Archer",
+    "setId": "fs_34",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "…hm?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE10.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE11",
+    "name": "Dual-wielding Bowman, Archer",
+    "setId": "fs_34",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE11.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE12",
+    "name": "A Different Morning, Rin",
+    "setId": "fs_34",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "-",
+    "flavorText": "I guess it's just one of those days.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE12.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE13",
+    "name": "Summon Rites, Rin",
+    "setId": "fs_34",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters.",
+    "flavorText": "Close the gates of the four directions. Come forth from the Crown and follow the forked road leading to the Kingdom.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE13.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE14",
+    "name": "Summoning Ritual",
+    "setId": "fs_34",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 2
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Come forth from the circle of\nbinding, Guardian of the Scales!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE14.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE15",
+    "name": "A Bowman's Speciality",
+    "setId": "fs_34",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (ComeBack@: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE15.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE16",
+    "name": "Holy Grail War Entry, Saber",
+    "setId": "fs_34",
+    "number": "TE16",
+    "rarity": "SP",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "Weapon"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Master》 or 《Servant》 characters, and that character gets +1500 power until end of turn. 【ACT】 Brainstorm [(1)] Reveal one card from the top of your deck, and put it into your waiting room. Choose one of your characters, and that character gets +X soul until end of turn. X is equal to the level of the card put into your waiting room with this effect. (Climax are regarded as level 0)",
+    "flavorText": "Your Servant Saber has come in response to your summons.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE16.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE17",
+    "name": "Familiar's Work, Archer",
+    "setId": "fs_34",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Servant",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "You are quite the slob, aren't you, girl?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE17.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE18",
+    "name": "For Victory, Rin & Archer",
+    "setId": "fs_34",
+    "number": "TE18",
+    "rarity": "SR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Servant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Master》 or 《Servant》 characters is four or more, you may put the top card of your deck into your stock. 【AUTO】 [(1)] At the beginning of your encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Yes, I'm fighting to win. That's all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE18.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE19",
+    "name": "Jewel Mage, Rin",
+    "setId": "fs_34",
+    "number": "TE19",
+    "rarity": "SP",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Jewel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When another of your 《Master》 or 《Servant》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Say your prayers!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE19.png"
+    }
+  },
+  {
+    "id": "FS/S34-TE20",
+    "name": "Reinforce Magic, Shirou",
+    "setId": "fs_34",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Master",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Trace on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/fs_s34/FS_S34_TE20.png"
+    }
+  }
+]

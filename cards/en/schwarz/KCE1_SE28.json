@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "KC/SE28-E01",
+    "name": "Wo-class Aircraft Carrier",
+    "setId": "kc_E28",
+    "number": "E01",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Aircraft Carrier"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose one of your 《Fleet in the Deep Sea》 characters, and that character gets +1000 power until end of turn. 【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E01.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E02",
+    "name": "Northern Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E02",
+    "rarity": "RR/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 When a card named \"Sink!\" is placed on your climax area, if this card is in your center stage, choose up to one of your opponent's level 0 or lower characters, put it into his or her waiting room, and reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Leave… your Zero behind and leave……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E02.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E03",
+    "name": "Final Mode, Northern Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E03",
+    "rarity": "RR/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 Experience If all of the cards in your level are 《Fleet in the Deep Sea》 characters, this card gets +1500 power. 【AUTO】 [(1)] During the turn that this card was placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+    "flavorText": "Sink!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E03.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E04",
+    "name": "Ne-class Heavy Cruiser",
+    "setId": "kc_E28",
+    "number": "E04",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may choose a character in your waiting room, and put it on the top of your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E04.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E05",
+    "name": "Midway Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E05",
+    "rarity": "R/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【ACT】 [(1)] Choose one of your 《Fleet in the Deep Sea》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order. 【CONT】 If the number of other 《Fleet in the Deep Sea》 characters you have is two or more, this card gets +1000 power. 【CONT】 This card gets +500 power for each of your other level 0 or lower characters. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage from your hand, you may pay the cost. If you do, choose a card named \"Final Mode, Midway Princess in the Deep Sea\" in your waiting room, and put it on any position of your stage as 【REST】.",
+    "flavorText": "Explode…… and sink……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E05.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E06",
+    "name": "Aircraft Carrier Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E06",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Fleet in the Deep Sea》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "I will sink you… as many times…… as many times as it takes……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E06.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E07",
+    "name": "Armored Aircraft Carrier Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E07",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Fleet in the Deep Sea》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Fleet in the Deep Sea》 characters you have.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E07.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E08",
+    "name": "Armored Aircraft Carrier Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E08",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E08.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E09",
+    "name": "Airfield Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E09",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 Assist All of your 《Fleet in the Deep Sea》 characters in front of this card gets +1500 power. 【AUTO】 [(3)] When a card named \"I told you… it's hopeless…\" is placed on your climax area, you may pay the cost. If you do, choose a character in your clock, and return it to your hand.",
+    "flavorText": "…… It's… hot?\nIt's hot…… isn't it…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E09.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E10",
+    "name": "Tsu-class Light Cruiser",
+    "setId": "kc_E28",
+    "number": "E10",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 This ability activates up to one time per turn. When an opponent's character with \"Aircraft Carrier（空母）\"or \"Aircraft Carrying（空母）\" in its trait is placed on the stage from his or her hand, choose one of your opponent's characters, and that character gets -1 soul until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E10.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E11",
+    "name": "Ni-Class Destroyer",
+    "setId": "kc_E28",
+    "number": "E11",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Destroyer"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into his or her stock. 【AUTO】 When this card attacks, choose one of your other 《Fleet in the Deep Sea》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E11.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E12",
+    "name": "Port Hydro Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E12",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Hydro Ogre in the Deep Sea"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top three cards of your opponent's deck into his or her waiting room. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Springtime… battle……\nShall… we begin…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E12.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E13",
+    "name": "Airｃraｆｔ Carrier Hydro Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E13",
+    "rarity": "U/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Hydro Ogre in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Fleet in the Deep Sea》 characters you have is four or more, you may put the top card of your deck into your stock. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You wish to… advance……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E13.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E14",
+    "name": "Aircraft Carrier Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E14",
+    "rarity": "U/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock. 【AUTO】 When you level up, this card gets \"【AUTO】 Encore [(1)]\" until end of turn.",
+    "flavorText": "Become… a mass of fire…\nand sink……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E14.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E15",
+    "name": "Berserker Mode, Port Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E15",
+    "rarity": "U/SP",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 If a card named \"Port Princess in the Deep Sea\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card attacks, if a card named \"Nothing… you don't understand anything at all…\" is in your climax area, you may choose a card in your clock, and return it to your hand. If you do, put the top card of your deck into your clock.",
+    "flavorText": "Thick headed girls……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E15.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E16",
+    "name": "Floating Fortress",
+    "setId": "kc_E28",
+    "number": "E16",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Fortress"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock. 【ACT】 [【REST】 this card] Choose one of your 《Fleet in the Deep Sea》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E16.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E17",
+    "name": "I-class Destroyer",
+    "setId": "kc_E28",
+    "number": "E17",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Destroyer"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 Experience This card gets +2500 power for each card named \"Destroyer I-class\" in your level.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E17.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E18",
+    "name": "So-class Submarine",
+    "setId": "kc_E28",
+    "number": "E18",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Submarine"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +1500 power and this card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E18.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E19",
+    "name": "Chi-class Torpedo Cruiser",
+    "setId": "kc_E28",
+    "number": "E19",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Torpedo Cruiser"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, choose one of your opponent's characters, and that character gets -1000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E19.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E20",
+    "name": "Ru-class Battleship",
+    "setId": "kc_E28",
+    "number": "E20",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Battleship"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power. X is equal to 500 multiplied by the number of cards in your opponent's clock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E20.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E21",
+    "name": "Port Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E21",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 If the number of cards in your clock is one or less, this card cannot attack.",
+    "flavorText": "I… told you…… not to… come any closer…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E21.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E22",
+    "name": "Final Mode, Midway Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E22",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until end of turn. 【AUTO】 Encore [Put a green card from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "And blindly…you came…… again…hehe…he…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E22.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E23",
+    "name": "Sink!",
+    "setId": "kc_E28",
+    "number": "E23",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Get away……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E23.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E24",
+    "name": "Nothing… you don't understand anything at all…",
+    "setId": "kc_E28",
+    "number": "E24",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Nothing… nothing… you don't understand anything at all…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E24.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E25",
+    "name": "I told you… it's hopeless…",
+    "setId": "kc_E28",
+    "number": "E25",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Hehehe…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E25.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E26",
+    "name": "Anchorage Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E26",
+    "rarity": "RR/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You shall not… proceed any further…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E26_.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E26_.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E27",
+    "name": "Final Mode, Light Cruiser Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E27",
+    "rarity": "RR/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters. 【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use \"【AUTO】 Encore\". (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "I won't… I won't let you…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E27_.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E27_.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E28",
+    "name": "Battleship Hydro Ogre in the Deep Seaa",
+    "setId": "kc_E28",
+    "number": "E28",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Hydro Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Scream… while you sink…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E28_.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E28_.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E29",
+    "name": "Southern Battle Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E29",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet in the Deep Sea》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Foolish…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E29.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E29.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E30",
+    "name": "Southern Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E30",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power. 【ACT】 [【REST】 this card] Draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Welcome… Welcome here…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E30.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E30.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E31",
+    "name": "Anchorage Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E31",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +2000 power until end of turn.",
+    "flavorText": "You shall not… proceed any further…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E31.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E31.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E32",
+    "name": "Seaplane Carrier Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E32",
+    "rarity": "R/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", if the number of 《Fleet in the Deep Sea》 characters you have is four or more, you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "It's alright……\nWhy don't you come over here……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E32.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E32.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E33",
+    "name": "Isolated Island Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E33",
+    "rarity": "R/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +1000 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Thick headed girls…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E33.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E33.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E34",
+    "name": "Air Defense Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E34",
+    "rarity": "R/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "13000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【CONT】 If this card is in your center stage except the middle position, this card gets -4000 power. 【CONT】 If this card is in the middle position of your center stage, this card gets -2000 power for each of your other 【REVERSE】 characters in the center stage or open position of your center stage. 【AUTO】 When this card is placed on the stage from your hand, look at up to three card from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 [(3) Put a card named \"Hehehe… Does it hurt?\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "Hehe……you came……?\nOh……you came……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E34.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E34.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E35",
+    "name": "Wa-class Supply Ship",
+    "setId": "kc_E28",
+    "number": "E35",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Supply Ship"
+    ],
+    "text": "【CONT】 If all of your characters are 《Fleet in the Deep Sea》, this card gets +1000 power. 【AUTO】 [(1) Put a card from the top of your deck into your clock] When this card attacks, you may pay the cost. If you do, draw a card.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E35.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E35.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E36",
+    "name": "Ka-class Submarine",
+    "setId": "kc_E28",
+    "number": "E36",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Submarine"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a cost 0 or lower character in your opponent's center stage, and put it on the bottom of his or her deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E36.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E36.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E37",
+    "name": "Light Cruiser Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E37",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Ogre in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock. 【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"Final Mode, Light Cruiser Ogre in the Deep Sea\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "Sink… to the deep…… and not being able to surface again!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E37.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E37.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E38",
+    "name": "Nu-class Light Aircraft Carrier",
+    "setId": "kc_E28",
+    "number": "E38",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Fleet in the Deep Sea》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E38.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E38.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E39",
+    "name": "Re-class Battleship",
+    "setId": "kc_E28",
+    "number": "E39",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Battleship"
+    ],
+    "text": "【CONT】 If your opponent has a 《Fleet Girl》 character, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, you may choose one of your opponent's level 0 or lower characters, and put it on the bottom of his or her deck. (The revealed card is returned to its original place)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E39.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E39.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E40",
+    "name": "Battleship Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E40",
+    "rarity": "U/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named \"Please sink!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's cost 1 or lower characters, and put it on the bottom of his or her deck. 【AUTO】 [Put this card into your waiting room] When another of your 《Fleet in the Deep Sea》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +3000 power until end of turn.",
+    "flavorText": "Please sink in… Ironbottom… Sound…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E40.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E40.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E41",
+    "name": "Destroyer Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E41",
+    "rarity": "C/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 When a card named \"Fall!\" is placed on your climax area, if this card is in your center stage, reveal the top card of your deck. If that card is a 《Fleet in the Deep Sea》 character, this card gets +5000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "I won't… let…you…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E41.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E41.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E42",
+    "name": "Ri-class Heavy Cruiser",
+    "setId": "kc_E28",
+    "number": "E42",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E42.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E42.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E43",
+    "name": "Ha-class Destroyer",
+    "setId": "kc_E28",
+    "number": "E43",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Destroyer"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is six or more, this card gets +1 level and +1000 power.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E43.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E43.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E44",
+    "name": "Ho-class Light Cruiser",
+    "setId": "kc_E28",
+    "number": "E44",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +2500 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E44.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E44.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E45",
+    "name": "Ta-class Battleship",
+    "setId": "kc_E28",
+    "number": "E45",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Battleship"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your opponent's characters. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E45.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E45.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E46",
+    "name": "Southern Battle Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E46",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Battle Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 The character facing this card gets +1 soul.",
+    "flavorText": "You won't get pass here…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E46.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E46.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E47",
+    "name": "Anchorage Hydro Ogre in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "E47",
+    "rarity": "C/SP",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Hydro Ogre in the Deep Sea"
+    ],
+    "text": "【CONT】 If the number of 《Fleet in the Deep Sea》 characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 This ability activates up to one time per turn. When your character is put into the waiting room from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "I can… no longer fly…… no longer fly……\nDo you understand?… Hey.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E47.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E47.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E48",
+    "name": "Fall!",
+    "setId": "kc_E28",
+    "number": "E48",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Fall! Fall!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E48.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E48.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E49",
+    "name": "Please sink!",
+    "setId": "kc_E28",
+    "number": "E49",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "I will sink you… no matter how many times… it takes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E49.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E49.png"
+    }
+  },
+  {
+    "id": "KC/SE28-E50",
+    "name": "Hehehe… Does it hurt?",
+    "setId": "kc_E28",
+    "number": "E50",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Now you've done it… I will also leave you in pain……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E50.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_se28/KC_SE28_E50.png"
+    }
+  },
+  {
+    "id": "KC/SE28-PE01",
+    "name": "Christmas, Northern Princess in the Deep Sea",
+    "setId": "kc_E28",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet in the Deep Sea",
+      "Princess in the Deep Sea"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock. 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "I told you… not… to come……",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_p01.png"
+    }
+  }
+]

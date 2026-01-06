@@ -1,0 +1,2652 @@
+[
+  {
+    "id": "RSL/S69-E001",
+    "name": "\"Phantom\" Nana Daiba",
+    "setId": "rsl_69",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +1 level and +1500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Revue》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "I'll be sure to express the Phantom the way I see the character!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E001.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E002",
+    "name": "\"Pandora\" Misora Kano",
+    "setId": "rsl_69",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "I think what's in the box... is hope.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E002.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E003",
+    "name": "\"Cinderella\" Lalafin Nonomiya",
+    "setId": "rsl_69",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"The New Cinderella: Champion of Justice!\" is in your climax area, and your hand has 6 or less cards, look at up to 3 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "I want to be the coolest Cinderella there ever was!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E003.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E004",
+    "name": "\"Greenhorn Captain\" Aruru Otsuki",
+    "setId": "rsl_69",
+    "number": "E004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, and put up to 1 card from the top of your deck into your stock. 【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500. 【AUTO】 【CXCOMBO】 [(3)] When this card attacks, if \"The Riches of the World Belong to Us\" is in your climax area, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "You can call me \"Captain\" from now on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E004.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E005",
+    "name": "\"Holiday Felicitations!\" Tsukasa Ebisu",
+    "setId": "rsl_69",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Revue》 character, you may move this card to an open position of your center stage.",
+    "flavorText": "It's a lucky start to the New Year!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E005.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E006",
+    "name": "\"Knight of the Sun Nation\" Nana Daiba",
+    "setId": "rsl_69",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When your other 《Revue》 character attacks, this card gets +1500 power until end of turn. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "As the captain of a unit, I've got to handle weapons with style!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E006.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E007",
+    "name": "\"Don Salvatore\" Kaoruko Hanayagi",
+    "setId": "rsl_69",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If you do not have another 《Revue》 character, this card cannot 【STAND】 during your stand phase. 【AUTO】 When this card is placed on the stage from your hand, if you have another 《Revue》 character, this card gets +2000 power until end of turn.",
+    "flavorText": "I'll show you a crime boss equal parts elegant and imposing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E007.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E008",
+    "name": "\"Pirate Queen\" Shizuha Kocho",
+    "setId": "rsl_69",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【CONT】 Assist All of your 《Revue》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 When \"The Riches of the World Belong to Us\" is placed on your climax area, if you have another \"\"Greenhorn Captain\" Aruru Otsuki\", put up to 2 cards from the top of your deck into your stock.",
+    "flavorText": "The Age of Discovery is the epitome of Frontier's spirit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E008.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E009",
+    "name": "\"Pirate Queen's Bodyguard\" Lalafin Nonomiya",
+    "setId": "rsl_69",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《Revue》 character, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\" 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Pirate lines can make them sound like villains, which makes them so fun to say!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E009.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E010",
+    "name": "\"Puss in Boots\" Futaba Isurugi",
+    "setId": "rsl_69",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Revue》 characters. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "I-I'm a cat!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E010.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E011",
+    "name": "\"Jack-o-Lantern\" Shizuha Kocho",
+    "setId": "rsl_69",
+    "number": "E011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500. 【ACT】 [【REST】 1 of your 《Revue》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "Playing a monster sounds like lots of fun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E011.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E012",
+    "name": "\"Empress of the Digital World\" Shizuha Kocho",
+    "setId": "rsl_69",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "Heh. I'll show you what my new custom-built rig can do.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E012.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E013",
+    "name": "\"Serious Practice\" Misora & Shizuha",
+    "setId": "rsl_69",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Shizuha: \"It's like a dream getting to dance with Your Highness.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E013.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E014",
+    "name": "\"Found an Egg!\" Tsukasa & Misora",
+    "setId": "rsl_69",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 [【REST】 this card] Choose 1 of your 《Revue》 characters, and that character gets +500 power until the end of your opponent's next turn. 【ACT】 [(2) 【REST】 this card] Choose 1 《Revue》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Misora: \"Tsukasa-senpai, I found one!\"\nTsukasa: \"Nice one, Misora!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E014.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E015",
+    "name": "\"You Haven't Changed a Bit\" Futaba & Kaoruko",
+    "setId": "rsl_69",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore[(3)]\" rule either)",
+    "flavorText": "Kaoruko: \"Are you interested in my sweets magazine, Futaba-han?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E015.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E016",
+    "name": "\"Fairy Godmother\" Aruru Otsuki",
+    "setId": "rsl_69",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of 《Revue》 characters you have ×500. 【ACT】 [【REST】 1 of your 《Revue》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "This fairy's here to make everyone magically happy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E016.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E017",
+    "name": "\"Sunlit Milk Break\" Lalafin Nonomiya",
+    "setId": "rsl_69",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Revue》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【ACT】 【COUNTER】 Backup 2500, Level 2 [ (1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I looove milk!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E017.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E018",
+    "name": "\"Ample Athletic Ability\" Misora Kano",
+    "setId": "rsl_69",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your 《Revue》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "I got it! Let's turn this around!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E018.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E019",
+    "name": "\"A Surprising Skill\" Tsukasa Ebisu",
+    "setId": "rsl_69",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Revue》 characters, and that character gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Trendy Snacks\" is in your climax area, you may choose 1 《Revue》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Whew, that was definitely worth the read!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E019.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E020",
+    "name": "New Stage, Aruru Otsuki",
+    "setId": "rsl_69",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position of the stage. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "We will be top stars, bringing our stage to the world!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E020.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E021",
+    "name": "\"Thorough Maintenance\" Futaba Isurugi",
+    "setId": "rsl_69",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "0",
+    "flavorText": "The acceleration's been kinda wonky lately... Hey!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E021.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E022",
+    "name": "\"Black Lion Nation General\" Kaoruko Hanayagi",
+    "setId": "rsl_69",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, if your opponent's waiting room has 5 or more climax, 【REST】 this card.",
+    "flavorText": "This time Futaba plays my enemy. This is going to be interesting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E022.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E023",
+    "name": "\"Greenhorn Helmsman\" Misora Kano",
+    "setId": "rsl_69",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Revue》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "So even on stage I'll be Aruru's childhood friend…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E023.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E024",
+    "name": "\"The Allure of Anmitsu\" Kaoruko Hanayagi",
+    "setId": "rsl_69",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +7500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"\"Thorough Maintenance\" Futaba Isurugi\" in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "You want some of my shiratama, don't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E024.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E025",
+    "name": "\"Knight of the Sun Nation\" Futaba Isurugi",
+    "setId": "rsl_69",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Revue》 characters you have ×1000. 【AUTO】 [ Put 1 《Revue》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"\"Our Flower Path\" Kaoruko Hanayagi\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "It's easy for me to identify with the character I'm playing this time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E025.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E026",
+    "name": "\"Veteran Pirate\" Tsukasa Ebisu",
+    "setId": "rsl_69",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×1000. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
+    "flavorText": "Pirates have this air of freedom about them that I really like!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E026.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E027",
+    "name": "\"So Many Frogs to Choose From\" Nana Daiba",
+    "setId": "rsl_69",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Revue》 characters. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Banana's Strawberry Sweets\" is in your climax area, choose up to 1 《Revue》 character in your waiting room, put it into your stock, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Oooh, they got so many new ones in!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E027.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E028",
+    "name": "Friends at the Aquarium",
+    "setId": "rsl_69",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 5 or more 《Frontier School of Arts》 characters, choose 1 of your characters, and that character gets +5500 power and the following abilities until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\" \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "Lalafin: \"We all love coming to the aquarium!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E028.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E029",
+    "name": "The Riches of the World Belong to Us",
+    "setId": "rsl_69",
+    "number": "E029",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Aruru: \"The oceans of the world be ours! The great adventure begins!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E029.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E030",
+    "name": "Banana's Strawberry Sweets",
+    "setId": "rsl_69",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Nana: \"Looks like it came out great! Will you taste-test for me?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E030.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E031",
+    "name": "The New Cinderella: Champion of Justice!",
+    "setId": "rsl_69",
+    "number": "E031",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Lalafin: \"The Evil Overlord's reign of terror ends now!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E031.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E032",
+    "name": "Trendy Snacks",
+    "setId": "rsl_69",
+    "number": "E032",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Tsukasa: \"Ahh, cheap candy on your day off is the best!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E032.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E033",
+    "name": "\"Yoshitsune Minamoto\" Yuyuko Tanaka",
+    "setId": "rsl_69",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 [Put 1 of your characters with \"Bond\" from your stage into your waiting room] Choose 1 of your characters, and that character gets +2500 power until end of turn. 【ACT】 [(1) Put the top card of your deck into your clock, and 【REST】 this card] Choose 1 level 1 or lower character in your waiting room, and return it to your hand.",
+    "flavorText": "Yoshitsune, known as Ushiwakamaru as a child, is one of my favorite historical figures.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E033.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E034",
+    "name": "\"Winged Tengu\" Ichie Otonashi",
+    "setId": "rsl_69",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Revue》 characters. 【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Revue》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "The Winged Tengu comes down from the mountain! Heehee☆",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E034.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E035",
+    "name": "\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe",
+    "setId": "rsl_69",
+    "number": "E035",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +1500 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play events from their hand.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Keepers of the Peace\" is in your climax area, you may put that character into your opponent's clock.",
+    "flavorText": "I'll do my best to play my cool role as protector of the city!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E035.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E036",
+    "name": "\"Benzaiten\" Fumi Yumeoji",
+    "setId": "rsl_69",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "I hope the goddess's blessing helps…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E036.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E037",
+    "name": "\"Not a Late Riser, Just a Night Owl\" Yuyuko Tanaka",
+    "setId": "rsl_69",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Revue》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "*yawn* Morning already?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E037.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E038",
+    "name": "\"Yagyu Jubei\" Rui Akikaze",
+    "setId": "rsl_69",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Martial and Dramatic Arts\" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "One of my sword fighting idols... I'll give it all I've got!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E038.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E039",
+    "name": "\"Ghost Patrol Squad Captain\" Ichie Otonashi",
+    "setId": "rsl_69",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"Keepers of the Peace\" is in your climax area, and you have another \"\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe\", you may pay the cost. If you do, deal 4 damage to your opponent, choose 1 character in your opponent's center stage, and that character gets -2000 power until end of turn. (Damage may be canceled)",
+    "flavorText": "My character's a joker, but cool at the same time. It's hard to do both!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E039.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E040",
+    "name": "\"A Passionate Gaze\" Rui Akikaze",
+    "setId": "rsl_69",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 Bond/\"New Stage, Tamao Tomoe\" \"\"Musashibo Benkei\" Tamao Tomoe\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"New Stage, Tamao Tomoe\" or \"\"Musashibo Benkei\" Tamao Tomoe\" in your waiting room, and return it to your hand)",
+    "flavorText": "Tamao-senpai…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E040.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E041",
+    "name": "\"Cherry Blossoms in the Bento\" Tamao & Fumi",
+    "setId": "rsl_69",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 card in your clock, return it to your hand, put the top card of your deck into your clock, choose one of your characters, and that character gets +1 level until end of turn.",
+    "flavorText": "Tamao: \"Since we're here to see the flowers, I decided to make one in the shape of a blossom. What do you think?\"\nFumi: \"That's amazing, Tamao! How did you do it?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E041.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E042",
+    "name": "\"The Idol of the Room\" Yuyuko & Ichie",
+    "setId": "rsl_69",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 Bond/\"\"Musashibo Benkei\" Tamao Tomoe\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Musashibo Benkei\" Tamao Tomoe\" in your waiting room, and return it to your hand)",
+    "flavorText": "Ichie: \"Thanks for your support, everyone!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E042.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E043",
+    "name": "\"Ghost Patrol Squad Member\" Fumi Yumeoji",
+    "setId": "rsl_69",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 All of your other 《Revue》 characters get +500 power. 【AUTO】 Bond/\"\"Ghost Patrol Squad Captain\" Ichie Otonashi\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Ghost Patrol Squad Captain\" Ichie Otonashi\" in your waiting room, and return it to your hand) 【ACT】 [【REST】 this card] Choose 1 of your 《Revue》 characters, and that character gets +1000 until end of turn.",
+    "flavorText": "I'm playing Ichie's subordinate. This feels wrong, somehow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E043.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E044",
+    "name": "New Stage, Tamao Tomoe",
+    "setId": "rsl_69",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power. 【AUTO】 Bond/\"\"Winged Tengu\" Ichie Otonashi\" \"\"Ghost Patrol Squad Member\" Rui Akikaze\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Winged Tengu\" Ichie Otonashi\" or \"\"Ghost Patrol Squad Member\" Rui Akikaze\" in your waiting room, and return it to your hand)",
+    "flavorText": "Here I come!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E044.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E045",
+    "name": "\"Ghost Patrol Squad Member\" Rui Akikaze",
+    "setId": "rsl_69",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 Bond/\"\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe\" in your waiting room, and return it to your hand) 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "My character is a rugged, unrefined swordmaster.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E045.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E046",
+    "name": "\"Ghost Patrol Squad Member\" Yuyuko Tanaka",
+    "setId": "rsl_69",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock. 【AUTO】 Bond/\"\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe\" [Put the top card of your deck into your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Ghost Patrol Squad Deputy Captain\" Tamao Tomoe\" in your waiting room, and return it to your hand)",
+    "flavorText": "What's better, being able to see ghosts or not?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E046.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E047",
+    "name": "\"Tengu's Handiwork\" Ichie Otonashi",
+    "setId": "rsl_69",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Revue》 characters, and that character gets +1000 power until end of turn. 【AUTO】 Bond/\"\"Ghost Patrol Squad Member\" Fumi Yumeoji\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Ghost Patrol Squad Member\" Fumi Yumeoji\" in your waiting room, and return it to your hand)",
+    "flavorText": "Well? What do you think of my new trick, Tamao?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E047.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E048",
+    "name": "\"Musashibo Benkei\" Tamao Tomoe",
+    "setId": "rsl_69",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 Bond/\"\"Yagyu Jubei\" Rui Akikaze\" \"\"Yoshitsune Minamoto\" Yuyuko Tanaka\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Yagyu Jubei\" Rui Akikaze\" or \"\"Yoshitsune Minamoto\" Yuyuko Tanaka\" in your waiting room, and return it to your hand)",
+    "flavorText": "I'm not that good at thinking on my feet like Benkei, but…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E048.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E049",
+    "name": "\"Balancing the Budget\" Fumi Yumeoji",
+    "setId": "rsl_69",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×1000. 【AUTO】 【CXCOMBO】 When \"The Hotpot Master\" is placed on your climax area, if this card is in your center stage, choose up to 1 《Revue》 character in your waiting room, return it to your hand, choose 1 of your other characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Heating and lighting costs... Ugh, Engel's Law is rough…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E049.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E050",
+    "name": "New Year Essentials",
+    "setId": "rsl_69",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 5 or more 《Rinmeikan Girls School》 characters, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Ichie: \"It wouldn't be New Year's without a shrine maiden. Looking good, Yuyuko!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E050.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E051",
+    "name": "Keepers of the Peace",
+    "setId": "rsl_69",
+    "number": "E051",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Tamao: \"I'll cut down all the ghosts of the imperial capital!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E051.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E052",
+    "name": "Martial and Dramatic Arts",
+    "setId": "rsl_69",
+    "number": "E052",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "When I put on this mask, I become an entirely different me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E052.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E053",
+    "name": "The Hotpot Master",
+    "setId": "rsl_69",
+    "number": "E053",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "Fumi: \"There's nothing like ponzu for seafood hotpot!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E053.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E054",
+    "name": "New Stage, Karen Aijo",
+    "setId": "rsl_69",
+    "number": "E054",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Recharging the Jellyfish Meter\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +1 level and +1500 power until end of turn.",
+    "flavorText": "Let's go, guys!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E054.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E055",
+    "name": "\"Musketeer Athos\" Hikari Kagura",
+    "setId": "rsl_69",
+    "number": "E055",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Revue》 characters, this card gets -1 level while in your hand. 【CONT】 During your turn, if all of your characters are 《Revue》, this card gets +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "The oldest, most collected of the musketeers... I must act more mature than anyone else.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E055.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E056",
+    "name": "\"Surprise Chocolate\" Hikari & Karen",
+    "setId": "rsl_69",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Revue》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Karen: \"Thank you so much, Hikari-chan!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E056.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E057",
+    "name": "\"Musketeer d'Artagnan\" Karen Aijo",
+    "setId": "rsl_69",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Revue》 characters among those cards ×1000. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, return it to your hand, choose 1 of your other 《Revue》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Me and D'Artagnan are both running full speed towards our dreams!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E057.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E058",
+    "name": "New Stage, Hikari Kagura",
+    "setId": "rsl_69",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if you have another \"\"Passion and Shine\" Karen Aijo\", you may pay the cost. If you do, choose 1 of your opponent's characters, and move it to an open position of their stage. 【ACT】 [【REST】 this card] Choose 1 of your \"\"Passion and Shine\" Karen Aijo\", and that character gets +2000 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "Karen, let's go.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E058.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E059",
+    "name": "\"Musketeer Porthos\" Mahiru Tsuyuzaki",
+    "setId": "rsl_69",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1) Put 1 \"A Sunny Day for Laundry\" from your climax area into your waiting room] During your climax phase, when this card is placed on the stage by the effect of \"A Sunny Day for Laundry\", you may pay the cost. If you do, 【STAND】 this card, and all your characters get +1 soul until end of turn. 【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 Encore [Put 1 《Revue》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I'm going to put on a big, bold performance this time... I'll show everyone!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E059.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E060",
+    "name": "\"Knight of the Black Lion Nation\" Hikari Kagura",
+    "setId": "rsl_69",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card attacks, 【REST】 all of your other 【STAND】 characters. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Honoring a promise... That's something I understand very well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E060.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E061",
+    "name": "\"Knight of the Sun Nation\" Karen Aijo",
+    "setId": "rsl_69",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.",
+    "flavorText": "The character I'm playing laments having to fight her friend…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E061.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E062",
+    "name": "\"Knight of the Sun Nation\" Mahiru Tsuyuzaki",
+    "setId": "rsl_69",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Revue》 characters. 【AUTO】 Encore [Put 1 《Revue》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "...I play someone who follows her own sense of justice.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E062.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E063",
+    "name": "\"A Mild-Mannered Girl's Getting Heated Up!\" Mahiru Tsuyuzaki",
+    "setId": "rsl_69",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "Yes! A game-winning grand slam!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E063.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E064",
+    "name": "\"Arabian Scarves\" Karen Aijo",
+    "setId": "rsl_69",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 All of your other \"\"Arabian Scarves\" Hikari Kagura\" get the following ability. \"【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2000 power until end of turn.\" 【ACT】 [【REST】 this card] Choose 1 of your 《Revue》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Hey, these are just like the one the princess wore in the show we saw the other day!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E064.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E065",
+    "name": "\"Arabian Scarves\" Hikari Kagura",
+    "setId": "rsl_69",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "-",
+    "flavorText": "\"Reliving their memories of the musical \"Aladdin and the Magic Lamp.\"\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E065.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E066",
+    "name": "\"Until the Others Arrive\" Karen & Mahiru",
+    "setId": "rsl_69",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+    "flavorText": "Karen: \"You're bright and warm as the sun, Mahiru-chan.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E066.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E067",
+    "name": "A Moment in the Living Room",
+    "setId": "rsl_69",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\"",
+    "flavorText": "Junna: \"This play is one of the highlights of this season.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E067.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E068",
+    "name": "Recharging the Jellyfish Meter",
+    "setId": "rsl_69",
+    "number": "E068",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Karen: \"Look, Hikari-chan! This jellyfish is upside down!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E068.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E069",
+    "name": "A Sunny Day for Laundry",
+    "setId": "rsl_69",
+    "number": "E069",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "There's so much laundry! Everyone's been practicing hard, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E069.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E070",
+    "name": "\"Earth Goddess\" Yachiyo Tsuruhime",
+    "setId": "rsl_69",
+    "number": "E070",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.",
+    "flavorText": "I play a goddess whose feelings were hurt and she stopped smiling.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E070.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E071",
+    "name": "\"Belle\" Shiori Yumeoji",
+    "setId": "rsl_69",
+    "number": "E071",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets -1 level while in your hand. 【CONT】 Assist All of your 《Revue》 characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Revue》 characters you have.",
+    "flavorText": "I'm Akira-san's partner... I'll do my best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E071.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E072",
+    "name": "New Stage, Akira Yukishiro",
+    "setId": "rsl_69",
+    "number": "E072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\"is in your level, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2)] When this card's battle opponent becomes 【REVERSE】, if \"Platinum on Ice\" is in your climax area, you may pay the cost. If you do, perform the following action 2 times. \"Put the bottom 4 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards.\" (Damage may be canceled)",
+    "flavorText": "We're always at the top.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E072.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E073",
+    "name": "\"Aladdin\" Claudine Saijo",
+    "setId": "rsl_69",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Brave Readiness, Maya Tendo\" in your hand, and put it on the stage position that this card was on.\" 【CONT】 All of your other 《Revue》 characters get +500 power.",
+    "flavorText": "Playing Aladdin requires a performer to be vulnerable.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E073.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E074",
+    "name": "\"Lu Bu\" Mei Fan Liu",
+    "setId": "rsl_69",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets the following abilities. \"【CONT】 Assist All of your characters in front of this card get +500 power.\" \"【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn.\" 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.\"",
+    "flavorText": "I'll show you true martial arts!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E074.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E075",
+    "name": "\"Heracles\" Michiru Otori",
+    "setId": "rsl_69",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Revue》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "It is I! Heracles! ...Haha.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E075.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E076",
+    "name": "\"Celestial Goddess\" Akira Yukishiro",
+    "setId": "rsl_69",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《Revue》 character with level equal to or lower than your level, put it in any position of your stage as 【REST】, and shuffle your deck.",
+    "flavorText": "Do we choose our roles or do they choose us?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E076.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E077",
+    "name": "\"Idle Banter for Two\" Yachiyo & Mei Fan",
+    "setId": "rsl_69",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Mei Fan: \"Isn't this pig adorable?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E077.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E078",
+    "name": "\"Musketeer Aramis\" Hoshimi Junna",
+    "setId": "rsl_69",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the top 5 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "This character is the most secretive, which makes her difficult to play, but I want to give it my best.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E078.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E079",
+    "name": "\"Sun Nation General\" Maya Tendo",
+    "setId": "rsl_69",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [④ Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "In this role, I will outshine everyone else.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E079.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E080",
+    "name": "\"Choosing a Frame Carefully\" Hoshimi Junna",
+    "setId": "rsl_69",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Hmm, I wonder... They're a little flashier than I usually wear, don't you think?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E080.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E081",
+    "name": "\"Water Goddess\" Michiru Otori",
+    "setId": "rsl_69",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets +1500 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Glittering Fish Tanks, Glittering Eyes\" is in your climax area, and you have 2 or more other 《Revue》 characters, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "She can be uncontrollable like a flooding river, or gentle like a babbling stream.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E081.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E082",
+    "name": "\"Knight of the Black Lion Nation\" Claudine Saijo",
+    "setId": "rsl_69",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Revue》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500.",
+    "flavorText": "I want to emphasize not her strength, but her elegance.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E082.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E083",
+    "name": "\"Wind Goddess\" Shiori Yumeoji",
+    "setId": "rsl_69",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets +1000 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 When this card attacks, if you have another 《Revue》 character, this card gets +1500 power until end of turn.",
+    "flavorText": "The Wind Goddess can communicate with animals.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E083.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E084",
+    "name": "\"This'll Make You Feel Better\" Michiru Otori",
+    "setId": "rsl_69",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 Experience When you use this card's \"Backup\", if \"New Stage, Akira Yukishiro\" is in your level, choose 1 of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Shiori, it looks like you've got your appetite back.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E084.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E085",
+    "name": "\"Diaochan\" Yachiyo Tsuruhime",
+    "setId": "rsl_69",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets +1500 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "We have a lot in common, Diaochan and I.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E085.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E086",
+    "name": "\"Sweet Days\" Junna & Nana",
+    "setId": "rsl_69",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Revue》 character, this card's soul does not decrease by side attacking until end of turn. (Return the revealed card to its original place) 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Nana: \"Getting this makes me really happy, Junna!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E086.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E087",
+    "name": "\"Hard Work Behind the Scenes\" Maya Tendo",
+    "setId": "rsl_69",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room. 【AUTO】 When this card attacks, if you have 1 or less other characters, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character in any position of your back stage.",
+    "flavorText": "Let's see, next is 1- km of jogging…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E087.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E088",
+    "name": "\"Confidants on a Date\" Michiru & Akira",
+    "setId": "rsl_69",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Revue》 characters, and that character gets +1500 power until end of turn. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Michiru: \"Give me a bite of yours, Akira!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E088.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E089",
+    "name": "\"Knight of the Black Lion Nation\" Hoshimi Junna",
+    "setId": "rsl_69",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 Your other 《Revue》 character in the middle position of the center stage gets +1500 power. 【AUTO】 【CXCOMBO】 When \"Banana's Strawberry Sweets\" is placed on your climax area, choose 1 of the following effects and perform it. \"Choose 1 of your 《Revue》 characters, and that character gets +2000 power until end of turn.\" \"Choose 1 of your 《Revue》 characters, and that character gets +1 soul until end of turn.\"",
+    "flavorText": "I play a knight...though she's more of a strategist in charge of devising battle tactics.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E089.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E090",
+    "name": "\"Looking Fresh in the Mirror\" Shiori Yumeoji",
+    "setId": "rsl_69",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 This ability activates up to 2 times per turn. When your other 《Revue》 character is placed on the stage from your hand, this card gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"A Fan-tea-stic Tasting\" is in your climax area, and you have another 《Revue》 character, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I'm glad today's practice went well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E090.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E091",
+    "name": "\"Genie of the Lamp\" Maya Tendo",
+    "setId": "rsl_69",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Revue》 characters get +1000 power. 【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I'm like the Genie of the Lamp?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E091.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E092",
+    "name": "\"Fire Goddess\" Mei Fan Liu",
+    "setId": "rsl_69",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 \"New Stage, Akira Yukishiro\" in your waiting room, and exchange them. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Revue》 characters you have ×500.",
+    "flavorText": "I may be the Fire Goddess, but I won't do any fire dances.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E092.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E093",
+    "name": "\"Beast\" Akira Yukishiro",
+    "setId": "rsl_69",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 Experience If \"New Stage, Akira Yukishiro\" is in your level, this card gets +1500 power.",
+    "flavorText": "A Beast who has never known love... I'll become the part perfectly.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E093.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E094",
+    "name": "\"Smirking Behind the Pillar\" Yachiyo Tsuruhime",
+    "setId": "rsl_69",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【CONT】 Assist All of your 《Revue》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Oho, I see! I had no idea!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E094.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E095",
+    "name": "\"Flexible Girl from China\" Mei Fan Liu",
+    "setId": "rsl_69",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 When your other 《Revue》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500.",
+    "flavorText": "No one's ever beat me in this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E095.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E096",
+    "name": "\"The Opera House Expert\" Claudine Saijo",
+    "setId": "rsl_69",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Revue》 character in your back stage. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Revue》 characters, you may choose 1 《Revue》 character in your waiting room, and put it into your stock.",
+    "flavorText": "The opera house glitters brilliantly in the city of fine arts, Paris…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E096.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E097",
+    "name": "You Need Friends for Clothes Shopping",
+    "setId": "rsl_69",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 5 or more 《Siegfeld Institute of Music》 characters, choose 1 《Siegfeld Institute of Music》 character in your clock, and return it to your hand. Put this card into your memory.",
+    "flavorText": "Yachiyo: \"Shiori, want me to guess your size?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E097.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E098",
+    "name": "Platinum on Ice",
+    "setId": "rsl_69",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "And now, a triple toe loop!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E098.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E099",
+    "name": "Glittering Fish Tanks, Glittering Eyes",
+    "setId": "rsl_69",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Hey! This fish looks like you, Akira!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E099.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E100",
+    "name": "A Fan-tea-stic Tasting",
+    "setId": "rsl_69",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 2 of your characters, and those characters get +2000 power and +1 soul until end of turn.",
+    "flavorText": "Shiori: \"This is chamomile, isn't it?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E100.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E101",
+    "name": "\"Sweet but Dangerous\" Aruru Otsuki",
+    "setId": "rsl_69",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "And I'll just mix in a little of this and a little of that!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E101.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E102",
+    "name": "\"A Green Thumb's Delight\" Tamao Tomoe",
+    "setId": "rsl_69",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+    "flavorText": "Thank you for blooming so beautifully.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E102.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E103",
+    "name": "\"Trying Out the Mask\" Karen Aijo",
+    "setId": "rsl_69",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Seisho Music Academy"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each other 《Revue》 character in your back stage.",
+    "flavorText": "I always wanted to play this role!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E103.png"
+    }
+  },
+  {
+    "id": "RSL/S69-E104",
+    "name": "\"Siegfeld General Hospital\" Akira Yukishiro",
+    "setId": "rsl_69",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Siegfeld Institute of Music"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage.",
+    "flavorText": "Okay, take a deep breath... now exhale.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_E104.png"
+    }
+  },
+  {
+    "id": "RSL/S69-PE01",
+    "name": "\"Witch Twins Unite!\" Aruru Otsuki",
+    "setId": "rsl_69",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Frontier School of Arts"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I want this magic staff with gum in it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_PE01.png"
+    }
+  },
+  {
+    "id": "RSL/S69-PE02",
+    "name": "\"Testing Luck in the New Year\" Tamao Tomoe",
+    "setId": "rsl_69",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Revue",
+      "Rinmeikan Girls School"
+    ],
+    "text": "【AUTO】 [Put 1 《Revue》 character from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Great Fortune.' Heheheh. Guess luck is on my side!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/RSL2/S69_PE02.png"
+    }
+  }
+]

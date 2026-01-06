@@ -1,0 +1,2677 @@
+[
+  {
+    "id": "SAO/S51-E001",
+    "name": "On Stage, Asuna",
+    "setId": "sao_51",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I don't mind you reading it, Kirito…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E001.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E002",
+    "name": "Promise Under the Meteors, Asuna",
+    "setId": "sao_51",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn. 【AUTO】 [Put the top card of your stock into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a character in your waiting room with \"Kirito(キリト)\" or \"Asuna(アスナ)\" or \"Yui(ユイ)\" in its card name, and return it to your hand.",
+    "flavorText": "I pray that the me of tomorrow won't have lost what I'm feeling right now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E002.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E003",
+    "name": "Overcoming Fear, Asuna",
+    "setId": "sao_51",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCombo】 [Put two cards from your hand into your waiting room] When this card attacks, if a card named \"《Mother's Rosario》\" is in your climax area, you may pay the cost. If you do, put the top eleven cards of your deck into your waiting room, deal X damage to your opponent, and this card gets +3000 power until end of turn. X is equal to the number of trigger icons revealed among those cards. (This damage may be canceled)",
+    "flavorText": "I'm going to fight, too. I can fight, Kirito.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E003.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E004",
+    "name": "Park Date, Asuna",
+    "setId": "sao_51",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn. 【AUTO】 Bond/\"\"Link Strike\" Kirito\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Link Strike\" Kirito\" in your waiting room, and return it to your hand.)",
+    "flavorText": "About that promise we made…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E004.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E005",
+    "name": "Kirito's Love, Asuna",
+    "setId": "sao_51",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 【CXCombo】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Enduring Emotions\" is in your climax area, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "The memories of that world still remain within me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E005.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E006",
+    "name": "Snack Time, Asuna",
+    "setId": "sao_51",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and until end of turn, that character gets +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E006.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E007",
+    "name": "《Lightning Flash》 Asuna & 《Black Swordsman》 Kirito",
+    "setId": "sao_51",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If a card named \"\"Time to Get Serious\" Kirito\" is in your clock, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters. 【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose up to one cost 1 or lower character in your hand, and put it on any position of your stage.",
+    "flavorText": "Kirito: \"Let's go, Asuna!\"\nAsuna: \"Right!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E007.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E008",
+    "name": "\"Link Strike\" Asuna",
+    "setId": "sao_51",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card is placed on the stage by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Fire!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E008.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E009",
+    "name": "Long-Awaited Promised Day, Asuna",
+    "setId": "sao_51",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets -1 level while on the stage. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck.",
+    "flavorText": "I can't wait to see the meteor shower!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E009.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E010",
+    "name": "Promise in your Heart, Asuna & Kirito",
+    "setId": "sao_51",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +5000 power and +1 soul.",
+    "flavorText": "Kirito: \"Trust me, and wait for me, Asuna.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E010.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E011",
+    "name": "Today's MVP, Asuna",
+    "setId": "sao_51",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.",
+    "flavorText": "Th-Thanks……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E011.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E012",
+    "name": "Seductive Shore, Asuna",
+    "setId": "sao_51",
+    "number": "E012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put an 《Avatar》 or 《Net》 character from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. 【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E012.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E013",
+    "name": "Taking On the Boss Battle, Asuna",
+    "setId": "sao_51",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other cards named \"Gentle Expression, Kirito\" get +1000 power and +1 soul.",
+    "flavorText": "Hey! At zero HP, there's a penalty!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E013.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E014",
+    "name": "Important Habit, Asuna",
+    "setId": "sao_51",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 Memory If a card named \"Promise Under the Meteors, Asuna\" is in your memory, this card gets +1000 power and +1 soul. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E014.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E015",
+    "name": "Thrusting Gale, Asuna",
+    "setId": "sao_51",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Be careful, Kirito.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E015.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E016",
+    "name": "Prepared for Battle, Asuna",
+    "setId": "sao_51",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Avatar》 or 《Net》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "It's almost time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E016.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E017",
+    "name": "\"Genius Game Designer\" Kayaba",
+    "setId": "sao_51",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "10000",
+      "soul": 3
+    },
+    "tags": [
+      "Net",
+      "Science"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.",
+    "flavorText": "The man I am now believes… in the existence of a power that transcends the system itself…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E017.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E018",
+    "name": "Sudden Whisper",
+    "setId": "sao_51",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters in battle, return it to your hand, choose a character in your back stage, and move it to the stage position that the character in battle was on as the defending character.",
+    "flavorText": "Eiji: \"Switch.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E018.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E019",
+    "name": "《Mother's Rosario》",
+    "setId": "sao_51",
+    "number": "E019",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "This is what I can do now…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E019.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E020",
+    "name": "Enduring Emotions",
+    "setId": "sao_51",
+    "number": "E020",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Even if I lose all my memories of SAO, this feeling is the one thing that will never, ever change.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E020.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E021",
+    "name": "Sister Fond of Her Brother, Leafa",
+    "setId": "sao_51",
+    "number": "E021",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 [(1)] When a climax is put on your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Hey, me too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E021.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E022",
+    "name": "《Songstress》 Yuna",
+    "setId": "sao_51",
+    "number": "E022",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have.",
+    "flavorText": "I hope you're all looking forward to it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E022.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E023",
+    "name": "Kendo Boot Camp, Suguha",
+    "setId": "sao_51",
+    "number": "E023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Sports"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuflle your deck.",
+    "flavorText": "Big Brother, I'm heading out now!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E023.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E024",
+    "name": "Swimsuit Suguha",
+    "setId": "sao_51",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +1000 power until end of turn. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn.",
+    "flavorText": "You're still in that outfit?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E024.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E025",
+    "name": "\"AR Idol\" Yuna",
+    "setId": "sao_51",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack. 【AUTO】 【CXCombo】 When this card attacks, if a card named \"The Giant Stage of Dreams\" is in your climax area, you may return the top card of your stock to your hand.",
+    "flavorText": "You're today's MVP! Congratulations!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E025.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E026",
+    "name": "Profound Communication, Yuna",
+    "setId": "sao_51",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【CONT】 Memory If the number of 《Avatar》 or 《Net》 characters in your memory is two or more, this card gets +4000 power. 【AUTO】 Encore [Put an 《Avatar》 or 《Net》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "……All I want is to go on singing. That's what I wish for.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E026.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E027",
+    "name": "Inviting Provocation, Eiji",
+    "setId": "sao_51",
+    "number": "E027",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCombo】 [Put a card named \"Ordinal Number 2\" from your climax area into your clock] When this card attacks, you may pay the cost. If you do, choose up to four 《Avatar》 or 《Net》 characters in your waiting room, put them into your stock in any order, and this card gets +1 soul until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory.",
+    "flavorText": "Do you really think you can beat me, the No. 2 ranked player?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E027.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E028",
+    "name": "Vexation of Being Absent, Leafa",
+    "setId": "sao_51",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Avatar》 or 《Net》 characters you have. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, put the top card of your deck into your waiting room. If that card's trigger icon is , 【STAND】 this card.",
+    "flavorText": "If only I could've been in the battles…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E028.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E029",
+    "name": "Instantaneous Movement, Eiｊi",
+    "setId": "sao_51",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into his or her stock. 【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.",
+    "flavorText": "So that's all VR's greatest swordsman amounts to in AR?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E029.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E030",
+    "name": "Fragment of Memory, Yuna",
+    "setId": "sao_51",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", you may choose a card named \"The Smile I Wanted to Protect, Yuna\" in your clock, and put it into your stock. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E030.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E031",
+    "name": "Confident Profile, Eiji",
+    "setId": "sao_51",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose a face up card in your opponent's memory, and put it face down. If you do, at the end of your turn, put it face up. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters, and move it to an open position of his or her stage.",
+    "flavorText": "I'm not who I was before…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E031.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E032",
+    "name": "《Knights of the Blood Oath》 Nautilus",
+    "setId": "sao_51",
+    "number": "E032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 You cannot play event cards and \"Backup\" from your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E032.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E033",
+    "name": "《Augma》 Developer, Shigemura",
+    "setId": "sao_51",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Science"
+    ],
+    "text": "【CONT】 Assist All of your 《Avatar》 or 《Net》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [【REST】 this card] Choose a card named \"In the Midst of Loud Cheering, Yuna\" in your waiting room, and put it into your memory. 【ACT】 [(2) Put a card named \"Confident Profile, Eiji\" from your stage into your memory] Search your deck for up to two level X or lower characters with \"Yuna(ユナ)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck. X is equal to the number of cards named \"In the Midst of Loud Cheering, Yuna\" in your memory.",
+    "flavorText": "Even if it means following the same path as that man. All I want is to get that moment back…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E033.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E034",
+    "name": "Special Stage, Yuna",
+    "setId": "sao_51",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power. 【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "All right, time for a special stage.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E034.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E035",
+    "name": "《An Incarnate of the Radius》",
+    "setId": "sao_51",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Enemy",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 【CXCombo】 [(2) Put four cards from your hand into your waiting room & Put a card named \"White Holy Tree\" from your climax area face down underneath this card as a marker] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, put all the cards in your clock into your waiting room. 【AUTO】 【CXCombo】 [(6) Put three cards from your hand into your waiting room & Put a marker from underneath this card into your waiting room] At the beginning of your opponent's encore step, you may pay the cost. If you do, perform the following action two times. \"Deal three damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E035.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E036",
+    "name": "Mysterious Young Swordsman, Eiji",
+    "setId": "sao_51",
+    "number": "E036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have another character with \"Yuna(ユナ)\" in its card name, this card gets +3000 power. 【AUTO】 [Put this card into your waiting room] When your other character with \"Yuna(ユナ)\" in its card name is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E036.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E037",
+    "name": "A Lonely Toast, Eiji",
+    "setId": "sao_51",
+    "number": "E037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a character in your opponent's center stage, and that character gets -3000 power until end of turn.",
+    "flavorText": "I'm now more powerful than Lightning Flash and the Black Swordsman… I owe it all to Ordinal Scale…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E037.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E038",
+    "name": "Really Loves Singing, Yuna",
+    "setId": "sao_51",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Are you guys ready?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E038.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E039",
+    "name": "In the Midst of Loud Cheering, Yuna",
+    "setId": "sao_51",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【AUTO】 [Put the top card of your stock into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "That was fun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E039.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E040",
+    "name": "Toto Institute of Technology Professor, Shigemura",
+    "setId": "sao_51",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Science"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Yuna(ユナ)\" or \"Eiji(エイジ)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "The most glaring flaw in the full-dive VR device would be the full-dive function itself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E040.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E041",
+    "name": "The Smile I Wanted to Protect, Yuna",
+    "setId": "sao_51",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Music"
+    ],
+    "text": "-",
+    "flavorText": "At the very least, I can cheer him up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E041.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E042",
+    "name": "Magic Attack, Leafa",
+    "setId": "sao_51",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCombo】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Assistance From the Fairies\" is in your climax area, choose up to one 《Avatar》 or 《Net》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E042.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E043",
+    "name": "Stable Sister, Leafa",
+    "setId": "sao_51",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have.",
+    "flavorText": "Are you sure you're all right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E043.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E044",
+    "name": "Opposition by the Shield",
+    "setId": "sao_51",
+    "number": "E044",
+    "rarity": "R",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\"",
+    "flavorText": "The Augma is just a version of the NerveGear with limited functions. Now hurry!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E044.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E045",
+    "name": "Ordinal Scale",
+    "setId": "sao_51",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place) Put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E045.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E046",
+    "name": "The Complete SAO Incident Records",
+    "setId": "sao_51",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have an 《Avatar》 or 《Net》 character, this card cannot be played from your hand. Choose one of the following effects and perform it. \"Choose a level 2 or lower character with \"Memory\" in your opponent's center stage, and put it into his or her waiting room.\" \"Choose one of your opponent's characters, and that character gets -2000 power until end of turn.\"",
+    "flavorText": "Eiji: \"It's like a journal of my memories.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E046.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E047",
+    "name": "The Giant Stage of Dreams",
+    "setId": "sao_51",
+    "number": "E047",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E047.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E048",
+    "name": "Ordinal Number 2",
+    "setId": "sao_51",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn.",
+    "flavorText": "Asuna: \"Rank 2…!?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E048.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E049",
+    "name": "White Holy Tree",
+    "setId": "sao_51",
+    "number": "E049",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Lisbeth: \"We… we can't defeat something like this……!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E049.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E050",
+    "name": "Assistance From the Fairies",
+    "setId": "sao_51",
+    "number": "E050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Big Brother! Sorry to make you wait!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E050.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E051",
+    "name": "Immalleable Intentions, Lisbeth",
+    "setId": "sao_51",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of characters in your back stage is one or less, this card cannot attack. 【AUTO】 【CXCombo】 [(1)] When this card attacks, if a card named \"Experienced Multiplayer\" is in your climax area, you may pay the cost. If you do, choose one of your other characters and this card, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "All right. Let's keep this up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E051.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E052",
+    "name": "\"Link Strike\" Silica",
+    "setId": "sao_51",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets +1500 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\" 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may put the top card of your clock into your waiting room.",
+    "flavorText": "Pina!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E052.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E053",
+    "name": "On Stage, Silica",
+    "setId": "sao_51",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) 【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "We're going to sing together next!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E053.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E054",
+    "name": "Refreshing Personality, Lisbeth",
+    "setId": "sao_51",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Well, now, it's all good.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E054.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E055",
+    "name": "Lively Post-Lessons, Rika",
+    "setId": "sao_51",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Avatar》 or 《Net》 characters revealed among those cards.",
+    "flavorText": "Go on! You should let everyone else hear, too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E055.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E056",
+    "name": "Silica On Guard",
+    "setId": "sao_51",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Asuna!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E056.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E057",
+    "name": "\"Link Strike\" Lisbeth",
+    "setId": "sao_51",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand. 【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Hey, you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E057.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E058",
+    "name": "Close Call, Silica",
+    "setId": "sao_51",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 【CXCombo】 [Return this card to your hand] When a card named \"Heinous Trap\" is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E058.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E059",
+    "name": "Beacon of Counterattack, Lisbeth",
+    "setId": "sao_51",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +2000 power until end of turn. 【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E059.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E060",
+    "name": "Surging Raid, Silica",
+    "setId": "sao_51",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.",
+    "flavorText": "No problem!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E060.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E061",
+    "name": "Taking On the Boss Battle, Lisbeth",
+    "setId": "sao_51",
+    "number": "E061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, all of your other cards named \"Taking On the Boss Battle, Silica\" get +2000 power. 【AUTO】 Bond/\"Taking On the Boss Battle, Silica\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Taking On the Boss Battle, Silica” in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E061.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E062",
+    "name": "Stunned Keiko",
+    "setId": "sao_51",
+    "number": "E062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E062.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E063",
+    "name": "Buoyant Behavior, Silica",
+    "setId": "sao_51",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is three or less, this card gets +1500 power. 【CONT】 The character facing this card gets \"【AUTO】 Encore [Put the top card of your deck into your clock]\".",
+    "flavorText": "Hehehe.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E063.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E064",
+    "name": "Taking On the Boss Battle, Silica",
+    "setId": "sao_51",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E064.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E065",
+    "name": "Stunned Rika",
+    "setId": "sao_51",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "But isn't there more chance of meeting girls through AR?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E065.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E066",
+    "name": "Rhapsodic Lisbeth",
+    "setId": "sao_51",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Avatar》 or 《Net》 characters. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "I'll join in too then!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E066.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E067",
+    "name": "Cheerful Singing",
+    "setId": "sao_51",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Silica(シリカ)\" in its card name, this card cannot be played from your hand. Reveal the top card of your deck, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E067.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E068",
+    "name": "Former Formidable Foe",
+    "setId": "sao_51",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Deal four damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Kirito: \"The boss monster from floor 10 in Aincrad, Kagachi the Samurai Lord!\"\nAsuna: \"He looks exactly like the SAO boss……\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E068.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E069",
+    "name": "Experienced Multiplayer",
+    "setId": "sao_51",
+    "number": "E069",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Lisbeth: \"All right, wanna go out there and grab some points?\"\nAsuna & Silica: \"Yeah!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E069.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E070",
+    "name": "Heinous Trap",
+    "setId": "sao_51",
+    "number": "E070",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Kyahh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E070.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E071",
+    "name": "\"Time to Get Serious\" Kirito",
+    "setId": "sao_51",
+    "number": "E071",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose one of your other 《Avatar》 or 《Net》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "I'm going to get your memories back no matter what.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E071.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E072",
+    "name": "\"Link Strike\" Sinon",
+    "setId": "sao_51",
+    "number": "E072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of 《Avatar》 or 《Net》 characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named \"\"Link Strike\" Kirito\", draw up to one card, and this card gets +2000 power until end of turn. 【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When the character in the middle position of your center stage attacks, you may pay the cost. If you do, put the top three cards of your deck into your waiting room. If there is a climax among those cards, 【STAND】 this card.",
+    "flavorText": "You can pay me back with cake in Ginza, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E072.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E073",
+    "name": "\"Link Strike\" Kirito",
+    "setId": "sao_51",
+    "number": "E073",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Avatar》 or 《Net》 characters you have. 【AUTO】 【CXCombo】 [(3) Put two cards from your hand into your waiting room & Put this card into your waiting room] When your other character attacks, if a card named \"《Black Swordsman》 Once More\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with \"Link Strike(連携攻撃)\" in its card name except a card named \"\"Link Strike\" Kirito\", and put it on the stage position that this card was on.",
+    "flavorText": "Trust me, and wait for me, Asuna.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E073.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E074",
+    "name": "In Doubt, Sinon",
+    "setId": "sao_51",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power. 【AUTO】 Encore [Put an 《Avatar》 or 《Net》 character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "So I guess it's okay…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E074.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E075",
+    "name": "《SAO Survivor》 Asuna & Kazuto",
+    "setId": "sao_51",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Avatar》 or 《Net》 characters get +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Kazuto: \"What's up?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E075.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E076",
+    "name": "Reliable Reinforcement, Sinon",
+    "setId": "sao_51",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters. 【AUTO】 【CXCombo】 When this card attacks, if a card named \"Dependable Marksmanship\" is in your climax area, reveal thte top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Someone's pretty pumped up, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E076.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E077",
+    "name": "AR Battle, Kirito",
+    "setId": "sao_51",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have.",
+    "flavorText": "I'm here, as promised.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E077.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E078",
+    "name": "Welcome Assistance, Yui",
+    "setId": "sao_51",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack. 【AUTO】 【CXCombo】 [Put a card from your hand into your stock] When this card attacks, you may pay the cost. If you do, choose a card named \"Sorry to Keep You Waiting!\" in your climax area, and return it to your hand.",
+    "flavorText": "I've loaded the saved data left on the SAO server onto you all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E078.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E079",
+    "name": "Full of Vigor, Yui",
+    "setId": "sao_51",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have. 【AUTO】 [Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost, If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock. 【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Ah! A shooting star!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E079.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E080",
+    "name": "Asuna's Love, Kirito",
+    "setId": "sao_51",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power. 【AUTO】 【CXCombo】 [(2)] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to one card named \"Perpetuation of the Promise\", put it into your climax area, and shuffle your deck.",
+    "flavorText": "I'm taking the shortest route to take them all out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E080.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E081",
+    "name": "Kazuto Can't Get Used to AR",
+    "setId": "sao_51",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 Bond/\"Attack in Waves, Asuna\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Attack in Waves, Asuna” in your waiting room, and return it to your hand.) 【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one 《Avatar》 or 《Net》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "But I still like full-dive better…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E081.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E082",
+    "name": "Fawning Klein",
+    "setId": "sao_51",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place) 【AUTO】 When this card attacks, if the number of other characters you have is one or less, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage.",
+    "flavorText": "Y-Yuna?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E082.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E083",
+    "name": "Snack Time, Yui",
+    "setId": "sao_51",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Investigation Report\" in your waiting room, and return it to your hand.",
+    "flavorText": "We should pick a time to meet when we go see the meteor shower, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E083.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E084",
+    "name": "\"Link Strike\" Agil",
+    "setId": "sao_51",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +3000 power until end of turn. 【AUTO】 [Return two characters from your waiting room to your deck, and shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+    "flavorText": "Who knew we'd be seeing this place after two years……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E084.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E085",
+    "name": "Data Collection, Yui",
+    "setId": "sao_51",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two characters with \"Link Strike(連携攻撃)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "I'll be gathering data throughout this battle, and find something to go on!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E085.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E086",
+    "name": "Cuddling Couple, Kazuto & Asuna",
+    "setId": "sao_51",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1500 power for each of your other 《Avatar》 or 《Net》 characters.",
+    "flavorText": "Kazuto: \"What's wrong, Asuna?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E086.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E087",
+    "name": "Sweating From a Tough Fight, Agil",
+    "setId": "sao_51",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponents turn, all of your other characters get +500 power. 【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E087.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E088",
+    "name": "Angry Confrontation, Kirito",
+    "setId": "sao_51",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other cards named \"Thrusting Gale, Asuna\" get +2000 power.",
+    "flavorText": "…What did you say?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E088.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E089",
+    "name": "Drive of An Angry God, Kirito",
+    "setId": "sao_51",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.",
+    "flavorText": "Woooooooooooooohh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E089.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E090",
+    "name": "Kirito Seeking a Lead",
+    "setId": "sao_51",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets +2500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "……What am I supposed to do?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E090.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E091",
+    "name": "Gentle Expression, Kirito",
+    "setId": "sao_51",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Good job, Asuna.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E091.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E092",
+    "name": "Cool Confutation, Sinon",
+    "setId": "sao_51",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have an 《Avatar》 or 《Net》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "If you're that worried, then make sure you protect me, all right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E092.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E093",
+    "name": "Urgent Participation in Battle, Klein",
+    "setId": "sao_51",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of 《Avatar》 or 《Net》 characters you have is four or more, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each of your other level 0 or lower characters.",
+    "flavorText": "Just in time!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E093.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E094",
+    "name": "Somehow Seeming Lonely, Kazuto",
+    "setId": "sao_51",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "-"
+    ],
+    "text": "【CONT】 This card gets -2 level while on the stage. 【AUTO】 When a climax is put on your climax area, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.",
+    "flavorText": "…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E094.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E095",
+    "name": "Investigation Report",
+    "setId": "sao_51",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【CONT】 Memory During your opponent's turn, if this card is in your memory, all of your 《Avatar》 or 《Net》 characters get +1000 power.",
+    "flavorText": "Daddy, Mommy, I was able to find out one thing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E095.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E096",
+    "name": "Ordinal Number 1",
+    "setId": "sao_51",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have any 《Avatar》 or 《Net》 characters, this card cannot be played from your hand. Put the top card of your deck into your waiting room, choose one of your opponent's level X or lower characters, and put it on the bottom of his or her deck. X is equal to that card's level. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E096.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E097",
+    "name": "《Black Swordsman》 Once More",
+    "setId": "sao_51",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "All right, you guys, let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E097.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E098",
+    "name": "Dependable Marksmanship",
+    "setId": "sao_51",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E098.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E099",
+    "name": "Sorry to Keep You Waiting!",
+    "setId": "sao_51",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Daddy, Mummy, everyone, please use this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E099.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E100",
+    "name": "Perpetuation of the Promise",
+    "setId": "sao_51",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Asuna: \"Wow…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E100.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E101",
+    "name": "2 Years' Confrontation, Asuna",
+    "setId": "sao_51",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1500 power for each of your other 《Avatar》 or 《Net》 characters.",
+    "flavorText": "You've spent a lot of time in this game, I see.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E101.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E102",
+    "name": "Seductive Shore, Leafa",
+    "setId": "sao_51",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E102.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E103",
+    "name": "Bonus Time! Yuna",
+    "setId": "sao_51",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Net",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw two cards. If your opponent does, your opponent chooses two cards from your opponent's hand and puts it into his or her waiting room.",
+    "flavorText": "All right, let the battle begin! Music, start!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E103.png"
+    }
+  },
+  {
+    "id": "SAO/S51-E104",
+    "name": "The Reason I Won't Lose, Kirito",
+    "setId": "sao_51",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put that character on the bottom of your opponent's deck.",
+    "flavorText": "I can't lose to someone who denies his past self.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_E104.png"
+    }
+  },
+  {
+    "id": "SAO/S51-PE01",
+    "name": "Real Physical Sensation, Kirito",
+    "setId": "sao_51",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Avatar》 or 《Net》 character is placed on the stage from your hand, this card gets +1000 power until end of turn. 【ACT】 [Put a climax from your hand into your waiting room] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
+    "flavorText": "Is that all No. 2 can do?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE01.png"
+    }
+  },
+  {
+    "id": "SAO/S51-PE02",
+    "name": "Precise Battle Orders, Asuna",
+    "setId": "sao_51",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you do not have another 《Avatar》 or 《Net》 character, put this card into your waiting room.",
+    "flavorText": "A wide-range attack is coming! Get down!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE02.png"
+    }
+  },
+  {
+    "id": "SAO/S51-PE03",
+    "name": "Maid Clothes Asuna",
+    "setId": "sao_51",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Avatar",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your other 《Avatar》 or 《Net》 characters, and return it to your hand.",
+    "flavorText": "I'll go make us some tea.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sao_s51/SAO_S51_PE03.png"
+    }
+  }
+]
