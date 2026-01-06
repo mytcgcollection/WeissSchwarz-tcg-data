@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "LRC/W105-E001",
+    "name": "Drunk? Waitress, Mizuki",
+    "setId": "lrc_105",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Going!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E001.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E002",
+    "name": "Walnut's Identity, Kurumi",
+    "setId": "lrc_105",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, look at up to 2 cards from the top of your opponent's deck, and put them on the top of their deck in any order. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《LycoReco》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Leave everything to Walnut.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E002.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E003",
+    "name": "Time for Work♪ Chisato & Takina",
+    "setId": "lrc_105",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《LycoReco》 or 《Weapon》 characters, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2)] At the end of this card's attack, if \"Whatever Your Order Is, Leave It All up to Us ♪\" is in your climax area, and you have 2 or more other 《LycoReco》 or 《Weapon》 characters, you may pay the cost. If you do, this card gets +2000 power and the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -3 soul.\"",
+    "flavorText": "Chisato: \"Customers! It’s go time!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E003.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E004",
+    "name": "Plain Clothes Takina",
+    "setId": "lrc_105",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【AUTO】 [Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, reveal the top card of your deck. If that card is a \"Hot New Dish\" or 《LycoReco》 or 《Weapon》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E004.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E005",
+    "name": "Plain Clothes Chisato",
+    "setId": "lrc_105",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 《LycoReco》 or 《Weapon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E005.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E006",
+    "name": "Café LycoReco, Chisato",
+    "setId": "lrc_105",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "That’s it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E006.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E007",
+    "name": "Shrewd Accountant, Takina",
+    "setId": "lrc_105",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《LycoReco》 or 《Weapon》 characters. 【CONT】 【CXCOMBO】 Experience If \"Business Crisis for Café LycoReco\" is in your climax area, this card is in your center stage, \"Time for Work♪ Chisato & Takina\" is in your level, and you have another 《LycoReco》 or 《Weapon》 character, all of your other \"Drunk? Waitress, Mizuki\", \"Walnut's Identity, Kurumi\", \"Café LycoReco, Chisato\", and \"Café LycoReco, Mika\" in all of your zones get in the trigger icon.",
+    "flavorText": "Mizuki, um, I just finished coming up with a new parfait.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E007.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E008",
+    "name": "Grand Stunt, Mizuki",
+    "setId": "lrc_105",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [Put this card into your waiting room] When your other 《LycoReco》 or 《Weapon》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Café LycoReco, Mizuki\" in your waiting room, and put it in any position of your stage as 【REST】.",
+    "flavorText": "Ohh man! And I totally had this\nHollywood-level explosion all ready, too…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E008.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E009",
+    "name": "Café LycoReco, Takina",
+    "setId": "lrc_105",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other \"Time for Work♪ Chisato & Takina\" get +500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【CONT】 Assist All of your 《LycoReco》 or 《Weapon》 characters in front of this card get +1500 power. 【ACT】 [(3) 【REST】 this card] Choose up to 1 \"Time for Work ♪ Chisato & Takina\" in your hand and put it in any position of your stage.",
+    "flavorText": "Alright everyone! Chisato needs to get changed before she can help you all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E009.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E010",
+    "name": "Poster Girl, Chisato",
+    "setId": "lrc_105",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《LycoReco》 or 《Weapon》 characters, this card gets +2000 power. 【CONT】 During this card's attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "Now open wide!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E010.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E011",
+    "name": "Let's Game! Kurumi & Chisato",
+    "setId": "lrc_105",
+    "number": "E011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《LycoReco》 or 《Weapon》 characters, you may choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and put it into your stock. 【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "Kurumi: \"Hehehe!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E011.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E012",
+    "name": "Café LycoReco, Kurumi",
+    "setId": "lrc_105",
+    "number": "E012",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "11000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of the following effects, and perform it. \"Your opponent returns all cards from their stock to their deck, shuffles their deck, and puts the same number of cards from the top of their deck into their stock.\" \"You may choose 1 of your opponent's characters, and return it to their hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E012.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E013",
+    "name": "Unwavering Pride, Mizuki",
+    "setId": "lrc_105",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Bold Lie\" is placed on your climax area, if you have 4 or more other 《LycoReco》 or 《Weapon》 characters, draw up to 1 card, choose 1 card in your hand, and put it into your stock. 【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an event or a 《LycoReco》 or 《Weapon》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "Why, that expensive bar from yesterday!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E013.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E014",
+    "name": "Complacent Smile, Kurumi",
+    "setId": "lrc_105",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000. 【AUTO】 [Put 1 other character from your stage into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "Mizuki: \"And what the hell are you so happy about?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E014.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E015",
+    "name": "Café LycoReco, Mika",
+    "setId": "lrc_105",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Reveal the top card of your deck, and if that card is a character of the level that your opponent declared, put it in any position of your stage. (Otherwise, return it to its original place) 【AUTO】 During this card's battle, when the damage you received is canceled, you may put this card into your stock.",
+    "flavorText": "That’s right… She’ll be back home soon.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E015.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E016",
+    "name": "Sulking, Takina",
+    "setId": "lrc_105",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《LycoReco》 or 《Weapon》 characters get +500 power. 【AUTO】 When your climax with in its trigger icon is placed on your climax area, choose 1 character in your opponent's center stage, and that character gets -2000 power until end of turn.",
+    "flavorText": "We need to stop making that parfait…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E016.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E017",
+    "name": "Thoughts on the New Dish, Chisato",
+    "setId": "lrc_105",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 1 or less other characters, this card gets +1 level and +2500 power.",
+    "flavorText": "…cr- creamy goodness!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E017.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E018",
+    "name": "Genius Hacker, Kurumi",
+    "setId": "lrc_105",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《LycoReco》 or 《Weapon》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "If you rely on computers you can forget to think for yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E018.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E019",
+    "name": "Drink After Work, Mizuki",
+    "setId": "lrc_105",
+    "number": "E019",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "She asked if we could give her a place to stay!\nFor now. Don’t make too much of a mess in there!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E019.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E020",
+    "name": "Figure of Speech, Chisato & Takina",
+    "setId": "lrc_105",
+    "number": "E020",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《LycoReco》 or 《Weapon》 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -1 soul until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Chisato: \"That's not what I mean! I’m sorry, Takina.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E020.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E021",
+    "name": "Café LycoReco, Mizuki",
+    "setId": "lrc_105",
+    "number": "E021",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【CONT】 Assist All of your 《LycoReco》 or 《Weapon》 characters in front of this card get +500 power and +1 soul. 【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E021.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E022",
+    "name": "Happy Halloween, Takina",
+    "setId": "lrc_105",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets +3000 power until end of turn.",
+    "flavorText": "Be good now. Happy Halloween!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E022.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E023",
+    "name": "Trick or Treat, Chisato",
+    "setId": "lrc_105",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《LycoReco》 or 《Weapon》 character, this card gets +1 soul until end of turn. (Return the revealed card to its original place) 【AUTO】 At the beginning of your climax phase, your opponent may put 2 cards from the top of their stock into their waiting room. If they do, this card cannot frontal attack until end of turn.",
+    "flavorText": "Trick or Treat!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E023.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E024",
+    "name": "Sudden Shot, Takina",
+    "setId": "lrc_105",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "What?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E024.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E025",
+    "name": "Drone Support, Kurumi",
+    "setId": "lrc_105",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【CONT】 This card gets +2500 power for each other 《LycoReco》 or 《Weapon》 character in your back stage. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Great Achievement\" is in your climax area, choose up to 1 《LycoReco》 or 《Weapon》 character in your waiting room, put it into your stock, and this card gets +X power until the end of your opponent's next turn. X is equal to the number of 《LycoReco》 or 《Weapon》 characters you have ×500.",
+    "flavorText": "Well, I guess I’ve got no choice…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E025.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E026",
+    "name": "Seeking the Truth Behind the Message, Chisato",
+    "setId": "lrc_105",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《LycoReco》 or 《Weapon》 characters, you may put the top card of your deck into your stock. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《LycoReco》 or 《Weapon》 characters you have ×1000.",
+    "flavorText": "Takina: \"Is something the matter? You’re acting very strange today.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E026.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E027",
+    "name": "Ex-DA, Mizuki",
+    "setId": "lrc_105",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《LycoReco》 or 《Weapon》 characters you have ×1000. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "Mika: \"This is Mizuki. She was also in DA. Intelligence Division.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E027.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E028",
+    "name": "Hot New Dish",
+    "setId": "lrc_105",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your 《LycoReco》 or 《Weapon》 characters, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When this card attacks, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "Now that it’s getting colder, I thought of the perfect ingredient. A swirl of tasty hot chocolate!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E028.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E029",
+    "name": "Whatever Your Order Is, Leave It All up to Us ♪",
+    "setId": "lrc_105",
+    "number": "E029",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Chisato: \"C’mere! Teach, Mizuki, squeeze in!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E029.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E030",
+    "name": "Business Crisis for Café LycoReco",
+    "setId": "lrc_105",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Then it must be done. From this moment on, our finances are my duty!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E030.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E031",
+    "name": "Bold Lie",
+    "setId": "lrc_105",
+    "number": "E031",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "2- years old!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E031.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E032",
+    "name": "Great Achievement",
+    "setId": "lrc_105",
+    "number": "E032",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Kurumi: \"Mr. Majima!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E032.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E033",
+    "name": "My Definition of Justice, Majima",
+    "setId": "lrc_105",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Terrorist",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《LycoReco》 or 《Weapon》 character, this card gets +2000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《LycoReco》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "One fighting for the balance of Japan and one, for the status quo… But which is the real hero of justice?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E033.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E034",
+    "name": "Protecting Livelihood, Takina & Chisato",
+    "setId": "lrc_105",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If all of your characters are 《LycoReco》 or 《Weapon》, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Welcome to LycoReco\" is in your climax area, and you have 2 or more other 《LycoReco》 or 《Weapon》 characters, look at up to 4 cards from the top of your deck, choose up to 1 \"Their Time Together and the Future They Choose\" or 《LycoReco》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+    "flavorText": "Chisato: \"And we’re the ones who make it possible!\nThat’s what I’m told… is the purpose of a Lycoris!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E034.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E035",
+    "name": "Place to Return To, Chisato",
+    "setId": "lrc_105",
+    "number": "E035",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 4 or more 《LycoReco》 or 《Weapon》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, if \"Chosen Place of Belonging, Takina\" is in your waiting room, this card gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "Takina… Pretty cute, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E035.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E036",
+    "name": "Days That'll Continue On, Chisato",
+    "setId": "lrc_105",
+    "number": "E036",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《LycoReco》 or 《Weapon》 character in your waiting room and return it to your hand. 【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Days Spent Together\" is in your climax area, and you have 2 or more other 《LycoReco》 or 《Weapon》 characters, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E036.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E037",
+    "name": "Close Shave, Mizuki",
+    "setId": "lrc_105",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage. 【AUTO】 [Put 1 card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other characters, put it face up underneath this card as a marker, at the beginning of your next draw phase, choose 1 character from the markers underneath this card, and put it in any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E037.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E038",
+    "name": "Naturally Gifted, Chisato",
+    "setId": "lrc_105",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, if there is a marker underneath this card, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《LycoReco》 or 《Weapon》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place) 【AUTO】 At the beginning of your opponent's draw phase, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may return this card to your hand. (Climax are regarded as level 0)",
+    "flavorText": "They mean everything to me. The state of the world? I really don’t care.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E038.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E039",
+    "name": "Captured, Chisato",
+    "setId": "lrc_105",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot move to another position of the stage. 【CONT】 If you have 2 or more other 《LycoReco》 or 《Weapon》 characters, this card gets +3000 power. 【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E039.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E040",
+    "name": "Valuing People’s Lives, Chisato",
+    "setId": "lrc_105",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\". 【AUTO】 When this card attacks, if you have a climax in your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "I’m leaving her to you for a while!\nDon’t get too reckless. Let’s value people’s lives!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E040.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E041",
+    "name": "Before the End, Chisato",
+    "setId": "lrc_105",
+    "number": "E041",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《LycoReco》 or 《Weapon》 character in your waiting room and return it to your hand. 【AUTO】 【CXCOMBO】 [Put this card into your waiting room] During your climax phase, when \"Persisting With Her Thoughts\" is placed on your climax area, you may pay the cost. If you do, choose up to 1 \"Chosen Path, Chisato\" in your hand, and put it in the stage position that this card was in.",
+    "flavorText": "I wanna know the honest truth! Like it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E041.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E042",
+    "name": "Chosen Path, Chisato",
+    "setId": "lrc_105",
+    "number": "E042",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《LycoReco》 or 《Weapon》 characters. 【AUTO】 When this card attacks, choose up to 1 card in your opponent's waiting room, and put it on the top or at the bottom of their deck. 【AUTO】 Encore [Put 1 《LycoReco》 or 《Weapon》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E042.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E043",
+    "name": "As a Senior, Chisato",
+    "setId": "lrc_105",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 cost 0 or lower character in your waiting room, and put it in separate positions of your stage.",
+    "flavorText": "You really can’t get a read on people, can you? I’m surprised you can be a 1st like that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E043.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E044",
+    "name": "Touring Tokyo, Chisato",
+    "setId": "lrc_105",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, your opponent puts the top 4 cards of their deck into their waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "I did it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E044.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E045",
+    "name": "Invitation for an \"Outing\", Chisato",
+    "setId": "lrc_105",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 \"Close Fight\" or 《LycoReco》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Takina: \"Chisato, did you make that costume yourself?\"\nChisato: \"It’s not a costume.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E045.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E046",
+    "name": "Reunion With Her Daughter? Mizuki",
+    "setId": "lrc_105",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card at the bottom of your deck] Choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Flight Attendant: \"Your daughter, separated at birth… She found you! She’s here!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E046.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E047",
+    "name": "Alan Children, Majima",
+    "setId": "lrc_105",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Terrorist",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, if your stock has less cards than your opponent's stock, you may put this card into your stock.\" 【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Why don’t you tell me what your mission is?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E047.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E048",
+    "name": "Unpredictable Attack, Chisato",
+    "setId": "lrc_105",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 【CXCOMBO】 If \"Desperate Opposition\" is in your climax area, this card in all of your zones gets in the trigger icon. 【CONT】 If you have 3 or more other characters, this card gets +3000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E048.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E049",
+    "name": "To New Lands, Chisato",
+    "setId": "lrc_105",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Sheesh, Miss Saori… Someday you’re gonna take a picture of an alien or something…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E049.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E050",
+    "name": "Place to Meet, Mizuki",
+    "setId": "lrc_105",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "I’d be all alone without a place to meet single men!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E050.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E051",
+    "name": "Words of Encouragement, Chisato",
+    "setId": "lrc_105",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other \"My Decision, Takina\" get +1000 power. 【AUTO】 [(1) 【REST】 this card from 【STAND】] When your other character is put into your clock from the stage, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E051.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E052",
+    "name": "Father Figure, Shinji",
+    "setId": "lrc_105",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Alan Institute",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have another \"Father Figure, Mika\", all of your other characters with \"Chisato(千束)\" in their card names get the following ability. \"【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.\" 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E052.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E053",
+    "name": "Meeting Her Savior, Chisato",
+    "setId": "lrc_105",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have another \"Father Figure, Shinji\" and \"Father Figure, Mika\", this card gets +2000 power. 【AUTO】 [Choose 1 《LycoReco》 or 《Weapon》 character in your hand and put it into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Father Figure, Shinji\" or \"Father Figure, Mika\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Mr. Savior! Say cheese!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E053.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E054",
+    "name": "At the Old Radio Tower Once More, Chisato",
+    "setId": "lrc_105",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《LycoReco》 or 《Weapon》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+    "flavorText": "Hey! Nice one! Hang on a little longer!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E054.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E055",
+    "name": "Father Figure, Mika",
+    "setId": "lrc_105",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have another \"Father Figure, Shinji\", all of your other characters with \"Chisato(千束)\" in their card names get +500 power. 【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《LycoReco》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E055.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E056",
+    "name": "Fun Times, Chisato",
+    "setId": "lrc_105",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 1 or less other characters in your center stage, this card gets +4000 power. 【AUTO】 At the beginning of your attack phase, if this card is 【STAND】, and you have 1 or less other characters in your center stage, put up to 1 card from the top of your deck into your stock, look at the top card of your deck, choose up to 1 《LycoReco》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E056.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E057",
+    "name": "Holiday Plans, Chisato",
+    "setId": "lrc_105",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E057.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E058",
+    "name": "Life Expectancy Announcement, Chisato",
+    "setId": "lrc_105",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your encore step, put this card into your waiting room, and reveal the top card of your deck. If that card is level 2 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0) 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Before the End, Chisato\" in your waiting room, and return it to your hand.",
+    "flavorText": "Even before this, I didn’t have much time left.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E058.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E059",
+    "name": "Panty Check, Chisato",
+    "setId": "lrc_105",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +10500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Panty Check, Takina\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Takina: \"If we’re discussing what would suit me, this isn’t my style, right?\"\nChisato: \"Right! I agree so why am I showing you anything!?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E059.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E060",
+    "name": "Infiltration Mission, Chisato",
+    "setId": "lrc_105",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《LycoReco》 or 《Weapon》 characters, you may choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and put it into your stock",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E060.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E061",
+    "name": "Close Fight",
+    "setId": "lrc_105",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a character with \"Chisato(千束)\" in its card name, this card cannot be played from your hand. Perform the following action 4 times. \"Look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E061.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E062",
+    "name": "Welcome to LycoReco",
+    "setId": "lrc_105",
+    "number": "E062",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Chisato: \"Takina! Wait, have we met?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E062.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E063a",
+    "name": "Days Spent Together",
+    "setId": "lrc_105",
+    "number": "E063a",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "What do you think you’re doing!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E063a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E063a.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E063b",
+    "name": "Days Spent Together",
+    "setId": "lrc_105",
+    "number": "E063b",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "What should I do now? Good question...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E063b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E063b.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E064",
+    "name": "Persisting With Her Thoughts",
+    "setId": "lrc_105",
+    "number": "E064",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E064.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E065",
+    "name": "Desperate Opposition",
+    "setId": "lrc_105",
+    "number": "E065",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E065.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E066",
+    "name": "Chosen Place of Belonging, Takina",
+    "setId": "lrc_105",
+    "number": "E066",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《LycoReco》 or 《Weapon》, this card gets +2000 power. 【AUTO】 [(1) Put this card into your waiting room] When your other 《LycoReco》 or 《Weapon》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "This place is dear to you, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E066.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E067",
+    "name": "Partners, Chisato & Takina",
+    "setId": "lrc_105",
+    "number": "E067",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《LycoReco》 or 《Weapon》 character, this card gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Mismatched Duo\" is in your climax area, and you have 2 or more other 《LycoReco》 or 《Weapon》 characters, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower《LycoReco》 or 《Weapon》 character in your waiting room, return it to your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "Chisato: \"All right, partner! Let’s GO!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E067.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E068",
+    "name": "Days That'll Continue On, Takina",
+    "setId": "lrc_105",
+    "number": "E068",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [Put 1 \"Days That'll Continue On, Chisato\" from your hand face up underneath this card as a marker] When \"Days Spent Together\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, all of your other characters get +3000 power and the following ability until end of turn. \"【AUTO】 When this card attacks, put the top card of your opponent's deck into their waiting room. If that card is level 0 or lower, deal 1 damage to your opponent.\" (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E068.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E069",
+    "name": "Machine-Gun Fire, Takina",
+    "setId": "lrc_105",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "DA",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card direct attacks, this card gets +1 soul until end of turn. 【AUTO】 [Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 \"My Decision, Takina\", put it in the stage position that this card was in as 【REST】, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E069.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E070",
+    "name": "Encouraging Takina",
+    "setId": "lrc_105",
+    "number": "E070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less character in their center stage, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "Fish!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E070.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E071",
+    "name": "As Long As We're Together, Chisato & Takina",
+    "setId": "lrc_105",
+    "number": "E071",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《LycoReco》 or 《Weapon》 characters, this card gets +1 level and +500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《LycoReco》 or 《Weapon》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "Chisato: \"I’m so glad I was able to meet you!\"\nTakina: \"What- What’re you-\"\nChisato: \"I'm glad! So glad!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E071.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E072",
+    "name": "Marksman, Takina",
+    "setId": "lrc_105",
+    "number": "E072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put the top 4 cards of your deck into your waiting room, choose up to 1 level X or lower 《LycoReco》 or 《Weapon》 character in your waiting room, and return it to your hand. X is equal to the total number of in the trigger icons of those cards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E072.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E073",
+    "name": "My Decision, Takina",
+    "setId": "lrc_105",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 The character facing this card gets \"【AUTO】 Encore [(2)]\". 【AUTO】 【CXCOMBO】 [Put 1 level 0 or lower card from your hand into your waiting room] When this card attacks, if \"Separate Paths\" is in your climax area, and your stock has 5 or less cards, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《LycoReco》 or 《Weapon》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E073.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E074",
+    "name": "Methodical Disposition, Takina",
+    "setId": "lrc_105",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +4000 power until the end of your opponent's next turn. 【ACT】 [(1) Put 1 card from your hand into your waiting room & 【REST】 this card] Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E074.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E075",
+    "name": "No Matter Where You Are, Takina",
+    "setId": "lrc_105",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or memory, all of your characters get +3000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory. 【AUTO】 Memory Experience [Put 2 cards from your hand into your waiting room] If this card is in your memory, at the beginning of your climax phase, if you have 2 or more \"Let's Hang Out, Chisato\" or \"3 Rings, Takina\" in your level, you may pay the cost. If you do, put this card in an open position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E075.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E076",
+    "name": "Invitation for an \"Outing\", Takina",
+    "setId": "lrc_105",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"My Decision, Takina\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Chisato: \"Oh, welcome back.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E076.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E077",
+    "name": "Café LycoReco in Hawaii, Takina",
+    "setId": "lrc_105",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《LycoReco》 or 《Weapon》 characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "It was some weirdo again, wasn’t it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E077.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E078",
+    "name": "3 Rings, Takina",
+    "setId": "lrc_105",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or less cards in your memory, you may choose 1 \"No Matter Where You Are, Takina\" in your waiting room, and put it into your memory.",
+    "flavorText": "No answer...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E078.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E079",
+    "name": "The Truth of This World, Majima",
+    "setId": "lrc_105",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Terrorist",
+      "Weapon"
+    ],
+    "text": "【CONT】 Your climax can be played from your hand without fulfilling color requirements. 【AUTO】 【CXCOMBO】 When \"Cutting Ties\" is placed on your climax area, if you have 2 or more other 《LycoReco》 or 《Weapon》 characters, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《LycoReco》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "And all of you that have now witnessed Lycoris…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E079.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E080",
+    "name": "Reluctant Transfer, Takina",
+    "setId": "lrc_105",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E080.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E081",
+    "name": "Splitting Up Chores, Takina",
+    "setId": "lrc_105",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "As we will now be living together, we’ll be splitting up the chores equally.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E081.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E082",
+    "name": "Oozing Bloodthirst, Takina",
+    "setId": "lrc_105",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(3) Put 2 《LycoReco》 or 《Weapon》 characters from your hand into your waiting room] When this card attacks, if \"To Save Her\" is in your climax area, you may pay the cost. If you do, deal 3 damage to your opponent 2 times. (Damage may be canceled)",
+    "flavorText": "Stop it! The next shot will go between your eyes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E082.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E083",
+    "name": "Holiday Plans, Takina",
+    "setId": "lrc_105",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other \"Holiday Plans, Chisato\" get +3000 power. 【AUTO】 Bond/\"Holiday Plans, Chisato\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Holiday Plans, Chisato\" in your waiting room, and return it to your hand)",
+    "flavorText": "Chisato: \"Oh! Time to move on, right?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E083.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E084",
+    "name": "In-Charge of the Menu, Kurumi",
+    "setId": "lrc_105",
+    "number": "E084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 [(1) Put 1 《LycoReco》 or 《Weapon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "And you should be in there working.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E084.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E085",
+    "name": "1st Lycoris, Fuki",
+    "setId": "lrc_105",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "DA",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your character direct attacks, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【ACT】 [Put this card into your clock] Look at up to 4 cards from the top of your deck, choose up to 1 《LycoReco》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E085.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E086",
+    "name": "Panty Check, Takina",
+    "setId": "lrc_105",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +6000 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Panty Check, Chisato\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Chisato: \"What… is… this…?\"\nTakina: \"Underwear.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E086.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E087",
+    "name": "Crash, Majima",
+    "setId": "lrc_105",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Terrorist",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is less than your opponent's hand, this card gets +4000 power. 【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to 3 level 0 or lower 《Weapon》 characters in your waiting room, and put them in separate positions of your stage.",
+    "flavorText": "That makes one of many Lycoris.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E087.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E088",
+    "name": "One Shot at Winning, Takina",
+    "setId": "lrc_105",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, play \"Rock-Paper-Scissors\" with your opponent 1 time, if you win, this card gets +9000 power until end of turn. (If the result is a draw, do nothing)",
+    "flavorText": "Paper-scissors!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E088.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E089",
+    "name": "Infiltration Mission, Kurumi",
+    "setId": "lrc_105",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card cannot attack. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《LycoReco》 or 《Weapon》 characters, you may choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Unbelievable! This place judges people just by how they look!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E089.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E090",
+    "name": "Parting With the Past, Takina",
+    "setId": "lrc_105",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "That makes it even between us.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E090.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E091",
+    "name": "In Plain Clothes for the First Time, Takina",
+    "setId": "lrc_105",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 4 or more 《LycoReco》 or 《Weapon》 characters, this card gets -1 level while in your hand. 【CONT】 All of your other 《LycoReco》 or 《Weapon》 characters get +1000 power.",
+    "flavorText": "Chisato: \"Say goodbye to those old boxers.\nAll your underwear made for men are going in the trash, right?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E091.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E092",
+    "name": "Last Moments, Takina",
+    "setId": "lrc_105",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 1 or less other characters in your center stage, this card gets +4000 power. 【AUTO】 At the beginning of your attack phase, if this card is 【STAND】, and you have 1 or less other characters in your center stage, put up to 3 cards from the top of your deck into your stock.",
+    "flavorText": "That’s a secret.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E092.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E093",
+    "name": "Changing Takina",
+    "setId": "lrc_105",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other \"Changing Takina\" get +3000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E093.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E094",
+    "name": "Helping Hand, Kurumi",
+    "setId": "lrc_105",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your other 《LycoReco》 or 《Weapon》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《LycoReco》 or 《Weapon》 characters you have ×500.",
+    "flavorText": "Heey! You guys good up here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E094.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E095",
+    "name": "Interest in the Unknown",
+    "setId": "lrc_105",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《LycoReco》 or 《Weapon》 character, this card cannot be played from your hand. Look at up to 4 cards from the top of your deck, choose up to 1 《LycoReco》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. You may choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+    "flavorText": "Takina: \"What you want always comes out on top.\"\nChisato: \"Oh! So you remember!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E095.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E096",
+    "name": "Their Time Together and the Future They Choose",
+    "setId": "lrc_105",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 1 character with \"Chisato(千束)\" in its card name, and up to 1 character with \"Takina(たきな)\" in its card name in your waiting room, return them to your hand, choose 1 of your 《LycoReco》 or 《Weapon》 characters, and that character gets +3000 power until end of turn. Reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place)",
+    "flavorText": "Takina: \"I will return there, for one reason.\nIf there’s even a remote possibility that Chisato will live.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E096.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E097",
+    "name": "Mismatched Duo",
+    "setId": "lrc_105",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Chisato: \"It started when you uploaded this pic to social media?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E097.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E098",
+    "name": "Separate Paths",
+    "setId": "lrc_105",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Chisato: \"Are you not happy?\"\nTakina: \"I don’t know.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E098.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E099",
+    "name": "Cutting Ties",
+    "setId": "lrc_105",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E099.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E100",
+    "name": "To Save Her",
+    "setId": "lrc_105",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "But no! He has your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E100.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E101",
+    "name": "Photoshoot, Kurumi",
+    "setId": "lrc_105",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E101.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E102",
+    "name": "Member of LycoReco, Kurumi",
+    "setId": "lrc_105",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《LycoReco》 or 《Weapon》 characters. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E102.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E103",
+    "name": "Photoshoot, Chisato",
+    "setId": "lrc_105",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 2 or higher character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E103.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E104",
+    "name": "Delightful Present",
+    "setId": "lrc_105",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Takina, you’ve been a busy lil bee lately!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E104.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E105",
+    "name": "Sailor Uniform Takina",
+    "setId": "lrc_105",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《LycoReco》 or 《Weapon》 characters and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E105.png"
+    }
+  },
+  {
+    "id": "LRC/W105-E106",
+    "name": "Guitarist, Takina",
+    "setId": "lrc_105",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [(2) 【REST】 this card] Look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_E106.png"
+    }
+  },
+  {
+    "id": "LRC/W105-PE03",
+    "name": "Reason to Act, Chisato",
+    "setId": "lrc_105",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 soul until end of turn. 【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_PE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_PE03.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE01",
+    "name": "Let's Hang Out, Chisato",
+    "setId": "lrc_105",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Once we’re done, I’ll take you somewhere great!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE01.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE02",
+    "name": "Send Off, Mizuki",
+    "setId": "lrc_105",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《LycoReco》 or 《Weapon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Oh? That bad?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE02.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE03",
+    "name": "Café LycoReco in Hawaii, Mizuki",
+    "setId": "lrc_105",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room & Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "The menu shouldn’t be walking around.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE03.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE04",
+    "name": "My Way of Life, Chisato",
+    "setId": "lrc_105",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your 《LycoReco》 or 《Weapon》 characters, and that character gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When \"Soundless Heartbeat\" is placed on your climax area, if this card is in your center stage, and you have 4 or less cards in your stock, you may choose 1 《LycoReco》 or 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "It’s true I’m a Lycoris, but… I want to do work that helps people out.\nThe same way that I was helped out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE04.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE05",
+    "name": "Particular About Coffee, Mika",
+    "setId": "lrc_105",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your memory] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE05.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE06",
+    "name": "Living Together, Chisato",
+    "setId": "lrc_105",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Why do you think that they’re being singled out?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE06.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE07",
+    "name": "Deliciously and Enjoyably, Chisato",
+    "setId": "lrc_105",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《LycoReco》 or 《Weapon》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Noo, Miss Takina. Do you understand our current situation?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE07.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE08",
+    "name": "Hawaiian Camouflage, Chisato",
+    "setId": "lrc_105",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《LycoReco》 or 《Weapon》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place) 【AUTO】 [Put 1 \"Proof of Alan Children\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 card in your opponent's waiting room, and put it on the top of their deck.",
+    "flavorText": "So! You in trouble?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE08.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE09",
+    "name": "Proof of Alan Children",
+    "setId": "lrc_105",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《LycoReco》 or 《Weapon》 character, this card cannot be played from your hand. Search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.",
+    "flavorText": "Takina: \"Indeed, this is exactly the same.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE09.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE10",
+    "name": "Soundless Heartbeat",
+    "setId": "lrc_105",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Takina: \"I don’t think that was a lie. You proved to be a good guide.\"\nChisato: \"Thank you, Takina!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE10.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE11",
+    "name": "Good Change, Takina",
+    "setId": "lrc_105",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other 《LycoReco》 or 《Weapon》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE11.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE12",
+    "name": "Cohabiting, Takina",
+    "setId": "lrc_105",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other \"Living Together, Chisato\" get +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 Bond/\"Living Together, Chisato\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Living Together, Chisato\" in your waiting room, and return it to your hand)",
+    "flavorText": "They were killed. All four were assaulted by a gang on solo duty.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE12.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE13",
+    "name": "Mysterious Hacker, Kurumi",
+    "setId": "lrc_105",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "Ahhhhh~",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE13.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE14",
+    "name": "Let's Hang Out, Takina",
+    "setId": "lrc_105",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《LycoReco》 or 《Weapon》 characters you have ×500. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "This is delicious…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE14.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE15",
+    "name": "To Save Her Comrades, Kurumi",
+    "setId": "lrc_105",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Net"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE15.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE16",
+    "name": "To Save Her Comrades, Takina",
+    "setId": "lrc_105",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×2000.",
+    "flavorText": "I’m sorry but I won’t be joining you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE16.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE17",
+    "name": "Lycoris, Takina & Chisato",
+    "setId": "lrc_105",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】【CXCOMBO】 [(2)] When this card attacks, if \"Combining Strengths\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Chisato: \"All right, time to get to work Takina!\"\nTakina: \"Right.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE17.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE18",
+    "name": "Long-Awaited Reunion, Takina",
+    "setId": "lrc_105",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "LycoReco",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《LycoReco》 or 《Weapon》 characters you have. 【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Chisato: \"So, how’d you track me down?\"\nTakina: \"Kurumi did.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE18.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE19",
+    "name": "Combining Strengths",
+    "setId": "lrc_105",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE19.png"
+    }
+  },
+  {
+    "id": "LRC/W105-TE20",
+    "name": "Job That Helps People in Need",
+    "setId": "lrc_105",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Chisato: \"It’s Takina! She’s my new partner having her very first day! Cool, huh?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/LRC/W105_TE20.png"
+    }
+  }
+]

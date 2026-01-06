@@ -1,0 +1,3127 @@
+[
+  {
+    "id": "KNK/W86-E001",
+    "name": "Ex-Girlfriend, Mami",
+    "setId": "knk_86",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a climax, you may choose 1 of your opponent's characters, and return it to their hand. (Return the revealed card to its original place)",
+    "flavorText": "Don't worry about it, Kazu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E001.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E002",
+    "name": "Mami Nanami",
+    "setId": "knk_86",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step. 【AUTO】 【CXCOMBO】 [(2)] At the end of this card's attack, if \"Compared to When We Were Dating\" is in your climax area, you may pay the cost. If you do, look at up to 3 cards from the top of your opponent's deck, choose up to 3 cards from among them, put them on the top of their deck in any order, and put the rest into their waiting room.",
+    "flavorText": "My place is nearby, wanna come rest there?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E002.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E003",
+    "name": "Memories Between the Two, Mami",
+    "setId": "knk_86",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Rent-A-GF》 characters among those cards ×1000. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Rent-A-GF》 character in your waiting room, return it to your hand, choose 1 of your other 《Rent-A-GF》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Even though we only dated for a month, it sure left an impression!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E003.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E004",
+    "name": "Centimeter, Mami",
+    "setId": "knk_86",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of your center stage gets +1000 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E004.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E005",
+    "name": "Equally Bad, Mami",
+    "setId": "knk_86",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Let's Date\" is placed on your climax area, if you have 2 or more other 《Rent-A-GF》 characters, look at up to 4 cards from the top of your deck, choose up to 1 《Rent-A-GF》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Let's walk down this path together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E005.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E006",
+    "name": "Done With Love, Mami",
+    "setId": "knk_86",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Rent-A-GF》 characters you have.",
+    "flavorText": "I already decided that I'm done with love!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E006.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E007",
+    "name": "Through a Viewfinder, Mami",
+    "setId": "knk_86",
+    "number": "E007",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E007.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E008",
+    "name": "\"Annoying...\" Mami",
+    "setId": "knk_86",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 During your opponent's turn, this card gets +1000 power for each of your other 《Rent-A-GF》 characters. 【ACT】 [Put this card into your waiting room] Choose 1 \"As an Ex-Girlfriend, Mami\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Chizuru: \"Have you ever faced Kazuya's feelings head on?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E008.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E009",
+    "name": "As an Ex-Girlfriend, Mami",
+    "setId": "knk_86",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, choose 1 \"\"Annoying...\" Mami\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Sorry Sumi, can you let us be for awhile?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E009.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E010",
+    "name": "First \"Girlfriend\", Mami",
+    "setId": "knk_86",
+    "number": "E010",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Rent-A-GF》 characters get +500 power. 【AUTO】 At the beginning of your climax phase, choose 1 of your characters with \"Mami(麻美)\" in its card name, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E010.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E011",
+    "name": "Bungee Jump of Confession, Mami",
+    "setId": "knk_86",
+    "number": "E011",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in their center stage, and put it into their waiting room. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Rent-A-GF》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E011.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E012",
+    "name": "\"Fated One\" Mami",
+    "setId": "knk_86",
+    "number": "E012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "I'm Mami Nanami, pleased to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E012.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E013",
+    "name": "Usual Dynamic, Mami",
+    "setId": "knk_86",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if you have 2 or more other 《Rent-A-GF》 characters, you may pay the cost. If you do, this card gets +1000 power and +2 soul until end of turn.",
+    "flavorText": "Kazu is really a boy, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E013.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E014",
+    "name": "Casual Greeting, Mami",
+    "setId": "knk_86",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Rent-A-GF》 characters. 【AUTO】 [Put 1 《Rent-A-GF》 character from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 character facing this card and another of your opponent's level 1 or lower characters, and exchange them as 【STAND】.",
+    "flavorText": "Hello, Kazu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E014.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E015",
+    "name": "Broken Promise, Mami",
+    "setId": "knk_86",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have 2 or more 《Rent-A-GF》 characters, look at your opponent's hand. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E015.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E016",
+    "name": "Could You Stop?",
+    "setId": "knk_86",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 1 character with \"Mami(麻美)\" in its card name, reveal it to your opponent, put it into your hand, choose up to 1 \"Mami Nanami\" in your hand, put it on any position of your stage, shuffle your deck, and that character gets +3000 power until end of turn.",
+    "flavorText": "I find it all a teensy bit annoying.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E016.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E017",
+    "name": "Compared to When We Were Dating",
+    "setId": "knk_86",
+    "number": "E017",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "My place is nearby...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E017.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E018",
+    "name": "Let's Date",
+    "setId": "knk_86",
+    "number": "E018",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Let's date, shall we?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E018.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E019",
+    "name": "Ruka Sarashina",
+    "setId": "knk_86",
+    "number": "E019",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +1000 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you reveal 1 or more cards, choose up to 1 《Rent-A-GF》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "I'm your \"girlfriend\"... I'll be the best \"girlfriend\" for you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E019.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E020",
+    "name": "Sumi Sakurasawa",
+    "setId": "knk_86",
+    "number": "E020",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 Experience If \"Shy \"Girlfriend\", Sumi\" is in your level, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Towards Her \"Goal\"\" is in your climax area, and you have another 《Rent-A-GF》 character, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose up to 2 of your opponent's characters, and those characters get -1 soul until end of turn.\"",
+    "flavorText": "See you again!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E020.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E021",
+    "name": "Treasured Moment, Chizuru",
+    "setId": "knk_86",
+    "number": "E021",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Rent-A-GF》 characters, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +1000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E021.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E022",
+    "name": "Fantasy Date, Chizuru",
+    "setId": "knk_86",
+    "number": "E022",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E022.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E023",
+    "name": "Centimeter, Sumi",
+    "setId": "knk_86",
+    "number": "E023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 At the beginning of your attack phase, if this card is in your center stage, you may put the top card of your deck into your waiting room. If that card is a 《Rent-A-GF》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E023.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E024",
+    "name": "Challenging for the First Time, Sumi",
+    "setId": "knk_86",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Rent-A-GF》 characters you have ×500. 【AUTO】 【CXCOMBO】 When \"Surprisingly Resilient?\" is placed on your climax area, if this card is in your center stage, you may choose 1 level 1 or higher card in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E024.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E025",
+    "name": "While I'm Your \"Girlfriend\", Chizuru",
+    "setId": "knk_86",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"While I'm Your \"Girlfriend\", Chizuru\" in your memory, and put it on any position of your stage.",
+    "flavorText": "Kazuya: \"I wonder if there will be a day when I can introduce a proper \"girlfriend\" to my grandma.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E025.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E026",
+    "name": "About Kazuya, Mami",
+    "setId": "knk_86",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 【CXCOMBO】 [(1)] When \"Problem Between the Two\" is placed on your climax area, you may pay the cost. If you do, choose 1 character in your opponent's center stage, and return it to their hand. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your character with \"Mami(麻美)\" in its card name direct attacks, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "Chizuru: \"You aren't someone that he could just forget.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E026.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E027",
+    "name": "Waiting Impatiently, Sumi",
+    "setId": "knk_86",
+    "number": "E027",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card with \"Sumi(墨)\" in their card names get +1500 power. 【AUTO】 Experience [Put 1 card from your hand into your waiting room] At the beginning of your encore step, if \"Shy \"Girlfriend\", Sumi\" is in your level, you may pay the cost. If you do, draw 1 card. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E027.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E028",
+    "name": "Secret Date, Ruka",
+    "setId": "knk_86",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 At the beginning of your encore step, if \"Look Here, Kazuya!\" is in your climax area, this card is in your center stage, and there is no character facing this card or the character facing this card is 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Rent-A-GF》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and put up to 1 card from the top of your deck into your stock. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "Kazuya!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E028.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E029",
+    "name": "Serious Gaze, Chizuru",
+    "setId": "knk_86",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put the top card of your deck into your clock] When \"Proof of Lovers\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 cost 0 or lower characters from among them, put them on separate positions of your stage, and put the rest into your waiting room. 【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E029.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E030",
+    "name": "Practicing Smiling, Sumi",
+    "setId": "knk_86",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times during the trigger step. 【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E030.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E031",
+    "name": "Relaxing Through Exercise, Sumi",
+    "setId": "knk_86",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Rent-A-GF》 characters, you may draw 1 card. If you do, choose 1 card from your hand, and put it into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E031.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E032",
+    "name": "\"Let's Not\" Mami",
+    "setId": "knk_86",
+    "number": "E032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\" 【AUTO】 When this card attacks, choose 1 of your other 《Rent-A-GF》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Rent-A-GF》 characters you have ×500.",
+    "flavorText": "It's hard to enjoy oneself when there is an envelope of cash left out on the table.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E032.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E033",
+    "name": "Offering a Bite, Sumi",
+    "setId": "knk_86",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Rent-A-GF》 characters you have. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Kazuya: \"Eh-------!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E033.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E034",
+    "name": "Not a Kiss, Chizuru",
+    "setId": "knk_86",
+    "number": "E034",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 [Put 1 《Rent-A-GF》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"\"Are You an Idiot!?\" Chizuru\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 This ability activates up to 1 time per turn. When your other \"\"Are You an Idiot!?\" Chizuru\" is placed on the stage from your hand, you may choose 1 《Rent-A-GF》 character in your waiting room, and put it into your stock.",
+    "flavorText": "I'm sorry you had to save me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E034.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E035",
+    "name": "Bungee Jump of Confession, Sumi",
+    "setId": "knk_86",
+    "number": "E035",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 All of your other 《Rent-A-GF》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Rent-A-GF》 character in your waiting room, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E035.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E036",
+    "name": "Important Conversation, Ruka",
+    "setId": "knk_86",
+    "number": "E036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When your other 《Rent-A-GF》 character attacks, this card gets +1500 power until end of turn.",
+    "flavorText": "Eh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E036.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E037",
+    "name": "Balcony at 9pm, Chizuru",
+    "setId": "knk_86",
+    "number": "E037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Embarrassed Maiden\" in your waiting room, and return it to your hand.",
+    "flavorText": "To you, \"she\" is someone you can't overlook in your quest to \"finding a girlfriend\", isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E037.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E038",
+    "name": "Realizing the Truth, Mami",
+    "setId": "knk_86",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position of the stage. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E038.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E039",
+    "name": "Confused, Sumi",
+    "setId": "knk_86",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Rent-A-GF》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E039.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E040",
+    "name": "Calling Out Accurately, Ruka",
+    "setId": "knk_86",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "I take it that you're admitting to being a fake boyfriend?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E040.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E041",
+    "name": "Straw Hat, Chizuru",
+    "setId": "knk_86",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] At the beginning of your opponent's climax phase, if you have another 《Rent-A-GF》 character, you may pay the cost. If you do, this card gets +3000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Rent-A-GF》 character in your waiting room, and return it to your hand.\" 【ACT】 [Put this card into your waiting room] Choose 1 \"Sea and Girlfriend, Chizuru\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E041.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E042",
+    "name": "\"Are You an Idiot!?\" Chizuru",
+    "setId": "knk_86",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E042.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E043",
+    "name": "Embarrassed Maiden",
+    "setId": "knk_86",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 1 or less characters with \"Sumi(墨)\" in its card name, this card cannot be played from your hand. Choose up to 1 \"Sumi Sakurasawa\" in your hand, put it on any position of your stage, and that character gets the following 2 abilities until the end of your opponent's next turn. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from their hand.\" \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E043.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E044",
+    "name": "Proof of Lovers",
+    "setId": "knk_86",
+    "number": "E044",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E044.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E045",
+    "name": "Problem Between the Two",
+    "setId": "knk_86",
+    "number": "E045",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "That's between me and Kazu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E045.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E046",
+    "name": "Look Here, Kazuya!",
+    "setId": "knk_86",
+    "number": "E046",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E046.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E047",
+    "name": "Towards Her \"Goal\"",
+    "setId": "knk_86",
+    "number": "E047",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Chizuru: \"That's one step closer towards your \"goal\", isn't it?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E047.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E048",
+    "name": "Surprisingly Resilient?",
+    "setId": "knk_86",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E048.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E049",
+    "name": "Shy \"Girlfriend\", Sumi",
+    "setId": "knk_86",
+    "number": "E049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Rent-A-GF》 characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "... Ah...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E049.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E050",
+    "name": "Chizuru Mizuhara",
+    "setId": "knk_86",
+    "number": "E050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Rent-A-GF》 character, this card gets +3000 power. 【AUTO】 【CXCOMBO】 [Put 1 《Rent-A-GF》 character from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"An Apology Present\" is in your climax area, choose up to 1 《Rent-A-GF》 character in your waiting room, return it to your hand, and you may pay the cost. If you do, choose 1 \"Um... Do You Mind?\" or 《Rent-A-GF》 character in your waiting room, and return it to your hand.",
+    "flavorText": "If you're fine with me, I'll follow through.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E050.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E051",
+    "name": "Everyone's \"Girlfriend\", Chizuru",
+    "setId": "knk_86",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"\"You're the One\" Chizuru\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Each Other's Feelings\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, this card gets +1000 power until end of turn, and gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\" (Damage may be canceled)",
+    "flavorText": "Who knows?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E051.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E052",
+    "name": "Non-Refundable Feelings, Chizuru",
+    "setId": "knk_86",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When your climax with in its trigger icon is placed on your climax area, choose 1 of your 《Rent-A-GF》 characters, and that character gets +1 soul until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax with in its trigger icon revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Kazuya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E052.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E053",
+    "name": "Filling the Hole in the Heart, Chizuru",
+    "setId": "knk_86",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "If you ever feel like a rabbit, feel free to call me again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E053.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E054",
+    "name": "Clearing Things Up, Chizuru",
+    "setId": "knk_86",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters with \"Chizuru(千鶴)\" or \"Chizuru(ちづる)\" in their card names get +500 power. 【CONT】 All of your other 《Rent-A-GF》 characters get +1000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Do you like me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E054.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E055",
+    "name": "Morning Routine, Sumi",
+    "setId": "knk_86",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 Experience If \"Shy \"Girlfriend\", Sumi\" is in your level, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 [(1) Put 1 \"Routine Walk\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 4 \"Embarrassed Maiden\" or 《Rent-A-GF》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "I change out of my pajamas.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E055.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E056",
+    "name": "\"You're the One\" Chizuru",
+    "setId": "knk_86",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Each Other's Feelings\" is placed on your climax area, you may pay the cost. If you do, choose 1 \"Everyone's \"Girlfriend\", Chizuru\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "What was that?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E056.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E057",
+    "name": "High-End Specs, Sumi",
+    "setId": "knk_86",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, if you have 2 or more other characters with \"Sumi(墨)\" in their card names, you may pay the cost. If you do, put the bottom 4 cards of your opponent's deck into their waiting room, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E057.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E058",
+    "name": "Bungee Jump of Confession, Chizuru",
+    "setId": "knk_86",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 《Rent-A-GF》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E058.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E059",
+    "name": "Merry Christmas, Chizuru",
+    "setId": "knk_86",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Rent-A-GF》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Here, your present!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E059.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E060",
+    "name": "\"One Question\" Chizuru",
+    "setId": "knk_86",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Um... Do You Mind?\" in your waiting room, and return it to your hand.",
+    "flavorText": "Do you like Ruka?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E060.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E061",
+    "name": "First Date, Chizuru",
+    "setId": "knk_86",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 1 or lower character in your waiting room, and return it to your hand.",
+    "flavorText": "\"What do you think?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E061.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E062",
+    "name": "Sudden Visitor, Chizuru",
+    "setId": "knk_86",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【ACT】 [Put this card into your waiting room] Choose 1 \"Nerves of Steel, Chizuru\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Get out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E062.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E063",
+    "name": "Nerves of Steel, Chizuru",
+    "setId": "knk_86",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Rent-A-GF》 character, this card gets +3000 power. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, choose 1 \"Sudden Visitor, Chizuru\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "There seems to be a slight misunderstanding, but Kazuya and I are really lovers, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E063.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E064",
+    "name": "Step by Step, Sumi",
+    "setId": "knk_86",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Rent-A-GF》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1) 【REST】 1 of your other 【STAND】 characters with \"Sumi(墨)\" in its card name] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 \"Embarrassed Maiden\" or character with \"Sumi(墨)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E064.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E065",
+    "name": "Overly Shy Sumi",
+    "setId": "knk_86",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E065.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E066",
+    "name": "Lucky Lecher, Chizuru",
+    "setId": "knk_86",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 During your opponent's turn, if all of your characters are 《Rent-A-GF》, this card gets +1 level and +1500 power. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Rent-A-GF》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Eh...!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E066.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E067",
+    "name": "Bowling, Sumi",
+    "setId": "knk_86",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 If your hand has 5 or more cards, this card gets +2000 power. 【AUTO】 [Put this card into your waiting room] When your other 《Rent-A-GF》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "Kazuya: \"Here Sumi, it's your turn.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E067.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E068",
+    "name": "Happy New Year, Chizuru",
+    "setId": "knk_86",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 When this card attacks, choose 1 of your 《Rent-A-GF》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "Happy new year, grandma! May this year be great for you as well!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E068.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E069",
+    "name": "Meeting at the Station, Chizuru",
+    "setId": "knk_86",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage.",
+    "flavorText": "Good afternoon. I am Chizuru Mizuhara, your \"rental girlfriend\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E069.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E070",
+    "name": "An Opportunity To Take, Chizuru",
+    "setId": "knk_86",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "We're not at that stage yet...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E070.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E071",
+    "name": "Sea and Girlfriend, Chizuru",
+    "setId": "knk_86",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 If all of your characters are 《Rent-A-GF》, this card gets +1000 power. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Rent-A-GF》 characters you have ×1000. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, choose 1 \"Straw Hat, Chizuru\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I'm Chizuru Mizuhara. It's been awhile.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E071.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E072",
+    "name": "Um… Do You Mind?",
+    "setId": "knk_86",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 1 or less 《Rent-A-GF》 characters, this card cannot be played from your hand. If your memory has 2 or less cards, put this card into your memory. 【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, this card gets the following ability until end of turn. \"【ACT】 Memory [Put this card from your memory into your waiting room] Choose up to 1 \"Everyone's \"Girlfriend\", Chizuru\" in your hand, put it on any position of your stage, and that character gets +1000 power until end of turn.\"",
+    "flavorText": "Thank you for your patronage.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E072.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E073",
+    "name": "This Month's #1",
+    "setId": "knk_86",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 5 or more 《Rent-A-GF》 characters, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E073.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E074",
+    "name": "An Apology Present",
+    "setId": "knk_86",
+    "number": "E074",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E074.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E075",
+    "name": "Routine Walk",
+    "setId": "knk_86",
+    "number": "E075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "And take my dog out for a walk.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E075.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E076",
+    "name": "Each Other's Feelings",
+    "setId": "knk_86",
+    "number": "E076",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Idiot.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E076.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E077",
+    "name": "Bouldering Date, Ruka",
+    "setId": "knk_86",
+    "number": "E077",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you have another 《Rent-A-GF》 character, this card gets +1500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Rent-A-GF》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "Chizuru, may I speak with you for a moment?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E077.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E078",
+    "name": "\"I'm an Adult\" Ruka",
+    "setId": "knk_86",
+    "number": "E078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"I am Fully Prepared!!!\" is in your climax area, and you have another 《Rent-A-GF》 character, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 《Rent-A-GF》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "...!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E078.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E079",
+    "name": "At Least a \"Trial Run\", Ruka",
+    "setId": "knk_86",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use \"Accelerate\", you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Please let me be your \"girlfriend\"!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E079.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E080",
+    "name": "\"Cheater!!\" Ruka",
+    "setId": "knk_86",
+    "number": "E080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +1000 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\"",
+    "flavorText": "What are you two doing!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E080.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E081",
+    "name": "\"What Do You Think?\" Ruka",
+    "setId": "knk_86",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent's characters, and return it to their hand. 【AUTO】 Accelerate [(1) Put 1 《Rent-A-GF》 character from your waiting room at the bottom of your clock] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn.",
+    "flavorText": "Do I have a boyfriend?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E081.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E082",
+    "name": "\"Say Ahh♡\" Ruka",
+    "setId": "knk_86",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2)] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Increased Heartrate\" is in your climax area, and you have 2 or more other 《Rent-A-GF》 characters, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"【STAND】 this card.\" \"Choose up to 3 characters in your waiting room, return them to your hand, return all cards from your waiting room to your deck, and shuffle your deck.\"",
+    "flavorText": "Here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E082.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E083",
+    "name": "I'm the \"Girlfriend\", Ruka",
+    "setId": "knk_86",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Increased Heartrate\" is placed on your climax area, you may pay the cost. If you do, choose 1 \"\"Say Ahh♡\" Ruka\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I'm going for a \"battle of endurance\", so prepare yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E083.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E084",
+    "name": "\"Hugs♥\" Ruka",
+    "setId": "knk_86",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Rent-A-GF》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "It's Christmas soon!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E084.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E085",
+    "name": "We Finally Meet, Ruka",
+    "setId": "knk_86",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Just a Little More\", reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets +2000 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E085.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E086",
+    "name": "Girlfriend and Girlfriend, Ruka",
+    "setId": "knk_86",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 Accelerate [Put 1 《Rent-A-GF》 character from your waiting room at the bottom of your clock] When you use this card's \"Backup\", you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Rent-A-GF》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "You are a \"rental girlfriend\", aren't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E086.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E087",
+    "name": "Why Are You Here!? Ruka",
+    "setId": "knk_86",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 [Put 1 《Rent-A-GF》 character from your hand into your waiting room] When this card attacks, if you have 4 or more other 《Rent-A-GF》 characters, you may pay the cost. If you do, this card gets +3500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw 1 card.\" 【AUTO】 Change [Put this card into your waiting room] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, choose 1 \"Friend's \"Girlfriend\", Ruka\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Surprise!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E087.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E088",
+    "name": "Friend's \"Girlfriend\", Ruka",
+    "setId": "knk_86",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 During your opponent's turn, if you have another 《Rent-A-GF》 character, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, if you do not have another 《Rent-A-GF》 character, put this card into your waiting room. 【ACT】 [Put this card into your waiting room] Choose 1 \"Why Are You Here!? Ruka\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Kazuya: \"Here's a beauty that can rival Mizuhara!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E088.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E089",
+    "name": "\"Is There Something in This Room?\" Ruka",
+    "setId": "knk_86",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you would pay the cost for the 【AUTO】 of \"\"Say Ahh♡\" Ruka\", you may put 1 marker from underneath this card into your waiting room instead of 1 card from your stock. 【CONT】 Assist All of your 《Rent-A-GF》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Rent-A-GF》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Kazuya, what are you doing?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E089.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E090",
+    "name": "\"Come Along Blindfolded\" Ruka",
+    "setId": "knk_86",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Rent-A-GF》 characters, you may choose 1 《Rent-A-GF》 character in your waiting room, and put it into your stock. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "This way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E090.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E091",
+    "name": "Bungee Jump of Confession, Ruka",
+    "setId": "knk_86",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E091.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E092",
+    "name": "Happy New Year, Ruka",
+    "setId": "knk_86",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 Accelerate [Put 1 《Rent-A-GF》 character from your waiting room at the bottom of your clock] At the beginning of your opponent's climax phase, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.\"",
+    "flavorText": "Hi, I'll be joining you today. My name is Ruka Sarashina.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E092.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E093",
+    "name": "\"I Can't Take it!\" Ruka",
+    "setId": "knk_86",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "-",
+    "flavorText": "You introduced Chizuru to your grandma as \"girlfriend\" but only called me friend!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E093.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E094",
+    "name": "The Real Me, Ruka",
+    "setId": "knk_86",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 Accelerate [Put 1 《Rent-A-GF》 character from your waiting room at the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000.",
+    "flavorText": "I really want you to like me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E094.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E095",
+    "name": "My Position, Ruka",
+    "setId": "knk_86",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Rent-A-GF》 characters. 【AUTO】 [Put 1 \"\"I Can't Take it!\" Ruka\" from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Am I not your \"girlfriend\"?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E095.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E096",
+    "name": "A Move in a \"Battle of Endurance\", Ruka",
+    "setId": "knk_86",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When your other 《Rent-A-GF》 character attacks, this card gets +2000 power until end of turn. 【AUTO】 Encore [Put 1 《Rent-A-GF》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Didn't I say it before?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E096.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E097",
+    "name": "Just a Little More",
+    "setId": "knk_86",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 1 or less characters with \"Ruka(瑠夏)\" in their card names, this card cannot be played from your hand. Put the top card of your deck into your clock, deal 79 damage to your opponent, search your deck for up to 2 \"\"I'm an Adult\" Ruka\", put them on separate positions of your stage, shuffle your deck, and those characters get +1000 power and +1 soul until end of turn. (Damage may be canceled)",
+    "flavorText": "Please hug me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E097.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E098",
+    "name": "Shut Up and Come Along!",
+    "setId": "knk_86",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, shuffles their deck, you choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I have someplace I wanna go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E098.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E099",
+    "name": "I am Fully Prepared!!!",
+    "setId": "knk_86",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Can you have sex with Chizuru?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E099.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E100",
+    "name": "Increased Heartrate",
+    "setId": "knk_86",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Ruka: \"A... Ah...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E100.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E101",
+    "name": "Coincidental Meeting, Mami",
+    "setId": "knk_86",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Hello, Kazu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E101.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E102",
+    "name": "Junior of Chizuru, Sumi",
+    "setId": "knk_86",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【CONT】 If this card is in your center stage, all of your 《Rent-A-GF》 characters get +1500 power. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E102.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E103",
+    "name": "Top-Class Girlfriend, Chizuru",
+    "setId": "knk_86",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Rent-A-GF》 characters, and that character gets +1000 power until end of turn. 【ACT】 [Put 1 climax from your hand into your waiting room & 【REST】 2 of your 《Rent-A-GF》 characters] Search your deck for up to 1 character with \"Change\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E103.png"
+    }
+  },
+  {
+    "id": "KNK/W86-E104",
+    "name": "Next Strategy, Ruka",
+    "setId": "knk_86",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 All of your other 《Rent-A-GF》 characters get +500 power. 【AUTO】 When you use \"Accelerate\", choose 1 of your characters, that character gets +500 power until end of turn, and reveal the top card of your deck. If that card is level 0 or lower, put it into your stock. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_E104.png"
+    }
+  },
+  {
+    "id": "KNK/W86-PE01",
+    "name": "Mami & Sumi & Chizuru & Ruka",
+    "setId": "knk_86",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each other 《Rent-A-GF》 character in your back stage. 【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Rent-A-GF》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_PE01.png"
+    }
+  },
+  {
+    "id": "KNK/W86-PE02",
+    "name": "New Part-Timer, Ruka",
+    "setId": "knk_86",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 When your other 《Rent-A-GF》 character attacks, this card gets +1500 power until end of turn.",
+    "flavorText": "Hi, I'll be working with you from today. My name is Ruka Sarashina.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/BP/W86_PE02.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE01",
+    "name": "Coincidental Reunion, Mami",
+    "setId": "knk_86",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "Kazu...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE01.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE02",
+    "name": "Chilly Gaze, Mami",
+    "setId": "knk_86",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "Oh, really?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE02.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE03",
+    "name": "Original Appearance, Ruka",
+    "setId": "knk_86",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Rent-A-GF》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Please Go Out With Me!!\" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm... I'm sorry...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE03.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE04",
+    "name": "Waiting Impatiently, Ruka",
+    "setId": "knk_86",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Rent-A-GF》 characters, this card gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE04.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE05",
+    "name": "Suspicious Gaze, Ruka",
+    "setId": "knk_86",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "You can't kiss, can you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE05.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE06",
+    "name": "Parting Words, Ruka",
+    "setId": "knk_86",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Goodbye, Kazuya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE06.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE07",
+    "name": "Mysterious Cute Girl, Ruka",
+    "setId": "knk_86",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Ribbon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Rent-A-GF》 characters, you may choose 1 《Rent-A-GF》 character in your waiting room, and put it into your stock. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Rent-A-GF》 characters you have ×1000.",
+    "flavorText": "Don't follow me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE07.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE08",
+    "name": "Unexpected Words, Mami",
+    "setId": "knk_86",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Rent-A-GF》 characters.",
+    "flavorText": "My bad.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE08.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE09",
+    "name": "Through a Viewfinder, Sumi",
+    "setId": "knk_86",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if you have 2 or more other 《Rent-A-GF》 characters, and this card's battle opponent is level 3 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE09.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE10",
+    "name": "Please Go Out With Me!!",
+    "setId": "knk_86",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "I bet you'll treat your actual girlfriend even better!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE10.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE11",
+    "name": "Subtle Distance, Kazuya",
+    "setId": "knk_86",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, all of your other \"Subtle Distance, Chizuru\" get +2000 power. 【AUTO】 Bond/\"Subtle Distance, Chizuru\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Subtle Distance, Chizuru\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE11.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE12",
+    "name": "The Start of Chaos, Chizuru",
+    "setId": "knk_86",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Hah?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE12.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE13",
+    "name": "Beyond Reach, Kazuya",
+    "setId": "knk_86",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "-"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"Girlfriend Mode\" or \"Please Go Out With Me!!\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Girlfriend Mode\" or \"Please Go Out With Me!!\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE13.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE14",
+    "name": "Rental Girlfriend, Chizuru",
+    "setId": "knk_86",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Rent-A-GF》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 [Put 1 《Rent-A-GF》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE14.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE15",
+    "name": "Ideal Lover, Chizuru",
+    "setId": "knk_86",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Rent-A-GF》 characters you have ×500. 【AUTO】 When this card attacks, choose 1 of your 《Rent-A-GF》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "You're Kazuya, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE15.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE16",
+    "name": "Subtle Distance, Chizuru",
+    "setId": "knk_86",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE16.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE17",
+    "name": "Girlfriend's Late Arrival, Chizuru",
+    "setId": "knk_86",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Rent-A-GF",
+      "Diamond"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Girlfriend Mode\" is in your climax area, you may deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Sorry for being late, I got held up cooking!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE17.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE18",
+    "name": "Not a Word to Anyone!",
+    "setId": "knk_86",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 1 《Rent-A-GF》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.",
+    "flavorText": "Don't tell anyone!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE18.png"
+    }
+  },
+  {
+    "id": "KNK/W86-TE19",
+    "name": "Girlfriend Mode",
+    "setId": "knk_86",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "My name is Chizuru Mizuhara. It is my pleasure to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KNK/TD/W86_TE19.png"
+    }
+  }
+]

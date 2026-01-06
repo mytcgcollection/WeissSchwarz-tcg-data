@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "BD/W73-E001",
+    "name": "\"Music of Smiles\" Hagumi Kitazawa",
+    "setId": "bd_73",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 When your characters' trigger check reveals a level 2 or higher card, choose 1 of your characters, and that character gets +1000 power until end of turn. (Climax are regarded as level 0) 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Hello, Happy World!》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Misaki: \"Then Hagumi says something silly and random...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E001.png"
+    }
+  },
+  {
+    "id": "BD/W73-E002",
+    "name": "\"Music of Smiles\" Kokoro Tsurumaki",
+    "setId": "bd_73",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 When this card attacks, you may choose 1 yellow card in your waiting room, and put it on the top of your deck. 【AUTO】 【CXCOMBO】 [Put 2 cards in your hand into your waiting room & Put this card into your waiting room] At the end of this card's attack, if \"Smile in the Night Sky\" is in your climax area, you may pay the cost. If you do, search your stock and choose up to 1 《Hello, Happy World!》 character that is not \"\"Music of Smiles\" Kokoro Tsurumaki\", put it on the stage position that this card was on, and shuffle your stock.",
+    "flavorText": "Misaki: \"Generally, Kokoro says something silly and random...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E002.png"
+    }
+  },
+  {
+    "id": "BD/W73-E003",
+    "name": "For the Sake of Smiles, Kokoro Tsurumaki",
+    "setId": "bd_73",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or when this card becomes 【REVERSE】 in battle, you may look at the top card of your opponent's deck. (Return the card you saw to its original place) 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Hello, Happy World!》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Happiness will run from you if you sigh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E003 copy.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E003 copy.png"
+    }
+  },
+  {
+    "id": "BD/W73-E004",
+    "name": "\"Music of Smiles\" Misaki Okusawa",
+    "setId": "bd_73",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "4500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +7000 power and the following ability. \"【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Hello, Happy World!》 characters and this card, and exchange them as 【STAND】.\" 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"\"Music of Smiles\" Kokoro Tsurumaki\",put up to 1 card from the top of your clock into your waiting room, choose up to 1 character in your waiting room with \"Kokoro(こころ)\" in its card name, and put it face up underneath this card as a marker.",
+    "flavorText": "Up, up, down, down, left, right, left, right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E004.png"
+    }
+  },
+  {
+    "id": "BD/W73-E005",
+    "name": "\"Music of Smiles\" Kaoru Seta",
+    "setId": "bd_73",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 If all of your characters are 《Hello, Happy World!》, this card gets +1500 power and the following ability. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】, you may pay the cost. If you do, return this card to your hand.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Misaki: \"Then Kaoru says, \"fleeting\"...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E005.png"
+    }
+  },
+  {
+    "id": "BD/W73-E006",
+    "name": "Turning Trembles into Strength, Aya Maruyama",
+    "setId": "bd_73",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put 4 《Pastel＊Palettes》 characters from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +4000 power until end of turn, and deal X damage to your opponent. X is equal to the total number of colors of the cards put into your waiting room as payment for this effect's cost. (Damage may be canceled)",
+    "flavorText": "I, I'm getting kinda nervous...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E006.png"
+    }
+  },
+  {
+    "id": "BD/W73-E007",
+    "name": "An Enticing Invitation, Kaoru Seta",
+    "setId": "bd_73",
+    "number": "E007",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Hello, Happy World!》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Tonight, When the Stars Shine\" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 \"After-school Strategy Meeting\" in your waiting room, and return it to your hand.",
+    "flavorText": "Tell me, dearest, would you like to accompany us for one more song?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E007.png"
+    }
+  },
+  {
+    "id": "BD/W73-E008",
+    "name": "Engine On! Misaki Okusawa",
+    "setId": "bd_73",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Hello, Happy World!》 characters get +X power. X is equal to that character's level ×500. 【ACT】 [(1) Put 1 card from your hand into your waiting room] Choose 1 of your opponent's characters, and return it to his or her hand. 【ACT】 [【REST】 this card] This ability activates up to 1 time per turn. Choose 1 of your characters, and 【STAND】 it.",
+    "flavorText": "Time for the main event!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E008.png"
+    }
+  },
+  {
+    "id": "BD/W73-E009",
+    "name": "Sincere Feelings, Eve Wakamiya",
+    "setId": "bd_73",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gains the color blue. 【AUTO】 When your other characters' battle opponent becomes 【REVERSE】, choose 1 of your 《Pastel＊Palettes》 characters, and that character gets +2000 power until end of turn. 【ACT】 [【REST】 this card] Choose 1 of your 《Pastel＊Palettes》 characters, and that character gets +1000 power until end of turn, and if there is no marker underneath this card, choose 1 \"Turning Individuality into Strength, Maya Yamato\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Let's show everyone what PasPale is really like!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E009.png"
+    }
+  },
+  {
+    "id": "BD/W73-E010",
+    "name": "\"Music of Smiles\" Kanon Matsubara",
+    "setId": "bd_73",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Misaki: \"Then Kanon says, \"Huhhh?\"...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E010.png"
+    }
+  },
+  {
+    "id": "BD/W73-E011",
+    "name": "No Sense of Direction, Kanon Matsubara",
+    "setId": "bd_73",
+    "number": "E011",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, your opponent may move this card to an empty position of your center stage. 【AUTO】 When you level up, put this card into your waiting room.",
+    "flavorText": "Huhhh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E011.png"
+    }
+  },
+  {
+    "id": "BD/W73-E012",
+    "name": "Determined Challenge, Hagumi Kitazawa",
+    "setId": "bd_73",
+    "number": "E012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Hello, Happy World!》 characters, this card gets the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.\" 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Hagumi will fly.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E012.png"
+    }
+  },
+  {
+    "id": "BD/W73-E013",
+    "name": "Usual Catchphrase, Kokoro Tsurumaki",
+    "setId": "bd_73",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Hello, Happy World!》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Hello, Happy World!》 characters you have ×1000.",
+    "flavorText": "Happy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E013.png"
+    }
+  },
+  {
+    "id": "BD/W73-E014",
+    "name": "After-school Strategy Meeting",
+    "setId": "bd_73",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of the following effects and perform it. \"Choose 1 of your opponent's characters, and move it to another open position of his or her stage.\" \"Search your deck for up to 1 《Hello, Happy World!》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "Something like this, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E014.png"
+    }
+  },
+  {
+    "id": "BD/W73-E015",
+    "name": "Smile in the Night Sky",
+    "setId": "bd_73",
+    "number": "E015",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Michelle: \"Kokoro!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E015.png"
+    }
+  },
+  {
+    "id": "BD/W73-E016",
+    "name": "Tonight, When the Stars Shine",
+    "setId": "bd_73",
+    "number": "E016",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Tonight, you shall all delight in the wondrous land of Hello, Happy World!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E016.png"
+    }
+  },
+  {
+    "id": "BD/W73-E017",
+    "name": "\"Our Music\" Ran Mitake",
+    "setId": "bd_73",
+    "number": "E017",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 When your characters' trigger check reveals a climax, if that card's trigger icon is , you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Afterglow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E017.png"
+    }
+  },
+  {
+    "id": "BD/W73-E018",
+    "name": "\"Supreme Music\" LAYER",
+    "setId": "bd_73",
+    "number": "E018",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Music》 characters revealed among those cards ×1000. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 1 or lower character in your waiting room, and return it to your hand.",
+    "flavorText": "Hana-chan…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E018.png"
+    }
+  },
+  {
+    "id": "BD/W73-E019",
+    "name": "\"Our Music\" Tsugumi Hazawa",
+    "setId": "bd_73",
+    "number": "E019",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【CONT】 All of your other 《Afterglow》 characters get +1500 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CLOCK】 Alarm [(1)] At the beginning of your main phase, if this card is the top card of your clock, you may pay the cost. If you do, choose 1 \"An Eternal Sunset\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E019.png"
+    }
+  },
+  {
+    "id": "BD/W73-E020",
+    "name": "\"Supreme Music\" LOCK",
+    "setId": "bd_73",
+    "number": "E020",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If you have 4 or more 《RAISE A SUILEN》 characters, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《RAISE A SUILEN》 characters, this card gets +1000 power. 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] During the turn that this card is placed on the stage from your hand, at the beginning of your climax phase, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card attacks, search your deck for up to 2 《RAISE A SUILEN》 characters or \"Yes!! You Guys Are the Best!!\", reveal them to your opponent, put them into your hand, and shuffle your deck.\"",
+    "flavorText": "The era of girl bands...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E020.png"
+    }
+  },
+  {
+    "id": "BD/W73-E021",
+    "name": "\"Our Music\" Tomoe Udagawa",
+    "setId": "bd_73",
+    "number": "E021",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm At the beginning of your climax phase, if this card is the top card of your clock, and you have an 《Afterglow》 character, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【ACT】 [【REST】 this card] Choose 1 of your 《Afterglow》 characters, and that character gets +1500 power until end of turn. If that character has \"Alarm\", that card gets +2500 power until end of turn instead.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E021.png"
+    }
+  },
+  {
+    "id": "BD/W73-E022",
+    "name": "\"Our Music\" Moca Aoba",
+    "setId": "bd_73",
+    "number": "E022",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【CONT】 If you have 5 or more cards in your hand, this card gets +2000 power. 【AUTO】 【CLOCK】 Alarm [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is the top card of your clock, and you have 2 or more 《Afterglow》 characters, you may pay the cost. If you do, choose 1 《Afterglow》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E022.png"
+    }
+  },
+  {
+    "id": "BD/W73-E023",
+    "name": "\"Interweaving Music\" Eve Wakamiya",
+    "setId": "bd_73",
+    "number": "E023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 During your turn, if your characters on stage have 4 or more colors in total, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Pastel＊Palettes》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E023.png"
+    }
+  },
+  {
+    "id": "BD/W73-E024",
+    "name": "\"Supreme Music\" MASKING",
+    "setId": "bd_73",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+    "flavorText": "I got scouted.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E024.png"
+    }
+  },
+  {
+    "id": "BD/W73-E025",
+    "name": "Desperate Invitation, LOCK",
+    "setId": "bd_73",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Desperate Invitation, LOCK\" in your memory, and put it on any position of your stage.",
+    "flavorText": "Um... Uh... The weather is so warm, isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E025.png"
+    }
+  },
+  {
+    "id": "BD/W73-E026",
+    "name": "Overwhelming Vocal Ability, LAYER",
+    "setId": "bd_73",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《RAISE A SUILEN》 characters. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Promise From Before\" is in your climax area, you may put that character into your opponent's clock. 【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of the encore step, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E026.png"
+    }
+  },
+  {
+    "id": "BD/W73-E027",
+    "name": "\"Our Music\" Himari Uehara",
+    "setId": "bd_73",
+    "number": "E027",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Our Melody\" is in your climax area, this card gets +1000 power until end of turn, put the top 2 cards of your deck into your waiting room, and for each card with \"Alarm\" or event card, perform the following action. \"Deal 1 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E027.png"
+    }
+  },
+  {
+    "id": "BD/W73-E028",
+    "name": "RAISE YOUR HANDS, LOCK",
+    "setId": "bd_73",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If you do not have another character, this card gets +1500 power and the following ability. \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.\" 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "I really want to perform at the festival...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E028.png"
+    }
+  },
+  {
+    "id": "BD/W73-E029",
+    "name": "RAISE YOUR HANDS, LAYER",
+    "setId": "bd_73",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《RAISE A SUILEN》 characters. 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 \"RAISE YOUR HANDS, LAYER\" or \"Playing a Melody, Tae Hanazono\" in your waiting room, and return it to your hand.\"",
+    "flavorText": "I got to see her again... That's enough.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E029.png"
+    }
+  },
+  {
+    "id": "BD/W73-E030",
+    "name": "My Own Pace, Moca Aoba",
+    "setId": "bd_73",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"The View on That Day\" is placed on your climax area, if this card is in your center stage, and you have another 《Afterglow》 character, choose 1 of the following abilities, and this card gains that ability until end of turn. \"【AUTO】 When this card attacks, you may put the top card of your deck into your stock.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Oh, you totally should!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E030.png"
+    }
+  },
+  {
+    "id": "BD/W73-E031",
+    "name": "Blunt Kindness, MASKING",
+    "setId": "bd_73",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [(1)] When you use \"Accelerate\", if your clock has 4 or more cards, you may pay the cost. If you do, put the top card of your clock into your waiting room. 【ACT】 [【REST】 this card] Choose 1 of your 《RAISE A SUILEN》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Why don't you go stop her then?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E031.png"
+    }
+  },
+  {
+    "id": "BD/W73-E032",
+    "name": "Unchanging Bonds, Ran Mitake",
+    "setId": "bd_73",
+    "number": "E032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm [(1)] At the beginning of your climax phase, if this card is the top card of your clock, and you have 4 or more 《Afterglow》 characters, you may pay the cost. If you do, choose 1 character in your opponent's center stage, and return it to his or her hand. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "We'll perform just like always, no matter what happens.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E032.png"
+    }
+  },
+  {
+    "id": "BD/W73-E033",
+    "name": "Hard Worker, Tsugumi Hazawa",
+    "setId": "bd_73",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gains the following ability until end of turn. \"【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room.\" 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters with \"Alarm\" in your clock and your stage ×1000.",
+    "flavorText": "I wanna do tons and tons more practice...!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E033.png"
+    }
+  },
+  {
+    "id": "BD/W73-E034",
+    "name": "Usual Cheers, Himari Uehara",
+    "setId": "bd_73",
+    "number": "E034",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Afterglow》 characters, and that character gets +2000 power until end of turn. 【AUTO】 【CLOCK】 Alarm At the beginning of your main phase, if this card is the top card of your clock, you may say \"Hey, hey, hoh~!\". If you do, your opponent may reply \"Hey, hey, hoh~!\" If your opponent replies, all players search their decks for up to 1 character, reveal it to your opponent, put it into their hands, and shuffle their decks. (Please take care to avoid disrupting your surroundings)",
+    "flavorText": "Let's do our best, girls! C'mon! Hey, hey, hoh~!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E034.png"
+    }
+  },
+  {
+    "id": "BD/W73-E035",
+    "name": "Exceptional Ability to Take Action, Hina Hikawa",
+    "setId": "bd_73",
+    "number": "E035",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Pastel＊Palettes》 character or \"Overlapping Palms\", you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+    "flavorText": "Well, it's no fun unless all five of us are together, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E035.png"
+    }
+  },
+  {
+    "id": "BD/W73-E036",
+    "name": "Freshmen, LOCK & Asuka",
+    "setId": "bd_73",
+    "number": "E036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 《Music》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Rokka: \"Ugh, I'm such a klutz.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E036.png"
+    }
+  },
+  {
+    "id": "BD/W73-E037",
+    "name": "Shining Admiration, LOCK",
+    "setId": "bd_73",
+    "number": "E037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "The feeling that \"Being in a band is fun!\" is really conveyed and...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E037.png"
+    }
+  },
+  {
+    "id": "BD/W73-E038",
+    "name": "Handling Difficult Demands, LOCK",
+    "setId": "bd_73",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, put it into your opponent's waiting room, your opponent chooses up to 1 level 0 or lower character in his or her waiting room, and puts it on the stage position that that character was on. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Eeek! They're changing it up now, too?! I'll do my best...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E038.png"
+    }
+  },
+  {
+    "id": "BD/W73-E039",
+    "name": "Powerful Eyes, Ran Mitake",
+    "setId": "bd_73",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 When this card attacks, if the top card of your clock is a card with \"Alarm\", and the level of this card's battle opponent is higher than your opponent's level, this card gets +6000 power until end of turn. 【AUTO】 【CLOCK】 Alarm At the beginning of your climax phase, if this card is the top card of your clock, and you have 3 or more 《Afterglow》 characters, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E039.png"
+    }
+  },
+  {
+    "id": "BD/W73-E040",
+    "name": "Full of Spirit, Tomoe Udagawa",
+    "setId": "bd_73",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Afterglow》 character, this card gets +1500 power. 【AUTO】 [(1)] When this card attacks, if the top card of your clock is a card with \"Alarm\", you may pay the cost. If you do, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "I'm getting fired up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E040.png"
+    }
+  },
+  {
+    "id": "BD/W73-E041",
+    "name": "RAISE YOUR HANDS, MASKING",
+    "setId": "bd_73",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of the climax phase, if you have another 《Music》 character, you may pay the cost. If you do, this card gets +3500 power until end of turn.",
+    "flavorText": "PAREO's worried about you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E041.png"
+    }
+  },
+  {
+    "id": "BD/W73-E042",
+    "name": "Request, Aya Maruyama",
+    "setId": "bd_73",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put X cards from the top of your deck into your waiting room. X is equal to the total number of colors your characters on stage have +1. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Cause you're my friends...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E042.png"
+    }
+  },
+  {
+    "id": "BD/W73-E043",
+    "name": "Childhood Promise, LAYER",
+    "setId": "bd_73",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×1000. 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character at the bottom of your opponent's deck, and put up to 1 card from the top of your deck into your stock.\"",
+    "flavorText": "CHU2: \"Don't you want to keep playing with Hanazono?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E043.png"
+    }
+  },
+  {
+    "id": "BD/W73-E044",
+    "name": "Mad Dog, MASKING",
+    "setId": "bd_73",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Music》 characters, you may choose 1 《Music》 character in your waiting room, and put it into your stock. 【AUTO】 When this card attacks, choose 1 of your 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×500.",
+    "flavorText": "CHU2: \"This lone mad dog is about to become my greatest drummer ever.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E044.png"
+    }
+  },
+  {
+    "id": "BD/W73-E045",
+    "name": "An Eternal Sunset",
+    "setId": "bd_73",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have an 《Afterglow》 character, this card cannot be played from your hand. You may choose 1 card in your hand and 1 《Afterglow》 character in your clock, and exchange them. Choose 1 of your 《Afterglow》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E045.png"
+    }
+  },
+  {
+    "id": "BD/W73-E046",
+    "name": "Promise From Before",
+    "setId": "bd_73",
+    "number": "E046",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Go back to Poppin' Party.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E046.png"
+    }
+  },
+  {
+    "id": "BD/W73-E047",
+    "name": "Our Melody",
+    "setId": "bd_73",
+    "number": "E047",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E047.png"
+    }
+  },
+  {
+    "id": "BD/W73-E048",
+    "name": "The View on That Day",
+    "setId": "bd_73",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Moca: \"Do you remember the sunset we watched after our middle school culture festival performance?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E048.png"
+    }
+  },
+  {
+    "id": "BD/W73-E049",
+    "name": "\"Music of Bonds\" Kasumi Toyama",
+    "setId": "bd_73",
+    "number": "E049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1500 power until end of turn. 【AUTO】 At the beginning of your opponent's draw phase, if all of your characters are 《Poppin'Party》, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "I want them all to know that they helped create this show.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E049.png"
+    }
+  },
+  {
+    "id": "BD/W73-E050",
+    "name": "\"Interweaving Music\" Hina Hikawa",
+    "setId": "bd_73",
+    "number": "E050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Interweaving Melodies\" is in your climax area, look at up to X cards from the top of your deck, choose up to 1 《Pastel＊Palettes》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. X is equal to the total number of colors your characters on stage have +1.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E050.png"
+    }
+  },
+  {
+    "id": "BD/W73-E051",
+    "name": "\"Music of Bonds\" Saya Yamabuki",
+    "setId": "bd_73",
+    "number": "E051",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Poppin'Party》 characters, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "They're all cheering us on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E051.png"
+    }
+  },
+  {
+    "id": "BD/W73-E052",
+    "name": "\"Music of Bonds\" Rimi Ushigome",
+    "setId": "bd_73",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 Assist All of your 《Poppin'Party》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【ACT】 [【REST】 this card] If your waiting room has 1 character with \"Tae(たえ)\" in its card name, 1 other character with \"Rimi(りみ)\" in its card name, 1 other character with \"Saya(沙綾)\" in its card name and 1 other character with \"Arisa(有咲)\" in its card name, choose 1 of your \"\"Star-Shaped Tambourine\" Kasumi Toyama\", and that character gets +4500 power until end of turn.",
+    "flavorText": "Despite us being the organizers, everyone's been such a huge help.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E052.png"
+    }
+  },
+  {
+    "id": "BD/W73-E053",
+    "name": "Time for Our Live! Kasumi Toyama",
+    "setId": "bd_73",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Poppin'Party》 characters, this card gets +4000 power. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent, and this card gains the following ability until end of turn. \"【AUTO】 [(1) Put 1 card from your hand into your waiting room] At the beginning of your encore step, if \"Melody of Bonds\" is in your climax area, and there is no character facing this card, or the character facing this card is 【REVERSE】, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "All right! Let's keep this up 'til the show arrives!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E053.png"
+    }
+  },
+  {
+    "id": "BD/W73-E054",
+    "name": "Pounding Heart, Rimi Ushigome",
+    "setId": "bd_73",
+    "number": "E054",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Poppin'Party》 characters, and that character gets +2000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "What should I do, they're so cool...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E054.png"
+    }
+  },
+  {
+    "id": "BD/W73-E055",
+    "name": "All Together, Chisato Shirasagi",
+    "setId": "bd_73",
+    "number": "E055",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Pastel＊Palettes》 characters, and that character gets +500 power and +X power until end of turn. X is equal to the total number of colors your characters on stage have ×500. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your hand and 1 card in your level, and exchange them.",
+    "flavorText": "I was gonna go practice for a bit. Want to go together?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E055.png"
+    }
+  },
+  {
+    "id": "BD/W73-E056",
+    "name": "\"Interweaving Music\" Maya Yamato",
+    "setId": "bd_73",
+    "number": "E056",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 All of your other 《Pastel＊Palettes》 characters get +X power. X is equal to the total number of colors your characters on stage have ×500. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Pastel＊Palettes》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 2 of your 《Pastel＊Palettes》 characters] Choose 1 card in your hand and 1 card in your level, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E056.png"
+    }
+  },
+  {
+    "id": "BD/W73-E057",
+    "name": "New Sticks, Saya Yamabuki",
+    "setId": "bd_73",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "-",
+    "flavorText": "Natsuki: \"It's a present from CHiSPA for your self-organized show.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E057.png"
+    }
+  },
+  {
+    "id": "BD/W73-E058",
+    "name": "Practice Interval, Kasumi Toyama",
+    "setId": "bd_73",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 [(1) Put 1 event card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 event card in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E058.png"
+    }
+  },
+  {
+    "id": "BD/W73-E059",
+    "name": "Hype! Saya Yamabuki",
+    "setId": "bd_73",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Poppin'Party》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "I'm getting hyped!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E059.png"
+    }
+  },
+  {
+    "id": "BD/W73-E060",
+    "name": "Teary Eyes, Rimi Ushigome",
+    "setId": "bd_73",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 [Put 1 《Poppin'Party》 character from your hand into your waiting room] When this card is placed on the stage from your hand, if there is an event card in your waiting room, you may pay the cost. If you do, choose 1 character in your opponent's back stage with level higher than your opponent's level, and put it into his or her waiting room. 【AUTO】 When your other 《Poppin'Party》 character attacks, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E060.png"
+    }
+  },
+  {
+    "id": "BD/W73-E061",
+    "name": "Overlapping Palms",
+    "setId": "bd_73",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put up to 4 cards from the top of your deck into your waiting room. Choose up to 2 《Pastel＊Palettes》 characters in your waiting room, and return them to your hand. If the total number of colors of the cards put into your waiting room by this effect is 4 or more, put this card into your stock.",
+    "flavorText": "Aya: \"Everyone, put your hands in!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E061.png"
+    }
+  },
+  {
+    "id": "BD/W73-E062",
+    "name": "Enthusiastic Huddle",
+    "setId": "bd_73",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm Choose up to 1 《Poppin'Party》 character in your waiting room, and return it to your hand. Flip over 5 cards from the top of your deck, and put them into your waiting room. If all the cards are 《Poppin'Party》 characters, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Po-Pi-Pa! Pi-Po-Pa! Po-Pi-Pa-Pa-Pi-Po-Pa!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E062.png"
+    }
+  },
+  {
+    "id": "BD/W73-E063",
+    "name": "Melody of Bonds",
+    "setId": "bd_73",
+    "number": "E063",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E063.png"
+    }
+  },
+  {
+    "id": "BD/W73-E064",
+    "name": "Interweaving Melodies",
+    "setId": "bd_73",
+    "number": "E064",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E064.png"
+    }
+  },
+  {
+    "id": "BD/W73-E065",
+    "name": "\"Interweaving Music\" Aya Maruyama",
+    "setId": "bd_73",
+    "number": "E065",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Pastel＊Palettes》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put 1 《Pastel＊Palettes》 character from your waiting room to the bottom of your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 《Pastel＊Palettes》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E065.png"
+    }
+  },
+  {
+    "id": "BD/W73-E066",
+    "name": "\"Unwavering Music\" Yukina Minato",
+    "setId": "bd_73",
+    "number": "E066",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you reveal 1 or more cards, choose up to 1 《Roselia》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E066.png"
+    }
+  },
+  {
+    "id": "BD/W73-E067",
+    "name": "\"Music of Bonds\" Tae Hanazono",
+    "setId": "bd_73",
+    "number": "E067",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Poppin'Party》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Jumpin' Girls!\" is in your climax area, and you have 2 or more other 《Poppin'Party》 characters, reveal 3 cards from the top of your deck, your opponent chooses 1 character or event card from amongst them, put it into your hand, you choose up to 1 card from the remaining cards, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "We couldn't have done it alone.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E067.png"
+    }
+  },
+  {
+    "id": "BD/W73-E068",
+    "name": "\"Unwavering Music\" Sayo Hikawa",
+    "setId": "bd_73",
+    "number": "E068",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Roselia》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When \"Unwavering Melody\" is placed on your climax area, if this card is in your center stage, and you have another 《Roselia》 character, choose 1 of the following abilities, and this card gets that ability until the end of your opponent's next turn. \"【AUTO】 When this card attacks, you may put the top card of your deck into your stock.\" \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E068.png"
+    }
+  },
+  {
+    "id": "BD/W73-E069",
+    "name": "Here is Where I Belong, Tae Hanazono",
+    "setId": "bd_73",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Poppin'Party》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Feels like coming back home. To PoPiPa.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E069.png"
+    }
+  },
+  {
+    "id": "BD/W73-E070",
+    "name": "\"Supreme Music\" CHU2",
+    "setId": "bd_73",
+    "number": "E070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When you use \"Accelerate\", choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《RAISE A SUILEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E070.png"
+    }
+  },
+  {
+    "id": "BD/W73-E071",
+    "name": "\"Unwavering Music\" Ako Udagawa",
+    "setId": "bd_73",
+    "number": "E071",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power. 【AUTO】 [Return 2 《Roselia》 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your 《Roselia》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E071.png"
+    }
+  },
+  {
+    "id": "BD/W73-E072",
+    "name": "Competent Producer, CHU2",
+    "setId": "bd_73",
+    "number": "E072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Supreme Melody\" is in your climax area, and you have another 《RAISE A SUILEN》 character, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《RAISE A SUILEN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "There are only necessary sounds here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E072.png"
+    }
+  },
+  {
+    "id": "BD/W73-E073",
+    "name": "\"Supreme Music\" PAREO",
+    "setId": "bd_73",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck. 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose up to 1 《RAISE A SUILEN》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Look, they still want more! I'm already breathless as it is!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E073.png"
+    }
+  },
+  {
+    "id": "BD/W73-E074",
+    "name": "\"Interweaving Music\" Chisato Shirasagi",
+    "setId": "bd_73",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 If \"\"Interweaving Music\" Aya Maruyama\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"After the Rain\" is in your climax area, choose up to 1 《Pastel＊Palettes》 character in your waiting room, return it to your hand, and this card gets +4000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E074.png"
+    }
+  },
+  {
+    "id": "BD/W73-E075",
+    "name": "Quiet Passion, Yukina Minato",
+    "setId": "bd_73",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Roselia》 character, you may choose 1 level 3 or lower character in your opponent's center stage, and put it at the bottom of his or her deck. (Return the revealed card to its original place)",
+    "flavorText": "Half-baked performances have no place at a Roselia show.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E075.png"
+    }
+  },
+  {
+    "id": "BD/W73-E076",
+    "name": "\"Unwavering Music\" Lisa Imai",
+    "setId": "bd_73",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"School Festival\" is in your climax area, and you have 4 or more other 《Roselia》 characters, you may pay the cost. If you do, reveal 6 cards from the top of your deck, shuffle your deck, deal X damage to your opponent, and this card gets +4000 power until end of turn. X is equal to the total number of trigger icons among the cards revealed by this effect. (Damage may be canceled. Return the revealed cards to their original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E076.png"
+    }
+  },
+  {
+    "id": "BD/W73-E077",
+    "name": "Watching Over Nearby, Lisa Imai",
+    "setId": "bd_73",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 All of your other 《Roselia》 characters get +500 power. 【AUTO】 [(1) 【REST】 this card from 【STAND】] When you level up, you may pay the cost. If you do, search your deck for up to 1 \"\"Tears Overflowing\" Yukina Minato\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Your word choice might have been a little harsh, but I'm sure your feelings came though.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E077.png"
+    }
+  },
+  {
+    "id": "BD/W73-E078",
+    "name": "Cheerful Smile, PAREO",
+    "setId": "bd_73",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your opponent's climax phase, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with an opponent character facing that stage position.\"",
+    "flavorText": "Does everyone here like sweets?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E078.png"
+    }
+  },
+  {
+    "id": "BD/W73-E079",
+    "name": "\"Unwavering Music\" Rinko Shirokane",
+    "setId": "bd_73",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw 1 card.\" 【AUTO】 Experience When your other 《Roselia》 character attacks, if the total level of cards in your level is 2 or higher, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E079.png"
+    }
+  },
+  {
+    "id": "BD/W73-E080",
+    "name": "\"Music of Bonds\" Arisa Ichigaya",
+    "setId": "bd_73",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 During your turn, if there is a marker underneath this card, this card gets +1500 power for each of your other 《Poppin'Party》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"New Sticks, Saya Yamabuki\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Yeah... We would have been in deep trouble if we didn't have LOCK.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E080.png"
+    }
+  },
+  {
+    "id": "BD/W73-E081",
+    "name": "Playing a Melody, Tae Hanazono",
+    "setId": "bd_73",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E081.png"
+    }
+  },
+  {
+    "id": "BD/W73-E082",
+    "name": "Festive Mood CHU2",
+    "setId": "bd_73",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 All of your other 《RAISE A SUILEN》 characters get +1000 power. 【CONT】 If there is a marker underneath this card, this card gets the following ability. \"【CONT】 All of your other 《RAISE A SUILEN》 characters in the middle position of your center stage gets +3000 power.\" 【AUTO】 When this card is placed on the stage from your hand, you may choose up to 1 \"Beginning of a Legend, PAREO\" in your hand, and put it face up underneath this card as a marker.",
+    "flavorText": "I'm all ears! Nothing could ruin the amazing mood I'm in!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E082.png"
+    }
+  },
+  {
+    "id": "BD/W73-E083",
+    "name": "Cool and Collected, Sayo Hikawa",
+    "setId": "bd_73",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\" 【AUTO】 Experience When this card attacks, if the total level of cards in your level is 4 or higher, and the character facing this card is level 3 or higher, this card gets +5500 power and +1 soul until end of turn.",
+    "flavorText": "Did our show today help you guys learn a little bit?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E083.png"
+    }
+  },
+  {
+    "id": "BD/W73-E084",
+    "name": "Embarassing Feelings, Arisa Ichigaya",
+    "setId": "bd_73",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《Poppin'Party》 characters. 【AUTO】 Encore [Put 1 《Poppin'Party》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "You know, I don't hate PoPiPa, and being in a band is pretty fun.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E084.png"
+    }
+  },
+  {
+    "id": "BD/W73-E085",
+    "name": "Courage Little by Little, Rinko Shirokane",
+    "setId": "bd_73",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Roselia》 characters you have. 【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.",
+    "flavorText": "I don't really know how I'll do... But I want to try.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E085.png"
+    }
+  },
+  {
+    "id": "BD/W73-E086",
+    "name": "RAISE YOUR HANDS, CHU2",
+    "setId": "bd_73",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "I'm doing this seriously!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E086.png"
+    }
+  },
+  {
+    "id": "BD/W73-E087",
+    "name": "Turning Individuality into Strength, Maya Yamato",
+    "setId": "bd_73",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【CONT】 All of your other 《Pastel＊Palettes》 characters get +500 power. 【ACT】 [(1) Put this card into your waiting room] If you are level 1 or higher, choose 1 \"Sincere Feelings, Eve Wakamiya\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I guess it suits us!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E087.png"
+    }
+  },
+  {
+    "id": "BD/W73-E088",
+    "name": "Beginning of a Legend, PAREO",
+    "setId": "bd_73",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card attacks, choose 1 of your 《Music》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "Attention, please!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E088.png"
+    }
+  },
+  {
+    "id": "BD/W73-E089",
+    "name": "Puzzled, Arisa Ichigaya",
+    "setId": "bd_73",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 During your opponent's turn, if all of your characters are 《Poppin'Party》, this card gets +1 level and +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E089.png"
+    }
+  },
+  {
+    "id": "BD/W73-E090",
+    "name": "More Power, Ako Udagawa",
+    "setId": "bd_73",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Roselia》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "Since that day, I, the Princess of Darkness, have claimed an even greater power... Dark magics that--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E090.png"
+    }
+  },
+  {
+    "id": "BD/W73-E091",
+    "name": "Real Feelings Behind Harsh Words, Yukina Minato",
+    "setId": "bd_73",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 All of your other 《Roselia》 characters get +1000 power. 【ACT】 [Put 1 card with in its trigger icon from your hand into your waiting room & 【REST】 this card] Choose 1 of your 《Roselia》 characters, and that character gets +5500 power and the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play event cards from hand.\"",
+    "flavorText": "Arisa: \"She's a strong person.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E091.png"
+    }
+  },
+  {
+    "id": "BD/W73-E092",
+    "name": "RAISE YOUR HANDS, PAREO",
+    "setId": "bd_73",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [(1) 【REST】 this card from 【STAND】] When you use \"Accelerate\", you may pay the cost. If you do, choose 1 of your 《Music》 characters, and that character gets +3500 power until the end of the next turn.",
+    "flavorText": "CHU2-sama can come across a little harsh, but I can vouch for her taste.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E092.png"
+    }
+  },
+  {
+    "id": "BD/W73-E093",
+    "name": "Throbbing, Tae Hanazono",
+    "setId": "bd_73",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Poppin'Party》 characters, this card gets +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put up to 1 card from the top of your clock into your waiting room, and this card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E093.png"
+    }
+  },
+  {
+    "id": "BD/W73-E094",
+    "name": "Aiming for the Top as Five",
+    "setId": "bd_73",
+    "number": "E094",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Roselia》 character, this card cannot be played from hand. Choose up to 2 《Roselia》 characters in your waiting room, return them to your hand, choose 1 card in your hand, put it into your waiting room, and put this card into your memory. 【AUTO】 Memory [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E094.png"
+    }
+  },
+  {
+    "id": "BD/W73-E095",
+    "name": "Yes!! You Guys Are the Best!!",
+    "setId": "bd_73",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If all of your characters are 《RAISE A SUILEN》, choose 1 of your opponent's characters in battle, that character gets -2 soul until end of turn, and draw up to 1 card. If you draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E095.png"
+    }
+  },
+  {
+    "id": "BD/W73-E096",
+    "name": "Jumpin' Girls!",
+    "setId": "bd_73",
+    "number": "E096",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E096.png"
+    }
+  },
+  {
+    "id": "BD/W73-E097",
+    "name": "Unwavering Melody",
+    "setId": "bd_73",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E097.png"
+    }
+  },
+  {
+    "id": "BD/W73-E098",
+    "name": "Supreme Melody",
+    "setId": "bd_73",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "You guys better watch out...!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E098.png"
+    }
+  },
+  {
+    "id": "BD/W73-E099",
+    "name": "After the Rain",
+    "setId": "bd_73",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "I'll be waiting, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E099.png"
+    }
+  },
+  {
+    "id": "BD/W73-E100",
+    "name": "School Festival",
+    "setId": "bd_73",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E100.png"
+    }
+  },
+  {
+    "id": "BD/W73-E101",
+    "name": "Never-Ending Music, Kokoro Tsurumaki",
+    "setId": "bd_73",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Hello, Happy World!"
+    ],
+    "text": "【AUTO】 [Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Hello, Happy World!》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "Smile!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E101.png"
+    }
+  },
+  {
+    "id": "BD/W73-E102",
+    "name": "Never-Ending Music, Aya Maruyama",
+    "setId": "bd_73",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pastel＊Palettes"
+    ],
+    "text": "【AUTO】 When your other 《Pastel＊Palettes》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Pastel＊Palettes》 characters you have ×500.",
+    "flavorText": "To the best stage!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E102.png"
+    }
+  },
+  {
+    "id": "BD/W73-E103",
+    "name": "Never-Ending Music, LAYER",
+    "setId": "bd_73",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or fewer characters on his or her center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of his or her deck. 【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E103.png"
+    }
+  },
+  {
+    "id": "BD/W73-E104",
+    "name": "Never-Ending Music, Ran Mitake",
+    "setId": "bd_73",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Afterglow"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Afterglow》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, if you have 2 or more other 《Afterglow》 characters, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.",
+    "flavorText": "Just like always!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E104.png"
+    }
+  },
+  {
+    "id": "BD/W73-E105",
+    "name": "Never-Ending Music, Kasumi Toyama",
+    "setId": "bd_73",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Poppin'Party"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Poppin'Party》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.",
+    "flavorText": "Let's go!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E105.png"
+    }
+  },
+  {
+    "id": "BD/W73-E106",
+    "name": "Never-Ending Music, Yukina Minato",
+    "setId": "bd_73",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Roselia"
+    ],
+    "text": "【CONT】 All of your other 《Roselia》 characters get +500 power. 【ACT】 [【REST】 this card] Look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+    "flavorText": "With true devotion!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_E106.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE01",
+    "name": "\"UNSTOPPABLE\" LAYER",
+    "setId": "bd_73",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "I'd be stoked if you'd join my band anyways.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE01.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE02",
+    "name": "Amidst Loud Cheers, LOCK",
+    "setId": "bd_73",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 All of your other 《Music》 characters get +500 power. 【AUTO】 This ability activates up to 1 time per turn. When you use \"Accelerate\", you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE02.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE03",
+    "name": "Firm Passion, MASKING",
+    "setId": "bd_73",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "I guess.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE03.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE04",
+    "name": "\"UNSTOPPABLE\" LOCK",
+    "setId": "bd_73",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If all of your characters are 《Music》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Intense Performance\" is in your climax area, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "I knew right then that I wanted to be in a band again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE04.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE05",
+    "name": "Strumming Melodies, LAYER",
+    "setId": "bd_73",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn.",
+    "flavorText": "Any requests?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE05.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE06",
+    "name": "On Stage, MASKING",
+    "setId": "bd_73",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE06.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE07",
+    "name": "\"UNSTOPPABLE\" MASKING",
+    "setId": "bd_73",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I guess you're all right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE07.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE08",
+    "name": "Firm Emotions, LOCK",
+    "setId": "bd_73",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Music》 characters. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "I, um... I always thought that people played in bands because it's fun…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE08.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE09",
+    "name": "On Stage, LAYER",
+    "setId": "bd_73",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×1000. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put up to 2 cards from the top of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE09.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE10",
+    "name": "Firm Abilities, LAYER",
+    "setId": "bd_73",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power. 【AUTO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "Do you remember how insane the cheers from the crowd were?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE10.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE11",
+    "name": "Intense Performance",
+    "setId": "bd_73",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE11.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE12",
+    "name": "Rising Enthusiasm",
+    "setId": "bd_73",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE12.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE13",
+    "name": "Firm Perceptions, CHU2",
+    "setId": "bd_73",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 All of your other \"Firm Trust, PAREO\" get +1000 power. 【AUTO】 Bond/\"Firm Trust, PAREO\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Firm Trust, PAREO\" in your waiting room, and return it to your hand)",
+    "flavorText": "PAREO!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE13.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE14",
+    "name": "\"UNSTOPPABLE\" CHU2",
+    "setId": "bd_73",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Your amazing performances are what made me scout you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE14.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE15",
+    "name": "\"UNSTOPPABLE\" PAREO",
+    "setId": "bd_73",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 When this card attacks, search your deck for up to 1 《RAISE A SUILEN》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\"",
+    "flavorText": "RAISE A SUILEN was created as an expression of the music CHU2-sama creates.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE15.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE16",
+    "name": "Firm Trust, PAREO",
+    "setId": "bd_73",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "-",
+    "flavorText": "Right, coming!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE16.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE17",
+    "name": "Unceasing Cheers, CHU2",
+    "setId": "bd_73",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Sweet! Excellent!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE17.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE18",
+    "name": "On Stage, PAREO",
+    "setId": "bd_73",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE18.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE19",
+    "name": "Change the world!",
+    "setId": "bd_73",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Music》 character, this card cannot be played from your hand. Choose 1 of the following effects and perform it. \"Search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Choose 1 of your characters, and that character gets +3000 power until end of turn. Put this card into your stock.\"",
+    "flavorText": "By flying a banner with this name, we're showing the world that we're determined to bathe in the spotlight!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE19.png"
+    }
+  },
+  {
+    "id": "BD/W73-TE20",
+    "name": "Ultimate Sound",
+    "setId": "bd_73",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/b/bd_w73/BD_W73_TE20.png"
+    }
+  }
+]

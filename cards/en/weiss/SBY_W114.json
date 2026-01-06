@@ -1,0 +1,2460 @@
+[
+  {
+    "id": "SBY/W114-E001",
+    "name": "Continuation of the Dream, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When your climax triggers, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E001.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E002",
+    "name": "Feeling Like Dancing, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each other 《Adolescence》 character in your back stage. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of the following effects, and perform it. \"You may put the top card of your clock into your waiting room.\" \"Your opponent puts the top 10 cards of their deck into their waiting room, and this card gets +3000 power until end of turn.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E002.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E003",
+    "name": "Path She Decided Herself, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 Experience If \"The Dream Left Behind\" and \"Embracing the Sentiments of Two People, Kaede Azusagawa\" are in your level, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 When \"Sea Breeze Carrying Courage In\" is placed on your climax area, if this card is in your center stage, choose 1 of the following effects, and perform it. \"Search your deck for up to 3 《Adolescence》 characters, reveal them, choose 1 card from among them, put it into your hand, choose 1 card from among them, put it into your stock, put the rest into your waiting room, shuffle your deck, and this card gets +3000 power until end of turn.\" \"Deal 2 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E003.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E004",
+    "name": "I Can Do My Best, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or when this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "Thanks for the lunch. It's great. I'm happy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E004.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E005",
+    "name": "Fashion Show, Kaede Azusagawa & Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your level and 1 card in your waiting room, and exchange them. 【AUTO】 Experience [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if \"The Dream Left Behind\" and \"Embracing the Sentiments of Two People, Kaede Azusagawa\" are in your level, you may pay the cost. If you do, search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E005.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E006",
+    "name": "Strategist, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Adolescence》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "I want to get it out of the way this year, then I'll take time off before we start.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E006.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E007",
+    "name": "Devilish Remark, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "Sakuta: \"Hang on. I thought you wanted to go the same university as me.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E007.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E008",
+    "name": "Crossroads of Sentiments, Kaede Azusagawa & Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each other 《Adolescence》 character in your back stage. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Concealed Emotions\" is in your climax area, and you have another 《Adolescence》 character, look at up to 4 cards from the top of your deck, choose up to 1 \"The Dream Left Behind\" or 《Adolescence》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E008.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E009",
+    "name": "Naïve and Innocent, Uzuki Hirokawa",
+    "setId": "sby_114",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Idol"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Adolescence》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Adolescence》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You can ask me anything you want, Kaede.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E009.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E010",
+    "name": "Embracing the Sentiments of Two People, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 \"The Dream Left Behind\" gets -1 cost while in your hand. 【CONT】 Your other \"The Dream Left Behind\" in all of your zones get in the trigger icon. 【CONT】 Assist All of your 《Adolescence》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E010.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E011",
+    "name": "Fukashigi no Carte, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E011.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E012",
+    "name": "Fukashigi no Carte, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【CONT】 All of your other \"Christmas Present, Nodoka Toyohama\" get +1000 power and the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.\" 【AUTO】 [Put 1 《Adolescence》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Christmas Present, Nodoka Toyohama\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E012.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E013",
+    "name": "Airheaded Idol, Uzuki Hirokawa",
+    "setId": "sby_114",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Idol"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul. 【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Adolescence》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E013.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E014",
+    "name": "Advancing Together, Kaede Azusagawa & Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 Experience If \"The Dream Left Behind\" is in your level, this card gets +3000 power. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E014.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E015",
+    "name": "Highly-Educated Idol, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each character in your opponent's back stage. 【AUTO】 [Put this card into your waiting room] When your other 《Adolescence》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.",
+    "flavorText": "My big sis said she was eating dinner at your place, so I decided to tag along.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E015.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E016",
+    "name": "Moment at Home, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if there is a climax with in its trigger icon in your climax area, reveal the top card of your deck. If that card is level 1 or higher, during that attack, perform a trigger check 2 times on the trigger step. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E016.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E017",
+    "name": "Path to Take, Kaede Azusagawa & Kotomi Kano",
+    "setId": "sby_114",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Adolescence》 characters, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "Check this out, Komi. It's a page about the school.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E017.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E018",
+    "name": "Encouraging Answer, Uzuki Hirokawa",
+    "setId": "sby_114",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Idol"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may choose 1 《Adolescence》 character in your waiting room, and put it into your stock.",
+    "flavorText": "See... my mom had gotten pregnant with me when she was only eighteen.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E018.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E019",
+    "name": "School Orientation, Sakuta Azusagawa & Miwako Tomobe",
+    "setId": "sby_114",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【CONT】 All of your other 《Adolescence》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Choose 1 《Adolescence》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E019.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E020",
+    "name": "Otome Note, Uzuki Hirokawa",
+    "setId": "sby_114",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Idol"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Adolescence》 characters, and that character gets +500 power until end of turn. 【AUTO】 【CXCOMBO】 When \"Sweet Bullet on Stage!!\" is placed on your climax area, if you have 2 or more other characters, put the top card of your deck into your waiting room. If that card is level 0 or lower, put up to 1 card from the top of your deck into your stock. If that card is level 1 or 2, choose 1 of your 《Adolescence》 characters, and that character gets +1 soul until end of turn. If that card is level 3 or higher, choose up to 1 character in your waiting room, and return it to your hand. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E020.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E021",
+    "name": "Moving Forward Step by Step, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Uh what?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E021.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E022",
+    "name": "Drama Filming, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +3000 power and the following ability. \"【CONT】 All of your other \"Smirk, Mai Sakurajima\" get +1000 power and +1 soul.\" 【AUTO】 [Put 1 《Adolescence》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Smirk, Mai Sakurajima\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E022.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E023",
+    "name": "Wish to Fulfill, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is \"The Dream Left Behind\" or an 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E023.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E024",
+    "name": "Familiar Figure, Uzuki Hirokawa",
+    "setId": "sby_114",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Idol"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Adolescence》 character, all of your characters get +3000 power and +2 soul until end of turn. (Return the revealed card to its original place)",
+    "flavorText": "Sakuta: \"It's that girl from Sweet Bullet...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E024.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E025",
+    "name": "Signs of Growth, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 Experience If \"The Dream Left Behind\" is in your level, this card gets +4500 power and \"【AUTO】 Encore [Put 1 《Adolescence》 character from your hand into your waiting room]\". 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a climax with in its trigger icon is in your climax area, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your hand, put the rest on the top of your deck in any order, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E025.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E026",
+    "name": "Smirk, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Adolescence》 characters, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 When \"Sudden Visit to the Restaurant\" is placed on your climax area, if this card is in your center stage, and you have 4 or more other 《Adolescence》 characters, choose this card and 1 of your other characters, and they get the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, choose up to 1 character in your waiting room, return it to your hand, choose up to 1 《Adolescence》 character in your waiting room, and put it into your stock.\"",
+    "flavorText": "I was hoping we could go out on a date sometime soon... I guess we can't if you're working...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E026.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E027",
+    "name": "Ideal World, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4500 power until the end of your opponent's next turn.",
+    "flavorText": "Why are you being shy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E027.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E028",
+    "name": "The Dream Left Behind",
+    "setId": "sby_114",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Choose 1 《Adolescence》 character in your waiting room, and return it to your hand. You may choose 1 card in your level and 1 card in your waiting room, and exchange them. 【AUTO】 Experience [(4) Put this face up card into your memory & Put 1 《Adolescence》 character from your waiting room into your level] If this card is in your level, and \"Embracing the Sentiments of Two People, Kaede Azusagawa\" and \"Path She Decided Herself, Kaede Azusagawa\" are in your level, at the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -3 soul until end of turn.",
+    "flavorText": "Wait... That's right... This was the other Kaede's dream.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E028.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E029",
+    "name": "Sea Breeze Carrying Courage In",
+    "setId": "sby_114",
+    "number": "E029",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Uzuki: \"I could never choose one over the other!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E029.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E030",
+    "name": "Concealed Emotions",
+    "setId": "sby_114",
+    "number": "E030",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E030.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E031",
+    "name": "Sweet Bullet on Stage!!",
+    "setId": "sby_114",
+    "number": "E031",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E031.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E032",
+    "name": "Sudden Visit to the Restaurant",
+    "setId": "sby_114",
+    "number": "E032",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "That \"oh\" sounded disappointed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E032.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E033",
+    "name": "Cherry Blossoms Carrying Sentiments, Tomoe Koga",
+    "setId": "sby_114",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When \"Hiding Her Embarrassment\" is placed on your climax area, if you have 2 or more other 《Adolescence》 characters, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E033.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E034",
+    "name": "Youth Is a Paradox, Rio Futaba",
+    "setId": "sby_114",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E034.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E035",
+    "name": "Encounter at the Beach, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 If you would pay the 【CXCOMBO】 cost for your \"Mysterious Girl, Knapsack Kid\", you may put this card from your hand into your waiting room instead of 2 cards from your hand. 【AUTO】 At the beginning of your opponent's draw phase, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may return this card to your hand. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E035.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E036",
+    "name": "Ephemeral Existence, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When your climax triggers, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose 1 《Adolescence》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Choose 1 of your 《Adolescence》 characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E036.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E037",
+    "name": "Mysterious Girl, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [Put 5 cards from your hand into your waiting room] When this card attacks, if \"Familiar Young Girl\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, and deal 5 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E037.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E038",
+    "name": "Cute Waitress, Tomoe Koga",
+    "setId": "sby_114",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage. 【AUTO】 [Put 1 《Adolescence》 character from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E038.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E039",
+    "name": "On the Way Home at Sunset, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When your other 《Adolescence》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Adolescence》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E039.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E040",
+    "name": "Taking a Peek, Tomoe Koga",
+    "setId": "sby_114",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\" 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E040.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E041",
+    "name": "Gently Watching Over, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your other \"Moving Forward Step by Step, Kaede Azusagawa\" get the following abilities. \"【CONT】 During your turn, this card gets +1000 power.\" \"【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand.\" (Climax are regarded as level 0. Return the revealed card to its original place) 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "But in return, you gotta tell me what's going on with the bruises you have, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E041.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E042",
+    "name": "Happy Parfait Time, Shoko Makinohara",
+    "setId": "sby_114",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 2 of your characters, and they get the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E042.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E043",
+    "name": "Reliable Advisor, Rio Futaba",
+    "setId": "sby_114",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Adolescence》 character, you may put the top card of your opponent's deck into their waiting room. If you do, choose 1 level 3 or lower character in your opponent's center stage, and put it on the top of their deck. (Return the revealed card to its original place)",
+    "flavorText": "Well, regardless of today's reason, I'm glad you aren't consulting me about Puberty Syndrome.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E043.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E044",
+    "name": "Towards the Person He Wants to Meet",
+    "setId": "sby_114",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If you do not have a character with \"Knapsack Kid(ランドセルガール)\" in its card name, this card cannot be played from your hand. Put this card into your memory. 【AUTO】 Memory [Put this card from face up to face down] If this card is in your memory, at the beginning of your draw phase, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Knapsack Kid: \"All right. I'll help you get back.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E044.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E045",
+    "name": "Hiding Her Embarrassment",
+    "setId": "sby_114",
+    "number": "E045",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E045.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E046",
+    "name": "Familiar Young Girl",
+    "setId": "sby_114",
+    "number": "E046",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E046.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E047",
+    "name": "Accumulating Memories, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E047",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 At the end of this card's attack or when this card becomes 【REVERSE】 in battle, if your memory has 1 or less cards, you may put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E047.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E048",
+    "name": "Fukashigi no Carte, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E048",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Sudden Intense Gaze\" is in your climax area, and you have 2 or more other 《Adolescence》 characters, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 Memory When this card attacks, if \"Accumulating Memories, Mai Sakurajima\" is in your memory, during that attack, this card gets +3000 power, and perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E048.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E049",
+    "name": "The Year I Spent With You, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 Memory [(1) Put 1 《Adolescence》 character from your hand into your waiting room] When this card attacks, if \"Kiss Between the Two\" is in your climax area, you have 5 or less cards in your hand, and you have 3 or more other characters, you may pay the cost. If you do, perform the following action X times. \"Put 2 cards from the bottom of your opponent's deck into their waiting room. If there is a climax among those cards, deal 2 damage to your opponent.\" X is equal to 2 if the number of cards with different card names in your memory is 3 or less, and X is equal to 3 if the number is 4 or more. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E049.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E050",
+    "name": "Venturing Out, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E050",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you do not have another character in your back stage, look at the top 2 cards of your deck, choose up to 1 level 0 or lower 《Adolescence》 character from among them, put it in any position of your back stage, and put the rest into your waiting room.",
+    "flavorText": "Do you think I look weird in this dress?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E050.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E051",
+    "name": "Troubled Girl, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E051",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower 《Adolescence》 character in your waiting room, and put it in any position of your stage. 【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E051.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E052",
+    "name": "New Scar, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character. 【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "It looks different than the scar you had before.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E052.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E053",
+    "name": "Staying Together Overnight, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Adolescence》 characters, you may choose 1 《Adolescence》 character in your waiting room, and put it into your stock. 【AUTO】 Memory When your climax with in its trigger icon triggers, if your memory has 2 or more cards with different card names, look at the top card of your opponent's deck, put it on the top or at the bottom of their deck, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I made a stop at the house... I picked up that sleepover set you love so much.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E053.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E054",
+    "name": "Promise for the Future, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand or by the effect of \"Conveyed Sentiments\", choose up to 1 \"Becoming Family Someday\" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Becoming Family Someday\" is in your climax area, and you have another 《Adolescence》 character, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When the character facing this card attacks, perform the following action 3 times. \"Look at the top card of your deck, and put it on the top of your deck or into your waiting room.\"\"",
+    "flavorText": "Someday, let's become a family together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E054.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E055",
+    "name": "Like a Big Sister, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【CONT】 【CXCOMBO】 If \"Muse ni Nacchau\" is in your climax area, all of your characters get +1500 power. 【AUTO】 [(2)] At the beginning of your encore step, if this card is in your center stage, and there are no characters in your opponent's center stage or all characters in their center stage are 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E055.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E056",
+    "name": "Fashion Leader, Nodoka Toyohama",
+    "setId": "sby_114",
+    "number": "E056",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Fashionable"
+    ],
+    "text": "【AUTO】 [Put 1 《Adolescence》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Adolescence》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E056.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E057",
+    "name": "Sentiments to Convey, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E057",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Conveyed Sentiments\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E057.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E058",
+    "name": "Unfamiliar Daily Life, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Adolescence》 characters, and that character gets +1000 power until end of turn. 【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "...!!\nYou can't shoot out of bed like that!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E058.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E059",
+    "name": "Best Girlfriend, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn, if you do not have a red card in your memory, choose up to 1 \"Accumulating Memories, Mai Sakurajima\" in your waiting room, and put it into your memory. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E059.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E060",
+    "name": "Fresh Out of the Bath, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "What's going on? Is mom okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E060.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E061",
+    "name": "University Acceptance, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 Memory When this card attacks, if your memory has 2 or more cards with different card names, this card gets +X power until end of turn. X is equal to the number of your opponent's characters ×1500. 【ACT】 [Put this 【STAND】 card into your memory] Search your deck for up to 1 \"The Year I Spent With You, Mai Sakurajima\" or \"Fukashigi no Carte, Mai Sakurajima\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I got accepted by the university.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E061.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E062",
+    "name": "Heart Drenched in Anxiety, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Adolescence》 characters get +1000 power. 【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +3500 power and \"【AUTO】 Encore [Put 1 《Adolescence》 character from your hand into your waiting room]\".",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E062.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E063",
+    "name": "Tears Spilling Over, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it in any position of your stage, and that character gets +2000 power until end of turn. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent returns all cards from their stock to their deck, shuffles their deck, and puts the same number of cards from the top of their deck into their stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E063.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E064",
+    "name": "Another World, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Adolescence》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E064.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E065",
+    "name": "Usual Way Home, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Adolescence》 characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000. 【AUTO】 Memory When this card is placed on the stage from your hand, if \"Irreplaceable Existence, Mai Sakurajima” is in your memory, reveal the top card of your deck. If that card is an event or 《Adolescence》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+    "flavorText": "I've had a lot more important things on my mind. So that hatred of her has started to die down a little bit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E065.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E066",
+    "name": "Graduate, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When your climax with in its trigger icon triggers, choose up to 2 of your characters, and those characters get +1000 power until end of turn. 【ACT】 [(1) Put this 【STAND】 card into your memory] If your level is 2 or higher, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Sakuta: \"So this is the last time I'll see you in a school uniform...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E066.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E067",
+    "name": "Their Good Luck Charm, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level X or lower 《Adolescence》 character in your waiting room, and return it to your hand. X is equal to the number of \"Promise for the Future, Mai Sakurajima” in your waiting room.",
+    "flavorText": "But I think you carrying around a marriage license with both our names on it is better for me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E067.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E068",
+    "name": "Fading Days, Knapsack Kid & Sakuta Azusagawa & Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. 【AUTO】 When this card attacks, if all of your characters are 《Adolescence》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E068.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E069",
+    "name": "Introducing the Boyfriend, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 Memory At the beginning of your climax phase, if there is a card in your memory, choose 1 of your 《Adolescence》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Mai's Mother: \"I trust it's been quieter lately? No paparazzi stalking you for photos? \"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E069.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E070",
+    "name": "Incognito, Mai Sakurajima",
+    "setId": "sby_114",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E070.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E071",
+    "name": "First Meeting in a Long Time, Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Animal"
+    ],
+    "text": "【AUTO】 When your other 《Adolescence》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Adolescence》 characters you have ×500. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Thanks for inviting me...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E071.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E072",
+    "name": "Blessing of the Marriage License, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 At the beginning of your climax phase, if there are 3 or more markers underneath this card, put all markers underneath this card into your waiting room, and deal 1 damage to your opponent. (Damage may be canceled) 【AUTO】 During your opponent's attack phase, when the damage you received is canceled, if you have another \"Promise for the Future, Mai Sakurajima”, and the total number of cards in your marker area is 2 or less, you may choose 1 《Adolescence》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Mai: \"So it really worked.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E072.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E073a",
+    "name": "Many Memories",
+    "setId": "sby_114",
+    "number": "E073a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Put this card into your memory. Choose up to 2 characters with “Mai(麻衣)” in their card names in your waiting room, return them to your hand, choose 1 card in your hand, and put it into your waiting room. [(1)] If your waiting room has 6 or more climax with in its trigger icon, you may pay the cost. If you do, return all cards from your waiting room to your deck, shuffle your deck, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Mai: \"We went through a lot.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E073a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E073a.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E074",
+    "name": "Sudden Intense Gaze",
+    "setId": "sby_114",
+    "number": "E074",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "What? What is it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E074.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E075",
+    "name": "Kiss Between the Two",
+    "setId": "sby_114",
+    "number": "E075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Okay then... just a little kiss.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E075.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E076",
+    "name": "Becoming Family Someday",
+    "setId": "sby_114",
+    "number": "E076",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Mai: \"Someday, let's become a family together.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E076.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E077",
+    "name": "Muse ni Nacchau",
+    "setId": "sby_114",
+    "number": "E077",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E077.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E078",
+    "name": "Feeling Warmth From Powder Snow, Rio Futaba",
+    "setId": "sby_114",
+    "number": "E078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Science"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 climax, reveal it to your opponent, choose up to 1 climax from your hand, reveal it to your opponent, exchange them, and shuffle your deck. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E078.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E079",
+    "name": "Form of the Continuing Dream, Shoko Makinohara",
+    "setId": "sby_114",
+    "number": "E079",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Mystery"
+    ],
+    "text": "【CONT】 During your opponent's turn, if your hand has 4 or more cards, this card gets +1 level, +1500 power, and the following ability. \"【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.\" 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Adolescence》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E079.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E080",
+    "name": "Momentary Illusion, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E080",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 【CXCOMBO】 At the end of this card's attack, if \"To Overcome Alone\" is in your climax area, and you have 2 or more other 《Adolescence》 characters, look at the top card of your deck, choose up to 1 event or 《Adolescence》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. You may put this card into your memory afterwards. If you do, at the beginning of your next draw phase, choose 1 \"Momentary Illusion, Knapsack Kid\" in your memory, and put it in any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E080.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E081",
+    "name": "Towards the Ideal World, Knapsack Kid & Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 [(2) Return this card to your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other characters, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E081.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E082",
+    "name": "Fukashigi no Carte, Shoko Makinohara",
+    "setId": "sby_114",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Mystery"
+    ],
+    "text": "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [(1) Put this card into your waiting room] Choose up to 1 \"Irreplaceable Existence, Shoko Makinohara\" in your hand, put it in the stage position that this card was in, and that character gets +1500 power until the end of your opponent's next turn.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E082.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E083",
+    "name": "Fukashigi no Carte, Tomoe Koga",
+    "setId": "sby_114",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Smartphone"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Petit Devil Kouhai, Tomoe Koga”, put it in any position of your stage, and shuffle your deck. 【ACT】 [【REST】 this card] Choose 1 of your “Petit Devil Kouhai, Tomoe Koga”, and that card gets +2500 power and +1 soul until end of turn. 【ACT】 [Put 1 \"Petit Devil Kouhai, Tomoe Koga\" from your hand into your waiting room & 【REST】 this card] Choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E083.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E084",
+    "name": "Fukashigi no Carte, Rio Futaba",
+    "setId": "sby_114",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Science"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, move it to another open position of their stage, choose 1 of your “Logical Witch, Rio Futaba”, and that character gets +3500 power and the following ability until end of turn. \"【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E084.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E085",
+    "name": "Adorable Younger Girl, Shoko Makinohara",
+    "setId": "sby_114",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Mystery"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Adolescence》 characters, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Adolescence》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E085.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E086",
+    "name": "First Love, Shoko Makinohara",
+    "setId": "sby_114",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Mystery"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Choose 1 \"Respective Choices, Shoko Makinohara\" in your waiting room, put it in the stage position that this card was in, and that character gets +2500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E086.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E087",
+    "name": "Déjà vu, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] If this card is in your waiting room, and your level is 1 or higher, at the beginning of your climax phase, you may pay the cost. If you do, put this card in any position of your center stage. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck. If you do, put this card at the bottom of your deck.",
+    "flavorText": "You really don't... know who I am?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E087.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E088",
+    "name": "Spitting Image, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When your other 《Adolescence》 character attacks, this card gets +3000 power until end of turn. 【AUTO】 When this card attacks, if there is a climax in your climax area, and you have another 《Adolescence》 character, reveal the top card of your deck. If that card is an event or 《Adolescence》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E088.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E089",
+    "name": "Facing His Mother, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock, and this card gets +3000 power until end of turn. 【AUTO】 [(3) Put 1 card from your hand into your waiting room] At the end of this card's attack, if you have another \"Promise for the Future, Mai Sakurajima\" in your center stage, you may pay the cost. If you do, deal 4 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Sakuta's Mother: \"I think I was too eager...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E089.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E090",
+    "name": "Hi Mister, Do I Know You? Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 1 “Mysterious Girl, Knapsack Kid” in your hand, and put it in the stage position that this card was in.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E090.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E091",
+    "name": "A World Without Only Me, Sakuta Azusagawa",
+    "setId": "sby_114",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence"
+    ],
+    "text": "【CONT】 This card cannot be chosen by your opponent's effects. 【AUTO】 Memory [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 2 or higher, and \"Sentiments to Convey, Sakuta Azusagawa\" is in your memory, you may pay the cost. If you do, choose 1 “Blessing of the Marriage License, Sakuta Azusagawa” in your waiting room, and put it in the stage position that this card was in. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E091.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E092",
+    "name": "Swaying Hair, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E092.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E093",
+    "name": "Inexplicable Elementary Schooler, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's back stage with level higher than your opponent's level. That character cannot 【STAND】 during your opponent's next stand phase. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Adolescence》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Sakuta: \"Mai, is that you?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E093.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E094",
+    "name": "Lost Child, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When \"Lost in Life\" is placed on your climax area, if you have 3 or more other characters, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, look at up to 4 cards from the top of your deck, choose up to 2 level 1 or higher cards from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.\" (Climax are regarded as level 0)",
+    "flavorText": "Mister, are you lost?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E094.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E095",
+    "name": "Family, Sakuta's Mother & Sakuta Azusagawa & Kaede Azusagawa",
+    "setId": "sby_114",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Parent and Child"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Adolescence》 characters get +1000 power. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 4 or more 《Adolescence》 characters, at the beginning of your climax phase, draw up to 2 cards, choose 2 cards in your hand, and put them into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E095.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E096",
+    "name": "Coffee Time, Rio Futaba",
+    "setId": "sby_114",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Science"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E096.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E097",
+    "name": "Girl Carrying a Knapsack, Knapsack Kid",
+    "setId": "sby_114",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adolescence",
+      "Knapsack"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if there is a climax in your opponent's climax area, choose 1 of your 《Adolescence》 characters in battle, and that character gets +2000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E097.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E098",
+    "name": "Conveyed Sentiments",
+    "setId": "sby_114",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Choose 1 of the following effects, and perform it. \"Choose up to 2 of your characters, and those characters get +2500 power until end of turn.\" \"[(1) Put 1 character from your stage into your waiting room & Put 1 【STAND】 \"Sentiments to Convey, Sakuta Azusagawa\" from your stage into your memory] You may pay the cost. If you do, choose 1 \"Promise for the Future, Mai Sakurajima\" in your waiting room, put it in any position of your stage, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\"\"",
+    "flavorText": "Sakuta: \"...Why are you--? I thought you wouldn't be back until tomorrow...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E098.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E099",
+    "name": "To Overcome Alone",
+    "setId": "sby_114",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Sakuta: \"I'm not saying it's a bad thing. But everyone around me made do on their own.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E099.png"
+    }
+  },
+  {
+    "id": "SBY/W114-E100",
+    "name": "Lost in Life",
+    "setId": "sby_114",
+    "number": "E100",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Let's go.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SBY/W114-E100.png"
+    }
+  }
+]

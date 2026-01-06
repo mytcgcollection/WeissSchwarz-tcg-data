@@ -1,0 +1,2727 @@
+[
+  {
+    "id": "KS/W55-E001",
+    "name": "\"Sending Off\" Chris",
+    "setId": "ks_55",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Robber"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1500 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one yellow or 《Adventurer》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E001.png"
+    }
+  },
+  {
+    "id": "KS/W55-E002",
+    "name": "\"Iron Wall Crusader\" Darkness",
+    "setId": "ks_55",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have another 《Adventurer》 or 《Magic》 character, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Subduing Even My Heart......\" is in your climax area, search your deck for up to one 《Adventurer》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You think you can overpower me?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E002.png"
+    }
+  },
+  {
+    "id": "KS/W55-E003",
+    "name": "\"Duke of Hell\" Vanir",
+    "setId": "ks_55",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Mask",
+      "Magic"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand or by a \"Change\" effect, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled) 【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's draw phase, you may pay the cost. If you do, choose a card named \"\"Power of the Mask\" Darkness\" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn.",
+    "flavorText": "She's going to pay dearly for it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E003.png"
+    }
+  },
+  {
+    "id": "KS/W55-E004",
+    "name": "\"Setting Out\" Darkness",
+    "setId": "ks_55",
+    "number": "E004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"First Incitation\" is in your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal two damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "I'll take the lead.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E004.png"
+    }
+  },
+  {
+    "id": "KS/W55-E005",
+    "name": "\"Snipe\" Kazuma",
+    "setId": "ks_55",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose a card in your opponent's clock, and put it into your opponent's waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "In light of that, I decided to learn a new skill. And it's called…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E005.png"
+    }
+  },
+  {
+    "id": "KS/W55-E006",
+    "name": "\"Decoy\" Kazuma",
+    "setId": "ks_55",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [Put this card at the bottom of your deck] Choose a card named \"\"Mesmerizing Water Goddess\" Aqua\" in your hand with level lower than or equal to your level, and put it on any position of your stage.",
+    "flavorText": "I'm gonna be your meal today!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E006.png"
+    }
+  },
+  {
+    "id": "KS/W55-E007",
+    "name": "\"Precious Item\" Chris",
+    "setId": "ks_55",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Robber"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When a card named \"Return It to Me!!\" is placed on your climax area, choose one of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to four cards from the top of your deck, choose up to one yellow or 《Adventurer》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\" 【ACT】 [【REST】 this card] Choose one of your yellow or 《Adventurer》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Nooooooo!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E007.png"
+    }
+  },
+  {
+    "id": "KS/W55-E008",
+    "name": "\"Sightseeing in Arcanretia\" Darkness",
+    "setId": "ks_55",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to two yellow characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "Look, Kazuma!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E008.png"
+    }
+  },
+  {
+    "id": "KS/W55-E009",
+    "name": "Swimsuit Darkness",
+    "setId": "ks_55",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+    "flavorText": "S-Something... crazy…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E009.png"
+    }
+  },
+  {
+    "id": "KS/W55-E010",
+    "name": "\"Herald\" Darkness",
+    "setId": "ks_55",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Adventurer》 or 《Magic》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Adventurer》 or 《Magic》 characters you have. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Hm…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E010.png"
+    }
+  },
+  {
+    "id": "KS/W55-E011",
+    "name": "\"Power of the Mask\" Darkness",
+    "setId": "ks_55",
+    "number": "E011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Adventurer》 or 《Magic》 characters and this card, and exchange them as 【STAND】. 【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is on your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Duke of Hell\" Vanir\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Boy, listen well! With my power―\nWhat should I do, Kazuma?! My body's been taken over!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E011.png"
+    }
+  },
+  {
+    "id": "KS/W55-E012",
+    "name": "\"Setting Out\" Kazuma",
+    "setId": "ks_55",
+    "number": "E012",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 Memory If the number of cards named \"Aristocratic Insignia\" in your memory is two or more, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Adventurer》 or 《Goddess》 characters you have.",
+    "flavorText": "Everybody ready?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E012.png"
+    }
+  },
+  {
+    "id": "KS/W55-E013",
+    "name": "\"Patriarch's Poise\" Darkness' Father",
+    "setId": "ks_55",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, choose one of your 《Worries》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Why don't you two go for a walk in the garden?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E013.png"
+    }
+  },
+  {
+    "id": "KS/W55-E014",
+    "name": "\"Cross-Examination\" Sena",
+    "setId": "ks_55",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Chris(クリス)\" or \"Mitsurugi(ミツルギ)\" or \"Clemea(クレメア)\" or \"Fio(フィオ)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Thank you very much!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E014.png"
+    }
+  },
+  {
+    "id": "KS/W55-E015",
+    "name": "\"Aristocrat Daughter\" Darkness",
+    "setId": "ks_55",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Adventurer》 or 《Magic》 characters, and that character gets +1500 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Herald\" Darkness\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Please! Come with me, and help me convince my father!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E015.png"
+    }
+  },
+  {
+    "id": "KS/W55-E016",
+    "name": "\"Rock-Paper-Scissors Master\" Kazuma",
+    "setId": "ks_55",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is two or higher, play \"Rock-Paper-Scissors\" with your opponent until you lose, and if you won four or more times, you may deal four damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Well, I've never lost at rock-paper-scissors.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E016.png"
+    }
+  },
+  {
+    "id": "KS/W55-E017",
+    "name": "\"A New Quest\" Kazuma",
+    "setId": "ks_55",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Goddess》 characters. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"To the Next Adventure!\" is in your climax area, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E017.png"
+    }
+  },
+  {
+    "id": "KS/W55-E018",
+    "name": "\"Sending Off\" Ruffian",
+    "setId": "ks_55",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Mohican"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage with \"Kazuma(カズマ)\" in its card name gets +1500 power. 【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose one of your 《Adventurer》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Mm!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E018.png"
+    }
+  },
+  {
+    "id": "KS/W55-E019",
+    "name": "\"Dead-On Accuracy\" Darkness",
+    "setId": "ks_55",
+    "number": "E019",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 This ability activates up to one time per turn. When your other 《Adventurer》 or 《Magic》 character is placed on the stage from your hand, choose one of your other characters, and that character gets +1 level until the end of the next turn.",
+    "flavorText": "Look, Kazuma! I can actually hit them with my sword!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E019.png"
+    }
+  },
+  {
+    "id": "KS/W55-E020",
+    "name": "\"Iron Will\" Darkness",
+    "setId": "ks_55",
+    "number": "E020",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing it. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "Don't hold back! Keep it coming!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E020.png"
+    }
+  },
+  {
+    "id": "KS/W55-E021",
+    "name": "\"Impromptu Butler\" Kazuma",
+    "setId": "ks_55",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 All of your other characters on your center stage with \"Darkness(ダクネス)\" in its card name get +1000 power and the following ability. \"【CONT】 This card cannot 【STAND】 during your stand phase.\" 【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 2000 multiplied by the number of trigger icons revealed among those cards.",
+    "flavorText": "My wish is for your happiness, milady.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E021.png"
+    }
+  },
+  {
+    "id": "KS/W55-E022",
+    "name": "\"Third Witness\" Clemea & Fio",
+    "setId": "ks_55",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other cards named \"\"Second Witness\" Mitsurugi\" get +1000 power and +1 soul. 【AUTO】 Bond/\"\"Second Witness\" Mitsurugi\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Second Witness\" Mitsurugi\" in your waiting room, and return it to your hand)",
+    "flavorText": "Sena: \"He threatened to remove your underwear in public, did he not?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E022.png"
+    }
+  },
+  {
+    "id": "KS/W55-E023",
+    "name": "\"Catharsis\" Coachman",
+    "setId": "ks_55",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Adventurer》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "To think that true adventurers like you people still exist in this harsh world!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E023.png"
+    }
+  },
+  {
+    "id": "KS/W55-E024",
+    "name": "\"In Ecstasy\" Darkness",
+    "setId": "ks_55",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may choose a character on your opponent's center stage, and move it to an open position of his or her center stage.",
+    "flavorText": "Not only that, but while in that state, I'll be chased by a bunch of lus―!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E024.png"
+    }
+  },
+  {
+    "id": "KS/W55-E025",
+    "name": "\"Dignified\" Darkness",
+    "setId": "ks_55",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Worries"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Aristocratic Insignia\" in your waiting room, and return it to your hand.",
+    "flavorText": "Your honor, will you hear me out?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E025.png"
+    }
+  },
+  {
+    "id": "KS/W55-E026",
+    "name": "\"Second Generation\" Vanir",
+    "setId": "ks_55",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Mask",
+      "Magic"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Reveal a character in your hand, and put it into your stock] When this card attacks, you may pay the cost. If you do, choose a card named \"Unparalled Deleterious Desire\" in your climax area, and return it to your hand.",
+    "flavorText": "I lost one of my extra lives, making me Vanir II!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E026.png"
+    }
+  },
+  {
+    "id": "KS/W55-E027",
+    "name": "\"Masked Demon\" Vanir",
+    "setId": "ks_55",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Mask",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room. 【AUTO】 [(3) Put a climax from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose up to one card named \"\"Power of the Mask\" Darkness\" in your hand, and put it on any position of your stage as 【REST】.",
+    "flavorText": "Welcome to my dungeon, adventurers!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E027.png"
+    }
+  },
+  {
+    "id": "KS/W55-E028",
+    "name": "\"First Witness\" Chris",
+    "setId": "ks_55",
+    "number": "E028",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Robber"
+    ],
+    "text": "【CONT】 If the number of characters you have on your back stage is one or less, this card cannot attack. 【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If that card is a level 0 or lower character, put the top card of your stock into your waiting room. (The revealed card is returned to its original place)",
+    "flavorText": "I guess they called me down for this……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E028.png"
+    }
+  },
+  {
+    "id": "KS/W55-E029",
+    "name": "\"Second Witness\" Mitsurugi",
+    "setId": "ks_55",
+    "number": "E029",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "But I was the one who issued the challenge, so―",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E029.png"
+    }
+  },
+  {
+    "id": "KS/W55-E030",
+    "name": "\"Freeze\" Kazuma",
+    "setId": "ks_55",
+    "number": "E030",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's cost 1 or higher characters, and that character gets -1 soul until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Freeze!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E030.png"
+    }
+  },
+  {
+    "id": "KS/W55-E031",
+    "name": "\"Embarrassed\" Sena",
+    "setId": "ks_55",
+    "number": "E031",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Glasses",
+      "-"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or less, this card gets +4500 power. 【AUTO】 Encore [Put an 《Adventurer》 or 《Glasses》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "And I do know of your accomplishments, Satou-san. But...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E031.png"
+    }
+  },
+  {
+    "id": "KS/W55-E032",
+    "name": "Aristocratic Insignia",
+    "setId": "ks_55",
+    "number": "E032",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to three cards from the top of your deck, choose up to one yellow card and up to one red card and up to one blue card from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. Put this card into your memory.",
+    "flavorText": "Judge: \"That's… The Dustiness family crest!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E032.png"
+    }
+  },
+  {
+    "id": "KS/W55-E033",
+    "name": "Lurk Skill",
+    "setId": "ks_55",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "All of your 《Adventurer》 or 《Goddess》 characters get +2500 power and the following ability until end of turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\" Put this card at the bottom of your deck.",
+    "flavorText": "I'll head in first. You guys wait here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E033.png"
+    }
+  },
+  {
+    "id": "KS/W55-E034",
+    "name": "Lie-Detecting Device",
+    "setId": "ks_55",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Your opponent looks at the top card of his or her deck, and declares the number 0 or 1 or 2 or 3. (Return the seen card to its original place) Declare \"True\" or \"False\". Your opponent reveals the top card of his or her deck. If that card's level is the number your opponent declared, and you declared \"True\", draw up to two cards. If that card's level is not the number your opponent declared, and you declared \"False\", draw up to two cards. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "Do you know what this is? It's a magical item that lets us see through lies.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E034.png"
+    }
+  },
+  {
+    "id": "KS/W55-E035",
+    "name": "Chicken Race",
+    "setId": "ks_55",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your opponent's characters with the highest power. That character cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "Kazuma: \"And right now, she has been chosen as the obstacle in this dangerous game.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E035.png"
+    }
+  },
+  {
+    "id": "KS/W55-E036",
+    "name": "Subduing Even My Heart……",
+    "setId": "ks_55",
+    "number": "E036",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Shomefing... cwazy!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E036.png"
+    }
+  },
+  {
+    "id": "KS/W55-E037",
+    "name": "First Incitation",
+    "setId": "ks_55",
+    "number": "E037",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "It feels like I'm doing my duty as a crusader correctly for the first time!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E037.png"
+    }
+  },
+  {
+    "id": "KS/W55-E038",
+    "name": "To the Next Adventure!",
+    "setId": "ks_55",
+    "number": "E038",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E038.png"
+    }
+  },
+  {
+    "id": "KS/W55-E039",
+    "name": "Unparalled Deleterious Desire",
+    "setId": "ks_55",
+    "number": "E039",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "The final battle begins, at last!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E039.png"
+    }
+  },
+  {
+    "id": "KS/W55-E040",
+    "name": "Return It to Me!!",
+    "setId": "ks_55",
+    "number": "E040",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your yellow characters, and those characters get +2000 power and +2 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E040.png"
+    }
+  },
+  {
+    "id": "KS/W55-E041",
+    "name": "Swimsuit Megumin",
+    "setId": "ks_55",
+    "number": "E041",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 You cannot play event cards or \"Backup\" from your hand. 【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0)",
+    "flavorText": "I'm sure that in another year or two, I'll have a body that'll have Yunyun crying for forgiveness...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E041.png"
+    }
+  },
+  {
+    "id": "KS/W55-E042",
+    "name": "\"Bunny Girl\" Yunyun",
+    "setId": "ks_55",
+    "number": "E042",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 If all of your characters are 《Magic》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Light of Saber!\" is in your climax area, put up to one card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)",
+    "flavorText": "Now, Megumin, I challenge you to a duel!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E042.png"
+    }
+  },
+  {
+    "id": "KS/W55-E043",
+    "name": "\"Detonative Dame\" Megumin",
+    "setId": "ks_55",
+    "number": "E043",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 If a card named \"Swimsuit Megumin\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, put the top three cards of your deck into your waiting room. If the number of 《Adventurer》 or 《Magic》 characters revealed among those cards is one or more, put up to one card from the top of your deck into your stock. If the number is two or more, choose a character on your opponent's center stage, and that character gets -4000 power until end of turn. If the number is three or more, you may deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "I-I can shoot it?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E043.png"
+    }
+  },
+  {
+    "id": "KS/W55-E044",
+    "name": "\"Ice Witch\" Wiz",
+    "setId": "ks_55",
+    "number": "E044",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Magic》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 【CXCOMBO】 [(2) Put an 《Adventurer》 or 《Magic》 character from your hand into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if a card named \"Cursed Crystal Prison!\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card, and your opponent cannot use any 【ACT】 of characters on his or her stage until the end of your opponent's next turn.",
+    "flavorText": "Cursed Crystal Prison!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E044.png"
+    }
+  },
+  {
+    "id": "KS/W55-E045",
+    "name": "\"Having a Nightmare\" Wiz",
+    "setId": "ks_55",
+    "number": "E045",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power. 【ACT】 [(1) 【REST】 this card] Choose one of your 《Adventurer》 or 《Magic》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E045.png"
+    }
+  },
+  {
+    "id": "KS/W55-E046",
+    "name": "\"Elated\" Wiz",
+    "setId": "ks_55",
+    "number": "E046",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "Defeating Vanir-san has cleared up those spying charges of yours.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E046.png"
+    }
+  },
+  {
+    "id": "KS/W55-E047",
+    "name": "\"Chomp Chomp\" Megumin",
+    "setId": "ks_55",
+    "number": "E047",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Magic》 characters, and that character gets +1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, put it into your hand. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)",
+    "flavorText": "……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E047.png"
+    }
+  },
+  {
+    "id": "KS/W55-E048",
+    "name": "\"Ambush\" Yunyun",
+    "setId": "ks_55",
+    "number": "E048",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named \"Megumin\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 Resonate [(1) Reveal a card named \"Megumin\" in your hand & 【REST】 this card] Look at up to four cards from the top of your deck, choose up to one 《Adventurer》 or 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "What a coincidence! What a quirk of fate!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E048.png"
+    }
+  },
+  {
+    "id": "KS/W55-E049",
+    "name": "\"Brightening Eyes\" Megumin",
+    "setId": "ks_55",
+    "number": "E049",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters.",
+    "flavorText": "Let's go to the hot springs right away!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E049.png"
+    }
+  },
+  {
+    "id": "KS/W55-E050",
+    "name": "\"Tad Bit Shy\" Yunyun",
+    "setId": "ks_55",
+    "number": "E050",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 If all of your characters are 《Adventurer》 or 《Magic》, this card gets +1500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "My name is Yunyun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E050.png"
+    }
+  },
+  {
+    "id": "KS/W55-E051",
+    "name": "\"Setting Out\" Megumin",
+    "setId": "ks_55",
+    "number": "E051",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"New Explosion Magic\" is in your climax area, choose up to one level 1 or higher card in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)",
+    "flavorText": "I will demonstrate my power!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E051.png"
+    }
+  },
+  {
+    "id": "KS/W55-E052",
+    "name": "\"Eternal Rival\" Yunyun",
+    "setId": "ks_55",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 If you have a card named \"\"Detonative Dame\" Megumin\", this card gets -1 level while in your hand. 【CONT】 This card gets +2000 power for each of your other cards named \"\"Detonative Dame\" Megumin\" on your center stage. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Welcome home, everyone! Now, Megumin, today we'll have our duel!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E052.png"
+    }
+  },
+  {
+    "id": "KS/W55-E053",
+    "name": "\"Powered-Up Explosion Magic\" Megumin",
+    "setId": "ks_55",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters. 【AUTO】 When this card is placed on the stage from your hand, choose up to one character in your hand with level lower than or equal to your level, put it on any position of your stage, and this card gets +2000 power until end of turn. 【AUTO】 [(3) Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E053.png"
+    }
+  },
+  {
+    "id": "KS/W55-E054",
+    "name": "\"Consecutive Victories\" Megumin",
+    "setId": "ks_55",
+    "number": "E054",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it on the top of his or her deck. 【AUTO】 Bond/ \"\"Bunny Girl\" Yunyun\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"\"Bunny Girl\" Yunyun\" in your waiting room, and return it to your hand)",
+    "flavorText": "I win again!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E054.png"
+    }
+  },
+  {
+    "id": "KS/W55-E055",
+    "name": "Chommusuke",
+    "setId": "ks_55",
+    "number": "E055",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "-"
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, choose one of your characters with \"Megumin(めぐみん)\" in its card name, and that character gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E055.png"
+    }
+  },
+  {
+    "id": "KS/W55-E056",
+    "name": "\"Radiant Smile\" Megumin",
+    "setId": "ks_55",
+    "number": "E056",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 Your other 《Adventurer》 or 《Magic》 character in the middle position of the center stage gets +1500 power. 【AUTO】 【CXCOMBO】 [Put a card named \"In the Bath\" from your climax area into your clock] At the beginning of your encore step, you may pay the cost. If you do, put up to one card from the top of your deck into your stock, choose up to one 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "We're friends, aren't we?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E056.png"
+    }
+  },
+  {
+    "id": "KS/W55-E057",
+    "name": "\"Taken Aback\" Yunyun",
+    "setId": "ks_55",
+    "number": "E057",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [Put a card from your hand into your waiting room & Put this card into your waiting room] If you have another card named \"Megumin\", choose one of your opponent's characters, and move it to another open position on his or her stage.",
+    "flavorText": "Ah…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E057.png"
+    }
+  },
+  {
+    "id": "KS/W55-E058",
+    "name": "\"General Store Shopkeeper\" Wiz",
+    "setId": "ks_55",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Magic》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Vanir: \"I believe you would be well served in assisting in our business.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E058.png"
+    }
+  },
+  {
+    "id": "KS/W55-E059",
+    "name": "\"Developmental Challenge\" Yunyun",
+    "setId": "ks_55",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other characters with \"Megumin(めぐみん)\" in its card name and this card. Choose one of the characters among them with the highest power, that character gets +1 soul until end of turn, choose one of the characters among them with the lowest power, and that character gets -1 soul until end of turn.",
+    "flavorText": "If you think you're not childish anymore, do you want to do that again?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E059.png"
+    }
+  },
+  {
+    "id": "KS/W55-E060",
+    "name": "\"Lonely Birthday\" Yunyun",
+    "setId": "ks_55",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +1 level and +1500 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Happy birthday!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E060.png"
+    }
+  },
+  {
+    "id": "KS/W55-E061",
+    "name": "\"Deadly Poison Slime\" Hans",
+    "setId": "ks_55",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Slime",
+      "Poison"
+    ],
+    "text": "【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's memory. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "But it's not over yet… Soon, I will devour you all and be restored!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E061.png"
+    }
+  },
+  {
+    "id": "KS/W55-E062",
+    "name": "\"Nice Assist\" Wiz",
+    "setId": "ks_55",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Adventurer》 or 《Magic》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "Kazuma: \"Thanks, Wiz!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E062.png"
+    }
+  },
+  {
+    "id": "KS/W55-E063",
+    "name": "Hans",
+    "setId": "ks_55",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Slime",
+      "Poison"
+    ],
+    "text": "【ACT】 [Put two cards from your hand into your waiting room & Put this card into your waiting room] Choose a character in your waiting room with level lower than or equal to your level, and put it on the stage position that this card was on.",
+    "flavorText": "Oh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E063.png"
+    }
+  },
+  {
+    "id": "KS/W55-E064",
+    "name": "\"Maxed-Out Motivation\" Yunyun",
+    "setId": "ks_55",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put a card named \"\"Insufficient Magic Power\" Megumin\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose an 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand. 【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"\"Insufficient Magic Power\" Megumin\" in your waiting room, and put it on any position of your stage as 【REST】.",
+    "flavorText": "Now, crystal, demonstrate your power!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E064.png"
+    }
+  },
+  {
+    "id": "KS/W55-E065",
+    "name": "\"Challenge Accepted\" Megumin",
+    "setId": "ks_55",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 This ability activates up to three times per turn. When your other character is placed on the stage from your waiting room, this card gets +2000 power until end of turn.",
+    "flavorText": "Now then, come at me as you will!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E065.png"
+    }
+  },
+  {
+    "id": "KS/W55-E066",
+    "name": "\"Reminiscent Reunion\" Wiz",
+    "setId": "ks_55",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Adventurer》 or 《Magic》 characters revealed among those cards.",
+    "flavorText": "But I managed to recover somehow!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E066.png"
+    }
+  },
+  {
+    "id": "KS/W55-E067",
+    "name": "\"Insufficient Magic Power\" Megumin",
+    "setId": "ks_55",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "-",
+    "flavorText": "Kazuma! I don't have enough magic power to activate my explosion magic!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E067.png"
+    }
+  },
+  {
+    "id": "KS/W55-E068",
+    "name": "\"Coming with Gifts\" Yunyun",
+    "setId": "ks_55",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent's center stage, and that character gets +3000 power until end of turn. 【AUTO】 [Put a card from your hand into your waiting room[ When a card named \"\"Chomp Chomp\" Megumin\" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】.",
+    "flavorText": "H-Hello?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E068.png"
+    }
+  },
+  {
+    "id": "KS/W55-E069",
+    "name": "\"Out of the Bath\" Wiz",
+    "setId": "ks_55",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Adventurer》 or 《Magic》 characters you have.",
+    "flavorText": "Welcome back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E069.png"
+    }
+  },
+  {
+    "id": "KS/W55-E070",
+    "name": "\"Objection!\" Megumin",
+    "setId": "ks_55",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "But all this testimony is inadmissible as evidence!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E070.png"
+    }
+  },
+  {
+    "id": "KS/W55-E071",
+    "name": "\"In the Dream\" Wiz",
+    "setId": "ks_55",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card attacks, this power gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Adventurer》 or 《Magic》 characters you have. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Hah…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E071.png"
+    }
+  },
+  {
+    "id": "KS/W55-E072",
+    "name": "\"Power of a Demon Army General\" Wiz",
+    "setId": "ks_55",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets -2 level while on the stage. 【CONT】 This card gets +1000 power for each of your other level 0 or lower characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E072.png"
+    }
+  },
+  {
+    "id": "KS/W55-E073",
+    "name": "\"The Rival Makes Her Appearance\" Yunyun",
+    "setId": "ks_55",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "3500",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 1000 multiplied by the number of characters you have with \"Assist\". 【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Adventurer》 or 《Magic》 characters you have is four or more, you may choose an 《Adventurer》 or 《Magic》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Uhh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E073.png"
+    }
+  },
+  {
+    "id": "KS/W55-E074",
+    "name": "Friendship Crystal",
+    "setId": "ks_55",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to one card in your waiting room with \"Megumin(めぐみん)\" in its card name and up to one card in your waiting room with \"Yunyun(ゆんゆん)\" in its card name, return them to your hand, choose a card in your hand, and put it into your waiting room. All players reveal their hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E074.png"
+    }
+  },
+  {
+    "id": "KS/W55-E075",
+    "name": "New Explosion Magic",
+    "setId": "ks_55",
+    "number": "E075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Burst forth! Explosion!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E075.png"
+    }
+  },
+  {
+    "id": "KS/W55-E076",
+    "name": "Light of Saber!",
+    "setId": "ks_55",
+    "number": "E076",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Haaaaaaa!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E076.png"
+    }
+  },
+  {
+    "id": "KS/W55-E077",
+    "name": "In the Bath",
+    "setId": "ks_55",
+    "number": "E077",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "She chases after me, claiming to be my rival, after all…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E077.png"
+    }
+  },
+  {
+    "id": "KS/W55-E078",
+    "name": "Cursed Crystal Prison!",
+    "setId": "ks_55",
+    "number": "E078",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your red characters, and those characters get +3000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E078.png"
+    }
+  },
+  {
+    "id": "KS/W55-E079",
+    "name": "\"Setting Out\" Aqua",
+    "setId": "ks_55",
+    "number": "E079",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if a card named \"In the Name of the Goddess\" is in your climax area, you may pay the cost. If you do, look at up to three cards from the top of your deck, choose up to three 《Adventurer》 or 《Goddess》 or 《Axis Church Devotee》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "Let's go then!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E079.png"
+    }
+  },
+  {
+    "id": "KS/W55-E080",
+    "name": "\"Mesmerizing Water Goddess\" Aqua",
+    "setId": "ks_55",
+    "number": "E080",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 If the number of 《Adventurer》 or 《Goddess》 or 《Axis Church Devotee》 characters you have is four or more, this card gets -1 level while in your hand. 【CONT】 During your turn, if all of your characters are 《Adventurer》 or 《Goddess》 or 《Axis Church Devotee》, this card gets +2000 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, you may put the top card of your clock into your stock.",
+    "flavorText": "My Axis Church faithful!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E080.png"
+    }
+  },
+  {
+    "id": "KS/W55-E081",
+    "name": "Swimsuit Eris",
+    "setId": "ks_55",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Goddess",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Have a safe trip.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E081.png"
+    }
+  },
+  {
+    "id": "KS/W55-E082",
+    "name": "\"Soul Salvation\" Aqua",
+    "setId": "ks_55",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 or 《Axis Church Devotee》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "Go, rest in peace…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E082.png"
+    }
+  },
+  {
+    "id": "KS/W55-E083",
+    "name": "\"Real Magic Power is Down to Luck Too\" Aqua",
+    "setId": "ks_55",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. If there is a card named \"\"Swarmed on the Street\" Axis Church Devotee\" revealed among those cards, choose a 《Goddess》 or 《Axis Church Devotee》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Blessing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E083.png"
+    }
+  },
+  {
+    "id": "KS/W55-E084",
+    "name": "Swimsuit Aqua",
+    "setId": "ks_55",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 If you have another card named \"\"Troublemaker\" Aqua\", this card gets +3000 power.",
+    "flavorText": "Hey, you can probably just leave it to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E084.png"
+    }
+  },
+  {
+    "id": "KS/W55-E085",
+    "name": "\"Furious Fist\" Aqua",
+    "setId": "ks_55",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 At the beginning of your climax phase, choose up to three cards named \"\"Swarmed on the Street\" Axis Church Devotee\" in your waiting room, and put them face up in any order underneath this card as markers. 【AUTO】 【CXCOMBO】 When this card attacks, if a card named \"Goddess' Fury\" is in your climax area, your opponent puts X cards from the top of your opponent's deck into his or her waiting room. If there is a climax revealed among those cards, choose a level 3 or lower character facing this card, and put it into your opponent's clock. X is equal to the number of markers underneath this card. 【AUTO】 At the end of turn, put all markers underneath this card into your waiting room.",
+    "flavorText": "Godddddd--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E085.png"
+    }
+  },
+  {
+    "id": "KS/W55-E086",
+    "name": "\"Decoy\" Aqua",
+    "setId": "ks_55",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a level 0 or lower character revealed among those cards, this card's soul does not decrease by side attacking until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Kazuma-saaaaan!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E086.png"
+    }
+  },
+  {
+    "id": "KS/W55-E087",
+    "name": "\"Our Little Secret Here\" Eris",
+    "setId": "ks_55",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Goddess",
+      "-"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Adventurer》 or 《Goddess》 characters get +1000 power. 【AUTO】 【CXCOMBO】 [(1)] When a card named \"Well Then, See You\" is placed on your climax area, you may pay the cost. If you do, choose an 《Adventurer》 or 《Goddess》 character in your waiting room, and return it to your hand.",
+    "flavorText": "That's a secret between us, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E087.png"
+    }
+  },
+  {
+    "id": "KS/W55-E088",
+    "name": "\"Who I Really Am\" Aqua",
+    "setId": "ks_55",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power for each of your other 《Adventurer》 or 《Goddess》 or 《Axis Church Devotee》 characters. 【CONT】 If your opponent has a 《Death》 character, this card gains \"【CONT】 Great Performance\".",
+    "flavorText": "Yes, I am the one you worship, Aqua, the goddess of water!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E088.png"
+    }
+  },
+  {
+    "id": "KS/W55-E089a",
+    "name": "\"Swarmed on the Street\" Axis Church Devotee",
+    "setId": "ks_55",
+    "number": "E089a",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Axis Church Devotee",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 All of your other cards named \"\"Swarmed on the Street\" Axis Church Devotee\" or \"\"Sweet Smile\" Axis Church Devotee\" get +1500 power.",
+    "flavorText": "Oh, my! Wait a moment!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089a.png"
+    }
+  },
+  {
+    "id": "KS/W55-E089b",
+    "name": "\"Swarmed on the Street\" Axis Church Devotee",
+    "setId": "ks_55",
+    "number": "E089b",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Axis Church Devotee",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 All of your other cards named \"\"Swarmed on the Street\" Axis Church Devotee\" or \"\"Sweet Smile\" Axis Church Devotee\" get +1500 power.",
+    "flavorText": "Can I do anything to thank you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089b.png"
+    }
+  },
+  {
+    "id": "KS/W55-E089c",
+    "name": "\"Swarmed on the Street\" Axis Church Devotee",
+    "setId": "ks_55",
+    "number": "E089c",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Axis Church Devotee",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 All of your other cards named \"\"Swarmed on the Street\" Axis Church Devotee\" or \"\"Sweet Smile\" Axis Church Devotee\" get +1500 power.",
+    "flavorText": "And all I have on me is the paperwork for joining the Axis Church!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089c.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089c.png"
+    }
+  },
+  {
+    "id": "KS/W55-E089d",
+    "name": "\"Swarmed on the Street\" Axis Church Devotee",
+    "setId": "ks_55",
+    "number": "E089d",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Axis Church Devotee",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 All of your other cards named \"\"Swarmed on the Street\" Axis Church Devotee\" or \"\"Sweet Smile\" Axis Church Devotee\" get +1500 power.",
+    "flavorText": "Write it for me, mister!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089d.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E089d.png"
+    }
+  },
+  {
+    "id": "KS/W55-E090",
+    "name": "\"Carefree Maid\" Aqua",
+    "setId": "ks_55",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, reveal the top card of your deck, and this card gets +X power until end of turn. X is equal to 3000 multiplied by the revealed card's level. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "It should still be intact, with any evil entities being unable to approach it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E090.png"
+    }
+  },
+  {
+    "id": "KS/W55-E091",
+    "name": "\"Purification\" Aqua",
+    "setId": "ks_55",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your characters in battle, and that character gets the following ability until end of turn. \"【CONT】 All characters in your opponent's deck lose all their traits.\" 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Huh? Yeah, I can!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E091.png"
+    }
+  },
+  {
+    "id": "KS/W55-E092",
+    "name": "\"Sweet Smile\" Axis Church Devotee",
+    "setId": "ks_55",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Axis Church Devotee",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose a character on your opponent's center stage that is not 《Axis Church Devotee》, and that character gets -1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E092.png"
+    }
+  },
+  {
+    "id": "KS/W55-E093",
+    "name": "\"Bewildered\" Eris",
+    "setId": "ks_55",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Goddess",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Adventurer》 or 《Goddess》 characters you have. 【AUTO】 Encore [Put an 《Adventurer》 or 《Goddess》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E093.png"
+    }
+  },
+  {
+    "id": "KS/W55-E094",
+    "name": "\"Tipsy\" Aqua",
+    "setId": "ks_55",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 If the number of characters on your back stage is one or less, this card cannot attack. 【CONT】 This card gets +2000 power for each of your other cards named \"\"Tipsy\" Aqua\" on your center stage.",
+    "flavorText": "Excuse me! Keep the drinks coming!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E094.png"
+    }
+  },
+  {
+    "id": "KS/W55-E095",
+    "name": "The Power of Purification",
+    "setId": "ks_55",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your opponent's level 1 or lower characters, and 【REST】 it.",
+    "flavorText": "Ahahahahaha, ahahahaha!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E095.png"
+    }
+  },
+  {
+    "id": "KS/W55-E096",
+    "name": "Seizure of Private Property",
+    "setId": "ks_55",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Put all of your opponent's stock into your opponent's waiting room, and at the end of the turn, your opponent puts the same number of cards from the top of his or her deck into the stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E096.png"
+    }
+  },
+  {
+    "id": "KS/W55-E097",
+    "name": "Axis Church Creed",
+    "setId": "ks_55",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Draw up to two cards, choose a card in your hand, put it into your waiting room, choose up to three cards named \"\"Swarmed on the Street\" Axis Church Devotee\" in your waiting room, and put it face up in any order underneath one of your cards named \"\"Furious Fist\" Aqua\" as markers.",
+    "flavorText": "Eris pads her chest!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E097.png"
+    }
+  },
+  {
+    "id": "KS/W55-E098",
+    "name": "In the Name of the Goddess",
+    "setId": "ks_55",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your blue characters, and those characters get +3000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E098.png"
+    }
+  },
+  {
+    "id": "KS/W55-E099",
+    "name": "Goddess' Fury",
+    "setId": "ks_55",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "God Requiemmm!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E099.png"
+    }
+  },
+  {
+    "id": "KS/W55-E100",
+    "name": "Well Then, See You",
+    "setId": "ks_55",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "I'll be praying you don't find your way back here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E100.png"
+    }
+  },
+  {
+    "id": "KS/W55-E101",
+    "name": "Petit Vanir",
+    "setId": "ks_55",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Mask",
+      "Magic"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card cannot attack.",
+    "flavorText": "KONOSUBA",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E101.png"
+    }
+  },
+  {
+    "id": "KS/W55-E102",
+    "name": "Petit Wiz",
+    "setId": "ks_55",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Death",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets the following ability until end of turn. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may 【REVERSE】 that character.\"",
+    "flavorText": "KONOSUBA--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E102.png"
+    }
+  },
+  {
+    "id": "KS/W55-E103",
+    "name": "Petit Yunyun",
+    "setId": "ks_55",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Adventurer》 or 《Magic》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
+    "flavorText": "KONOSUBA!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E103.png"
+    }
+  },
+  {
+    "id": "KS/W55-E104",
+    "name": "Petit Eris",
+    "setId": "ks_55",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Goddess",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot direct attack. 【CONT】 The character facing this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "KONOSUBA♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/ks_w55/KS_W55_E104.png"
+    }
+  },
+  {
+    "id": "KS/W55-PE01",
+    "name": "\"Heartstrings of the Crimson Demon Race\" Megumin",
+    "setId": "ks_55",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other level 0 or lower characters.",
+    "flavorText": "KONOSUBA♪",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p01.png"
+    }
+  },
+  {
+    "id": "KS/W55-PE02",
+    "name": "\"Double Peace Sign\" Aqua",
+    "setId": "ks_55",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Adventurer",
+      "Goddess"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +1000 power. 【AUTO】 This ability activates up to three times per turn. When your other character is placed on the stage from your waiting room, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\" until end of turn.",
+    "flavorText": "KONOSUBA♪",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p02.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p02.png"
+    }
+  }
+]

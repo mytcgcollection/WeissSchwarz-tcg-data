@@ -1,0 +1,3327 @@
+[
+  {
+    "id": "ATLA/WX04-001",
+    "name": "Aang: The Last Airbender",
+    "setId": "atla_X04",
+    "number": "001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card attacks, if all of your characters are 《World of Avatar》, choose 1 of your characters, and that character gets +2000 power until end of turn. 【AUTO】 [(1) Put this card into your waiting room] When your other 《World of Avatar》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_001R.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_001R.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-002",
+    "name": "Aang: Master of All Elements",
+    "setId": "atla_X04",
+    "number": "002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Energy Bending\" is in your climax area, and all of your characters are 《World of Avatar》, you may pay the cost. If you do, put the top 4 cards of your deck into your waiting room. If the total number of colors revealed among those cards is 2 or more, choose up to 2 cards in your opponent's waiting room, return them to their deck, and your opponent shuffles their deck. If there are 3 or more colors, deal 3 damage to your opponent. If there are 4 or more colors, put the top card of your opponent's deck into their clock. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_002.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-003",
+    "name": "Aang: Blending In",
+    "setId": "atla_X04",
+    "number": "003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 4 cards of your deck into your waiting room. If the total number of colors revealed among those cards is 2 or more, this card gets +2000 power until end of turn. If there are 3 or more colors, this card gets the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" If there are 4 or more colors, you may choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_003.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-004",
+    "name": "Lion Turtle",
+    "setId": "atla_X04",
+    "number": "004",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《World of Avatar》 characters get +500 power. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_0004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_0004.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-005",
+    "name": "Appa: Flying Bison",
+    "setId": "atla_X04",
+    "number": "005",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0) 【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_005.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-006",
+    "name": "Appa & Momo: Samurai Battle",
+    "setId": "atla_X04",
+    "number": "006",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《World of Avatar》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_006.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-007",
+    "name": "Aang: Learning Avatar State",
+    "setId": "atla_X04",
+    "number": "007",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 0
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If your climax area has a climax with in its trigger icon, this card in all of your zones get in the trigger icon. If there is a climax with in its trigger icon, this card in all of your zones get in the trigger icon. If there is a climax with in its trigger icon, this card in all of your zones get in the trigger icon. If there is a climax with in its trigger icon, this card in all of your zones get in the trigger icon. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 4 or more 《World of Avatar》 characters, at the beginning of your climax phase, you may put the top card of your deck into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_007.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-008",
+    "name": "Aang: Missing Companion",
+    "setId": "atla_X04",
+    "number": "008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 Experience If \"Aang: Missing Companion\" is in your level, this card gets -1 level while in your hand. 【CONT】 If all of your characters are 《World of Avatar》, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When \"Reunion With the Group\" is placed on your climax area, if this card is in your center stage, your hand has 6 or less cards, and you have another 《World of Avatar》 character, search your deck for up to 1 \"Appa: Lost\", put it in any position of your stage, shuffle your deck, and that character gets the following ability until the end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_008.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-009",
+    "name": "Aang: The Importance of Forgiveness",
+    "setId": "atla_X04",
+    "number": "009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each other 《World of Avatar》 character in your back stage. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《World of Avatar》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_009.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-010",
+    "name": "Koh: The Face Stealer",
+    "setId": "atla_X04",
+    "number": "010",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Spirit World"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《World of Avatar》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\"",
+    "flavorText": "How could I forget you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_010.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-011",
+    "name": "Aang & Katara: Expressing Affection",
+    "setId": "atla_X04",
+    "number": "011",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Katara & Aang: Reciprocated Feelings\" in your hand, and put it in the stage position that this card was in.\" 【AUTO】 【CXCOMBO】 [Put 1 \"Struck Down\" from your climax area into your waiting room] At the beginning of your encore step, if you have another 《World of Avatar》 character, you may pay the cost. If you do, choose this card and up to 1 of your other characters, and return them to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_011.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-012",
+    "name": "Ember Island Players: Casting Horrors",
+    "setId": "atla_X04",
+    "number": "012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name is also regarded as \"Aang\". 【AUTO】 [Put 1 《World of Avatar》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Ember Island Players: Played by a Man\" or \"Ember Island Players: Scar On the Wrong Side\" or \"Ember Island Players: Terrible Jokes\" or \"Ember Island Players: Melodramatic\", put it in any position of your stage, and shuffle your deck.",
+    "flavorText": "I'm the Avatar, silly, here to spread joy and fun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_012.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-013",
+    "name": "Momo: Winged Lemur",
+    "setId": "atla_X04",
+    "number": "013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 [Return 2 《World of Avatar》 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your 《World of Avatar》 characters, and that character gets +1 soul until end of turn. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_013.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-014",
+    "name": "Gyatso: Mentor",
+    "setId": "atla_X04",
+    "number": "014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 Memory If this card is in your memory, at the beginning of your climax phase, choose 1 of your characters with \"Aang\" in its card name, and that character gets +500 power until end of turn. 【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"Aang: Missing Companion\" or \"Aang: Avatar State\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_014.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-015",
+    "name": "Appa: Ready to Fight",
+    "setId": "atla_X04",
+    "number": "015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 At the beginning of your attack phase, choose 1 of your 《World of Avatar》 characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other characters, put it face up underneath this card as a marker, at the beginning of your next draw phase, choose 1 character from the markers underneath this card, and put it in any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_015.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-016",
+    "name": "Momo: Loneliness",
+    "setId": "atla_X04",
+    "number": "016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_016.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-017",
+    "name": "Appa: Lost",
+    "setId": "atla_X04",
+    "number": "017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have another 《World of Avatar》 character, this card gets +3000 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Appa: Lost\" in your memory, and put it in any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_017.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-018",
+    "name": "Yip-Yip!",
+    "setId": "atla_X04",
+    "number": "018",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, shuffle your deck, choose up to 1 of your 《World of Avatar》 characters in battle, and move it to an open position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_018.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-019",
+    "name": "Aang: Consulting His Past Selves",
+    "setId": "atla_X04",
+    "number": "019",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Aang\" in its card name, this card cannot be played from your hand. Look at up to 4 cards from the top of your deck, choose up to 1 《World of Avatar》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. Put this card into your memory. 【CONT】 Memory If this card is in your memory, your climax can be played from your hand without fulfilling color requirements, and all of your 《World of Avatar》 characters in your hand get the following ability. \"【CONT】 This card can be played from your hand without fulfilling color requirements.\"",
+    "flavorText": "I need your wisdom.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_019.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-020",
+    "name": "Energy Bending",
+    "setId": "atla_X04",
+    "number": "020",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_020.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-021",
+    "name": "Struck Down",
+    "setId": "atla_X04",
+    "number": "021",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_021.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-022",
+    "name": "Reunion With the Group",
+    "setId": "atla_X04",
+    "number": "022",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_022.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-023",
+    "name": "Toph: Wanted",
+    "setId": "atla_X04",
+    "number": "023",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_023.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-024",
+    "name": "Toph: The Blind Bandit",
+    "setId": "atla_X04",
+    "number": "024",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Skillful Display\" is in your climax area, and you have 2 or more other 《World of Avatar》 characters, you may pay the cost. If you do, perform the following action 2 times. \"Put the top card of your deck into your waiting room, choose up to 1 level X or lower 《World of Avatar》 character in your waiting room, and return it to your hand. X is equal to the level of that card.\" (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_024.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-025",
+    "name": "Toph: Stopping Library From Sinking",
+    "setId": "atla_X04",
+    "number": "025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 This ability activates up to 2 times per turn. When your other 《World of Avatar》 character is placed on the stage from your hand, this card gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Failure to Protect\" is in your climax area, and you have another 《World of Avatar》 character, search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_025.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-026",
+    "name": "Suki: Kiyoshi Warrior",
+    "setId": "atla_X04",
+    "number": "026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into the waiting room from the stage, you may pay the cost. If you do, choose 1 《World of Avatar》 character in your clock, return it to your hand, and put the top card of your deck into your clock. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_026.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-027",
+    "name": "Toph & Aang: Earthbending Lessons",
+    "setId": "atla_X04",
+    "number": "027",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, you may put the top card of your opponent's clock into their waiting room. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their clock. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_027.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-028",
+    "name": "Toph: High Society",
+    "setId": "atla_X04",
+    "number": "028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place) 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_028.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-029",
+    "name": "Toph: Metalbending",
+    "setId": "atla_X04",
+    "number": "029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Invention of Metalbending\" is in your climax area, and you have another 《World of Avatar》 character, choose 1 of the following effects, and perform it. \"Choose up to 1 character in your waiting room, return it to your hand, choose up to 1 《World of Avatar》 character in your waiting room, and put it into your stock.\" \"[(2)] You may pay the cost. If you do, deal 2 damage to your opponent.\" (Damage may be canceled) 【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_029.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-030",
+    "name": "Aang: Protecting Ba Sing Se",
+    "setId": "atla_X04",
+    "number": "030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If you have another 《World of Avatar》 character, this card gets +3000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_030.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-031",
+    "name": "Toph: Childhood",
+    "setId": "atla_X04",
+    "number": "031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock. 【ACT】 [【REST】 this card] Choose up to 2 of your characters, and those characters get +500 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_031.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-032",
+    "name": "Suki: Coming to the Rescue",
+    "setId": "atla_X04",
+    "number": "032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 Bond/\"Sokka: Warrior of the Southern Water Tribe\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Sokka: Warrior of the Southern Water Tribe\" in your waiting room, and return it to your hand)",
+    "flavorText": "Sokka: \"No. Suki did.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_032.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-033",
+    "name": "Dai Li Agents",
+    "setId": "atla_X04",
+    "number": "033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1 level and +1000 power. 【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_033.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-034",
+    "name": "Xin Fu & Master Yu: Trapped by Metal",
+    "setId": "atla_X04",
+    "number": "034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, this card gets +1500 power until end of turn. 【ACT】 [Put this card into your waiting room] If you have another \"Toph: Prankster\", choose 1 \"Toph: Metalbending\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_034.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-035",
+    "name": "Toph: Sleep Deprived",
+    "setId": "atla_X04",
+    "number": "035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of 《World of Avatar》 characters you have ×500. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_035.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-036",
+    "name": "Toph: Prankster",
+    "setId": "atla_X04",
+    "number": "036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When \"Invention of Metalbending\" is placed on your climax area, if your level is 2 or higher, you may pay the cost. If you do, choose up to 1 \"Toph: Metalbending\" in your hand, and put it in the stage position that this card was in. 【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "That's what it will sound like when one of you spots it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_036.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-037",
+    "name": "Long Feng: Grand Secretariat",
+    "setId": "atla_X04",
+    "number": "037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, choose up to 3 \"Joo Dee: Welcome to Ba Sing Se\" in your waiting room, and put them face down underneath this card as markers.",
+    "flavorText": "Joo Dee, the Earth King has invited you to Lake Laogai.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_037.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-038",
+    "name": "Bumi: An Old Friend",
+    "setId": "atla_X04",
+    "number": "038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into their waiting room. If you do, your opponent puts the top card of their deck into their clock. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_038.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-039",
+    "name": "Ember Island Players: Played by a Man",
+    "setId": "atla_X04",
+    "number": "039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Toph\". 【CONT】 All of your other \"Ember Island Players: Casting Horrors\" and \"Ember Island Players: Scar On the Wrong Side\" get +1000 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "My name's Toph. Because it sounds like \"tough.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_039.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-040a",
+    "name": "Joo Dee: Welcome to Ba Sing Se",
+    "setId": "atla_X04",
+    "number": "040a",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Joo Dee: Welcome to Ba Sing Se\", put it in any position of your stage, and shuffle your deck.",
+    "flavorText": "I'm Joo Dee. I'll be your host as long as you're in our wonderful city.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_040a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_040a.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-041",
+    "name": "Aang: Building a Zoo",
+    "setId": "atla_X04",
+    "number": "041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +1500 power and the following ability until end of turn. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock.\" (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_041.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-042",
+    "name": "Jet: Manipulated",
+    "setId": "atla_X04",
+    "number": "042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《World of Avatar》 characters you have ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_042.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-043",
+    "name": "Toph: Melon Lord",
+    "setId": "atla_X04",
+    "number": "043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock. 【AUTO】 When this card direct attacks, you may choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_043.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-044",
+    "name": "There's No War in Ba Sing Se",
+    "setId": "atla_X04",
+    "number": "044",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "4",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 2 or less green characters, this card cannot be played from your hand. You may choose 1 climax in your hand, and put it into your waiting room. If you do, choose 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "There's no war within the walls. Here we are safe. Here we are free.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_044.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-045",
+    "name": "Skillful Display",
+    "setId": "atla_X04",
+    "number": "045",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_045.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-046",
+    "name": "Invention of Metalbending",
+    "setId": "atla_X04",
+    "number": "046",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_046.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-047",
+    "name": "Failure to Protect",
+    "setId": "atla_X04",
+    "number": "047",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "I'm sorry, Appa.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_047.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-048",
+    "name": "Zuko: Crossroads",
+    "setId": "atla_X04",
+    "number": "048",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your deck into your waiting room. If that card is a 《World of Avatar》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your clock, and put the rest into your waiting room. If you put 1 card into your clock, choose 1 《World of Avatar》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I have changed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_048.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-049",
+    "name": "Zuko: For Honor",
+    "setId": "atla_X04",
+    "number": "049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If all of your characters are 《World of Avatar》, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When \"Siblings' Agni Kai\" is placed on your climax area, if you have another \"Iroh: The Dragon of the West\", this card gets +1 soul and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may 【STAND】 this card.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_049.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-050",
+    "name": "Azula: Verge of Insanity",
+    "setId": "atla_X04",
+    "number": "050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500. 【AUTO】 【CXCOMBO】 [(1) Put 1 other character from your stage into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Siblings' Agni Kai\" is in your climax area, and you have another \"Ty Lee: Popular\", you may pay the cost. If you do, put that battle opponent on the top of your opponent's deck, and deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_050.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-051",
+    "name": "Zuko: Tea Server",
+    "setId": "atla_X04",
+    "number": "051",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 [Put 1 《World of Avatar》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card. 【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_051.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-052",
+    "name": "Zuko & Iroh: Forgiveness",
+    "setId": "atla_X04",
+    "number": "052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《World of Avatar》 character in your waiting room, return it to your hand, choose 1 of your other 《World of Avatar》 characters, and that character gets +1000 power until end of turn. 【AUTO】 When damage dealt by this card is canceled, you may return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_052.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-053",
+    "name": "Iroh: Tea Server",
+    "setId": "atla_X04",
+    "number": "053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《World of Avatar》 characters, and that character gets +1000 power and 《Tea》 until end of turn. 【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_053.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-054",
+    "name": "Azula: Talented Sister",
+    "setId": "atla_X04",
+    "number": "054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《World of Avatar》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Falling Out\" is in your climax area, and you have 2 or more other 《World of Avatar》 characters, reveal the top 3 cards of your deck, your opponent chooses 1 event or character from among them, you add it to your hand, you choose up to 1 of the revealed cards except the card put into your hand, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_054.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-055",
+    "name": "Mai: Moody",
+    "setId": "atla_X04",
+    "number": "055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《World of Avatar》 character, this card gets +3000 power. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《World of Avatar》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_055.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-056",
+    "name": "Zuko: On the Run",
+    "setId": "atla_X04",
+    "number": "056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【AUTO】 When this card attacks, if you have another 《World of Avatar》 character, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_056.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-057",
+    "name": "Ty Lee: Popular",
+    "setId": "atla_X04",
+    "number": "057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500. 【ACT】 Resonate [Reveal 1 \"Azula: Verge of Insanity\" in your hand & 【REST】 this card] Choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards or \"Backup\" from your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_057.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-058",
+    "name": "Iroh: The Dragon of the West",
+    "setId": "atla_X04",
+    "number": "058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 All of your other \"Zuko & Aang: The Dancing Dragon\" and \"Zuko: For Honor\" get the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\" 【CONT】 All of your other 《World of Avatar》 characters get +1500 power. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_058.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-059",
+    "name": "Zuko & Aang: The Dancing Dragon",
+    "setId": "atla_X04",
+    "number": "059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room & Put 1 \"Colors of Fire\" from your climax area into your waiting room] During your climax phase, when this card is placed on the stage by the effect of \"Colors of Fire\", you may pay the cost. If you do, 【STAND】 this card, choose up to 1 \"Zuko & Aang: The Dancing Dragon\" in your waiting room, and put it in any position of your stage. 【AUTO】 At the beginning of your attack phase, if this card is in your center stage, you may choose 1 of your opponent's level 1 or higher characters. If you do, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_059.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-060",
+    "name": "Ty Lee: Betrayal",
+    "setId": "atla_X04",
+    "number": "060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【AUTO】 [Put 1 《World of Avatar》 character from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 \"Azula: Verge of Insanity\" or \"Mai: Betrayal\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_060.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-061",
+    "name": "Lord Ozai",
+    "setId": "atla_X04",
+    "number": "061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is level 0 or lower, choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_061.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-062",
+    "name": "Iroh: Order of the White Lotus",
+    "setId": "atla_X04",
+    "number": "062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】. 【AUTO】 When your other 《World of Avatar》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_062.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-063",
+    "name": "Zuko: Near the Campfire",
+    "setId": "atla_X04",
+    "number": "063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If you have another 《World of Avatar》 character, this card gets +1500 power and the following abilities. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" 【AUTO】 When this card's trigger check reveals a card with in its trigger icon, this card gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_063.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-064",
+    "name": "Zuko: Redirecting Lightning",
+    "setId": "atla_X04",
+    "number": "064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《World of Avatar》 characters you have. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_064.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-065",
+    "name": "Iroh: Buffed",
+    "setId": "atla_X04",
+    "number": "065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《World of Avatar》 characters, this card gets +3000 power and the following ability. \"【AUTO】 When your character's trigger check reveals a card with in its trigger icon, choose 1 of your 《World of Avatar》 characters, and that character gets +1500 power until end of turn.\" 【CONT】 During your turn, all of your other 《World of Avatar》 characters get +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_065.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-066",
+    "name": "Azula: Sinister Scheme",
+    "setId": "atla_X04",
+    "number": "066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If all of your characters are 《World of Avatar》, this card gets +500 power and \"【AUTO】 Encore [Put 1 《World of Avatar》 character from your hand into your waiting room]\". 【AUTO】 [Put 1 other 《World of Avatar》 character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_066.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-067",
+    "name": "Aang: Firebending Misfire",
+    "setId": "atla_X04",
+    "number": "067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all characters in your opponent's center stage get -500 power until end of turn. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《World of Avatar》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_067.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-068",
+    "name": "Iroh: Leaves From the Vine",
+    "setId": "atla_X04",
+    "number": "068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《World of Avatar》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "♪Little Soldier boy, come marching home.♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_068.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-069",
+    "name": "Mai: Betrayal",
+    "setId": "atla_X04",
+    "number": "069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 Resonate [Reveal 1 \"Azula: Verge of Insanity\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to 2 of your 《World of Avatar》 characters, and those characters get +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_069.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-070",
+    "name": "Ember Island Players: Scar On the Wrong Side",
+    "setId": "atla_X04",
+    "number": "070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Zuko\". 【CONT】 During your turn, if you have another \"Ember Island Players: Casting Horrors\" in your center stage, this card gets +3000 power and the following ability. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\" 【CONT】 All of your other \"Ember Island Players: Casting Horrors\" get +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_070.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-071",
+    "name": "Zuko: Awkward Greeting",
+    "setId": "atla_X04",
+    "number": "071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If you do not have another character, this card gets +1 level and +1500 power. 【AUTO】 When this card is placed on the stage from your hand, if your opponent's waiting room has 5 or more climax, 【REST】 this card.",
+    "flavorText": "Hello. Zuko here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_071.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-072",
+    "name": "Aang: Wavering Confidence",
+    "setId": "atla_X04",
+    "number": "072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《World of Avatar》 characters you have ×500. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another 《World of Avatar》 character, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_072.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-073a",
+    "name": "Tea Wisdom",
+    "setId": "atla_X04",
+    "number": "073a",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a character with \"Iroh\" in its card name, this card cannot be played from your hand. Put the top 5 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the total number of in the trigger icons of those cards. (Damage may be canceled)",
+    "flavorText": "Ughh! This tea is nothing more than hot leaf juice!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_073a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_073a.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-074",
+    "name": "Siblings' Agni Kai",
+    "setId": "atla_X04",
+    "number": "074",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_074.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-075",
+    "name": "Colors of Fire",
+    "setId": "atla_X04",
+    "number": "075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_075.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-076",
+    "name": "Falling Out",
+    "setId": "atla_X04",
+    "number": "076",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_076.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-077",
+    "name": "Sokka: Warrior of the Southern Water Tribe",
+    "setId": "atla_X04",
+    "number": "077",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"Space Sword\" is in your climax area, and the total level of the cards in your level is 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 event or 《World of Avatar》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_077.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-078",
+    "name": "Katara: Desire to Help",
+    "setId": "atla_X04",
+    "number": "078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If you have 4 or more 《World of Avatar》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, if you have another 《World of Avatar》 character, this card gets the following ability until the end of your opponent's next turn. \"【CONT】 During your opponent's turn, this card gets +4000 power.\" 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_078.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-079",
+    "name": "Katara: Saving Aang",
+    "setId": "atla_X04",
+    "number": "079",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If all of your characters are 《World of Avatar》, this card gets +1000 power. 【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"Spirit Water\" is in your climax area, and the total level of the cards in your level is 4 or higher, put up to 1 card from the top of your clock into your waiting room, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose up to 2 of your opponent's characters, and those characters get -1 soul until end of turn.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_079.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-080",
+    "name": "Katara: Quick Thinker",
+    "setId": "atla_X04",
+    "number": "080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If you do not have another \"Katara: Quick Thinker\", the number of cards put from the top of your deck into your waiting room by the 【CXCOMBO】 effect of your other \"Aang: Master of All Elements\" gets +1. 【CONT】 Your other 《World of Avatar》 character in the middle position of your center stage gets +1500 power. 【AUTO】 【CXCOMBO】 [【REST】 this card] When \"Frozen in Action\" is placed on your climax area, you may pay the cost. If you do, choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_080.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-081",
+    "name": "Katara: No Chance Given",
+    "setId": "atla_X04",
+    "number": "081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《World of Avatar》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_081.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-082",
+    "name": "Sokka: Offering Different Perspectives",
+    "setId": "atla_X04",
+    "number": "082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《World of Avatar》 character from your waiting room at the bottom of your clock] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《World of Avatar》 character with level equal to or lower than your level, put it in any position of your stage, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_082.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-083",
+    "name": "Katara: Experienced Fighter",
+    "setId": "atla_X04",
+    "number": "083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +1 level and +2500 power. 【AUTO】 During your turn, when this card's battle opponent becomes 【REVERSE】, if you have another 《World of Avatar》 character, you may put that battle opponent at the bottom of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_083.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-084",
+    "name": "Katara: Vengeful",
+    "setId": "atla_X04",
+    "number": "084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_084.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-085",
+    "name": "Sokka: Cactus Juice",
+    "setId": "atla_X04",
+    "number": "085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 5 or higher, this card gets +500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_085.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-086",
+    "name": "Katara & Aang: Reciprocated Feelings",
+    "setId": "atla_X04",
+    "number": "086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《World of Avatar》 character in your back stage. 【AUTO】 When your climax is placed on your climax area, if you have 2 or more other 《World of Avatar》 characters, choose up to 2 of your characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_086.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-087",
+    "name": "Sokka: Warm Welcome",
+    "setId": "atla_X04",
+    "number": "087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it in any position of your stage. 【AUTO】 When this card attacks, choose 1 of your 《World of Avatar》 characters, and that character gets +X power until end of turn. X is equal to the number of 《World of Avatar》 characters you have ×500.",
+    "flavorText": "Well, hellooo...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_087.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-088",
+    "name": "Tui & La",
+    "setId": "atla_X04",
+    "number": "088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Spirit World"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_088.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-089",
+    "name": "Aang: Attacking With Water",
+    "setId": "atla_X04",
+    "number": "089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top 3 cards of your deck, if the total number of colors among those cards is 3 or more, choose up to 1 card from among them, and put it into your hand. Put the rest into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, you may choose the bottom card of your clock and 1 《World of Avatar》 character in your waiting room, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_089.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-090",
+    "name": "Katara: Playing With Water",
+    "setId": "atla_X04",
+    "number": "090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 [【REST】 1 of your other 【STAND】 《World of Avatar》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, exchange them, choose up to 1 of your characters, and that character gets +500 power until end of turn. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Healing Lessons\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_090.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-091",
+    "name": "Ember Island Players: Terrible Jokes",
+    "setId": "atla_X04",
+    "number": "091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Sokka\". 【CONT】 If you have another \"Ember Island Players: Casting Horrors\" in your center stage, this card gets +3000 power and +1 soul. 【CONT】 All of your other \"Ember Island Players: Casting Horrors\" get +1000 power.",
+    "flavorText": "All I want is a full-feeling in my stomach! I'm starving!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_091.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-092",
+    "name": "Ember Island Players: Melodramatic",
+    "setId": "atla_X04",
+    "number": "092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If this card is in the stage, this card's card name will also be regarded as \"Katara\". 【CONT】 All of your other \"Ember Island Players: Casting Horrors\" and \"Ember Island Players: Terrible Jokes\" get +1 level and +500 power. 【ACT】 [【REST】 this card] Choose 1 of your 《World of Avatar》 characters, and that character gets +500 power until the end of your opponent's next turn.",
+    "flavorText": "We constantly roam these icy South Pole seas, and yet never do we find anything... Fulfilling.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_092.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-093",
+    "name": "Sokka: Fire Nation Disguise",
+    "setId": "atla_X04",
+    "number": "093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_093.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-094",
+    "name": "Katara: High Society",
+    "setId": "atla_X04",
+    "number": "094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1 level and +1000 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your other 《World of Avatar》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《World of Avatar》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_094.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-095",
+    "name": "Katara: Fire Nation Disguise",
+    "setId": "atla_X04",
+    "number": "095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 Assist All of your 《World of Avatar》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 Experience [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, if the total level of the cards in your level is 2 or higher, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_095.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-096",
+    "name": "Hama: Blood Bender",
+    "setId": "atla_X04",
+    "number": "096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1000 power for each of your other 《World of Avatar》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of your other characters, and put it face down underneath this card as a marker. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, reveal the top card of your deck. If that card is a 《World of Avatar》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_096.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-097",
+    "name": "Healing Lessons",
+    "setId": "atla_X04",
+    "number": "097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "You may choose 1 of your level 2 or higher characters with \"Katara\" in its card name, and return it to your hand. If you do, choose 1 of the following effects, and perform it. \"Choose up to 1 \"Katara: Saving Aang\" in your hand, put it in any position of your stage, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\"\" \"Put up to 1 card from the top of your clock into your waiting room, choose 1 of your characters, and that character gets +3000 power until end of turn. Put this card into your memory.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_097.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-098",
+    "name": "Spirit Water",
+    "setId": "atla_X04",
+    "number": "098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_098.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-099",
+    "name": "Space Sword",
+    "setId": "atla_X04",
+    "number": "099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_099.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-100",
+    "name": "Frozen in Action",
+    "setId": "atla_X04",
+    "number": "100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_100.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-101",
+    "name": "Chibi Aang",
+    "setId": "atla_X04",
+    "number": "101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Aang: Consulting His Past Selves\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_101.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-102",
+    "name": "Chibi Toph",
+    "setId": "atla_X04",
+    "number": "102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_102.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-103",
+    "name": "Chibi Zuko",
+    "setId": "atla_X04",
+    "number": "103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, you may choose 1 cost 0 or lower character in their center stage, and put it into their waiting room. 【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all of the cards in your memory except those cards into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_103.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-104",
+    "name": "Chibi Sokka",
+    "setId": "atla_X04",
+    "number": "104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《World of Avatar》 characters, you may choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_104.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-105",
+    "name": "Chibi Katara",
+    "setId": "atla_X04",
+    "number": "105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《World of Avatar》 characters you have ×1000. 【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_105.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-106",
+    "name": "Aang & Momo: Relaxing",
+    "setId": "atla_X04",
+    "number": "106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent's characters, and return it to their hand. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《World of Avatar》 characters, you may choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_106.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-107",
+    "name": "Toph: Spa Day",
+    "setId": "atla_X04",
+    "number": "107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card direct attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_107.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-108",
+    "name": "Iroh: Lightning",
+    "setId": "atla_X04",
+    "number": "108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When your other 《World of Avatar》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《World of Avatar》 characters you have ×500. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_108.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-109",
+    "name": "Zuko & Mai: In Their Own World",
+    "setId": "atla_X04",
+    "number": "109",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《World of Avatar》 character in your back stage.",
+    "flavorText": "Zuko: \"You're so beautiful when you hate the world.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_109.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-110",
+    "name": "Katara: Confrontation",
+    "setId": "atla_X04",
+    "number": "110",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage. 【AUTO】 When this card attacks, choose 1 of your level 2 or higher characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "No. No way am I apologizing to a sour old man like you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_110.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_110.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-P01",
+    "name": "Zuko: Empathy",
+    "setId": "atla_X04",
+    "number": "P02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 If your opponent has a level 3 or higher character, this card gets -1 level in your hand. 【CONT】 During your turn, if you have 4 or more other 《World of Avatar》 characters, this card gets +5000 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play event cards and \"Backup\" from their hand.\" 【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "That's rough buddy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P01P.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P01P.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-P02",
+    "name": "Katara: The Painted Lady",
+    "setId": "atla_X04",
+    "number": "P02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《World of Avatar》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P02P.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P02P.png"
+    }
+  },
+  {
+    "id": "ATLA/BCS2023-01",
+    "name": "Aang: Cheerful Airbender",
+    "setId": "atla_BCS2023",
+    "number": "01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of the other 《World of Avatar》 characters you have ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P03P.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P03P.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-P04",
+    "name": "Team Avatar",
+    "setId": "atla_X04",
+    "number": "P04",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/BP/ATLA_WX04_P04.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T01",
+    "name": "Zuko: Trapped in a Cave",
+    "setId": "atla_X04",
+    "number": "T01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 Bond/\"Aang: Trapped in a Cave\" [(1)] (When this card is played and placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Aang: Trapped in a Cave\" in your waiting room, and return it to your hand)",
+    "flavorText": "I've always had to struggle and fight, and that's made me strong... It's made me who I am.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T01.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T02",
+    "name": "Aang & Zuko: Unexpected Cooperation",
+    "setId": "atla_X04",
+    "number": "T02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《World of Avatar》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T02.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T03",
+    "name": "Aang: Trapped in a Cave",
+    "setId": "atla_X04",
+    "number": "T03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《World of Avatar》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T03.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T04",
+    "name": "Zuko: Agni Kai",
+    "setId": "atla_X04",
+    "number": "T04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 Accelerate [Put 1 《World of Avatar》 character from your waiting room at the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 \"Katara's Necklace\" or 《World of Avatar》 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T04.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T05",
+    "name": "Iroh: Stern Warning",
+    "setId": "atla_X04",
+    "number": "T05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《World of Avatar》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Whatever you do to that spirit, I'll unleash on you tenfold.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T05.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T06",
+    "name": "Iroh: Fatherly Figure",
+    "setId": "atla_X04",
+    "number": "T06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [(2) 【REST】 this card] Choose 1 《World of Avatar》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T06.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T07",
+    "name": "Admiral Zhao: Killing the Moon Spirit",
+    "setId": "atla_X04",
+    "number": "T07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Fire Nation"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each character in your opponent's back stage. 【AUTO】 Encore [Put 1 《World of Avatar》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T07.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T08",
+    "name": "Stuck in a Blizzard",
+    "setId": "atla_X04",
+    "number": "T08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T08.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T09",
+    "name": "Katara: New Necklace",
+    "setId": "atla_X04",
+    "number": "T09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《World of Avatar》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 When this card attacks, choose 1 of your 《World of Avatar》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T09.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T10",
+    "name": "Sokka: Ship Steering",
+    "setId": "atla_X04",
+    "number": "T10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《World of Avatar》 characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T10.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T11",
+    "name": "Katara & Sokka: Siblings",
+    "setId": "atla_X04",
+    "number": "T11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [(1) Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose up to 1 \"Aang: Avatar State\" in your hand, and put it in the stage position that this card was in.\" 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T11.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T12",
+    "name": "Aang: The Boy Trapped In Ice",
+    "setId": "atla_X04",
+    "number": "T12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【CONT】 If all of your characters are 《World of Avatar》, this card gets +1000 power. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T12.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T13",
+    "name": "Yue: Moon Spirit",
+    "setId": "atla_X04",
+    "number": "T13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1 soul until end of turn. 【ACT】 [【REST】 this card] Choose 1 of your 《World of Avatar》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I'll always be with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T13.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T14",
+    "name": "Jet & Freedom Fighters",
+    "setId": "atla_X04",
+    "number": "T14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Earth Kingdom"
+    ],
+    "text": "-",
+    "flavorText": "Jet: \"Look Duke, that's the price of ridding this area of the Fire Nation.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T14.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T15",
+    "name": "Sokka: First Love",
+    "setId": "atla_X04",
+    "number": "T15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《World of Avatar》 characters. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may choose 1 《World of Avatar》 character in your waiting room, and put it into your stock.",
+    "flavorText": "She's gone... She's gone.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T15.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T16",
+    "name": "Aang: Avatar State",
+    "setId": "atla_X04",
+    "number": "T16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Air Nomads"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《World of Avatar》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Fury of the Ocean Spirit\" is in your climax area, and you have 2 or more other 《World of Avatar》 characters, deal 1 damage to your opponent, and this card gets +1000 power until the end of your opponent's next turn. (Damage may be canceled)",
+    "flavorText": "Katara: \"Oh no! It's his Avatar spirit. He must have triggered it!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T16.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T17",
+    "name": "Katara: Protecting Aang",
+    "setId": "atla_X04",
+    "number": "T17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "World of Avatar",
+      "Water Tribe"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《World of Avatar》 characters, this card gets +500 power and the following ability. \"【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your 《World of Avatar》 characters, and exchange them as 【STAND】.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T17.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T18",
+    "name": "Katara's Necklace",
+    "setId": "atla_X04",
+    "number": "T18",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《World of Avatar》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T18.png"
+    }
+  },
+  {
+    "id": "ATLA/WX04-T19",
+    "name": "Fury of the Ocean Spirit",
+    "setId": "atla_X04",
+    "number": "T19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/ATLA/TD/ATLA_WX04_T19.png"
+    }
+  }
+]

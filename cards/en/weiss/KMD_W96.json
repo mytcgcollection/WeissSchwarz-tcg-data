@@ -1,0 +1,3177 @@
+[
+  {
+    "id": "KMD/W96-E001",
+    "name": "Trusting Relations With Dragons, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【CONT】 If you have another \"Wings of Love, Tohru\", all of your other 《Human》 or 《Dragon》 characters get +1000 power. 【ACT】 [【REST】 this card] If you have 4 or more other 《Human》 or 《Dragon》 characters, draw 1 card, choose 1 card in your hand, and put it into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E001.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E002",
+    "name": "Bridging Humans and Dragons, Tohru & Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Human》 or 《Dragon》 characters, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《Human》 or 《Dragon》 characters, this card gets +1000 power. 【AUTO】 Resonate [Reveal 1 \"Trusting Relations With Dragons, Miss Kobayashi\" in your hand] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"Put the top card of your clock into your waiting room.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E002.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E003",
+    "name": "Perfect Maid, Tohru",
+    "setId": "kmd_96",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Words She Wanted to Convey\" is in your climax area, and you have another 《Human》 or 《Dragon》 character, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"[(2) Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room] You may pay the cost. If you do, declare any number, and deal X damage to your opponent. X is equal to the number you declared.\" (You cannot declare a negative number. Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E003.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E004",
+    "name": "Go Go Choro-gons! Tohru",
+    "setId": "kmd_96",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0) 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Human》 or 《Dragon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E004.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E005",
+    "name": "School Swimsuits, Perfect Pool Weather! Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 【ACT】 [【REST】 this card] Choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E005.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E006",
+    "name": "Bedtime, Kanna",
+    "setId": "kmd_96",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +2000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E006.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E007",
+    "name": "Hindering Recognition, Tohru",
+    "setId": "kmd_96",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn. 【AUTO】 Bond/\"Trusting Relations With Dragons, Miss Kobayashi\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Trusting Relations With Dragons, Miss Kobayashi\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E007.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E008",
+    "name": "Go Go Choro-gons! Kanna",
+    "setId": "kmd_96",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E008.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E009",
+    "name": "Beachside Invitation, Kanna",
+    "setId": "kmd_96",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +1 soul. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Human》 or 《Dragon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E009.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E010",
+    "name": "Loves Pranks, Kanna",
+    "setId": "kmd_96",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or at the beginning of your main phase, choose 1 of the following abilities, and this card gets that ability until end of turn. \"【CONT】 During your turn, if you have another 《Human》 or 《Dragon》 character, this card gets +3000 power.\" \"【ACT】 [【REST】 this card] Choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets +1500 power until end of turn.\" 【AUTO】 【CXCOMBO】 [Put 1 \"Playful Age\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Tohru: \"What do you do with human-disgusing magic?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E010.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E011",
+    "name": "Choro-gon☆Breath, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 [Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, if all of your characters are 《Human》 or 《Dragon》, you may pay the cost. If you do, search your deck for up to 1 \"Trusting Relations With Dragons, Miss Kobayashi\" or character with \"Resonate\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E011.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E012",
+    "name": "Chaos Faction, Tohru",
+    "setId": "kmd_96",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 If you have another \"Trusting Relations With Dragons, Miss Kobayashi\", this card gets +2000 power. 【AUTO】 When this card attacks, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +1500 power and the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【AUTO】 Resonate [Reveal 1 \"Trusting Relations With Dragons, Miss Kobayashi\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E012.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E013",
+    "name": "Unknown to Fear, Kanna",
+    "setId": "kmd_96",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, move it to another open position of your opponent's stage, and this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E013.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E014",
+    "name": "Vow of Love, Tohru",
+    "setId": "kmd_96",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Human》 or 《Dragon》 characters you have ×500. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E014.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E015",
+    "name": "Leave the Cooking to Me! Tohru",
+    "setId": "kmd_96",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E015.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E016",
+    "name": "Usual Daily Life, Tohru",
+    "setId": "kmd_96",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E016.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E017",
+    "name": "Yearning for a Human Life, Kanna",
+    "setId": "kmd_96",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Human》 or 《Dragon》 character in your waiting room, and exchange them.",
+    "flavorText": "Miss Kobayashi: \"Perhaps she wants to go to school.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E017.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E018",
+    "name": "First Meeting, Tohru",
+    "setId": "kmd_96",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card direct attacks, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +1 soul until end of turn. 【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Miss Kobayashi: \"Oh, you're female.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E018.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E019",
+    "name": "Method to Gain Energy, Kanna",
+    "setId": "kmd_96",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 《Human》 or 《Dragon》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Iruru: \"Kanna, you're eating too much!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E019.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E020",
+    "name": "Wings of Love, Tohru",
+    "setId": "kmd_96",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When your other 《Human》 or 《Dragon》 character attacks, declare any number equal to or less than the number of markers underneath this card, and that character gets +1000 power and +X soul until end of turn. X is equal to the number you declared. (You cannot declare a negative number) 【AUTO】 【CXCOMBO】 [(1) Put 1 \"Spreading of Wings\" from your climax area into your waiting room] At the beginning of your attack phase, if you have 4 or more other 《Human》 or 《Dragon》 characters, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 3 《Human》 or 《Dragon》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, and put up to 1 card from the top of your deck face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E020.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E021",
+    "name": "Elementary School Student, Kanna",
+    "setId": "kmd_96",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your stock has 5 or less cards, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, reveal the top 2 cards of your deck, your opponent chooses 1 event or character from among them, you put it into your hand, and put the rest into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E021.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E022",
+    "name": "Discussion of Maids",
+    "setId": "kmd_96",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Your opponent puts all cards from their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock. Choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E022.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E023",
+    "name": "Words She Wanted to Convey",
+    "setId": "kmd_96",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E023.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E024",
+    "name": "Playful Age",
+    "setId": "kmd_96",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E024.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E025",
+    "name": "Spreading of Wings",
+    "setId": "kmd_96",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E025.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E026",
+    "name": "School Swimsuits, Perfect Pool Weather! Tohru",
+    "setId": "kmd_96",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Human》 or 《Dragon》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"A Dragon's Reserve Power\" is in your climax area, and you have 2 or more other 《Human》 or 《Dragon》 characters, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E026.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E027",
+    "name": "Choro-gon☆Breath, Iruru",
+    "setId": "kmd_96",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 3
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1)] When \"Search for Treasure\" is placed on your climax area, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal X damage to your opponent. X is equal to this card's soul.\" (Damage may be canceled) 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Human》 or 《Dragon》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E027.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E028",
+    "name": "Doll of Memories, Iruru",
+    "setId": "kmd_96",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Human》 or 《Dragon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E028.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E029",
+    "name": "Awakening, Tohru",
+    "setId": "kmd_96",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand. 【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E029.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E030",
+    "name": "At Loggerheads, Tohru & Elma",
+    "setId": "kmd_96",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "-"
+    ],
+    "text": "【CONT】 If all of your characters have \"Tohru(トール)\" or \"Elma(エルマ)\" in their card names, this card gets +2000 power. 【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 character with \"Tohru(トール)\" or \"Elma(エルマ)\" in its card name in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E030.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E031",
+    "name": "Of Age Duo, Iruru & Taketo Aida",
+    "setId": "kmd_96",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 If you have 2 or more other characters with \"Iruru(イルル)\" or \"Taketo(タケト)\" in their card names, this card gets +1000 power. 【AUTO】 [(1)] When this card attacks, if you have 2 or more other characters with \"Iruru(イルル)\" or \"Taketo(タケト)\" in their card names, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E031.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E032",
+    "name": "Otaku Alliance, Fafnir & Makoto Takiya",
+    "setId": "kmd_96",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E032.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E033",
+    "name": "Shut-in Being Serious, Fafnir",
+    "setId": "kmd_96",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Shut-in"
+    ],
+    "text": "【AUTO】 [(1)] This ability activates up to 1 time per turn. When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled) 【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, if \"Serious Showdown Between Otaku\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E033.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E034",
+    "name": "Choro-gon☆Breath, Tohru",
+    "setId": "kmd_96",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 4 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E034.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E035",
+    "name": "Favorite Clothes, Tohru",
+    "setId": "kmd_96",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E035.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E036",
+    "name": "Dragon Maid, Tohru",
+    "setId": "kmd_96",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Human》 or 《Dragon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E036.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E037",
+    "name": "Preparations for a Deadly Battle, Fafnir",
+    "setId": "kmd_96",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Shut-in"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get the following ability. \"【CONT】 The character facing this card cannot move to another position of the stage.\" 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Human》 or 《Dragon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E037.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E038",
+    "name": "Extremist of the Chaos Faction, Iruru",
+    "setId": "kmd_96",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from their hand. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E038.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E039",
+    "name": "Particular Person, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E039.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E040",
+    "name": "Colleague, Makoto Takiya",
+    "setId": "kmd_96",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Otaku"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Human》 or 《Dragon》 characters. 【AUTO】 When this card attacks, if you have another \"Shut-in Being Serious, Fafnir\", look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, put them on the top of your deck in any order, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E040.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E041",
+    "name": "New Decision, Fafnir",
+    "setId": "kmd_96",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Shut-in"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E041.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E042",
+    "name": "Beyond Species, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 [Return 2 《Human》 or 《Dragon》 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets the following ability until end of turn. \"【CONT】 This character's soul does not decrease by side attacking.\" 【AUTO】 When this card attacks, choose 1 of your characters with \"Iruru(イルル)\" in its card name, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 During your opponent's turn, this card gets +2000 power.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E042.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E043",
+    "name": "Childhood Memories, Iruru",
+    "setId": "kmd_96",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E043.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E044",
+    "name": "Underlying Face, Makoto Takiya",
+    "setId": "kmd_96",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Otaku"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Human》 or 《Dragon》 character, this card gets +2000 power until end of turn. 【AUTO】 When your climax with in its trigger icon is placed on your climax area, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 [(1) When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E044.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E045",
+    "name": "Conspiring, Tohru",
+    "setId": "kmd_96",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Human》 or 《Dragon》 characters among those cards ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E045.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E046",
+    "name": "\"Molting\" Tohru",
+    "setId": "kmd_96",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 You may put any number of cards with the same card name as this card into your deck. 【CONT】 This card gets +2000 power for each other \"\"Molting\" Tohru\" in your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E046.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E047",
+    "name": "Temporary Farewell, Fafnir",
+    "setId": "kmd_96",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Shut-in"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【AUTO】 When your character's trigger check reveals a climax with in its trigger icon, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E047.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E048",
+    "name": "Keeping the Town's Peace, Tohru",
+    "setId": "kmd_96",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1 soul until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E048.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E049",
+    "name": "Search for a Present",
+    "setId": "kmd_96",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 5 or more 《Human》 or 《Dragon》 characters, choose 1 character in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" Choose 1 of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Miss Kobayashi in a skirt or a dress...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E049.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E050",
+    "name": "Search for Treasure",
+    "setId": "kmd_96",
+    "number": "E050",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E050.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E051",
+    "name": "A Dragon's Reserve Power",
+    "setId": "kmd_96",
+    "number": "E051",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E051.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E052",
+    "name": "Serious Showdown Between Otaku",
+    "setId": "kmd_96",
+    "number": "E052",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E052.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E053",
+    "name": "Trip on a Day Off, Tohru & Kanna & Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, if all of your characters are 《Human》 or 《Dragon》, you may put the top card of your deck into your waiting room. If that card is a level 2 or lower character, this card gets the following ability until end of turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E053.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E054",
+    "name": "Prank-Loving Young Dragon, Kanna",
+    "setId": "kmd_96",
+    "number": "E054",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Surprise Reveal\" is in your climax area, and you have 4 or more other 《Human》 or 《Dragon》 characters, perform each of the following abilities 1 time in any order. \"Choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.\" \"You may choose 1 of your opponent's level 1 or higher characters. If you do, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E054.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E055",
+    "name": "School Swimsuits, Perfect Pool Weather! Kanna",
+    "setId": "kmd_96",
+    "number": "E055",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +1000 power, \"【AUTO】 Encore [Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room]\", and the character facing this card gets -1 soul. 【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if \"Towards Where Everyone Awaits\" is in your climax area, you may pay the cost. If you do, choose 1 \"Pranking With Whole Being\" in your waiting room, return it to your hand, and this card gets +2000 power and the following ability until the end of your opponent's next turn. \"【CONT】 The character facing this card gets -1 soul.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E055.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E056",
+    "name": "Awakening, Kanna",
+    "setId": "kmd_96",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E056.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E057",
+    "name": "Go Go Choro-gons! Iruru",
+    "setId": "kmd_96",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Human》 or 《Dragon》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 character from your stage into your waiting room] At the end of this card's attack, if \"Budding Feelings\" is in your climax area, and your hand has 6 or less cards, you may pay the cost. If you do, choose 1 character with a level equal to or less than your level +1 in your hand, and put it on any position of your stage as 【REST】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E057.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E058",
+    "name": "Crying Aloud, Riko Saikawa",
+    "setId": "kmd_96",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of your climax phase, if you have another \"Sinister Scheme, Kanna\", 【REVERSE】 this card. 【AUTO】 When this card becomes 【REVERSE】, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Human》 or 《Dragon》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E058.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E059",
+    "name": "Choro-gon☆Breath, Kanna",
+    "setId": "kmd_96",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【AUTO】 [Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Prank-Loving Young Dragon, Kanna\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 [【REST】 this card] Choose 1 of your \"Prank-Loving Young Dragon, Kanna\", and that character gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E059.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E060",
+    "name": "Always Together, Kanna & Riko Saikawa",
+    "setId": "kmd_96",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Human》 or 《Dragon》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E060.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E061",
+    "name": "Sinister Scheme, Kanna",
+    "setId": "kmd_96",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of your attack phase, you may choose 1 of your other 【REVERSE】 \"Crying Aloud, Riko Saikawa\", and 【STAND】 it. 【AUTO】 When this card attacks, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E061.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E062",
+    "name": "First Time Having Such Feelings, Iruru",
+    "setId": "kmd_96",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 of your 《Human》 or 《Dragon》 characters, and that character gets +500 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E062.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E063",
+    "name": "Beginning a New Life, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E063.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E064",
+    "name": "Co-Existing With Humans, Iruru",
+    "setId": "kmd_96",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Co-Existing With Humans, Iruru\", put it on any position of your stage, shuffle your deck, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 At the end of the turn, put this card into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E064.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E065",
+    "name": "Friends Forever, Riko Saikawa",
+    "setId": "kmd_96",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Human》 or 《Dragon》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E065.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E066",
+    "name": "Adolescent High School Student, Taketo Aida",
+    "setId": "kmd_96",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Sweets Shop"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 When your opponent uses \"Brainstorm\", if a climax is put into the waiting room by that effect, choose 1 of your characters, and that character gets +2000 power until end of turn. 【ACT】 [【REST】 this card] If you have another \"Choro-gon☆Breath, Iruru\", look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E066.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E067",
+    "name": "Chosen Place to Belong, Kanna",
+    "setId": "kmd_96",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【CONT】 Experience During your turn, if the total level of the cards in your level is 2 or higher, this card gets +4000 power. 【AUTO】 [【REST】 1 of your other 【STAND】 《Human》 or 《Dragon》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, exchange them, choose up to 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E067.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E068",
+    "name": "Lazy Member of Chaos Faction, Iruru",
+    "setId": "kmd_96",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 If you have 2 or more other characters with \"Iruru(イルル)\" or \"Taketo(タケト)\" in their card names, this card gets +1000 power. 【AUTO】 [(1) Put this card into your waiting room] When your other character with \"Iruru(イルル)\" or \"Taketo(タケト)\" in its card name is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E068.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E069",
+    "name": "Each Other's Feelings, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 When your climax with [[gate.gif]] in its trigger icon is placed on your climax area, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "I like you too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E069.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E070",
+    "name": "New Faction! Kanna",
+    "setId": "kmd_96",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Pranking With Whole Being\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Change [(1) Put 2 《Human》 or 《Dragon》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"School Swimsuits, Perfect Pool Weather! Kanna\" in your waiting room, put it on the stage position this card was on, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E070.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E071",
+    "name": "Young Dragon, Kanna",
+    "setId": "kmd_96",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 random card in your opponent's hand, reveal it, put it into their memory, and at the end of your opponent's next turn, your opponent returns that card to their hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E071.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E072",
+    "name": "Conversation With Humans, Iruru",
+    "setId": "kmd_96",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Human》 or 《Dragon》 characters. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "Why are you living with dragons?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E072.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E073",
+    "name": "Pranking With Whole Being",
+    "setId": "kmd_96",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have \"School Swimsuits, Perfect Pool Weather! Kanna\", this card cannot be played from your hand. 【CXCOMBO】 Resonate [Put 1 card from your hand into your waiting room & Reveal 1 \"Towards Where Everyone Awaits\" in your hand] You may pay the cost. If you do, reveal the top card of your deck. If that card is level 0 or lower, deal 3 damage to your opponent, otherwise deal 1 damage to your opponent, and put up to 1 card from the top of your clock into your waiting room. (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E073.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E074",
+    "name": "Surprise Reveal",
+    "setId": "kmd_96",
+    "number": "E074",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E074.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E075",
+    "name": "Towards Where Everyone Awaits",
+    "setId": "kmd_96",
+    "number": "E075",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E075.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E076",
+    "name": "Budding Feelings",
+    "setId": "kmd_96",
+    "number": "E076",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E076.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E077",
+    "name": "Choro-gon☆Breath, Lucoa",
+    "setId": "kmd_96",
+    "number": "E077",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card becomes 【REVERSE】 in battle, if all of your characters are 《Human》 or 《Dragon》, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 event or level 1 or lower character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E077.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E078",
+    "name": "Awakening, Elma",
+    "setId": "kmd_96",
+    "number": "E078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Human》 or 《Dragon》 characters, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each character in your opponent's back stage. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E078.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E079",
+    "name": "Choro-gon☆Breath, Elma",
+    "setId": "kmd_96",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【AUTO】 【CXCOMBO】 [Put 1 climax from your hand into your waiting room] When your character's trigger check reveals \"Confession of a Harmony Faction Member\" or \"Battle With the Strong\", you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E079.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E080",
+    "name": "Go Go Choro-gons! Lucoa",
+    "setId": "kmd_96",
+    "number": "E080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Human》 or 《Dragon》, this card gets +2000 power. 【AUTO】 [Put this card into your waiting room] When your other 《Human》 or 《Dragon》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E080.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E081",
+    "name": "Stimulating Daily Life, Lucoa & Shouta Magatsuchi",
+    "setId": "kmd_96",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 During your turn, if you have another \"Demonic Embrace, Lucoa\" in your center stage and another \"Talent for Magic, Shouta Magatsuchi\" in your back stage, this card gets +8000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have 2 or more other 《Human》 or 《Dragon》 characters, search your deck for up to 1 《Human》 or 《Dragon》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E081.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E082",
+    "name": "Go Go Choro-gons! Elma",
+    "setId": "kmd_96",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 If you have 4 or more other 《Human》 or 《Dragon》 characters, all of your \"Go Go Choro-gons! Elma\" get +1000 power for each marker underneath this card. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"Choose up to 2 \"Unlimited Appetite\" in your waiting room, and return them to your hand.\" \"Put the top card of your clock into your stock.\" 【AUTO】 【CXCOMBO】 When this card attacks, if \"Confession of a Harmony Faction Member\" is in your climax area, you may deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E082.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E083",
+    "name": "Demonic Embrace, Lucoa",
+    "setId": "kmd_96",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Talent for Magic, Shouta Magatsuchi\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Failed Summoning?\" is in your climax area, you may pay the cost. If you do, look at up to 5 cards from the bottom of your opponent's deck, choose up to 2 climax from among them, put them into your opponent's clock, and put the rest into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E083.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E084",
+    "name": "Voluptuous Body, Lucoa",
+    "setId": "kmd_96",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +2000 power. 【AUTO】 At the beginning of your main phase, this card gets the following ability until end of turn. \"【AUTO】 At the beginning of your encore step, if this card is in your center stage, and this card is 【STAND】, 【REST】 this card, reveal the top card of your deck, put it into your stock, and deal X damage to your opponent. X is equal to the total number of in the trigger icon of that card +1.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E084.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E085",
+    "name": "Loves Sweets, Elma",
+    "setId": "kmd_96",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 \"Unlimited Appetite\" or 《Human》 or 《Dragon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E085.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E086",
+    "name": "Predator, Elma",
+    "setId": "kmd_96",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Battle With the Strong\" is in your climax area, and you have another 《Human》 or 《Dragon》 character, choose 1 of the following effects, and perform it. \"Choose 1 character in your waiting room, and return it to your hand.\" \"[(1)] You may pay the cost. If you do, choose up to 2 \"Unlimited Appetite\" in your waiting room, and return them to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E086.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E087",
+    "name": "Sweet Proposal, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Unlimited Appetite\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E087.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E088",
+    "name": "Gigantic Winged Dragon, Lucoa",
+    "setId": "kmd_96",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E088.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E089",
+    "name": "Talent for Magic, Shouta Magatsuchi",
+    "setId": "kmd_96",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Mage"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 【CXCOMBO】 [(1) Put 2 cards from your hand into your waiting room] When \"Failed Summoning?\" is placed on your climax area, you may pay the cost. If you do, search your deck for up to 1 \"Demonic Embrace, Lucoa\", put it on any position of your stage, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E089.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E090",
+    "name": "Maid Experience, Lucoa",
+    "setId": "kmd_96",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【CONT】 All of your other characters with \"Lucoa(ルコア)\" and \"Shouta(翔太)\" in their card names get +500 power. 【AUTO】 Bond/\"As a Master, Shouta Magatsuchi\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"As a Master, Shouta Magatsuchi\" in your waiting room, and return it to your hand) 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E090.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E091",
+    "name": "As a Master, Shouta Magatsuchi",
+    "setId": "kmd_96",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Mage"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E091.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E092",
+    "name": "Hidden Potential, Elma",
+    "setId": "kmd_96",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock. 【AUTO】 When your other 《Human》 or 《Dragon》 character attacks, this card gets +1500 power until end of turn.",
+    "flavorText": "Miss Kobayashi: \"Who did this?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E092.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E093",
+    "name": "Ex-God, Lucoa",
+    "setId": "kmd_96",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your waiting room. 【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "I have to be much stronger... Otherwise...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E093.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E094",
+    "name": "Wavering Beliefs, Elma",
+    "setId": "kmd_96",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 This card gets +500 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is \"Unlimited Appetite\" or a 《Human》 or 《Dragon》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place) 【AUTO】 At the beginning of your climax phase, if this card is in your back stage, put all markers underneath this card into your waiting room.",
+    "flavorText": "Miss Kobayashi: \"I'll let you eat all the sweets you want!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E094.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E095",
+    "name": "New Hire, Elma",
+    "setId": "kmd_96",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Human》 or 《Dragon》 characters. 【AUTO】 Encore [Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "My name is Elma Joui. I will be in your care.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E095.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E096",
+    "name": "Actions in the Face of Death, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E096.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E097",
+    "name": "Unlimited Appetite",
+    "setId": "kmd_96",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "You may put up to 8 cards with the same card name as this card into your deck. If you do not have a character with \"Elma(エルマ)\" in its card name, this card cannot be played from your hand. Reveal the top card of your deck. If that card is \"Unlimited Appetite\" or a 《Human》 or 《Dragon》 character, put it into your hand. (Otherwise, return it to its original place) You may put this card face up underneath your \"Go Go Choro-gons! Elma\" or \"Wavering Beliefs, Elma\" as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E097.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E098",
+    "name": "Confession of a Harmony Faction Member",
+    "setId": "kmd_96",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "It was extremely delicious!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E098.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E099",
+    "name": "Battle With the Strong",
+    "setId": "kmd_96",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E099.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E100",
+    "name": "Failed Summoning?",
+    "setId": "kmd_96",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E100.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E101",
+    "name": "Leave Performing to Me, Tohru",
+    "setId": "kmd_96",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E101.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E102",
+    "name": "A Human's Resolve, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E102.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E103",
+    "name": "Impatient, Kanna",
+    "setId": "kmd_96",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E103.png"
+    }
+  },
+  {
+    "id": "KMD/W96-E104",
+    "name": "World She Never Knew Of, Iruru",
+    "setId": "kmd_96",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Human》 or 《Dragon》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 《Human》 or 《Dragon》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_E104.png"
+    }
+  },
+  {
+    "id": "KMD/W96-PE02",
+    "name": "Busy Daily Life, Tohru & Iruru & Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Human》 or 《Dragon》 characters get +1000 power. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE02.png"
+    }
+  },
+  {
+    "id": "KMD/W96-PE03",
+    "name": "Complementary Couple, Tohru & Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Dragon"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Human》 or 《Dragon》 character, this card gets +1500 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, if all of your characters are 《Human》 or 《Dragon》, you may pay the cost. If you do, this card gets +4500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE03.png"
+    }
+  },
+  {
+    "id": "KMD/W96-PE04",
+    "name": "Making the Best Memories",
+    "setId": "kmd_96",
+    "number": "PE04",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_PE04.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE01",
+    "name": "Heart-Pounding Part-Time Job, Iruru",
+    "setId": "kmd_96",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Human》 or 《Dragon》 characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Taketo Aida: \"Hey Iruru, help me count the stock over on the right shelf.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE01.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE02",
+    "name": "Cheering for Love, Kanna",
+    "setId": "kmd_96",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Human》 or 《Dragon》 character in your waiting room, return it to your hand, choose 1 of your other 《Human》 or 《Dragon》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Riko Saikawa: \"I'll cheer for the love between you two!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE02.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE03",
+    "name": "Poolside Temptation, Tohru",
+    "setId": "kmd_96",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE03.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE04",
+    "name": "Eating off the Ground, Kanna",
+    "setId": "kmd_96",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE04.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE05",
+    "name": "Self-Proclaimed Best Maid, Tohru",
+    "setId": "kmd_96",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Human》 or 《Dragon》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Making the Best Memories\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Human》 or 《Dragon》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE05.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE06",
+    "name": "Onset of Puberty, Iruru",
+    "setId": "kmd_96",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Chaos Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Human》 or 《Dragon》 character, this card gets +4000 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Human》 or 《Dragon》 characters, you may choose 1 《Human》 or 《Dragon》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE06.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE07",
+    "name": "Modeling, Lucoa",
+    "setId": "kmd_96",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Spectator Faction"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\"",
+    "flavorText": "Fafnir: \"I'm here to ask you to be my model.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE07.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE08",
+    "name": "A Maid Just for You, Tohru",
+    "setId": "kmd_96",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE08.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE09",
+    "name": "Peeking Back in Japanese Clothes, Kanna",
+    "setId": "kmd_96",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Dragon",
+      "Elementary School Student"
+    ],
+    "text": "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of your attack phase, you may put all players' characters except this card into their waiting rooms. If you do, this card gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 3 damage to your opponent.\" (Damage may be canceled) 【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE09.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE10",
+    "name": "Making the Best Memories",
+    "setId": "kmd_96",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE10.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE11",
+    "name": "The Scenery Together With You",
+    "setId": "kmd_96",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE11.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE12",
+    "name": "Blissful Times, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【CONT】 All of your other 《Human》 or 《Dragon》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Choose 1 《Human》 or 《Dragon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE12 (E).png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE12 (E).png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE13",
+    "name": "Peaceful Daily Life, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【CONT】 All of your other \"First Time Using a Computer, Elma\" get +500 power and the following ability. \"【AUTO】 [Put this card into your waiting room] When your other 《Human》 or 《Dragon》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.\" 【AUTO】 Bond/\"First Time Using a Computer, Elma\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"First Time Using a Computer, Elma\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE13 (E).png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE13 (E).png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE14",
+    "name": "Priestess of the Sea, Elma",
+    "setId": "kmd_96",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Human》 or 《Dragon》 character, this card gets +2000 power until end of turn.",
+    "flavorText": "Tohru: \"That's neither a god nor an angel...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE14.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE15",
+    "name": "First Time Using a Computer, Elma",
+    "setId": "kmd_96",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "-",
+    "flavorText": "What's this box for?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE15.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE16",
+    "name": "For the Sake of Friends, Miss Kobayashi",
+    "setId": "kmd_96",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Human",
+      "Corporate SE"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE16 (E).png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/W96_TE16 (E).png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE17",
+    "name": "Participating! Fafnir",
+    "setId": "kmd_96",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Shut-in"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each character in your opponent's back stage. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE17.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE18",
+    "name": "Harmony Faction, Elma",
+    "setId": "kmd_96",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Dragon",
+      "Harmony Faction"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Human》 or 《Dragon》 characters you have ×1000. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE18.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE19",
+    "name": "High-Five of Trust",
+    "setId": "kmd_96",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your characters, and put it into your waiting room. If you do, search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE19.png"
+    }
+  },
+  {
+    "id": "KMD/W96-TE20",
+    "name": "Busy Shopping",
+    "setId": "kmd_96",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/KMD/W96_TE20.png"
+    }
+  }
+]

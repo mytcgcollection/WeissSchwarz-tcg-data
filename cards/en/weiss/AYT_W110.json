@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "AYT/W110-E001",
+    "name": "Feminine Side, Matsuri",
+    "setId": "ayt_110",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Omiko City》 character in your waiting room, and return it to your hand. 【AUTO】 [(1) Put the top card of your deck into your clock & Return this card to your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your other 《Omiko City》 characters, and return it to your hand.",
+    "flavorText": "Who the hell could've seen this coming?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E001.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E002",
+    "name": "Moment of Everlasting Summer, Lucy",
+    "setId": "ayt_110",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E002.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E003",
+    "name": "Moment of Everlasting Summer, Reo",
+    "setId": "ayt_110",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Omiko City》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of the following effects, and perform it. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\" \"You may put the top card of your clock into your waiting room.\" 【AUTO】 When this card attacks, if you have another 《Omiko City》 character, this card gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E003.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E004",
+    "name": "Endless Passion for Research, Reo",
+    "setId": "ayt_110",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax with [[return.gif]] in its trigger icon revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Hehehe. I'm already excited about fixing it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E004.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E005",
+    "name": "Oozing Sexual Appeal, Matsuri",
+    "setId": "ayt_110",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock. 【AUTO】 When your other 《Omiko City》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E005.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E006",
+    "name": "Laid-Back Subculture Girl, Lucy",
+    "setId": "ayt_110",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Special Photo\" is placed on your climax area, if your hand has 5 or less cards, you may choose 1 《Omiko City》 character in your waiting room, and put it into your stock. 【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower 《Omiko City》 character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "He might take me away in his UFO someday!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E006.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E007",
+    "name": "\"Speedster Exorcist Ninja\" Soga",
+    "setId": "ayt_110",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [(2) Put 1 《Omiko City》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I'm going to finish him off.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E007.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E008",
+    "name": "\"Craftsman Exorcist Ninja\" Reo",
+    "setId": "ayt_110",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 Your opponent's characters cannot be returned to their hand by your [[return.gif]] effects. 【AUTO】 When your climax with [[return.gif]] in its trigger icon triggers, if you do not have another \"\"Craftsman Exorcist Ninja\" Reo\", you may choose 1 of your opponent's characters, and put it into their stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Matsuri-kun is always so sensational!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E008.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E009",
+    "name": "\"Grammy Hunter\" Lucy",
+    "setId": "ayt_110",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I take 3-- pics a day, but this is a first! I'm so hyped!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E009.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E010",
+    "name": "With Lots of Love, Matsuri",
+    "setId": "ayt_110",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Unaccustomed Sight\" is in your climax area, you may pay the cost. If you do, reveal the top 3 cards of your deck, shuffle your deck, and deal X damage to your opponent. X is equal to the number of trigger icons revealed among those cards. (Damage may be canceled. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E010.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E011",
+    "name": "Face of Uncertainty, Matsuri",
+    "setId": "ayt_110",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by \"Change\", if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Omiko City》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E011.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E012",
+    "name": "Sealing Art, Matsuri",
+    "setId": "ayt_110",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn. 【AUTO】 Change [Put this card at the bottom of your deck] At the beginning of your climax phase, you may pay the cost. If you do, search your deck for up to 1 \"Face of Uncertainty, Matsuri\", put it in the stage position that this card was in, and shuffle your deck.",
+    "flavorText": "God-Sealing Barrier!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E012.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E013",
+    "name": "Battle Stance, Soga",
+    "setId": "ayt_110",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【ACT】 [Put 1 card from your hand into your waiting room & Put this card at the bottom of your deck] Search your deck for up to 1 《Omiko City》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E013.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E014",
+    "name": "Ayakashi in Human Form, Garaku",
+    "setId": "ayt_110",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 When your other 《Omiko City》 character attacks, this card gets +2000 power until end of turn. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I must ask you to hand over the God-Sealing Scroll.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E014.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E015",
+    "name": "Suited Up, Matsuri",
+    "setId": "ayt_110",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Omiko City》 character, this card gets +3000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Unexpected Shamelessness\" is in your climax area, and you have 3 or more other characters, look at up to 3 cards from the top of your deck, choose up to 1 《Omiko City》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and reveal the top card of your deck. If that card has in its trigger icon, you may put that card into your stock. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E015.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E016",
+    "name": "Bewildered at His Childhood Friend, Matsuri",
+    "setId": "ayt_110",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If \"Special Relationship, Suzu\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\" 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may choose 1 《Omiko City》 character in your waiting room, and put it into your stock.",
+    "flavorText": "What the... Are you for real, Suzu?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E016.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E017",
+    "name": "Fully Determined, Lucy",
+    "setId": "ayt_110",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, you may deal 1 damage to your opponent. (Damage may be canceled) 【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, if \"Subculture Girl's Collection\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "We are Kachofugetsu, remember? We gotta lay it all bare and bond sometimes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E017.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E018",
+    "name": "Outstanding Talent, Reo",
+    "setId": "ayt_110",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [(1)] When your climax with [[return.gif]] in its trigger icon triggers, you may pay the cost. If you do, choose 1 《Omiko City》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E018.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E019",
+    "name": "Temporary Daily Life, Matsuri",
+    "setId": "ayt_110",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [Put 1 《Omiko City》 character from your hand into your clock] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E019.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E020",
+    "name": "Fear of the Unknown, Lucy",
+    "setId": "ayt_110",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card attacks, perform the following action 2 times. \"Reveal the top card of your deck. If that card is a 《Omiko City》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room.\" (Otherwise, return it to its original place)",
+    "flavorText": "Huh? Who are you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E020.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E021",
+    "name": "Occult-Loving Rich Young Lady, Lucy",
+    "setId": "ayt_110",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 When this card attacks, choose 1 of your other 《Omiko City》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Omiko City》 characters you have ×500.",
+    "flavorText": "Want some?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E021.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E022",
+    "name": "As a Female Student, Matsuri",
+    "setId": "ayt_110",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Omiko City》 characters. 【AUTO】 When this card is placed on the stage from your hand, perform the following action 2 times. \"Look at the top card of your deck, and put it on the top of your deck or into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E022.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E023",
+    "name": "Increased Femininity? Matsuri",
+    "setId": "ayt_110",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Omiko City》 characters, this card gets +2000 power until end of turn. 【AUTO】 When this card attacks, if a climax with [[return.gif]] in its trigger icon is in your climax area, reveal the top card of your deck. If that card is level 2 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "Shirogane: \"He's got a likable side to him, too.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E023.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E024",
+    "name": "Working Behind-The-Scenes, Reo",
+    "setId": "ayt_110",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room & Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E024.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E025",
+    "name": "Delivery Worker, Matsuri",
+    "setId": "ayt_110",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 card with in its trigger icon from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E025.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E026",
+    "name": "Unprecedented Decision, Matsuri",
+    "setId": "ayt_110",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1500 power for each of your other 《Omiko City》 characters. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "Shirogane! Starting today, I'm taking you in as a pet!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E026.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E027",
+    "name": "Memory Shared Between the Two",
+    "setId": "ayt_110",
+    "number": "E027",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Omiko City》 character, this card cannot be played from your hand. Look at up to 4 cards from the top of your deck, choose up to 1 《Omiko City》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. You may choose 1 cost 0 or lower character in your opponent's center stage, and return it to their hand.",
+    "flavorText": "They can't see all these cool things!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E027.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E028",
+    "name": "Unaccustomed Sight",
+    "setId": "ayt_110",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([[return.gif]]: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+    "flavorText": "Matsuri: \"I-I'm getting dizzy, so I'm gonna get out!\"\nSuzu: \"M-Matsuri! That was an accident!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E028.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E029",
+    "name": "Special Photo",
+    "setId": "ayt_110",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([[choice.gif]]: When this card triggers, you may choose 1 character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Wow, this is a gem!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E029.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E030",
+    "name": "Unexpected Shamelessness",
+    "setId": "ayt_110",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([[return.gif]]: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E030.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E031",
+    "name": "Subculture Girl's Collection",
+    "setId": "ayt_110",
+    "number": "E031",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([[choice.gif]]: When this card triggers, you may choose 1 character with in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E031.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E032",
+    "name": "More Than Friends, Matsuri & Suzu",
+    "setId": "ayt_110",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E032.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E033",
+    "name": "Moment of Everlasting Summer, Matsuri",
+    "setId": "ayt_110",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, this card gets +4000 power. 【AUTO】 【CXCOMBO】 When \"Real? Kiss\" is placed on your climax area, if you have 3 or more other characters, this card gets the following abilities until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 At the end of this card's attack, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card.\" (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E033.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E034",
+    "name": "Special Relationship, Matsuri",
+    "setId": "ayt_110",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw up to 1 card, choose up to 1 \"Special Relationship, Matsuri\" in your hand, and put it in any position of your stage. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Distance Between Friends\" is in your climax area, and you have 2 or more other 《Omiko City》 characters, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E034.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E035",
+    "name": "\"King of Ayakashi\" Shirogane",
+    "setId": "ayt_110",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Secret Art \"Gender Swap Awakened\"\" in your waiting room, and return it to your hand. 【ACT】 [(1) Put 1 \"Secret Art \"Gender Swap Awakened\"\" from your waiting room into your memory & Put this card into your waiting room] If your level is 2 or higher, choose 1 \"Full-Fledged Powers, Shirogane\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "I am the great Shirogane, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E035.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E036",
+    "name": "Secret Covered by the Swimsuit, Matsuri",
+    "setId": "ayt_110",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1《Omiko City》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E036.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E037",
+    "name": "Defenseless Moment, Matsuri",
+    "setId": "ayt_110",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 All of your other 《Omiko City》 characters get +500 power. 【ACT】 [(1) 【REST】 this card] Choose up to 2 level 0 or lower characters in your opponent's center stage, and put them into your opponent's waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E037.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E038",
+    "name": "Memories of Her Childhood, Suzu",
+    "setId": "ayt_110",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Omiko City》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Look, Matsuri. I cut my hair.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E038.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E039",
+    "name": "Sweet Time Together, Suzu & Matsuri",
+    "setId": "ayt_110",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose the bottom card of your clock and 1 《Omiko City》 character in your waiting room, and exchange them. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, choose 1 《Omiko City》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E039.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E040",
+    "name": "Envious Gaze, Suzu",
+    "setId": "ayt_110",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 During your turn, all of your other \"Getting Accustomed to His Body, Matsuri\" get +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Getting Accustomed to His Body, Matsuri\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E040.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E041",
+    "name": "\"Tough and Hot-Blooded Boy\" Matsuri",
+    "setId": "ayt_110",
+    "number": "E041",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play events or \"Backup\" from your hand.\"",
+    "flavorText": "Exorcist ninja, Matsuri Kazamaki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E041.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E042",
+    "name": "\"Wind Exorcist Ninja\" Matsuri",
+    "setId": "ayt_110",
+    "number": "E042",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Omiko City》 characters, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "W-What is this... Why does my chest feel so heavy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E042.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E043",
+    "name": "Measuring Every Inch of His Body, Reo",
+    "setId": "ayt_110",
+    "number": "E043",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 All of your other 《Omiko City》 characters get +1500 power. 【CONT】 【CXCOMBO】 If \"To Continue What She Was Entrusted With\" is in your climax area, all of your other \"\"Wind Exorcist Ninja\" Matsuri\" get +1000 power and the following ability. \"【AUTO】 [(2) Put 1 card from your hand into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, deal 2 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E043.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E044",
+    "name": "Happiness at Her Fingertips, Suzu",
+    "setId": "ayt_110",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Omiko City》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+    "flavorText": "This is great! I'm in heaven!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E044.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E045",
+    "name": "Would You Like to Try? Reo",
+    "setId": "ayt_110",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [Return this card to your hand] When your climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E045.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E046",
+    "name": "Sudden Invitation, Matsuri",
+    "setId": "ayt_110",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Omiko City》 characters, this card gets +2500 power and cannot be chosen by your opponent's effects. 【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "What's this, Senpai? You wanna talk about Suzu, not Shirogane?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E046.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E047",
+    "name": "End of Maintenance, Matsuri",
+    "setId": "ayt_110",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, if \"Special Relationship, Suzu\" is in your clock, this card gets +2000 power and +1 soul. 【AUTO】 [(1) Put this card into your waiting room] When your other 《Omiko City》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E047.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E048",
+    "name": "Profound Smile, Reo",
+    "setId": "ayt_110",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Omiko City》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "Matsuri-kun, do you want to go back to being a boy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E048.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E049",
+    "name": "Overflowing Emotions, Suzu",
+    "setId": "ayt_110",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Matsuri, you moron!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E049.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E050",
+    "name": "Burdened With Concerns, Matsuri",
+    "setId": "ayt_110",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 This card gets +2500 power for each other 《Omiko City》 character in your center stage. 【AUTO】 When this card attacks, if you have 2 or more other 《Omiko City》 characters, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "Nothing for you to worry about, Suzu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E050.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E051",
+    "name": "Good Idea? Suzu",
+    "setId": "ayt_110",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Omiko City》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "If I give him something even yummier than I am, won't that solve everything?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E051.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E052",
+    "name": "Joy of an Artisan, Reo",
+    "setId": "ayt_110",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"My Love for Room for Improvement\" is placed on your climax area, if you have another 《Omiko City》 character, choose 1 of your other characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E052.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E053",
+    "name": "Redoing That Pajama Party, Suzu",
+    "setId": "ayt_110",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 [Put 1 《Omiko City》 character from your hand into your waiting room] When this card is placed on the stage from your hand or attacks, you may pay the cost. If you do, draw 1 card. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Agreed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E053.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E054",
+    "name": "Prideful Look, Shirogane",
+    "setId": "ayt_110",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "I'm surprised you recognized me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E054.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E055",
+    "name": "Scent Fetish Analyzer, Reo",
+    "setId": "ayt_110",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Omiko City》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "That is... exorcising incense!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E055.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E056",
+    "name": "Exterminating Ayakashi, Matsuri",
+    "setId": "ayt_110",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 soul until end of turn. 【ACT】 [Put this card at the bottom of your deck] Choose up to 1 character with level equal to or lower than your level in your hand, and put it in the stage position that this card was in.",
+    "flavorText": "Scatter in the wind, and start anew.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E056.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E057",
+    "name": "Change in Her Childhood Friend, Suzu",
+    "setId": "ayt_110",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 Assist All of your 《Omiko City》 characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [Put 2 cards from your hand into your waiting room & 【REST】 this card] Put the top card of your clock into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E057.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E058",
+    "name": "Problem Resolved? Matsuri",
+    "setId": "ayt_110",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Omiko City》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Matsuri & Suzu: \"...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E058.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E059",
+    "name": "Full-Fledged Powers, Shirogane",
+    "setId": "ayt_110",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【CONT】 Memory If \"Secret Art \"Gender Swap Awakened\"\" is in your memory, all of your other 《Omiko City》 characters get +1500 power.",
+    "flavorText": "You will lead my power to even greater heights, as the finest meal I will ever have!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E059.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E060",
+    "name": "Skewed Perception of Love, Matsuri",
+    "setId": "ayt_110",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Excorcist Ninja"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Then a real man would endure being a Shih Tzu dog for life.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E060.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E061",
+    "name": "Love Rival, Reo",
+    "setId": "ayt_110",
+    "number": "E061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Excorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Life as a Girl, Matsuri\" in your waiting room, and put it into your stock. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's memory.",
+    "flavorText": "That room for improvement is what I love most of all, Suzu-san!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E061.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E062",
+    "name": "Replenishing Sugar, Suzu",
+    "setId": "ayt_110",
+    "number": "E062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each other 《Omiko City》 character in your back stage. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Omiko City》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E062.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E063",
+    "name": "Secret Art \"Gender Swap Awakened\"",
+    "setId": "ayt_110",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of the following effects, and perform it. \"[Put 1 \"\"Tough and Hot-Blooded Boy\" Matsuri\" from your stage into your waiting room] You may pay the cost. If you do, choose up to 1 \"Special Relationship, Matsuri\" in your hand, and put it in any position of your stage.\" \"If you have a 《Omiko City》 character, choose 1 level 2 or higher character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E063.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E064",
+    "name": "Memory Shared With You",
+    "setId": "ayt_110",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 2 《Omiko City》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "Right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E064.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E065",
+    "name": "Real? Kiss",
+    "setId": "ayt_110",
+    "number": "E065",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Matsuri: \"Wh-What's happening?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E065.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E066",
+    "name": "Distance Between Friends",
+    "setId": "ayt_110",
+    "number": "E066",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Suzu: \"We're girl friends, after all!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E066.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E067",
+    "name": "To Continue What She Was Entrusted With",
+    "setId": "ayt_110",
+    "number": "E067",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E067.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E068",
+    "name": "My Love for Room for Improvement",
+    "setId": "ayt_110",
+    "number": "E068",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E068.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E069",
+    "name": "Special Relationship, Suzu",
+    "setId": "ayt_110",
+    "number": "E069",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your clock, and return it to your hand. If you do, choose 1 card in your hand, and put it into your clock. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Omiko City》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Is it... okay? We're both girls…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E069.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E070",
+    "name": "Moment of Everlasting Summer, Suzu",
+    "setId": "ayt_110",
+    "number": "E070",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 If all of your characters are 《Omiko City》, this card gets -1 level and +1500 power while in the stage. 【AUTO】 【CXCOMBO】 When \"Rampant Shamelessness\" is placed on your climax area, if this card is in your center stage, search your deck for up to 1 《Omiko City》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E070.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E071",
+    "name": "Moment of Everlasting Summer, Yayoi",
+    "setId": "ayt_110",
+    "number": "E071",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if there are 6 or less cards in your deck, you may return all cards from your waiting room to your deck. If you do, shuffle your deck. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 4 or more 《Omiko City》 characters, at the beginning of your climax phase, draw up to 2 cards, choose 2 cards in your hand, and put them into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E071.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E072",
+    "name": "Rampant Desire, Suzu",
+    "setId": "ayt_110",
+    "number": "E072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "11000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 This card gets -3 level while in the stage. This card cannot be chosen by your opponent's effects. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 character in your clock, and put it into your memory. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Dream Time\" is in your climax area, and you have another 《Omiko City》 character, choose 1 of the following effects, and perform it. \"Deal 1 damage to your opponent.\" \"You may put the top card of your clock into your waiting room.\" (Damage may be canceled)",
+    "flavorText": "Its crepes made from freshly squeezed milk... They're my favorite!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E072.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E073",
+    "name": "Communicating With Aliens, Lucy",
+    "setId": "ayt_110",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When your climax with in its trigger icon triggers, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Yun, yun, yun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E073.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E074",
+    "name": "Unreserved Physical Contact, Yayoi",
+    "setId": "ayt_110",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Omiko City》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, choose 1 of your 《Omiko City》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E074.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E075",
+    "name": "\"Ayakashi Medium\" Suzu",
+    "setId": "ayt_110",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E075.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E076",
+    "name": "\"Friendly Girl\" Yayoi",
+    "setId": "ayt_110",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +4000 power until the end of your opponent's next turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When your climax with in its trigger icon triggers, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, and draw up to 1 card.",
+    "flavorText": "I'm Yayoi Toba. Just Yayo's fine by me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E076.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E077",
+    "name": "Huge Sweet Tooth, Suzu",
+    "setId": "ayt_110",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 [Put 1 《Omiko City》 character from your waiting room at the bottom of your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card. 【AUTO】 【CXCOMBO】 [Put this card into your waiting room] During your climax phase, when \"Dream Time\" is placed on your climax area, you may pay the cost. If you do, choose up to 1 \"Rampant Desire, Suzu\" in your hand, and put it in the stage position that this card was in.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E077.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E078",
+    "name": "Suited Up, Suzu",
+    "setId": "ayt_110",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 If \"Special Relationship, Suzu\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 [【REST】 1 of your characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E078.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E079",
+    "name": "Dealing With Ayakashi, Suzu",
+    "setId": "ayt_110",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E079.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E080",
+    "name": "Discovering a Feast, Shirogane",
+    "setId": "ayt_110",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E080.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E081",
+    "name": "Relieved, Suzu",
+    "setId": "ayt_110",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 【CXCOMBO】 When \"Duty as a Childhood Friend\" is placed on your climax area, if you have another 《Omiko City》 character, choose 1 trait of a character in your opponent's stage, and all of your opponent's characters lose all of that chosen trait until end of turn.",
+    "flavorText": "Good. He's being friendly like he said.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E081.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E082",
+    "name": "Dango Making, Suzu",
+    "setId": "ayt_110",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 \"Suzu Dango\" in your waiting room, and return it to your hand.",
+    "flavorText": "Tomorrow's Suzu Dango, complete!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E082.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E083",
+    "name": "Expecting Love Talk, Yayoi",
+    "setId": "ayt_110",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 During your turn, if you have another \"Precious Manga, Lucy\" in your center stage, this card gets +4000 power. 【AUTO】 Bond/\"Precious Manga, Lucy\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Precious Manga, Lucy\" in your waiting room, and return it to your hand)",
+    "flavorText": "Hehehe...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E083.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E084",
+    "name": "Precious Manga, Lucy",
+    "setId": "ayt_110",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 During your turn, if you have another \"Expecting Love Talk, Yayoi\" in your center stage, this card gets +2000 power and +1 soul. 【AUTO】 Bond/\"Expecting Love Talk, Yayoi\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Expecting Love Talk, Yayoi\" in your waiting room, and return it to your hand)",
+    "flavorText": "I'm sure she'll be into most of the stuff here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E084.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E085",
+    "name": "Feeling the Romance, Suzu",
+    "setId": "ayt_110",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 During your turn, if \"Special Relationship, Suzu\" is in your clock, this card gets +2000 power and the following ability. \"【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock.\" (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E085.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E086",
+    "name": "Space With Just the Two of Us, Suzu",
+    "setId": "ayt_110",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 This card gets -1 level while in the stage. 【AUTO】 At the beginning of your attack phase, if this card is in your center stage, you may -4000 power to this card until the end of your opponent's next turn. If you do, choose 1 of your characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E086.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E087",
+    "name": "Super Self-Defense Skills, Shirogane",
+    "setId": "ayt_110",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\" 【ACT】 [Put this card into your waiting room] Choose 1 \"Moment of Everlasting Summer, Suzu\" in your waiting room, put it in the stage position that this card was in, and that character gets +3000 power until end of turn.",
+    "flavorText": "This is one part of my superior self-defense skills!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E087.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E088",
+    "name": "Chat Between Friends, Yayoi",
+    "setId": "ayt_110",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 If you have another \"Photo Opportunity, Lucy\", this card gets +6000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may choose this card and 1 of your \"Photo Opportunity, Lucy\", and exchange them as 【STAND】.",
+    "flavorText": "Damn, you're real demanding of guys!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E088.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E089",
+    "name": "Sensitive Heart, Yayoi",
+    "setId": "ayt_110",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 All of your other 《Omiko City》 characters get +500 power. 【ACT】 [(1) 【REST】 2 of your characters] Look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E089.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E090",
+    "name": "Interest in Ninjas, Lucy",
+    "setId": "ayt_110",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 If you have another \"Sensitive Heart, Yayoi\" in your back stage, this card gets +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Sensitive Heart, Yayoi\", put it in any position of your stage, and shuffle your deck.",
+    "flavorText": "Whoa, Lady Matsuri's like a ninja!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E090.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E091",
+    "name": "Sympathetic to Cats, Yayoi",
+    "setId": "ayt_110",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Look, isn't he cute? You pet him too, Matsuri.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E091.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E092",
+    "name": "In Search of Good Stuff, Lucy",
+    "setId": "ayt_110",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Good stuff is good stuff, no matter what gender you are!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E092.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E093",
+    "name": "Blissful Time, Shirogane",
+    "setId": "ayt_110",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 4 cards from the top of your deck, choose up to 1 event from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "Oh, I'm head over heels!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E093.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E094",
+    "name": "Photo Opportunity, Lucy",
+    "setId": "ayt_110",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 If \"Moment of Everlasting Summer, Yayoi\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 Encore [Put 1 《Omiko City》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E094.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E095",
+    "name": "Powers of an Ayakashi Medium, Suzu",
+    "setId": "ayt_110",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 This card gets -2 level while in the stage. 【AUTO】 【CXCOMBO】 When \"Smile of a Goddess\" is placed on your climax area, if this card is in your center stage, and you have 4 or more other 《Omiko City》 characters, all of your characters get the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may draw 1 card.\"",
+    "flavorText": "Shirogane: \"Amajing. So this is the power of an ayakashi medium.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E095.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E096",
+    "name": "Suzu Dango",
+    "setId": "ayt_110",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 2 of your 《Omiko City》 characters, and those characters get +1500 power and the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from their hand.\" Put this card into your stock.",
+    "flavorText": "Suzu's handmade kibi dango! AKA Suzu Dango!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E096.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E097",
+    "name": "Dream Time",
+    "setId": "ayt_110",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E097.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E098",
+    "name": "Rampant Shamelessness",
+    "setId": "ayt_110",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E098.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E099",
+    "name": "Duty as a Childhood Friend",
+    "setId": "ayt_110",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E099.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E100",
+    "name": "Smile of a Goddess",
+    "setId": "ayt_110",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "That girl... She's a goddess!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E100.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E101",
+    "name": "Chibi Matsuri",
+    "setId": "ayt_110",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Omiko City》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E101.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E102",
+    "name": "Chibi Lucy",
+    "setId": "ayt_110",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Omiko City》 characters you have ×500. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Omiko City》 characters, you may choose 1 《Omiko City》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E102.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E103",
+    "name": "Chibi Reo",
+    "setId": "ayt_110",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Omiko City》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Search your deck for up to 1 《Omiko City》 character, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E103.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E104",
+    "name": "Chibi Suzu",
+    "setId": "ayt_110",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E104.png"
+    }
+  },
+  {
+    "id": "AYT/W110-E105",
+    "name": "Chibi Yayoi",
+    "setId": "ayt_110",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 [(1) Put 2 cards from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card attacks, you may pay the cost. If you do, search your deck for up to 2 《Omiko City》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_E105.png"
+    }
+  },
+  {
+    "id": "AYT/W110-PE01",
+    "name": "Childhood Friends, Matsuri & Suzu",
+    "setId": "ayt_110",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Omiko City》 character, this card gets +2000 power until end of turn. 【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Omiko City》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Omiko City》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_PE01.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE01",
+    "name": "Daily Life of an Exorcist Ninja, Matsuri",
+    "setId": "ayt_110",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 Assist All of your 《Omiko City》 characters in front of this card get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE01.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE02",
+    "name": "Life as a Girl, Matsuri",
+    "setId": "ayt_110",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Omiko City》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Omiko City》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE02.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE03",
+    "name": "Long-Awaited Moment, Shirogane",
+    "setId": "ayt_110",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi"
+    ],
+    "text": "【ACT】 [(2) Put 1 other \"Daily Life of an Exorcist Ninja, Matsuri\" from your stage into your waiting room] If your level is 3 or higher, choose 1 \"\"Girl Friends\" Matsuri & Suzu\" in your waiting room, put it in any position of your stage, and that character gets +2000 power until end of turn. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Omiko City》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE03.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE04",
+    "name": "Getting Accustomed to His Body, Matsuri",
+    "setId": "ayt_110",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Omiko City》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Resolve to Give Up Being a Guy\" is in your climax area, and you have 2 or more other 《Omiko City》 characters, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "Bring it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE04.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE05",
+    "name": "As a Dedicated Craftsman, Reo",
+    "setId": "ayt_110",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE05.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE06",
+    "name": "Kachofugetsu, Matsuri",
+    "setId": "ayt_110",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "-",
+    "flavorText": "Agreed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE06.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE07",
+    "name": "Unexpected Chaos, Reo",
+    "setId": "ayt_110",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Omiko City》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Why did the Ultimate Tickle Device get activated?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE07.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE08",
+    "name": "Domestic Side, Matsuri",
+    "setId": "ayt_110",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Exorcist Ninja"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "I've always done the housework, because it's just been me and Gramps!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE08.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE09",
+    "name": "Ayakashi Romance Fantasy",
+    "setId": "ayt_110",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 1 character with \"Matsuri(祭里)\" in its card name and up to 1 character with \"Suzu(すず)\" in its card name, reveal them to your opponent, put them into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE09.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE10",
+    "name": "Resolve to Give Up Being a Guy",
+    "setId": "ayt_110",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE10.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE11",
+    "name": "A Girl's Room, Suzu",
+    "setId": "ayt_110",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Shirogane came, too?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE11.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE12",
+    "name": "Kachofugetsu, Suzu",
+    "setId": "ayt_110",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 All of your other \"Kachofugetsu, Matsuri\" get +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 Bond/\"Kachofugetsu, Matsuri\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Kachofugetsu, Matsuri\" in your waiting room, and return it to your hand)",
+    "flavorText": "Agreed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE12.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE13",
+    "name": "Kachofugetsu, Lucy",
+    "setId": "ayt_110",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+    "flavorText": "Agreed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE13.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE14",
+    "name": "\"Super-Rare, Monstrously High-Calorie Dessert\" Suzu",
+    "setId": "ayt_110",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE14.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE15",
+    "name": "Age of Anticipation, Suzu",
+    "setId": "ayt_110",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【CONT】 During your turn, this card gets +10000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock.",
+    "flavorText": "We're starting high school tomorrow, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE15.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE16",
+    "name": "Kachofugetsu, Yayoi",
+    "setId": "ayt_110",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Omiko City》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Take the first kanji of each and go with Kachofugetsu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE16.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE17",
+    "name": "\"Girl Friends\" Matsuri & Suzu",
+    "setId": "ayt_110",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Kachofugetsu"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Long-Awaited Moment, Shirogane\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"Exorcist Ninja and Ayakashi Medium\" is in your climax area, you may pay the cost. If you do, deal 1 damage to your opponent 2 times, and this card gets +1000 power until end of turn. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE17.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE18",
+    "name": "Fellow Girls, Suzu",
+    "setId": "ayt_110",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Omiko City",
+      "Ayakashi Medium"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of your other 《Omiko City》 characters, and put it into your stock. 【AUTO】 [(2) Put 1 card from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card attacks, you may pay the cost. If you do, deal 4 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE18.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE19",
+    "name": "Exorcist Ninja and Ayakashi Medium",
+    "setId": "ayt_110",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE19.png"
+    }
+  },
+  {
+    "id": "AYT/W110-TE20",
+    "name": "New Life Bestowed",
+    "setId": "ayt_110",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Matsuri: \"I'm off to school. Bye.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AYT/W110_TE20.png"
+    }
+  }
+]

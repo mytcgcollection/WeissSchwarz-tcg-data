@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "MR/W80-E001",
+    "name": "Comrades of Mikazuki Villa, Tsuruno",
+    "setId": "mr_80",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I'm strong, so I'm going to win!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E001.png"
+    }
+  },
+  {
+    "id": "MR/W80-E002",
+    "name": "Comrades of Mikazuki Villa, Felicia",
+    "setId": "mr_80",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Magic》 character, this card gets +3000 power. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if \"Reason for Becoming a Magical Girl\" is in your climax area, choose up to 1 《Magic》 character in your waiting room, return it to your hand, and you may pay the cost. If you do, look at the top card of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Every last Witch! I'll slaughter them all!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E002.png"
+    }
+  },
+  {
+    "id": "MR/W80-E003",
+    "name": "Comrades of Mikazuki Villa, Iroha",
+    "setId": "mr_80",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Iroha's Doppel\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] When this card attacks, if \"To Cure Her Younger Sister's Disease\" is in your climax area, you may pay the cost. If you do, declare 2 or 3 or 4, deal X damage to your opponent, and this card gets +4000 power until end of turn. X is equal to the number you declared. (Damage may be canceled)",
+    "flavorText": "Cure Ui's disease.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E003.png"
+    }
+  },
+  {
+    "id": "MR/W80-E004",
+    "name": "Raring to Go, Felicia",
+    "setId": "mr_80",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.",
+    "flavorText": "Stay out of my way, weakling!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E004.png"
+    }
+  },
+  {
+    "id": "MR/W80-E005",
+    "name": "Everyone's Own Feelings, Iroha",
+    "setId": "mr_80",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【ACT】 [【REST】 this card] Choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I swear I'll help you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E005.png"
+    }
+  },
+  {
+    "id": "MR/W80-E006",
+    "name": "Pursuing the Truth of Rumors, Iroha",
+    "setId": "mr_80",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "I've become strong thanks to all of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E006.png"
+    }
+  },
+  {
+    "id": "MR/W80-E007",
+    "name": "Ui Tamaki",
+    "setId": "mr_80",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\" 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into their stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E007.png"
+    }
+  },
+  {
+    "id": "MR/W80-E008",
+    "name": "Everyone's Own Feelings, Sana",
+    "setId": "mr_80",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Shield"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0) 【ACT】 [【REST】 this card] If your memory has 2 or less cards, choose 1 《Magic》 character in your waiting room, and put it into your memory.",
+    "flavorText": "I played it with Ai.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E008.png"
+    }
+  },
+  {
+    "id": "MR/W80-E009",
+    "name": "Precious Memories, Sana",
+    "setId": "mr_80",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Magic》 characters you have. 【AUTO】 [Put 1 \"Where I Belong, Sana\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and +2 soul until end of turn.",
+    "flavorText": "Ai: \"I love you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E009.png"
+    }
+  },
+  {
+    "id": "MR/W80-E010",
+    "name": "Rumor of the Saint of Kamihama, Mami",
+    "setId": "mr_80",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Rumor"
+    ],
+    "text": "【CONT】 This card can be played from your hand without fulfilling the color requirement. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put the top card of your opponent's deck into their clock..",
+    "flavorText": "Everyone will be saved. We have that right!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E010.png"
+    }
+  },
+  {
+    "id": "MR/W80-E011",
+    "name": "Advice on a Present, Iroha",
+    "setId": "mr_80",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "I think that's a great idea!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E011.png"
+    }
+  },
+  {
+    "id": "MR/W80-E012",
+    "name": "Invitation to Hang Out, Tsuruno",
+    "setId": "mr_80",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Magic》 characters you have. 【AUTO】 When your card is put into your memory, choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Play with us, Sana!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E012.png"
+    }
+  },
+  {
+    "id": "MR/W80-E013",
+    "name": "Tsuruno Investigating the Rumors",
+    "setId": "mr_80",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Magic》 characters get +500 power and \"【AUTO】 Encore [Put 1 《Magic》 character from your hand into your waiting room] \". 【AUTO】 [【REST】 this card from 【STAND】] When your other 《Magic》 character attacks, you may pay the cost. If you do, that character gets +2000 power and the following ability until end of turn. \"【AUTO】 At the end of this card's attack, 【REVERSE】 this card.\"",
+    "flavorText": "Iroha! Look at this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E013.png"
+    }
+  },
+  {
+    "id": "MR/W80-E014",
+    "name": "Search for Her Sister, Iroha",
+    "setId": "mr_80",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +500 power. 【AUTO】 When damage you received is not canceled, if there are 2 or less markers underneath this card, choose 1 level 2 or higher character in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 At the beginning of your main phase, if your level is 2 or higher and there are 3 or more markers underneath this card, put all markers underneath this card into your waiting room, choose 1 \"Iroha's Doppel\" in your waiting room, and put it on the stage position that this card is on.",
+    "flavorText": "Ui, is that you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E014.png"
+    }
+  },
+  {
+    "id": "MR/W80-E015",
+    "name": "Magical Girl from Mitakihara City, Mami",
+    "setId": "mr_80",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, if this card is in your center stage, choose 1 of your characters, and that character gets +1 or -1 level until end of turn. 【AUTO】 At the beginning of your attack phase, choose 1 character in your center stage, and if all of your characters in your center stage are the same level as the chosen character, this card gets +1000 power and +1 soul until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "Are the unusual events in Kamihama due to a Witch or a Magical Girl? I'll look into it for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E015.png"
+    }
+  },
+  {
+    "id": "MR/W80-E016",
+    "name": "Iroha's Doppel",
+    "setId": "mr_80",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Doppel"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 During the turn that this card is placed on the stage by the 【AUTO】 effect of \"Search for Her Sister, Iroha\", at the beginning of your climax phase, you may choose 1 of your opponent's characters, and put it into their waiting room. 【AUTO】 At the beginning of your draw phase, put this card into your waiting room, choose up to 1 \"Comrades of Mikazuki Villa, Iroha\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E016.png"
+    }
+  },
+  {
+    "id": "MR/W80-E017",
+    "name": "Let's Go Home Together! Iroha",
+    "setId": "mr_80",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 During your turn, all of your other \"Mercenary's Reward, Felicia\" get +2000 power and 《Cooking》. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Mercenary's Reward, Felicia\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E017.png"
+    }
+  },
+  {
+    "id": "MR/W80-E018",
+    "name": "Heartfelt Thanks, Sana",
+    "setId": "mr_80",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When your card is put into your memory, choose 1 of your 《Magic》 characters, and that character gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 When your opponent levels up, if \"A Step Towards the Future\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E018.png"
+    }
+  },
+  {
+    "id": "MR/W80-E019",
+    "name": "Unsettling Self-Introduction, Mami",
+    "setId": "mr_80",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "I'm Mami Tomoe. The Magical Girl of Mitakihara.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E019.png"
+    }
+  },
+  {
+    "id": "MR/W80-E020",
+    "name": "Mercenary's Reward, Felicia",
+    "setId": "mr_80",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Mercenary"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E020.png"
+    }
+  },
+  {
+    "id": "MR/W80-E021",
+    "name": "Return From a Delivery, Tsuruno",
+    "setId": "mr_80",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Welcome to Banbanzai\" is in your climax area, you may -1 soul from this card until end of turn. If you do, choose 1 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E021.png"
+    }
+  },
+  {
+    "id": "MR/W80-E022",
+    "name": "Imprisoned Girl, Sana",
+    "setId": "mr_80",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Magic》 characters, this card gets +2000 power until end of turn. 【AUTO】 When your other character's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E022.png"
+    }
+  },
+  {
+    "id": "MR/W80-E023",
+    "name": "Magical Girl Transformation, Felicia",
+    "setId": "mr_80",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 \"Raring to Go, Felicia\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and +2 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E023.png"
+    }
+  },
+  {
+    "id": "MR/W80-E024",
+    "name": "Mercenary Business",
+    "setId": "mr_80",
+    "number": "E024",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 2 or less 《Magic》 characters, this card cannot be played from your hand. Search your deck for up to 1 character with level equal to or lower than your level, put it on any position of your stage, shuffle your deck, and at the end of the turn, put that character into your waiting room.",
+    "flavorText": "All right, I guess. We've got a deal!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E024.png"
+    }
+  },
+  {
+    "id": "MR/W80-E025",
+    "name": "To Cure Her Younger Sister's Disease",
+    "setId": "mr_80",
+    "number": "E025",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E025.png"
+    }
+  },
+  {
+    "id": "MR/W80-E026",
+    "name": "Welcome to Banbanzai",
+    "setId": "mr_80",
+    "number": "E026",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([[return.gif]]: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+    "flavorText": "Welcome to Chinese Restaurant Banbanzai!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E026.png"
+    }
+  },
+  {
+    "id": "MR/W80-E027",
+    "name": "Reason for Becoming a Magical Girl",
+    "setId": "mr_80",
+    "number": "E027",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "That's why I crush Witches! All of them!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E027.png"
+    }
+  },
+  {
+    "id": "MR/W80-E028",
+    "name": "A Step Towards the Future",
+    "setId": "mr_80",
+    "number": "E028",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E028.png"
+    }
+  },
+  {
+    "id": "MR/W80-E029",
+    "name": "In an Apron, Yachiyo",
+    "setId": "mr_80",
+    "number": "E029",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "Besides, I've already started dinner, so why don't you spend the night?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E029.png"
+    }
+  },
+  {
+    "id": "MR/W80-E030",
+    "name": "Comrades of Mikazuki Villa, Sana",
+    "setId": "mr_80",
+    "number": "E030",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Magic》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, if you have another 《Magic》 character, this card gets +1500 power and the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Ai... I'm sorry. Thank you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E030.png"
+    }
+  },
+  {
+    "id": "MR/W80-E031",
+    "name": "Pursuing the Truth of Rumors, Yachiyo",
+    "setId": "mr_80",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Encounter With a New Enemy\" is in your climax area, you may choose 1 《Magic》 character in your waiting room, and put it into your stock.",
+    "flavorText": "I couldn't get through to you after your message about going to Chuo Ward, so I'm glad I went looking for you just in case.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E031.png"
+    }
+  },
+  {
+    "id": "MR/W80-E032",
+    "name": "Iroha & Madoka",
+    "setId": "mr_80",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of the attack phase, choose 1 character in your center stage, and if all of your characters in your center stage are the same level as the chosen character, this card gets +500 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.\" 【AUTO】 When this card attacks, choose 1 of your other 《Magic》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E032.png"
+    }
+  },
+  {
+    "id": "MR/W80-E033",
+    "name": "Well-Coordinated Sisters, Tsukasa",
+    "setId": "mr_80",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Twins"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have another 《Magic》 character, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 [Put 1 \"Black Feather\" from your hand into your waiting room] When this card attacks, if \"Sisters' Entertaining Performance\" is in your climax area, and you have another 《Magic》 character, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 《Magic》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn.",
+    "flavorText": "...with our performance this evening.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E033.png"
+    }
+  },
+  {
+    "id": "MR/W80-E034",
+    "name": "Well-Coordinated Sisters, Tsukuyo",
+    "setId": "mr_80",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Twins"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 【CXCOMBO】 [[Put 1 \"Black Feather\" from your hand into your waiting room] When this card attacks, if \"Sisters' Entertaining Performance\" is in your climax area, and you have another 《Magic》 character, you may pay the cost. If you do, deal 1 damage to your opponent, choose up to 1 《Magic》 character in your waiting room, and put it into your stock. (Damage may be canceled)",
+    "flavorText": "...we hope you become entranced...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E034.png"
+    }
+  },
+  {
+    "id": "MR/W80-E035",
+    "name": "Wealth of Battle Experience, Yachiyo",
+    "setId": "mr_80",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Magic》 characters you have. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Meal Invitation, Yachiyo\" in your memory, and put it into your stock. 【AUTO】 When your card is put into your memory, if you have another 《Magic》 character, this card gets +4000 power until end of turn.",
+    "flavorText": "To protect my teammates, as their leader, I had to become strong.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E035.png"
+    }
+  },
+  {
+    "id": "MR/W80-E036",
+    "name": "Alina Gray",
+    "setId": "mr_80",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 3
+    },
+    "tags": [
+      "Magic",
+      "Magius"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"You'll Compensate Me, Right?\" is placed on your climax area, if this card is in your center stage, this card gets +3000 power until end of turn, and all of your characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Magic》 character in your waiting room, and put it into your stock.\" 【AUTO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your other character is put into your waiting room from the stage, if this card is in your center stage, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "My rearing cage is ruined!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E036.png"
+    }
+  },
+  {
+    "id": "MR/W80-E037",
+    "name": "\"A World with Just Me\" Sana",
+    "setId": "mr_80",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E037.png"
+    }
+  },
+  {
+    "id": "MR/W80-E038",
+    "name": "Where I Belong, Sana",
+    "setId": "mr_80",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.",
+    "flavorText": "Ai: \"I was abandoned as a failure. Then I created this endless world.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E038.png"
+    }
+  },
+  {
+    "id": "MR/W80-E039",
+    "name": "Nemu Hiiragi",
+    "setId": "mr_80",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +500 power. 【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "It would be most peculiar if they considered the risk of books catching fire in a hospital room.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E039.png"
+    }
+  },
+  {
+    "id": "MR/W80-E040",
+    "name": "A Bout of Chess, Sana",
+    "setId": "mr_80",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "Queen attacks!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E040.png"
+    }
+  },
+  {
+    "id": "MR/W80-E041",
+    "name": "Reminiscing, Yachiyo",
+    "setId": "mr_80",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When your other \"Magical Girl Service, Tsuruno\" is placed on the stage from your hand, you may choose 1 《Magic》 character in your waiting room, and put it into your stock. 【AUTO】 Bond/\"Magical Girl Service, Tsuruno\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Magical Girl Service, Tsuruno\" in your waiting room, and return it to your hand)",
+    "flavorText": "We were friends once, but that was a long time ago.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E041.png"
+    }
+  },
+  {
+    "id": "MR/W80-E042",
+    "name": "Sudden Attack, Alina",
+    "setId": "mr_80",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Magius"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", all characters in battle get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\" 【ACT】 【COUNTER】 Backup 0 Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +0 power until end of turn)",
+    "flavorText": "Solo un momento per favore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E042.png"
+    }
+  },
+  {
+    "id": "MR/W80-E043",
+    "name": "Using Her New Year's Money, Sana",
+    "setId": "mr_80",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 \"Where I Belong, Sana\" from your memory into your waiting room] When this card attacks, if you have 2 or more other 《Magic》 characters, you may pay the cost. If you do, this card gets +3000 power until the end of your opponent's next turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "I only have some New Year's money saved up though.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E043.png"
+    }
+  },
+  {
+    "id": "MR/W80-E044",
+    "name": "Return Gift of Gratitude, Sana",
+    "setId": "mr_80",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put 3 cards from the top of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "Right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E044.png"
+    }
+  },
+  {
+    "id": "MR/W80-E045",
+    "name": "Caution Against the Unknown, Yachiyo",
+    "setId": "mr_80",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +1000 power. 【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "She wasn't a Witch. I believe she was another kind of enemy altogether.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E045.png"
+    }
+  },
+  {
+    "id": "MR/W80-E046",
+    "name": "Seance Shrine",
+    "setId": "mr_80",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you have 1 or less 《Magic》 characters, this card cannot be played from your hand. Choose 1 of your characters, and that character gets +2500 power until end of turn. If your memory has 2 or less cards, perform the following action. \"Choose 1 character in your waiting room, and if that character has the same card name as a character in your memory, you may put that character into your memory.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E046.png"
+    }
+  },
+  {
+    "id": "MR/W80-E047",
+    "name": "You'll Compensate Me, Right?",
+    "setId": "mr_80",
+    "number": "E047",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "To compensate me, you'll let me feed your body to the Witch, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E047.png"
+    }
+  },
+  {
+    "id": "MR/W80-E048",
+    "name": "Encounter With a New Enemy",
+    "setId": "mr_80",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E048.png"
+    }
+  },
+  {
+    "id": "MR/W80-E049",
+    "name": "Sisters' Entertaining Performance",
+    "setId": "mr_80",
+    "number": "E049",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Tsukuyo: \"Isolate us from all noise!\"\nTsukasa: \"Disconnect us from all bonds!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E049.png"
+    }
+  },
+  {
+    "id": "MR/W80-E050",
+    "name": "Pursuing the Truth of Rumors, Momoko",
+    "setId": "mr_80",
+    "number": "E050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Hold it right there!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E050.png"
+    }
+  },
+  {
+    "id": "MR/W80-E051",
+    "name": "Pursuing the Truth of Rumors, Kaede",
+    "setId": "mr_80",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Kaede's Doppel\", you may put the top card of your clock into your waiting room. 【AUTO】 [Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. During your turn, when your opponent's character is put into their waiting room from the stage or becomes 【REVERSE】 in battle, you may pay the cost. If you do, deal 1 damage to your opponent, choose 1 of your characters, and that character gets +1000 power until end of turn. (Damage may be canceled)",
+    "flavorText": "I think we can't not be friends.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E051.png"
+    }
+  },
+  {
+    "id": "MR/W80-E052",
+    "name": "Pursuing the Truth of Rumors, Rena",
+    "setId": "mr_80",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, if \"Connect\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, and put it on the stage position that this card was on.（This ability does not activate if this card is not on the stage at the beginning of the encore step）",
+    "flavorText": "B-Be my servant!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E052.png"
+    }
+  },
+  {
+    "id": "MR/W80-E053",
+    "name": "Shop's Poster Girl, Tsuruno",
+    "setId": "mr_80",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.",
+    "flavorText": "Yes! I'm Tsuruno!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E053.png"
+    }
+  },
+  {
+    "id": "MR/W80-E054",
+    "name": "Touka Satomi",
+    "setId": "mr_80",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Genius"
+    ],
+    "text": "【AUTO】 When your character's trigger check reveals a climax, if that card's trigger icon is , choose 1 of your characters, and that character gets +2000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Maybe if the lost information is so precious, people shouldn't have recorded them on highly combustible materials.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E054.png"
+    }
+  },
+  {
+    "id": "MR/W80-E055",
+    "name": "Everyone's Own Feelings, Rena",
+    "setId": "mr_80",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may pay the cost. If you do, search your deck for up to 1 red character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Once we're out of here, our friendship is over, once and for all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E055.png"
+    }
+  },
+  {
+    "id": "MR/W80-E056",
+    "name": "Everyone's Own Feelings, Tsuruno",
+    "setId": "mr_80",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if your memory has 2 or less cards, you may pay the cost. If you do, choose up to 1 《Magic》 character in your waiting room, put it into your memory, and this card gets +3000 power until end of turn. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose any number of \"Shop's Poster Girl, Tsuruno\" in your memory, put them into your waiting room, and perform the following action X times. \"Choose 1 of your opponent's characters, and that character gets -1 soul until end of turn.\" X is equal to the number of cards put into your waiting room from your memory by this effect.",
+    "flavorText": "People were hurt by that Uwasa!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E056.png"
+    }
+  },
+  {
+    "id": "MR/W80-E057",
+    "name": "Kaede's Doppel",
+    "setId": "mr_80",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Doppel"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +2000 power. 【AUTO】 During the turn that this card is placed on the stage by the 【AUTO】 effect of \"Everyone's Own Feelings, Kaede\", at the beginning of your climax phase, look at up to 4 cards from the top of your deck, choose up to 2 《Magic》 characters from among them, reveal them to your opponent, put them into your hand, choose up to 2 cards from the remaining cards, put them in any order on the top of your deck, and put the rest into your waiting room. 【AUTO】 At the beginning of your draw phase, put this card into your waiting room, choose up to 1 \"Pursuing the Truth of Rumors, Kaede\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E057.png"
+    }
+  },
+  {
+    "id": "MR/W80-E058",
+    "name": "Usual Squabble, Rena",
+    "setId": "mr_80",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 \"Pursuing the Truth of Rumors, Kaede\" from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, put it into their waiting room, your opponent chooses up to 1 level 0 or lower character in their waiting room, and puts it on the stage position that that card was on. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "When did I do it when it didn't matter?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E058.png"
+    }
+  },
+  {
+    "id": "MR/W80-E059",
+    "name": "Getting Fired Up! Tsuruno",
+    "setId": "mr_80",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【AUTO】 [(1) Put 1 \"Shop's Poster Girl, Tsuruno\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "An evil that lurks in the shadows of rumors!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E059.png"
+    }
+  },
+  {
+    "id": "MR/W80-E060",
+    "name": "Kamihama City Recon, Kyoko",
+    "setId": "mr_80",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [(1) 【REST】 1 of your other 【STAND】 characters with \"Sayaka(さやか)\" or \"Kyoko(杏子)\" in its card name] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 character with \"Sayaka(さやか)\" or \"Kyoko(杏子)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E060.png"
+    }
+  },
+  {
+    "id": "MR/W80-E061",
+    "name": "Everyone's Own Feelings, Kaede",
+    "setId": "mr_80",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【AUTO】 When damage you received is not canceled, if there are 2 or less markers underneath this card, choose 1 level 2 or higher character in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 At the beginning of your main phase, if your level is 2 or higher and there are 3 or more markers underneath this card, put all markers underneath this card into your waiting room, choose 1 \"Kaede's Doppel\" in your waiting room, and put it on the stage position that this card is on. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Maybe our relationship can stay as it is, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E061.png"
+    }
+  },
+  {
+    "id": "MR/W80-E062",
+    "name": "Wings of the Magius, Mifuyu",
+    "setId": "mr_80",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [Put 1 \"Well-Coordinated Sisters, Tsukuyo\" or \"Well-Coordinated Sisters, Tsukasa\" or \"Black Feather\" from your hand into your waiting room & 【REST】 this card] Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Please restrain yourself. You are in the presence of a Magius.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E062.png"
+    }
+  },
+  {
+    "id": "MR/W80-E063",
+    "name": "Mightiest Magical Girl, Tsuruno",
+    "setId": "mr_80",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【CONT】 If your opponent's waiting room has 5 or more climax, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 [Put 1 \"Composure of the Mightiest\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 4 《Magic》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "I'm the mightiest Magical Girl, Tsuruno Yui!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E063.png"
+    }
+  },
+  {
+    "id": "MR/W80-E064",
+    "name": "Everyone's Own Feelings, Momoko",
+    "setId": "mr_80",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Magic》 characters. 【AUTO】 When this card is placed on the stage from your waiting room, reveal the top card of your deck. If that card is a 《Magic》 character, put that card into your stock. 【AUTO】 【CXCOMBO】 [(2) Put 1 \"Connect\" from your climax area into your waiting room] At the end of your turn, if this card is in your center stage, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "It has something to do with every single Magical Girl.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E064.png"
+    }
+  },
+  {
+    "id": "MR/W80-E065",
+    "name": "Coincidence on the Rooftop, Rena",
+    "setId": "mr_80",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "What are you doing?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E065.png"
+    }
+  },
+  {
+    "id": "MR/W80-E066",
+    "name": "Regarding Artistic Skills, Kaede",
+    "setId": "mr_80",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn. 【ACT】 【CXCOMBO】 [(3)] Choose 1 \"Connect\" in your waiting room, and put it on your climax area.",
+    "flavorText": "I'm surprised you would be the one to say that, Rena.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E066.png"
+    }
+  },
+  {
+    "id": "MR/W80-E067",
+    "name": "Precise Advice, Momoko",
+    "setId": "mr_80",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Magic》 character, this card gets +1000 power until the end of your opponent's next turn. 【AUTO】 This ability activates up to 1 time per turn. When your opponent's character is placed into their waiting room from the stage or becomes 【REVERSE】 in battle, choose 1 of your 《Magic》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "An abandoned building in Sakae Ward... It has to be this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E067.png"
+    }
+  },
+  {
+    "id": "MR/W80-E068",
+    "name": "Black Feather",
+    "setId": "mr_80",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 This card cannot side attack. 【CONT】 If you have another \"Black Feather\" in your back stage, this card gets the following ability. \"【CONT】 This card gets +1000 power for each of your other 《Magic》 characters.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E068.png"
+    }
+  },
+  {
+    "id": "MR/W80-E069",
+    "name": "Advice for Her Comrades, Tsuruno",
+    "setId": "mr_80",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card attacks, 【REST】 all of your other 【STAND】 characters. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Let's start by training yourself to not go berserk when you see a Witch!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E069.png"
+    }
+  },
+  {
+    "id": "MR/W80-E070",
+    "name": "Sudden Assistance, Kyoko",
+    "setId": "mr_80",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+    "flavorText": "If you're drinking that water too, you'd better not waste time!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E070.png"
+    }
+  },
+  {
+    "id": "MR/W80-E071",
+    "name": "Small Kyubey",
+    "setId": "mr_80",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Mystery"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other characters with \"Iroha(いろは)\" in their card names, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Magic》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E071.png"
+    }
+  },
+  {
+    "id": "MR/W80-E072",
+    "name": "Magical Girl Transformation, Momoko",
+    "setId": "mr_80",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 At the beginning of your climax phase, choose another level 2 or lower character, and that character gets +1 or -1 level until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E072.png"
+    }
+  },
+  {
+    "id": "MR/W80-E073",
+    "name": "Magical Girl Service, Tsuruno",
+    "setId": "mr_80",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "-",
+    "flavorText": "No need to hold back.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E073.png"
+    }
+  },
+  {
+    "id": "MR/W80-E074",
+    "name": "Chinese Restaurant Banbanzai",
+    "setId": "mr_80",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Deal 50 damage to your opponent. (Damage may be canceled) Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E074.png"
+    }
+  },
+  {
+    "id": "MR/W80-E075",
+    "name": "Lucky Owl Water",
+    "setId": "mr_80",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Magic》 character, this card cannot be played from your hand. Draw up to 2 cards, and put this card into your memory. 【AUTO】 When this card is put into your waiting room from your memory, choose 4 cards in your hand, and put them into your waiting room. 【AUTO】 Memory At the beginning of your climax phase, if this card is in your memory and you did not play \"Lucky Owl Water\" during this turn, put this card into your waiting room.",
+    "flavorText": "What is this? It's tasty!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E075.png"
+    }
+  },
+  {
+    "id": "MR/W80-E076",
+    "name": "Connect",
+    "setId": "mr_80",
+    "number": "E076",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E076.png"
+    }
+  },
+  {
+    "id": "MR/W80-E077",
+    "name": "Composure of the Mightiest",
+    "setId": "mr_80",
+    "number": "E077",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I'm the mightiest, so I'll be fine!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E077.png"
+    }
+  },
+  {
+    "id": "MR/W80-E078",
+    "name": "Frolicking Iroha",
+    "setId": "mr_80",
+    "number": "E078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Yes. He was there during the Friendship Ending Staircase incident, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E078.png"
+    }
+  },
+  {
+    "id": "MR/W80-E079",
+    "name": "Comrades of Mikazuki Villa, Yachiyo",
+    "setId": "mr_80",
+    "number": "E079",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Magic》 characters, this card gets the following ability.\"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Become stronger for the sake of your younger sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E079.png"
+    }
+  },
+  {
+    "id": "MR/W80-E080",
+    "name": "The One She Wanted to See, Yachiyo",
+    "setId": "mr_80",
+    "number": "E080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Apprehensive Reunion\" is placed on your climax area, choose 1 of the following effects and perform it. \"Choose 1 of your 《Magic》 characters, and that character gets +2000 power until end of turn.\"\"Choose 1 of your 《Magic》 characters, and that character gets +1 soul until end of turn.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 6 cards from the top of your deck, and put them into your waiting room. If there is a climax with in its trigger icon among those cards, choose 1 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Mifuyu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E080.png"
+    }
+  },
+  {
+    "id": "MR/W80-E081",
+    "name": "Serious Gaze, Iroha",
+    "setId": "mr_80",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "4000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [【REST】 this card] If your memory has 2 or less cards, choose 1 《Magic》 character in your waiting room, and put it into your memory.",
+    "flavorText": "Are you the ones who have been sending me mail?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E081.png"
+    }
+  },
+  {
+    "id": "MR/W80-E082",
+    "name": "Everyone's Own Feelings, Felicia",
+    "setId": "mr_80",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 If this card is in your center stage, all of your 《Magic》 characters get +1500 power. 【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if you have 2 or more other 《Magic》 characters, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, put it into your waiting room, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on the top of your opponent's deck in any order, and put the rest into their waiting room. 【AUTO】 When your card is put into your memory, if you have another 《Magic》 character, this card gets +2000 power until end of turn.",
+    "flavorText": "If I keep drinking this, my luck will hold out, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E082.png"
+    }
+  },
+  {
+    "id": "MR/W80-E083",
+    "name": "Everyone's Own Feelings, Yachiyo",
+    "setId": "mr_80",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When this card attacks, if \"Recalling the Past\" is in your climax area, you may pay the cost. If you do, this card gets +4000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may 【STAND】 this card.\"",
+    "flavorText": "I'm never going to make friends again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E083.png"
+    }
+  },
+  {
+    "id": "MR/W80-E084",
+    "name": "\"I'll Do Anything\" Felicia",
+    "setId": "mr_80",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When your other character in battle becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E084.png"
+    }
+  },
+  {
+    "id": "MR/W80-E085",
+    "name": "Meal Invitation, Yachiyo",
+    "setId": "mr_80",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.",
+    "flavorText": "Then I suppose you're not hungry?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E085.png"
+    }
+  },
+  {
+    "id": "MR/W80-E086",
+    "name": "At Her Part-Time Job, Felicia",
+    "setId": "mr_80",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Part-Timer"
+    ],
+    "text": "【CONT】 You cannot play event cards or \"Backup\" from hand.",
+    "flavorText": "She said if I worked here, I get to eat for free!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E086.png"
+    }
+  },
+  {
+    "id": "MR/W80-E087",
+    "name": "The Importance of Points, Yachiyo",
+    "setId": "mr_80",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 [(2) Put 1 character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "You don't get it? That shows you're still a little kid.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E087.png"
+    }
+  },
+  {
+    "id": "MR/W80-E088",
+    "name": "Towards the Uwasa, Iroha",
+    "setId": "mr_80",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Magic》 characters. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When \"Compensation for a Wish\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose 1 card in your waiting room, return it to your deck, shuffle your deck, and this card gets +1000 power until end of turn.",
+    "flavorText": "I'll go.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E088.png"
+    }
+  },
+  {
+    "id": "MR/W80-E089",
+    "name": "Certain Memories, Iroha",
+    "setId": "mr_80",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if there are 5 or less cards in your deck, perform the following 2 effects 1 time each. \"If your memory has 2 or less cards, choose up to 1 《Magic》 character in your waiting room, put it into your memory, and this card gets +4000 power until end of turn.\" \"Return all cards in your waiting room to your deck. If you do, shuffle your deck.\"",
+    "flavorText": "But I remember! You, Nemu, Ui, and I were all great friends!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E089.png"
+    }
+  },
+  {
+    "id": "MR/W80-E090",
+    "name": "Magical Girl from Mitakihara City, Sayaka",
+    "setId": "mr_80",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 All of your other characters with \"Sayaka(さやか)\" or \"Kyoko(杏子)\" in its card name get +500 power. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other characters with \"Sayaka(さやか)\" or \"Kyoko(杏子)\" in its card name, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E090.png"
+    }
+  },
+  {
+    "id": "MR/W80-E091",
+    "name": "Coordinator, Mitama",
+    "setId": "mr_80",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Why don't we make adjustments to Iroha's Soul Gem?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E091.png"
+    }
+  },
+  {
+    "id": "MR/W80-E092",
+    "name": "East Territory, Felicia",
+    "setId": "mr_80",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Mercenary"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 When this card attacks, choose 1 of your 《Magic》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "Anyway, you may not look like it, but you've got guts to enter eastern territory.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E092.png"
+    }
+  },
+  {
+    "id": "MR/W80-E093",
+    "name": "Battle at the Memory Museum, Sayaka",
+    "setId": "mr_80",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, if you have 2 or more other 《Magic》 characters, you may choose 1 card in your opponent's clock, and put it into their waiting room. If you do, your opponent puts the top card of their deck into their clock.",
+    "flavorText": "This isn't like you. Bullying the weak…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E093.png"
+    }
+  },
+  {
+    "id": "MR/W80-E094",
+    "name": "Things Good Friends Do, Yachiyo",
+    "setId": "mr_80",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +500 power. 【AUTO】 [Put 1 \"Meal Invitation, Yachiyo\" from your memory into your waiting room & 【REST】 this card] At the beginning of your climax phase, you may pay the cost. If you do, put the top card of your deck into your stock.",
+    "flavorText": "We're good friends, which is why I'll stop you with force if I have to.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E094.png"
+    }
+  },
+  {
+    "id": "MR/W80-E095",
+    "name": "Reason for the Fight, Felicia",
+    "setId": "mr_80",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put 1 \"Raring to Go, Felicia\" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, return it to your hand, and this card gets +1000 power until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "Of course not! They pissed me off, so I started punching.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E095.png"
+    }
+  },
+  {
+    "id": "MR/W80-E096",
+    "name": "Unbelievably Good Luck, Felicia",
+    "setId": "mr_80",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Mercenary"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 At the beginning of your encore step, if this card is in your center stage, return this card to your hand, choose up to 1 level 0 or lower character in your hand, and put it on the stage position that this card was on as 【REST】.",
+    "flavorText": "We've got it! Luck is on our side!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E096.png"
+    }
+  },
+  {
+    "id": "MR/W80-E097",
+    "name": "New Roommate",
+    "setId": "mr_80",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Yachiyo(やちよ)\" in its card name, this card cannot be played from your hand. If your waiting room has 1 character with \"Iroha(いろは)\" in its card name, 1 other character with \"Yachiyo(やちよ)\" in its card name, 1 other character with \"Tsuruno(鶴乃)\" in its card name, 1 other character with \"Felicia(フェリシア)\" in its card name, and 1 other character with \"Sana(さな)\" in its card name, choose 1 of your characters, and that character gets +5000 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\"",
+    "flavorText": "Welcome to Mikazuki Villa, Tamaki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E097.png"
+    }
+  },
+  {
+    "id": "MR/W80-E098",
+    "name": "Compensation for a Wish",
+    "setId": "mr_80",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E098.png"
+    }
+  },
+  {
+    "id": "MR/W80-E099",
+    "name": "Apprehensive Reunion",
+    "setId": "mr_80",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Mifuyu: \"I can explain, but it'll take a long, long time.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E099.png"
+    }
+  },
+  {
+    "id": "MR/W80-E100",
+    "name": "Recalling the Past",
+    "setId": "mr_80",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E100.png"
+    }
+  },
+  {
+    "id": "MR/W80-E101",
+    "name": "Reunion on the Bridge, Iroha",
+    "setId": "mr_80",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may choose 1 character in your opponent's center stage, and move it to an open position of their center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E101.png"
+    }
+  },
+  {
+    "id": "MR/W80-E102",
+    "name": "Encounter on the Bridge, Yachiyo",
+    "setId": "mr_80",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When your climax is placed on your climax area, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Is that the little Kyubey you were talking about?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E102.png"
+    }
+  },
+  {
+    "id": "MR/W80-E103",
+    "name": "Advice on a Present, Tsuruno",
+    "setId": "mr_80",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Flame"
+    ],
+    "text": "【CONT】 If the character facing this card is cost 0 or lower, this card gets +1 level and +3500 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "That would show that we're a team!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E103.png"
+    }
+  },
+  {
+    "id": "MR/W80-E104",
+    "name": "Glutton, Felicia",
+    "setId": "mr_80",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0) 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E104.png"
+    }
+  },
+  {
+    "id": "MR/W80-E105",
+    "name": "Sudden Designation, Sana",
+    "setId": "mr_80",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 If all of your characters are 《Magic》, this card gets +1000 power. 【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Eh...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_E105.png"
+    }
+  },
+  {
+    "id": "MR/W80-PE01",
+    "name": "Promising Growth, Iroha",
+    "setId": "mr_80",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "If your wish has become twisted, I'll brush it aside. I can do that at least.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_PE01.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE01",
+    "name": "Making Up, Kaede",
+    "setId": "mr_80",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 When this card attacks, choose 1 of your 《Magic》 characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "You've been and always will be...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE01.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE02",
+    "name": "Looking for the Chain Witch, Rena",
+    "setId": "mr_80",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose 1 of your 《Magic》 characters, and that character gets +500 power until the end of your opponent's next turn.",
+    "flavorText": "Should we be prioritizing that girl over hunting down a Witch?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE02.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE03",
+    "name": "Helping Each Other, Momoko",
+    "setId": "mr_80",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Magic》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×500.",
+    "flavorText": "Besides, Magical Girls should help each other.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE03.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE04",
+    "name": "Reunion, Rena",
+    "setId": "mr_80",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Kaede.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE04.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE05",
+    "name": "Way Home in the Dusk, Momoko",
+    "setId": "mr_80",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "No, we have fights all the time. It wasn't your fault, Iroha.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE05.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE06",
+    "name": "Reunion, Kaede",
+    "setId": "mr_80",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Rena, whenever you feel sad, you always transform into Momoko.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE06.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE07",
+    "name": "Kaede Chased by a Witch",
+    "setId": "mr_80",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Plant"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I can't beat it either, so let's get out of here!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE07.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE08",
+    "name": "Making Up, Rena",
+    "setId": "mr_80",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When your other 《Magic》 character attacks, this card gets +2000 power until end of turn. 【AUTO】 Encore [Put 1 《Magic》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I think I'm at fault for various things.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE08.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE09",
+    "name": "One Who Unifies the Members, Momoko",
+    "setId": "mr_80",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Magic》 characters, this card gets +2000 power. 【AUTO】 [(3)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "You've got guts, making a move on a member of my team!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE09.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE10",
+    "name": "Friendship Ending Staircase",
+    "setId": "mr_80",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 1 cost 0 or lower character in your opponent's center stage, put it into their waiting room, choose up to 1 《Magic》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE10.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE11",
+    "name": "Kamihama Trio",
+    "setId": "mr_80",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Kaede: \"Iroha, huh? Nice to meet you, Iroha.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE11.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE12",
+    "name": "Self-Introduction, Iroha",
+    "setId": "mr_80",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Tamaki. My name is Iroha Tamaki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE12.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE13",
+    "name": "Assistance in a Predicament, Yachiyo",
+    "setId": "mr_80",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【CONT】 All of your other \"Short Break, Iroha\" get +1 soul. 【AUTO】 Bond/\"Short Break, Iroha\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Short Break, Iroha\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE13.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE14",
+    "name": "Veteran Magical Girl, Yachiyo",
+    "setId": "mr_80",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Magic》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE14.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE15",
+    "name": "Decision on the Rooftop, Iroha",
+    "setId": "mr_80",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Wish\" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "Cure... Cure Ui's disease!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE15.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE16",
+    "name": "Short Break, Iroha",
+    "setId": "mr_80",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "-",
+    "flavorText": "I'm sorry for having all of you come with me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE16.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE17",
+    "name": "Kamihama West Territory, Yachiyo",
+    "setId": "mr_80",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Model"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×1000. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "Hunting Witches without permission in other Magical Girls' territory leads to hostilities. Didn't Kyubey tell you that?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE17.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE18",
+    "name": "\"That Rumor About the Magical Girls\" Iroha",
+    "setId": "mr_80",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Cooking"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, if you have 4 or more other 《Magic》 characters, choose 1 of your characters, and that character gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE18.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE19",
+    "name": "Wish",
+    "setId": "mr_80",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Kyubey, please!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE19.png"
+    }
+  },
+  {
+    "id": "MR/W80-TE20",
+    "name": "Girl Who Chases Rumors",
+    "setId": "mr_80",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/MR/MR_W80_TE20.png"
+    }
+  }
+]

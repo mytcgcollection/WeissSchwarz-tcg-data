@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "BD/WE34-E01",
+    "name": "\"Astral Harmony\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "E01",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Music》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 [Put 1 《Music》 character from your hand into your waiting room] When this card attacks, if \"Our Music\" is in your climax area, and you have another 《Music》 character, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 2 《Music》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "I'm not going to play more just because you praise me, okay~?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E01.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E02",
+    "name": "\"Summerly Tone♪\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "E02",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may put this card into your stock. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Well, the world can't help but pay attention to someone like me~!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E02.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E03",
+    "name": "\"Astral Harmony\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "E03",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, if you have 4 or more other 《Morfonica》 characters, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards in their waiting room except that card to their deck, and shuffles their deck.",
+    "flavorText": "The time's finally come for me and my guitar to shine~!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E03.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E04",
+    "name": "\"Summerly Tone♪\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "E04",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it on any position of your stage, and that character gets +1 soul until end of turn. 【AUTO】 [(4)] When this card attacks, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal the same damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "Yeah~. Now that was fun~. That was pretty good for our first concert, don't you think?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E04.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E05",
+    "name": "\"Daylight\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "E05",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 If you have 1 or less other characters, this card gets +1500 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open left position of your center stage. （You can only move it to the leftmost position)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E05.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E06",
+    "name": "\"Morfonica\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "E06",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 All of your other 《Music》 characters get +500 power. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Daylight\" Toko Kirigaya\" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not in the stage at the beginning of the climax phase) 【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E06.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E07",
+    "name": "\"Daylight\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "E07",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×500. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Morfonica\" Toko Kirigaya\" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not in the stage at the beginning of the climax phase)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E07.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E08",
+    "name": "\"On Guitar\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "E08",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E08.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E09",
+    "name": "\"Morfonica\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "E09",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 This card gets -2 level while in the stage. 【CONT】 If you have 2 or more other 《Music》 characters, this card gets +1500 power, and the character facing this card gets the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Music》 characters, you may choose 1 《Music》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E09.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E10",
+    "name": "Our Music",
+    "setId": "bd_E34",
+    "number": "E10",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E10.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E11",
+    "name": "\"Rausch und/and Craziness Ⅱ\" LAYER",
+    "setId": "bd_E34",
+    "number": "E11",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 During this card's battle, your opponent cannot play event cards from their hand. 【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 【CXCOMBO】 [Put 2 cards from your hand into your waiting room] When this card attacks, if \"Beautiful Birthday\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, look at the top card of your opponent's deck, and put it on the top or at the bottom of their deck. (Damage may be canceled)",
+    "flavorText": "RAS is precious to me, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E11.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E12",
+    "name": "\"Rausch und/and Craziness Ⅱ\" LOCK",
+    "setId": "bd_E34",
+    "number": "E12",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step. 【AUTO】 When damage dealt by this card is canceled, you may return this card to your hand.",
+    "flavorText": "There's nobody stronger than the five of us.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E12.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E13",
+    "name": "\"Rausch und/and Craziness Ⅱ\" MASKING",
+    "setId": "bd_E34",
+    "number": "E13",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Pushing for Her Dream\" is in your climax area, choose 1 of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Music》 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "But until I joined RAS, I'd never had a place where I could do that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E13.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E14",
+    "name": "\"THE DEPTHS\" LOCK",
+    "setId": "bd_E34",
+    "number": "E14",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 Assist All of your 《Music》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 [【REST】 this card] When you use \"Accelerate\", if this card is 【STAND】, you may pay the cost. If you do, you may choose 1 《Music》 character in your waiting room, and put it into your stock.",
+    "flavorText": "I'm glad you chose the five of us to become a band.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E14.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E15",
+    "name": "\"THE DEPTHS\" LAYER",
+    "setId": "bd_E34",
+    "number": "E15",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, if you have 4 or more other 《RAISE A SUILEN》 characters, you may pay the cost. If you do, your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+    "flavorText": "From now on, let's try getting to know more about one another and focus on getting strong together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E15.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E16",
+    "name": "\"THE DEPTHS\" MASKING",
+    "setId": "bd_E34",
+    "number": "E16",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of the encore step, you may put the top card of your clock into your waiting room. 【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room at the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 card in your waiting room, return all cards except that card in your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "Like a charm!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E16.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E17",
+    "name": "MV Filming, LOCK",
+    "setId": "bd_E34",
+    "number": "E17",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all of your other level 0 or lower characters get the following ability until end of turn. \"【AUTO】 When this card attacks, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Music》 characters you have.",
+    "flavorText": "Bang!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E17.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E18",
+    "name": "\"The Music Doesn't Lie\" MASKING",
+    "setId": "bd_E34",
+    "number": "E18",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Music》 character in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 When this card's trigger check reveals a climax with [[treasure.gif]] in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Brought you a present.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E18.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E19",
+    "name": "\"Straight Through Our Dreams!\" LAYER",
+    "setId": "bd_E34",
+    "number": "E19",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E19.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E20",
+    "name": "Chasing Her Dream, LOCK",
+    "setId": "bd_E34",
+    "number": "E20",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an event or a 《Poppin'Party》 or 《RAISE A SUILEN》 character, choose 1 of your other 《Poppin'Party》 or 《RAISE A SUILEN》 characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E20.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E21",
+    "name": "Stage of the Finals, MASKING",
+    "setId": "bd_E34",
+    "number": "E21",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×1000.",
+    "flavorText": "It's time to duke it out over advancin' to the finals, eh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E21.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E22",
+    "name": "Greatest Live, LAYER",
+    "setId": "bd_E34",
+    "number": "E22",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 When this card's trigger check reveals a climax with [[treasure.gif]] in its trigger icon, you may choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E22.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E23",
+    "name": "To a New Stage, LOCK",
+    "setId": "bd_E34",
+    "number": "E23",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +2500 power for each character in your opponent's back stage. 【AUTO】 Encore [(1) Put 1 character from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E23.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E24",
+    "name": "Beautiful Birthday",
+    "setId": "bd_E34",
+    "number": "E24",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E24.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E25",
+    "name": "Pushing for Her Dream",
+    "setId": "bd_E34",
+    "number": "E25",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E25.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E26",
+    "name": "\"Astral Harmony\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "E26",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【ACT】 [Put 2 cards from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Music》 character with level equal to or lower than your level in your waiting room, and put it on the stage position that this card was on. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I want to become the kind of person who can shine with pride.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E26.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E26.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E27",
+    "name": "\"Rausch und/and Craziness Ⅱ\" PAREO",
+    "setId": "bd_E34",
+    "number": "E27",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, this card gets +1 level and +1500 power until end of turn. (Return the revealed card to its original place) 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Music》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "We'll show you a stage the likes of which you've never seen.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E27.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E27.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E28",
+    "name": "\"Astral Harmony\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "E28",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put this card into your memory] When damage dealt by this card is canceled, if \"Daylight\" is in your climax area, and you have 4 or more other 《Music》 characters, you may pay the cost. If you do, choose 1 character in your waiting room, and put it on the stage position that this card was on. （Battle does not take place）",
+    "flavorText": "Umm... I'll do my best to make it a good song.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E28.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E28.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E29",
+    "name": "\"Rausch und/and Craziness Ⅱ\" CHU²",
+    "setId": "bd_E34",
+    "number": "E29",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 This card gets +1000 power for each other 《Music》 character in your back stage. 【AUTO】 During the turn that this card is placed on the stage from your hand, at the beginning of the encore step, you may put the top card of your clock into your waiting room.",
+    "flavorText": "But if our guitarist can't even impress me with their skills, we'll never beat Roselia to a pulp.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E29.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E29.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E30",
+    "name": "\"Summerly Tone♪\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "E30",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Morfonica》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [Put the top card of your deck into your clock] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "I want to stand on that sparkling stage too...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E30.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E30.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E31",
+    "name": "“THE DEPTHS” PAREO",
+    "setId": "bd_E34",
+    "number": "E31",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《RAISE A SUILEN》 character in your waiting room, and return it to your hand.",
+    "flavorText": "First place! ♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E31.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E31.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E32",
+    "name": "\"THE DEPTHS\" CHU²",
+    "setId": "bd_E34",
+    "number": "E32",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1 level and +1000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may choose 1 character in your opponent's center stage, and move it to another open position of their center stage.",
+    "flavorText": "I don't need an honor student. Even you must be getting tired of that schtick, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E32.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E32.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E33",
+    "name": "\"Astral Harmony\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "E33",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character revealed among those cards, this card's soul does not decrease by side attacking until end of turn. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "... I'm interested to see what happens when you prioritize your emotions.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E33.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E33.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E34",
+    "name": "\"Summerly Tone♪\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "E34",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 Assist All of your 《Morfonica》 characters in front of this card get +1500 power. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Daylight\" Rui Yashio\" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)",
+    "flavorText": "There is no point in continuing something you see no future in.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E34.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E34.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E35",
+    "name": "\"Summerly Tone♪\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "E35",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card is put into your waiting room from the stage, you may return this card to your hand. If you do, choose up to 1 《Music》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Fufu, let's give this band our all!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E35.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E35.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E36",
+    "name": "\"On Violin\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "E36",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Music》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【ACT】 [(1) Put this card into your waiting room] Choose up to 1 《Music》 character with level equal to or lower than your level in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E36.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E36.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E37",
+    "name": "Member Introduction, CHU²",
+    "setId": "bd_E34",
+    "number": "E37",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 During this card's battle, when the damage you received is canceled, you may return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E37.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E37.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E38",
+    "name": "\"Daylight\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "E38",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E38.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E38.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E39",
+    "name": "\"Daylight\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "E39",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 [Put 2 《Music》 characters from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of their deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E39.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E39.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E40",
+    "name": "Astonishing Speed, PAREO",
+    "setId": "bd_E34",
+    "number": "E40",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 If you have another \"\"Rausch und/and Craziness Ⅱ\" CHU²\" in your center stage, this card gets +5500 power and \"【AUTO】 Encore [Put 1 《Music》 character from your hand into your waiting room]\". 【CONT】 All of your other \"\"Rausch und/and Craziness Ⅱ\" CHU²\" get +2000 power and the following 3 abilities. \"【CONT】 This card cannot be chosen by your opponent's effects.\" \"【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.\" \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "Just a moment!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E40.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E40.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E41",
+    "name": "\"Daylight\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "E41",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Summerly Tone♪\" Rui Yashio\" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E41.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E41.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E42",
+    "name": "\"Morfonica\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "E42",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Reveal the top card of your deck, and if that card is a character of the level that your opponent declared, put it on any position of your stage. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E42.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E42.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E43",
+    "name": "\"On Drums\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "E43",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters. 【AUTO】 When this card attacks, if the level of the character facing this card is 2, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E43.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E43.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E44",
+    "name": "Uninvited Solicitation, PAREO",
+    "setId": "bd_E34",
+    "number": "E44",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other \"Uninvited Solicitation, CHU²\" in your center stage.",
+    "flavorText": "With PAREO in tow!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E44.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E44.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E45",
+    "name": "Uninvited Solicitation, CHU²",
+    "setId": "bd_E34",
+    "number": "E45",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other \"Uninvited Solicitation, PAREO\" in your center stage.",
+    "flavorText": "I'm here to pick you up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E45.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E45.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E46",
+    "name": "\"Morfonica\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "E46",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack. 【CONT】 If you have 2 or more other 《Music》 characters, this card gets +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E46.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E46.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E47",
+    "name": "Member Introduction, PAREO",
+    "setId": "bd_E34",
+    "number": "E47",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Music》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E47.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E47.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E48",
+    "name": "\"Morfonica\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "E48",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +5000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E48.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E48.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E49",
+    "name": "Finals at the Budokan, CHU²",
+    "setId": "bd_E34",
+    "number": "E49",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "RAISE A SUILEN"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 of your other characters, and put it into your stock.",
+    "flavorText": "My band, RAISE A SUILEN, is going to perform in the \"BanG Dream! Girls Band Challenge\"!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E49.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E49.png"
+    }
+  },
+  {
+    "id": "BD/WE34-E50",
+    "name": "Daylight",
+    "setId": "bd_E34",
+    "number": "E50",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E50.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/MRAS/WE34_E50.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE01",
+    "name": "\"Widening Horizon\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Really? That's a relief~...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE01.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE02",
+    "name": "\"Trusted Class President\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, if all of your characters are 《Music》, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "Tsukushi: \"Fufu, of course!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE02.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE03",
+    "name": "\"Normalcy Comes First\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 You cannot play event cards or \"Backup\" from your hand.",
+    "flavorText": "If I had to pick a word to describe myself, it would be, uhm... Normal! I'm just a regular high school student!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE03.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE04",
+    "name": "\"Popular Girl\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Music》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "I'm the star of Tsukinomori, and don't you forget it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE04.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE05",
+    "name": "\"Behold My Masterpiece!\" Nanami Hiromachi",
+    "setId": "bd_E34",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 card in your hand, and put it into your stock.",
+    "flavorText": "Toko: \"Maybe I'm just that charismatic.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE05.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE06",
+    "name": "\"Special Announcement!\" Toko Kirigaya",
+    "setId": "bd_E34",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×1000.",
+    "flavorText": "But you know, it's different when\nyou give a killer performance at a concert.\nIt's super fun for us, and the crowd gets totally fired up, too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE06.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE07",
+    "name": "Behold My Masterpiece!",
+    "setId": "bd_E34",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "I probably just have good taste!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE07.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE08",
+    "name": "\"Trusted Class President\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 All of your other \"\"Trusted Class President\" Toko Kirigaya\" and \"\"Trusted Class President\" Mashiro Kurata\" get +1000 power. 【AUTO】 Bond/\"\"Trusted Class President\" Toko Kirigaya\" \"\"Trusted Class President\" Mashiro Kurata\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Trusted Class President\" Toko Kirigaya\" or \"\"Trusted Class President\" Mashiro Kurata\" in your waiting room, and return it to your hand)",
+    "flavorText": "Fufu... I am the class president, after all!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE08.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE09",
+    "name": "\"Gaining Recognition\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "If our goal is to introduce our band, I do not believe we should be making videos. Having people listen to our music would be far more effective.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE09.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE10",
+    "name": "\"Fufu, Leave It to Me!\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Morfonica is still a new band, but I hope we'll be able to shine as brightly as Tsukinomori students should.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE10.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE11",
+    "name": "\"Rejected Path\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "... You are free to think whatever you wish.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE11.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE12",
+    "name": "\"Full of Confidence\" Tsukushi Futaba",
+    "setId": "bd_E34",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card attacks, if your hand has 4 or more cards, this card gets +3000 power until end of turn.",
+    "flavorText": "Fufu, did you see how confident and leader-like I was?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE12.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE13",
+    "name": "\"Pessimistic Girl\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Shine Once More\" is in your climax area, and you have another 《Music》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "I'll do my best, so I look forward to your support...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE13.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE14",
+    "name": "\"Trusted Class President\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "-",
+    "flavorText": "Tsukushi: \"Darn it! I wasn't any help again!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE14.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE15",
+    "name": "\"Forsaking Talent\" Rui Yashio",
+    "setId": "bd_E34",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Music》 characters among those cards ×3000.",
+    "flavorText": "I have always aimed for first place, and I intend to keep getting first place.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE15.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE16",
+    "name": "\"Forsaking Talent\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play event cards or \"Backup\" from your hand.\" 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Blue Sky Full of Stars\" Mashiro Kurata\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I can't imagine you ever getting a failing grade, Yashio-san. I heard you've always been ranked first in our grade ever since middle school...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE16.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE17",
+    "name": "\"Blue Sky Full of Stars\" Mashiro Kurata",
+    "setId": "bd_E34",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Morfonica"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 3 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled) 【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "But I can keep trying no matter the hardships or challenges because everyone's there...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE17.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE18",
+    "name": "Normal Camouflage",
+    "setId": "bd_E34",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 level X or lower 《Music》 character in your waiting room, and return it to your hand. X is equal to the number of \"\"Pessimistic Girl\" Mashiro Kurata\" in your waiting room.",
+    "flavorText": "Nanami: \"Okay, I'll give it a shot~\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE18.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE19",
+    "name": "Shine Once More",
+    "setId": "bd_E34",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Mashiro: \"Until recently, I would've never dreamed of joining a band.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE19.png"
+    }
+  },
+  {
+    "id": "BD/WE34-TE20",
+    "name": "Morfonica",
+    "setId": "bd_E34",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with in its trigger icon in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GBP21/TD/WE34_TE20.png"
+    }
+  }
+]

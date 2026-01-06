@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "LL/W01-001",
+    "name": "\"That's Our Miracle\" Honoka Kosaka",
+    "setId": "ll_01",
+    "number": "001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card attacks, if a card named \"Forever and Ever\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +7000 power and your opponent cannot use \"【AUTO】 Encore\". (Your opponent cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_001.png"
+    }
+  },
+  {
+    "id": "LL/W01-002",
+    "name": "\"Sun Shower\" Eli",
+    "setId": "ll_01",
+    "number": "002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】 [(2)] When this card attacks, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and return it to your opponent's hand.",
+    "flavorText": "In Russia, the fox doesn't have a very good image……\nBut it's different in Japan.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_002.png"
+    }
+  },
+  {
+    "id": "LL/W01-003",
+    "name": "\"The Sheep's Feelings\" Kotori",
+    "setId": "ll_01",
+    "number": "003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power and the following ability. \"【AUTO】 When this card attacks, choose one of your characters, and that character gets +1000 power until end of turn.\" 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand or by a \"Change\" effect, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "I'm a sheep! It's so much fun being so fluffy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_003.png"
+    }
+  },
+  {
+    "id": "LL/W01-004",
+    "name": "\"Whimsical Girl\" Rin",
+    "setId": "ll_01",
+    "number": "004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your 《Music》 characters, and that character gets +X power and +1 soul until end of turn. X is equal to 1500 multiplied by that character's level.",
+    "flavorText": "Meow! Meow meow……\nDo you have any idea what I'm saying?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_004.png"
+    }
+  },
+  {
+    "id": "LL/W01-005",
+    "name": "\"No Brand Girls\" Nozomi",
+    "setId": "ll_01",
+    "number": "005",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to six cards from the top of your deck, choose three cards from among them, and put them into your waiting room. Put the rest of the cards on the top of your deck in any order. 【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Music》 character, all of your other characters get +1 soul until end of turn.",
+    "flavorText": "Let's work together to make everyone happy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_005.png"
+    }
+  },
+  {
+    "id": "LL/W01-006",
+    "name": "\"Strange Sympathy\" Hanayo",
+    "setId": "ll_01",
+    "number": "006",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [(1) Put a card from your hand into your waiting room] Until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.\"",
+    "flavorText": "This costume…… I'm not sure why, but I feel very calm.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_006.png"
+    }
+  },
+  {
+    "id": "LL/W01-007",
+    "name": "\"Towards a Dream\" μ's",
+    "setId": "ll_01",
+    "number": "007",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Music》 characters, and 【REST】 it. 【AUTO】 [(2) Put the top card of your deck into your clock] This ability activates up to one time per turn. When this card's battle opponent becomes 【Reverse】, if a card named \"That's Our Miracle\" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_007.png"
+    }
+  },
+  {
+    "id": "LL/W01-008",
+    "name": "\"After-School Song Princess\" Maki",
+    "setId": "ll_01",
+    "number": "008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If you have another level 3 or higher character, this card gets +1 soul. 【ACT】 【COUNTER】 Backup 1000, Level 0 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Oh, isn't this outfit a little…… flashy? It feels out of place.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_008.png"
+    }
+  },
+  {
+    "id": "LL/W01-009",
+    "name": "\"That's Our Miracle\" Nico Yazawa",
+    "setId": "ll_01",
+    "number": "009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 All of your other characters with \"Nico(にこ)\" in its card name get +500 power. 【ACT】 [(2) 【REST】 this card] Choose one of your characters with \"Nico(にこ)\" in its card name, and until end of turn, that characters gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_009.png"
+    }
+  },
+  {
+    "id": "LL/W01-010",
+    "name": "\"That's Our Miracle\" Kotori Minami",
+    "setId": "ll_01",
+    "number": "010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is level 0 or lower, you may move this card to an open position of your center stage. (Climax are regarded as level 0)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_010.png"
+    }
+  },
+  {
+    "id": "LL/W01-011",
+    "name": "\"No Brand Girls\" Nico",
+    "setId": "ll_01",
+    "number": "011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of your other characters in the center stage is one or less, this card gets +1 soul. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "Look, all my fans are waiting. Smile♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_011.png"
+    }
+  },
+  {
+    "id": "LL/W01-012",
+    "name": "\"No Brand Girls\" Kotori",
+    "setId": "ll_01",
+    "number": "012",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If you would pay the \"Change\" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock. 【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck underneath this card as a marker. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "Seeing you makes me happy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_012.png"
+    }
+  },
+  {
+    "id": "LL/W01-013",
+    "name": "\"No Brand Girls\" Umi",
+    "setId": "ll_01",
+    "number": "013",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Music》 character, put it into your clock. (If it is not, return the revealed card to its original place)",
+    "flavorText": "How are you doing? I'm great.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_013.png"
+    }
+  },
+  {
+    "id": "LL/W01-014",
+    "name": "\"No Brand Girls\" Rin",
+    "setId": "ll_01",
+    "number": "014",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your 《Music》 characters. 【ACT】 [(1)] This card gets +1 soul until end of turn.",
+    "flavorText": "All right, let's make our voices heard!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_014.png"
+    }
+  },
+  {
+    "id": "LL/W01-015",
+    "name": "\"No Brand Girls\" Maki",
+    "setId": "ll_01",
+    "number": "015",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your opponent's 【STAND】 characters.",
+    "flavorText": "All right, time to start.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_015.png"
+    }
+  },
+  {
+    "id": "LL/W01-016",
+    "name": "\"That's Our Miracle\" Maki Nishikino",
+    "setId": "ll_01",
+    "number": "016",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other level 0 or lower characters.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_016.png"
+    }
+  },
+  {
+    "id": "LL/W01-017",
+    "name": "\"That's Our Miracle\" Nozomi Tojo",
+    "setId": "ll_01",
+    "number": "017",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Music》 character, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_017.png"
+    }
+  },
+  {
+    "id": "LL/W01-018",
+    "name": "\"No Brand Girls\" Hanayo",
+    "setId": "ll_01",
+    "number": "018",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Music》 character, at the beginning of your encore step, put this card into your waiting room. (The revealed card is returned to its original place)",
+    "flavorText": "Oh... Le-Let's do our best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_018.png"
+    }
+  },
+  {
+    "id": "LL/W01-019",
+    "name": "\"No Brand Girls\" Eli",
+    "setId": "ll_01",
+    "number": "019",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\". 【ACT】 [【REST】 this card] Choose one of your 《Music》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Me? Getting a little run down? I'm perfect as ever.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_019.png"
+    }
+  },
+  {
+    "id": "LL/W01-020",
+    "name": "\"That's Our Miracle\" Umi Sonoda",
+    "setId": "ll_01",
+    "number": "020",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_020.png"
+    }
+  },
+  {
+    "id": "LL/W01-021",
+    "name": "\"That's Our Miracle\" Rin Hoshizora",
+    "setId": "ll_01",
+    "number": "021",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Music》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. (The revealed card is returned to its original place) 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_021.png"
+    }
+  },
+  {
+    "id": "LL/W01-022",
+    "name": "\"No Brand Girls\" Honoka",
+    "setId": "ll_01",
+    "number": "022",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Snow Halation\" is in your climax area, you may pay the cost. If you do, until the end of your opponent's next turn, this card gets +2000 power and the following ability. \"【CONT】 The character facing this card gets -1 soul.\"",
+    "flavorText": "All right! Cheer up, and let's do this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_022.png"
+    }
+  },
+  {
+    "id": "LL/W01-023",
+    "name": "\"That's Our Miracle\" Eli Ayase",
+    "setId": "ll_01",
+    "number": "023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Music》 characters.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_023.png"
+    }
+  },
+  {
+    "id": "LL/W01-024",
+    "name": "\"Destiny Card\" Nozomi",
+    "setId": "ll_01",
+    "number": "024",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Dealer"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn.",
+    "flavorText": "If you're looking for a card reading, leave it to me-♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_024.png"
+    }
+  },
+  {
+    "id": "LL/W01-025",
+    "name": "\"Love Bind\" Umi",
+    "setId": "ll_01",
+    "number": "025",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Police"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power. 【AUTO】 [【REST】 one of your 【STAND】 characters] When another of your characters is placed on the stage by a \"Change\" effect, you may pay the cost. If you do, that character gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "You're under arrest! Oh…… Does this look OK on me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_025.png"
+    }
+  },
+  {
+    "id": "LL/W01-026",
+    "name": "\"Heart of Fire\" Honoka",
+    "setId": "ll_01",
+    "number": "026",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Firefighter"
+    ],
+    "text": "【AUTO】 When this card attacks, your other character in the middle position of the center stage gets +1 level and +1500 power until end of turn.",
+    "flavorText": "Honoka team! Roll out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_026.png"
+    }
+  },
+  {
+    "id": "LL/W01-027",
+    "name": "\"Please Look at Rin♪\" Rin",
+    "setId": "ll_01",
+    "number": "027",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Crew Member"
+    ],
+    "text": "【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn.",
+    "flavorText": "As a guide, I can go all kinds of places. How fun-♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_027.png"
+    }
+  },
+  {
+    "id": "LL/W01-028",
+    "name": "\"Secret Examination Room\" Maki",
+    "setId": "ll_01",
+    "number": "028",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Doctor"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is two or more, this card gets +1000 power.",
+    "flavorText": "These feelings are a bit complex…… Naturally, it suits me♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_028.png"
+    }
+  },
+  {
+    "id": "LL/W01-029",
+    "name": "\"Spiritual Power\" Nozomi",
+    "setId": "ll_01",
+    "number": "029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1) 【REST】 this card] When you use \"Change\", if this card is 【STAND】, you may pay the cost. If you do, all of your characters get +2000 power until end of turn.",
+    "flavorText": "I'll use my power as a shrine maiden to make everyone happy♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_029.png"
+    }
+  },
+  {
+    "id": "LL/W01-030",
+    "name": "\"Nico Is Popular\" Nico",
+    "setId": "ll_01",
+    "number": "030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card's battle opponent becomes 【Reverse】, you may put the top card of your deck underneath this card as a marker. 【ACT】 [(1)] This card gets +1 soul until end of turn.",
+    "flavorText": "Pa… Pa… Pa…… What sound does a panda make……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_030.png"
+    }
+  },
+  {
+    "id": "LL/W01-031",
+    "name": "\"Goddess of Healing\" Kotori",
+    "setId": "ll_01",
+    "number": "031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Nurse"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I want to help people with my singing voice♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_031.png"
+    }
+  },
+  {
+    "id": "LL/W01-032",
+    "name": "\"It's Piping Hot Rice♪\" Hanayo",
+    "setId": "ll_01",
+    "number": "032",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "These clothes are so cute…… I wonder if they suit me……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_032.png"
+    }
+  },
+  {
+    "id": "LL/W01-033",
+    "name": "\"Feigning Sleep♪\" Nozomi",
+    "setId": "ll_01",
+    "number": "033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "3000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1500 power.",
+    "flavorText": "A tanuki? What a good omen-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_033.png"
+    }
+  },
+  {
+    "id": "LL/W01-034",
+    "name": "\"I'm Gonna Eat It!\" Honoka",
+    "setId": "ll_01",
+    "number": "034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 During your turn, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, all of your characters get +2000 power until end of turn.",
+    "flavorText": "Grrr-! Gonna gobble you up～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_034.png"
+    }
+  },
+  {
+    "id": "LL/W01-035",
+    "name": "Tsubasa Kira",
+    "setId": "ll_01",
+    "number": "035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of \"Tsubasa Kira\" in your waiting room is two or more, this card gets -1 level while in your hand. 【AUTO】 When this card attacks, if a card named \"Shocking Party\" is in your climax area and other cards named \"Erena Todo\" and \"Anju Yuki\" are in your center stage, until end of turn, all of your center stage characters get +1500 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_035.png"
+    }
+  },
+  {
+    "id": "LL/W01-036",
+    "name": "\"Here's the Item You Ordered♪\" Hanayo",
+    "setId": "ll_01",
+    "number": "036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Waitress"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card attacks, you may choose a climax in your climax area, and put it into your stock.",
+    "flavorText": "He-here's your coffee--ouch! That was close!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_036.png"
+    }
+  },
+  {
+    "id": "LL/W01-037",
+    "name": "\"Nico-Nico-Ni!\" Nico",
+    "setId": "ll_01",
+    "number": "037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Puppet"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +500 power.",
+    "flavorText": "This bear is so cute. Am I cute, too? Oh no♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_037.png"
+    }
+  },
+  {
+    "id": "LL/W01-038",
+    "name": "\"Khorosho♪\" Eli",
+    "setId": "ll_01",
+    "number": "038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "What do you think? You could really say that I look like one of those F1 race girls.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_038.png"
+    }
+  },
+  {
+    "id": "LL/W01-039",
+    "name": "\"Full Smile!\" Honoka",
+    "setId": "ll_01",
+    "number": "039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "This clothing just screams \"idol\"! Well, maybe just \"school idol\"…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_039.png"
+    }
+  },
+  {
+    "id": "LL/W01-040",
+    "name": "\"All Psyched Up\" Umi",
+    "setId": "ll_01",
+    "number": "040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "I can… feel the breeze on my legs in this costume…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_040.png"
+    }
+  },
+  {
+    "id": "LL/W01-041",
+    "name": "\"That's Our Miracle\" Hanayo Koizumi",
+    "setId": "ll_01",
+    "number": "041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_041.png"
+    }
+  },
+  {
+    "id": "LL/W01-042",
+    "name": "\"I'll Teach You♪\" Nico",
+    "setId": "ll_01",
+    "number": "042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Teacher"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Hee hee♪ I shouldn't hide my intelligence, right? ……What's that look for?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_042.png"
+    }
+  },
+  {
+    "id": "LL/W01-043",
+    "name": "\"Eli's Confession Room\" Eli",
+    "setId": "ll_01",
+    "number": "043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sister"
+    ],
+    "text": "【AUTO】 When another of your 《Music》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "I'll hear your confession…… If you want…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_043.png"
+    }
+  },
+  {
+    "id": "LL/W01-044",
+    "name": "Erena Todo",
+    "setId": "ll_01",
+    "number": "044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] This card gets +2000 power until end of turn.",
+    "flavorText": "Your power to draw people to you.\nPerhaps you could call it charisma…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_044.png"
+    }
+  },
+  {
+    "id": "LL/W01-045",
+    "name": "\"Wonderful Candy\" Kotori",
+    "setId": "ll_01",
+    "number": "045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "-",
+    "flavorText": "Candy on me, everybody♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_045.png"
+    }
+  },
+  {
+    "id": "LL/W01-046",
+    "name": "Anju Yuki",
+    "setId": "ll_01",
+    "number": "046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 【REST】 characters.",
+    "flavorText": "It's fine. Don't worry about it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_046.png"
+    }
+  },
+  {
+    "id": "LL/W01-047",
+    "name": "\"μ’s Energy Seal\" Rin",
+    "setId": "ll_01",
+    "number": "047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "What do you think about this costume?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_047.png"
+    }
+  },
+  {
+    "id": "LL/W01-048",
+    "name": "\"White Rabbit of Good Fortune\" Umi",
+    "setId": "ll_01",
+    "number": "048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room. 【AUTO】 [【REST】 one of your 【STAND】 《Music》 characters] When this card attacks, you may pay the cost. If you do, this card gets +1000 power until end of turn.",
+    "flavorText": "Bunny! Hop! Hop♪ ……Wait, were you looking, just now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_048.png"
+    }
+  },
+  {
+    "id": "LL/W01-049",
+    "name": "\"You're My Next Catch\" Maki",
+    "setId": "ll_01",
+    "number": "049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your clock.",
+    "flavorText": "A leopard……? Do I have that image? ……Is that a compliment…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_049.png"
+    }
+  },
+  {
+    "id": "LL/W01-050",
+    "name": "Slump",
+    "setId": "ll_01",
+    "number": "050",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "All of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_050.png"
+    }
+  },
+  {
+    "id": "LL/W01-051",
+    "name": "Snow Halation",
+    "setId": "ll_01",
+    "number": "051",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_051.png"
+    }
+  },
+  {
+    "id": "LL/W01-052",
+    "name": "That's Our Miracle",
+    "setId": "ll_01",
+    "number": "052",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_052.png"
+    }
+  },
+  {
+    "id": "LL/W01-053",
+    "name": "Forever and Ever",
+    "setId": "ll_01",
+    "number": "053",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_053.png"
+    }
+  },
+  {
+    "id": "LL/W01-054",
+    "name": "Door to Our Dreams",
+    "setId": "ll_01",
+    "number": "054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_054.png"
+    }
+  },
+  {
+    "id": "LL/W01-055",
+    "name": "Shocking Party",
+    "setId": "ll_01",
+    "number": "055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_055.png"
+    }
+  },
+  {
+    "id": "LL/W01-056",
+    "name": "Nico in Training Wear",
+    "setId": "ll_01",
+    "number": "056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Otaku"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named \"With a Summer Smile 1,2,Jump!\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards, and this card gets +1000 power until end of turn.",
+    "flavorText": "Bit by bit. Let's go! Smile♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_056.png"
+    }
+  },
+  {
+    "id": "LL/W01-057",
+    "name": "Nozomi in Training Wear",
+    "setId": "ll_01",
+    "number": "057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Fortune Telling"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I can still keep going!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_057.png"
+    }
+  },
+  {
+    "id": "LL/W01-058",
+    "name": "Eli in Training Wear",
+    "setId": "ll_01",
+    "number": "058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Student Council"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.",
+    "flavorText": "Not yet. Let's start now! Let's do it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_058.png"
+    }
+  },
+  {
+    "id": "LL/W01-059",
+    "name": "\"Great Idea\" Eli",
+    "setId": "ll_01",
+    "number": "059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card from your opponent's waiting room, and put it into your opponent's stock. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.\"",
+    "flavorText": "…! I know!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_059.png"
+    }
+  },
+  {
+    "id": "LL/W01-060",
+    "name": "\"Let's Go Out Together♪\" Nozomi",
+    "setId": "ll_01",
+    "number": "060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Fortune Telling"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Hey, today you're looking kinda fashionable, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_060.png"
+    }
+  },
+  {
+    "id": "LL/W01-061",
+    "name": "Nico in Pajamas",
+    "setId": "ll_01",
+    "number": "061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Nico Is Popular\" Nico\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Hey! I may look sexy, but that doesn't mean you have to stare-♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_061.png"
+    }
+  },
+  {
+    "id": "LL/W01-062",
+    "name": "Taking Pride in Lyrics, Nico",
+    "setId": "ll_01",
+    "number": "062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Otaku"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, put it into your opponent's waiting room, your opponent will choose up to one level 0 or lower character from your opponent's waiting room, and put it on the stage position that character was on. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)",
+    "flavorText": "I have no choice, then.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_062.png"
+    }
+  },
+  {
+    "id": "LL/W01-063",
+    "name": "Nozomi in Pajamas",
+    "setId": "ll_01",
+    "number": "063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(3) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Feigning Sleep♪\" Nozomi\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "If you stay up too late, fortune will run away from you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_063.png"
+    }
+  },
+  {
+    "id": "LL/W01-064",
+    "name": "Eli in Regular Clothes",
+    "setId": "ll_01",
+    "number": "064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Student Council"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Music》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Our singing and dancing… I wonder how much it really conveys to the audience?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_064.png"
+    }
+  },
+  {
+    "id": "LL/W01-065",
+    "name": "\"Let's Go Out Together♪\" Eli",
+    "setId": "ll_01",
+    "number": "065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Student Council"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "What's up? Have I caught your attention?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_065.png"
+    }
+  },
+  {
+    "id": "LL/W01-066",
+    "name": "Taking Care of Juniors, Nozomi",
+    "setId": "ll_01",
+    "number": "066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Fortune Telling"
+    ],
+    "text": "【CONT】 If the number of other characters in your center stage is one or less, this card gets +1000 power.",
+    "flavorText": "Working hard, girls?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_066.png"
+    }
+  },
+  {
+    "id": "LL/W01-067",
+    "name": "Nozomi in Regular Clothes",
+    "setId": "ll_01",
+    "number": "067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Fortune Telling"
+    ],
+    "text": "-",
+    "flavorText": "Are you looking for something? If it's the goddess of fortune, she's right here♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_067.png"
+    }
+  },
+  {
+    "id": "LL/W01-068",
+    "name": "Nico in Regular Clothes",
+    "setId": "ll_01",
+    "number": "068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Otaku"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is three or less, this card gets +1500 power.",
+    "flavorText": "I want you to take me somewhere to play. What do you say-?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_068.png"
+    }
+  },
+  {
+    "id": "LL/W01-069",
+    "name": "\"Let's Go Out Together♪\" Nico",
+    "setId": "ll_01",
+    "number": "069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Otaku"
+    ],
+    "text": "-",
+    "flavorText": "Are you all prepared?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_069.png"
+    }
+  },
+  {
+    "id": "LL/W01-070",
+    "name": "Eli in Pajamas",
+    "setId": "ll_01",
+    "number": "070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Sun Shower\" Eli\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "It's a little strange, wearing pajamas in front of others.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_070.png"
+    }
+  },
+  {
+    "id": "LL/W01-071",
+    "name": "With a Summer Smile 1,2,Jump!",
+    "setId": "ll_01",
+    "number": "071",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_071.png"
+    }
+  },
+  {
+    "id": "LL/W01-072",
+    "name": "\"School idol festival\" Umi",
+    "setId": "ll_01",
+    "number": "072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card becomes 【Reverse】, if this card's battle opponent is level 0 or lower, you may 【Reverse】 that character. 【ACT】 [(1)] Choose one of your opponent's level 0 or lower characters in the center stage, and put it into your opponent's waiting room.",
+    "flavorText": "I'll help.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_072.png"
+    }
+  },
+  {
+    "id": "LL/W01-073",
+    "name": "\"School idol festival\" Honoka",
+    "setId": "ll_01",
+    "number": "073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with \"Change\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "You can count on me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_073.png"
+    }
+  },
+  {
+    "id": "LL/W01-074",
+    "name": "\"Let's Go Out Together♪\" Honoka",
+    "setId": "ll_01",
+    "number": "074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.",
+    "flavorText": "With this smile, do you think I can reach a lot of people?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_074.png"
+    }
+  },
+  {
+    "id": "LL/W01-075",
+    "name": "Umi in Regular Clothes",
+    "setId": "ll_01",
+    "number": "075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Book"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Shall we go out somewhere today?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_075.png"
+    }
+  },
+  {
+    "id": "LL/W01-076",
+    "name": "Kotori in Training Wear",
+    "setId": "ll_01",
+    "number": "076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named \"Wonderful Rush\" is in your climax area, you may pay the cost. If you do, deal one damage to your opponent, and this card gets +2000 power until the end of your opponent's next turn. (This damage may be canceled)",
+    "flavorText": "I'm going to do my best, to make everyone happy♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_076.png"
+    }
+  },
+  {
+    "id": "LL/W01-077",
+    "name": "\"Let's Go Out Together♪\" Kotori",
+    "setId": "ll_01",
+    "number": "077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【Reverse】 in battle, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 [(1)] Put the top card of your opponent's deck into your opponent's waiting room, choose a card in your opponent's waiting room, and put it on the top of your opponent's deck.",
+    "flavorText": "Were you waiting? …What? This is practice for a date, of course♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_077.png"
+    }
+  },
+  {
+    "id": "LL/W01-078",
+    "name": "Kotori in Regular Clothes",
+    "setId": "ll_01",
+    "number": "078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 If the number of your other characters is two or less, this card gets +1500 power.",
+    "flavorText": "Shall we… go somewhere together?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_078.png"
+    }
+  },
+  {
+    "id": "LL/W01-079",
+    "name": "Umi in Pajamas",
+    "setId": "ll_01",
+    "number": "079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"White Rabbit of Good Fortune\" Umi\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)",
+    "flavorText": "I-I'm not sure I feel comfortable walking around in my sleepwear…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_079.png"
+    }
+  },
+  {
+    "id": "LL/W01-080",
+    "name": "Honoka in Pajamas",
+    "setId": "ll_01",
+    "number": "080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【CONT】 All of your other 《Music》 characters get +500 power. 【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"I'm Gonna Eat It!\" Honoka\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Look at my pajamas! What do you think? What do you think?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_080.png"
+    }
+  },
+  {
+    "id": "LL/W01-081",
+    "name": "Kotori in Pajamas",
+    "setId": "ll_01",
+    "number": "081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"The Sheep's Feelings\" Kotori\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I really like these pajamas… But when you stare at me like that, I get embarrassed…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_081.png"
+    }
+  },
+  {
+    "id": "LL/W01-082",
+    "name": "Honoka in Regular Clothes",
+    "setId": "ll_01",
+    "number": "082",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1)] Choose one of your 《Music》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I want to practice a lot so I can be an amazing school idol♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_082.png"
+    }
+  },
+  {
+    "id": "LL/W01-083",
+    "name": "\"Let's Go Out Together♪\" Umi",
+    "setId": "ll_01",
+    "number": "083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "This is kinda fashionable♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_083.png"
+    }
+  },
+  {
+    "id": "LL/W01-084",
+    "name": "Student Council President, Honoka",
+    "setId": "ll_01",
+    "number": "084",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When this card becomes 【Reverse】 in battle, if the number of other 《Music》 characters you have is one or less, put this card into your clock.",
+    "flavorText": "Being the student council president is hard work～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_084.png"
+    }
+  },
+  {
+    "id": "LL/W01-085",
+    "name": "\"School idol festival\" Kotori",
+    "setId": "ll_01",
+    "number": "085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hand. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Leave the support to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_085.png"
+    }
+  },
+  {
+    "id": "LL/W01-086",
+    "name": "Designer, Kotori",
+    "setId": "ll_01",
+    "number": "086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your attack phase, if a card named \"Door to Our Dreams\" is in your climax area and this card is in your center stage, you may pay the cost. If you do, choose a level 0 or lower 《Music》 character in your waiting room, put it on any position of your stage, and this card gets +2000 power until end of turn.",
+    "flavorText": "After taking a break, I got all kinds of ideas.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_086.png"
+    }
+  },
+  {
+    "id": "LL/W01-087",
+    "name": "Honoka in Training Wear",
+    "setId": "ll_01",
+    "number": "087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "-",
+    "flavorText": "All right, let's sing together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_087.png"
+    }
+  },
+  {
+    "id": "LL/W01-088",
+    "name": "Attacking the Peak, Umi",
+    "setId": "ll_01",
+    "number": "088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【AUTO】 When a card named \"Door to Our Dreams\" is placed on your climax area, if this card is in your center stage, choose up to one level 0 or lower character in your waiting room, put it on any position of your stage, and this card gets +2000 power until end of turn.",
+    "flavorText": "We'll attack the peak!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_088.png"
+    }
+  },
+  {
+    "id": "LL/W01-089",
+    "name": "Umi in Training Wear",
+    "setId": "ll_01",
+    "number": "089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "We can keep working hard, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_089.png"
+    }
+  },
+  {
+    "id": "LL/W01-090",
+    "name": "Wonderful Rush",
+    "setId": "ll_01",
+    "number": "090",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_090.png"
+    }
+  },
+  {
+    "id": "LL/W01-091",
+    "name": "\"Let's Go Out Together♪\" Maki",
+    "setId": "ll_01",
+    "number": "091",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Heiress"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\". 【AUTO】 [(1) 【REST】 this card] When you use \"Change\", if this card is 【STAND】, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "If we don't hurry, we'll have to leave it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_091.png"
+    }
+  },
+  {
+    "id": "LL/W01-092",
+    "name": "\"Let's Go Out Together♪\" Hanayo",
+    "setId": "ll_01",
+    "number": "092",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Pl-Please wait! Don't leave me behind-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_092.png"
+    }
+  },
+  {
+    "id": "LL/W01-093",
+    "name": "Rin in Regular Clothes",
+    "setId": "ll_01",
+    "number": "093",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When you use \"Change\", choose up to two of your other characters, and those characters get +1 level until end of turn.",
+    "flavorText": "I want to play outside more than anything-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_093.png"
+    }
+  },
+  {
+    "id": "LL/W01-094",
+    "name": "Spotting an Idol! Hanayo",
+    "setId": "ll_01",
+    "number": "094",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "That was her!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_094.png"
+    }
+  },
+  {
+    "id": "LL/W01-095",
+    "name": "Hanayo in Pajamas",
+    "setId": "ll_01",
+    "number": "095",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power. 【AUTO】 Change [Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"No Brand Girls\" Hanayo\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I-I'm embarrassed, so please don't stare at me like that…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_095.png"
+    }
+  },
+  {
+    "id": "LL/W01-096",
+    "name": "\"Let's Go Out Together♪\" Rin",
+    "setId": "ll_01",
+    "number": "096",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to another open position of your center stage.",
+    "flavorText": "Huh? Do I have something on my face?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_096.png"
+    }
+  },
+  {
+    "id": "LL/W01-097",
+    "name": "Alpaca",
+    "setId": "ll_01",
+    "number": "097",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "-"
+    ],
+    "text": "【CONT】 If you would pay the \"Change\" cost for one of your characters, you may put this card into your waiting room instead of one or two cards from your stock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_097.png"
+    }
+  },
+  {
+    "id": "LL/W01-098",
+    "name": "Rin in Pajamas",
+    "setId": "ll_01",
+    "number": "098",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"Whimsical Girl\" Rin\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Ta-daa, these are my cat pajamas-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_098.png"
+    }
+  },
+  {
+    "id": "LL/W01-099",
+    "name": "Maki in Training Wear",
+    "setId": "ll_01",
+    "number": "099",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Heiress"
+    ],
+    "text": "【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power. 【AUTO】 [(2)] When a card named \"Tight Hug, and Closing In on \"love\"!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《Music》 character, put it on any position of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Yeah, I don't have time for breaks.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_099.png"
+    }
+  },
+  {
+    "id": "LL/W01-100",
+    "name": "Composing, Maki",
+    "setId": "ll_01",
+    "number": "100",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Heiress"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Door to Our Dreams\" is in your climax area and the number of other 《Music》 characters you have is two or more, you may pay the cost. If you do, search you deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_100.png"
+    }
+  },
+  {
+    "id": "LL/W01-101",
+    "name": "Maki in Regular Clothes",
+    "setId": "ll_01",
+    "number": "101",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Heiress"
+    ],
+    "text": "-",
+    "flavorText": "What's up? All right, let's go.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_101.png"
+    }
+  },
+  {
+    "id": "LL/W01-102",
+    "name": "Maki in Pajamas",
+    "setId": "ll_01",
+    "number": "102",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Pajamas"
+    ],
+    "text": "【AUTO】 Change [(3) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"\"You're My Next Catch\" Maki\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Hey! Hey! Go over there.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_102.png"
+    }
+  },
+  {
+    "id": "LL/W01-103",
+    "name": "Hanayo in Regular Clothes",
+    "setId": "ll_01",
+    "number": "103",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "This outfit… Isn't it a little weird?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_103.png"
+    }
+  },
+  {
+    "id": "LL/W01-104",
+    "name": "Rin in Training Wear",
+    "setId": "ll_01",
+    "number": "104",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "I'm thirsty from all that practice-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_104.png"
+    }
+  },
+  {
+    "id": "LL/W01-105",
+    "name": "Wailing Rin",
+    "setId": "ll_01",
+    "number": "105",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【Reverse】. you may draw a card. If you do, choose a card in your hand, and put it into your waiting room.\"",
+    "flavorText": "I thought we came to write lyrics-!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_105.png"
+    }
+  },
+  {
+    "id": "LL/W01-106",
+    "name": "Hanayo in Training Wear",
+    "setId": "ll_01",
+    "number": "106",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I'm going to try as hard as I possibly can!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_106.png"
+    }
+  },
+  {
+    "id": "LL/W01-107",
+    "name": "Tight Hug, and Closing In on \"love\"!",
+    "setId": "ll_01",
+    "number": "107",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_107.png"
+    }
+  },
+  {
+    "id": "LL/W01-108",
+    "name": "\"School idol festival\" Eli",
+    "setId": "ll_01",
+    "number": "108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Leave the support to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_108.png"
+    }
+  },
+  {
+    "id": "LL/W01-109",
+    "name": "\"School idol festival\" Rin",
+    "setId": "ll_01",
+    "number": "109",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "I'll support you-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_109.png"
+    }
+  },
+  {
+    "id": "LL/W01-110",
+    "name": "\"School idol festival\" Maki",
+    "setId": "ll_01",
+    "number": "110",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "Oh, alright. I'll help you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_110.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_110.png"
+    }
+  },
+  {
+    "id": "LL/W01-111",
+    "name": "\"School idol festival\" Nozomi",
+    "setId": "ll_01",
+    "number": "111",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.",
+    "flavorText": "I could tell you your fortune while you're helping me out?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_111.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_111.png"
+    }
+  },
+  {
+    "id": "LL/W01-112",
+    "name": "\"School idol festival\" Hanayo",
+    "setId": "ll_01",
+    "number": "112",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "I-I'll help with all my strength…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_112.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_112.png"
+    }
+  },
+  {
+    "id": "LL/W01-113",
+    "name": "\"School idol festival\" Nico",
+    "setId": "ll_01",
+    "number": "113",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "I'll help you♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_113.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_en_w01/LL_EN_W01_113.png"
+    }
+  },
+  {
+    "id": "LL/W28-PE01",
+    "name": "Love Live! School idol festival",
+    "setId": "ll_28",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Climax",
+    "color": "RED",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_w28/LL_W28_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_w28/LL_W28_PE01.png"
+    }
+  },
+  {
+    "id": "LL/WE19-PE02",
+    "name": "Both in Swimsuits, Honoka & Umi",
+    "setId": "ll_E19",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Swimsuit"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +2000 power until end of turn.",
+    "flavorText": "Honoka: \"It's……the ocean!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_we19/LL_WE19_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/l/ll_we19/LL_WE19_PE02.png"
+    }
+  }
+]
