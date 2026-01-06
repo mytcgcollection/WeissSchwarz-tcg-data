@@ -1,0 +1,915 @@
+[
+  {
+    "id": "aot_35",
+    "code": "AOT/35",
+    "name": "Attack on Titan",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "aot_50",
+    "code": "AOT/50",
+    "name": "Attack on Titan Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "aot_X04",
+    "code": "AOT/X04",
+    "name": "Attack On Titan: Final Season",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "apo_53",
+    "code": "APO/53",
+    "name": "Fate/Apocrypha",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ari_103",
+    "code": "ARI/103",
+    "name": "Arifureta: From Commonplace to World’s Strongest",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "aw_18",
+    "code": "AW/18",
+    "name": "Accel・World",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "aw_43",
+    "code": "AW/43",
+    "name": "Accel・World -Infinite Burst-",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "azl_102",
+    "code": "AZL/102",
+    "name": "Azur Lane",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "bfr_78",
+    "code": "BFR/78",
+    "name": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "bm_15",
+    "code": "BM/15",
+    "name": "BAKEMONOGATARI",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "bnj_BCS2019",
+    "code": "BNJ/BCS2019",
+    "name": "Batman Ninja",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "csm_96",
+    "code": "CSM/96",
+    "name": "Chainsaw Man",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ddm_88",
+    "code": "DDM/88",
+    "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "dg_02",
+    "code": "DG/02",
+    "name": "Disgaea",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fgo_75",
+    "code": "FGO/75",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fgo_87",
+    "code": "FGO/87",
+    "name": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fs_34",
+    "code": "FS/34",
+    "name": "Fate/stay night [Unlimited Blade Works]",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fs_36",
+    "code": "FS/36",
+    "name": "Fate/stay night [Unlimited Blade Works] Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fs_64",
+    "code": "FS/64",
+    "name": "Fate/stay night [Heaven’s Feel]",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fs_77",
+    "code": "FS/77",
+    "name": "Fate/stay night [Heaven's Feel] Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ft_02",
+    "code": "FT/02",
+    "name": "FAIRY TAIL ver.E",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "fz_17",
+    "code": "FZ/17",
+    "name": "Fate/Zero",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "gbs_63",
+    "code": "GBS/63",
+    "name": "PR Card 【Schwarz Side】",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ggo_BSF2019",
+    "code": "GGO/BSF2019",
+    "name": "SAO Alternative – Gun Gale Online –",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ggo_E50",
+    "code": "GGO/E50",
+    "name": "Love Live! School idol festival 2 MIRACLE LIVE!",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ggst_X06",
+    "code": "GGST/X06",
+    "name": "Guilty Gear -Strive-",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "gl_52",
+    "code": "GL/52",
+    "name": "GURREN LAGANN",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "gri_72",
+    "code": "GRI/72",
+    "name": "The Fruit of Grisaia",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "jj_66",
+    "code": "JJ/66",
+    "name": "JoJo's Bizarre Adventure: Golden Wind",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "jj_E41",
+    "code": "JJ/E41",
+    "name": "[EX] JoJo’s Bizarre Adventure: Stardust Crusaders",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "jj_E42",
+    "code": "JJ/E42",
+    "name": "[EX] JoJo’s Bizarre Adventure: Stone Ocean",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kc_25",
+    "code": "KC/25",
+    "name": "Kancolle",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kc_31",
+    "code": "KC/31",
+    "name": "Kancolle, 2nd Fleet",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kc_42",
+    "code": "KC/42",
+    "name": "KanColle : Arrival! Reinforcement Fleets from Europe!",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kc_E28",
+    "code": "KC/E28",
+    "name": "KanColle : Fleet in the Deep Sea, Sighted!",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kgl_79",
+    "code": "KGL/79",
+    "name": "Kaguya-sama: Love is War",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "kgl_SF2023",
+    "code": "KGL/SF2023",
+    "name": "Kaguya-sama: Love Is War?",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "klk_27",
+    "code": "KLK/27",
+    "name": "Power Up Set 2023 - KILL La KILL",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "lh_E20",
+    "code": "LH/E20",
+    "name": "Power Up Set 2023 - LOG HORIZON",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "mar_89",
+    "code": "MAR/89",
+    "name": "MARVEL",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "mde_E45",
+    "code": "MDE/E45",
+    "name": "[EX] MACROSS Delta",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "mk_11",
+    "code": "MK/11",
+    "name": "【Tutorial Deck】 Detective Opera Milky Holmes",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "mob_X02",
+    "code": "MOB/X02",
+    "name": "Mob Psycho 100",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "mti_83",
+    "code": "MTI/83",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ngl_58",
+    "code": "NGL/58",
+    "name": "No Game No Life",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "nik_117",
+    "code": "NIK/117",
+    "name": "Booster Pack GODDESS OF VICTORY: NIKKE",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "nm_24",
+    "code": "NM/24",
+    "name": "NISEMONOGATARI",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "osk_107",
+    "code": "OSK/107",
+    "name": "【OSHI NO KO】",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ovl_62",
+    "code": "OVL/62",
+    "name": "Nazarick: Tomb of the Undead",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "ovl_99",
+    "code": "OVL/99",
+    "name": "Nazarick: Tomb of the Undead Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "p3_E46",
+    "code": "P3/E46",
+    "name": "[EX] Premium Booster Persona 3 Reload™",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "p4_01",
+    "code": "P4/01",
+    "name": "Persona 4 ver.E",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "p5_45",
+    "code": "P5/45",
+    "name": "Persona 5",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "pd_22",
+    "code": "PD/22",
+    "name": "Hatsune Miku -Project DIVA- ƒ",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "pd_29",
+    "code": "PD/29",
+    "name": "Hatsune Miku: Project DIVA F 2nd",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "pi_04",
+    "code": "PI/04",
+    "name": "Fate/kaleid liner PRISMA ILLYA",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "pjs_91",
+    "code": "PJS/91",
+    "name": "Booster Pack HATSUNE MIKU: COLORFUL STAGE!",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "pxr_94",
+    "code": "PXR/94",
+    "name": "Booster Pack PIXAR CHARACTERS",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rkn_115",
+    "code": "RKN/115",
+    "name": "Booster Pack Rurouni Kenshin",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rsl_56",
+    "code": "RSL/56",
+    "name": "Revue Starlight",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rsl_69",
+    "code": "RSL/69",
+    "name": "Revue Starlight -Re LIVE-",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rsl_98",
+    "code": "RSL/98",
+    "name": "Revue Starlight The Movie",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rz_46",
+    "code": "RZ/46",
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rz_55",
+    "code": "RZ/55",
+    "name": "Re:ZERO -Starting Life in Another World- Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rz_68",
+    "code": "RZ/68",
+    "name": "Re:ZERO -Starting Life in Another World- Memory Snow",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "rz_E35",
+    "code": "RZ/E35",
+    "name": "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_100",
+    "code": "SAO/100",
+    "name": "Animation Sword Art Online 10th Anniversary",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_20",
+    "code": "SAO/20",
+    "name": "Sword Art Online",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_26",
+    "code": "SAO/26",
+    "name": "Sword Art Online Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_47",
+    "code": "SAO/47",
+    "name": "Sword Art Online Re: Edit",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_51",
+    "code": "SAO/51",
+    "name": "Sword Art Online The Movie – Ordinal Scale –",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_65",
+    "code": "SAO/65",
+    "name": "Sword Art Online -Alicization-",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_80",
+    "code": "SAO/80",
+    "name": "Sword Art Online -Alicization- Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_E23",
+    "code": "SAO/E23",
+    "name": "Sword Art Online II",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sao_E26",
+    "code": "SAO/E26",
+    "name": "Sword Art Online Ⅱ Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sds_X03",
+    "code": "SDS/X03",
+    "name": "The Seven Deadly Sins",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sds_X05",
+    "code": "SDS/X05",
+    "name": "The Seven Deadly Sins: Revival of The Commandments",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "sfn_108",
+    "code": "SFN/108",
+    "name": "Frieren: Beyond Journey’s End",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "spy_106",
+    "code": "SPY/106",
+    "name": "SPY x FAMILY",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "trv_92",
+    "code": "TRV/92",
+    "name": "Tokyo Revengers",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "tsk_101",
+    "code": "TSK/101",
+    "name": "That Time I Got Reincarnated as a Slime Vol.3",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "tsk_70",
+    "code": "TSK/70",
+    "name": "That Time I Got Reincarnated as a Slime",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "tsk_82",
+    "code": "TSK/82",
+    "name": "That Time I Got Reincarnated as a Slime Vol.2",
+    "language": "en",
+    "side": "S",
+    "releaseDate": "",
+    "images": {
+      "logo": ""
+    }
+  }
+]
