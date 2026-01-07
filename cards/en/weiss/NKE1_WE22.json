@@ -1,0 +1,927 @@
+[
+  {
+    "id": "NK/WE22-E01",
+    "name": "Unrivaled Beauty, Chitoge",
+    "number": "E01",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card attacks, choose one of your other level 2 or higher characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Haru : \"Who is this gorgeous girl……！！\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E01.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E02",
+    "name": "Pajama Party, Chitoge",
+    "number": "E02",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of your 《Weapon》 or 《Heiress》 characters is four or more, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Heiress》 characters. 【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Now！！ Comments, please！！？",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E02.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E03",
+    "name": "Magical Gorilla, Chitoge",
+    "number": "E03",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 Bond/\"Tsugumyaa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Tsugumyaa\" in your waiting room, and return it to your hand.)",
+    "flavorText": "So he's the master of evil!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E03.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E04",
+    "name": "To and From School, Raku",
+    "number": "E04",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E04.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E05",
+    "name": "New Life! Chitoge",
+    "number": "E05",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named \"But It's All About You\" is in your climax area, you may pay the cost. If you do, this card gets +6000 power until end of turn.",
+    "flavorText": "Oh, right…...\nI'm in love with someone now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E05.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E06",
+    "name": "Great Style! Chitoge",
+    "number": "E06",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 This ability activates up to one time per turn. When you use 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E06.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E07",
+    "name": "But It's All About You",
+    "number": "E07",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "What…... kind of relationship\ndo I want with him, exactly……　｛詰めてください、キャラクターの顔を隠すのが避けるように｝",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E07.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E08",
+    "name": "Neighbor, Haru",
+    "number": "E08",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Sweets》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Huh……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E08.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E09",
+    "name": "New Life! Haru",
+    "number": "E09",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Someday My Prince Will……\" is in your climax area, until the end of your opponent's next turn, your opponent cannot play event cards from hand. 【AUTO】 [(1)] When this card attacks, if a card named \"Someday My Prince Will……\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +3000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a card in your clock, and return it to your hand. If you do, put the top card of your deck into your clock.\"",
+    "flavorText": "I'm somehow getting the feeling that\nI'm about to embark on a splendid romance……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E09.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E10",
+    "name": "Tsugumyaa",
+    "number": "E10",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【ACT】 [【REST】 two of your 《Weapon》 or 《Heiress》 characters] This card gets +2500 power until end of turn.",
+    "flavorText": "Then should I assume my human form?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E10.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E11",
+    "name": "Swimsuit Haru",
+    "number": "E11",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Swimsuit"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Sweets》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Paula, you can't swim?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E11.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E12",
+    "name": "Pajama Party, Haru",
+    "number": "E12",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top three cards of your deck into your waiting room. If the number of 《Sweets》 characters among those cards is one or more, this card gets +3000 power until end of turn. If the number of 《Sweets》 characters among those cards is two or more, put up to one card from the top of your clock into your waiting room. If the number of 《Sweets》 characters among those cards is three or more, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\"",
+    "flavorText": "…… Did you see?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E12.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E13",
+    "name": "New Life! Seishiro",
+    "number": "E13",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) 【REST】 this card] Choose a green card in your clock, and return it to your hand. Choose a card in your hand, and put it into your clock.",
+    "flavorText": "……If you ever get stuck again,\nI might be inclined to help you out…….",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E13.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E14",
+    "name": "Haru's Friend, Fuu",
+    "number": "E14",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Camera",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Sweets》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Bond/\"New Life! Haru\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"New Life! Haru\" in your waiting room, and return it to your hand.)",
+    "flavorText": "……What? A prince……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E14.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E15",
+    "name": "Clue, Haru",
+    "number": "E15",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Sweets》 characters get +500 power. 【CONT】 Memory This card gets the following ability for each card named \"Promised Pendant\" in your opponent's memory. \"【CONT】 All of your other 《Sweets》 characters get +500 power.\"",
+    "flavorText": "My prince……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E15.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E16",
+    "name": "Paula McCoy",
+    "number": "E16",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Weapon》 or 《Heiress》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "……Don't give me that \"chan\" treatment, it's creepy.\nI'm here because the Black\nTiger summoned me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E16.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E17",
+    "name": "From Here On, Seishiro",
+    "number": "E17",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Weapon》 or 《Heiress》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "……Or do you have a problem?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E17.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E18",
+    "name": "Haru Onodera",
+    "number": "E18",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 When another of your 《Sweets》 characters attacks, this card gets +1000 power until end of turn. 【AUTO】 Encore [Put a card from the top of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "You are an upperclassman, aren't you…...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E18.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E19",
+    "name": "Beehive's “White Fang” Paula",
+    "number": "E19",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Heiress》 characters.",
+    "flavorText": "Or have you fallen\nin love with someone?　｛１行に詰めてください｝",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E19.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E20",
+    "name": "Someday My Prince Will……",
+    "number": "E20",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "You know…… I think he looks like\nthe guy from this morning…… But…... No way, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E20.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E21",
+    "name": "Magical Police Marika",
+    "number": "E21",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Police》 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Magical Police Marika, is here☆",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E21.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E22",
+    "name": "Marika's Dress Look",
+    "number": "E22",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 If you have another character with \"Raku(楽)\" in its card name, this card gets +3000 power.",
+    "flavorText": "The operation was a resounding success.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E22.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E23",
+    "name": "New Life! Marika",
+    "number": "E23",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character. 【ACT】 [(1)] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "Good morning to you~~!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E23.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E24",
+    "name": "Draw of the Shop, Haru",
+    "number": "E24",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Sweets》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You know, I really love their daifuku, too……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E24.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E25",
+    "name": "Freshman, Haru",
+    "number": "E25",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Sweets》 character.",
+    "flavorText": "As of today, I'm a first-year\nstudent in high school……!　｛詰めてください｝",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E25.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E26",
+    "name": "Magical Patissiere, Kosaki",
+    "number": "E26",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put this card into your waiting room] When a card named \"Contract Concluded☆\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Pajama Party, Kosaki\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "Yes, I understand! Rurin!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E26.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E26.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E27",
+    "name": "Pajama Party, Kosaki",
+    "number": "E27",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Contract Concluded☆\" is in your climax area, and all of your characters are 《Sweets》, search your deck for up to one 《Sweets》 character, reveal it to your opponent, and put it into your hand. Then, shuffle your deck, and this card gets +2500 power until the end of your opponent's next turn. 【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "…… But…… it's a slightly\nspecial kind of obligatory.　｛詰めてください｝",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E27.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E27.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E28",
+    "name": "Sisters Taking a Bath, Kosaki",
+    "number": "E28",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order. 【AUTO】 Bond/\"Draw of the Shop, Haru\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Draw of the Shop, Haru\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Well…… I'm not sure\nthat I can explain what it is……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E28.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E28.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E29",
+    "name": "Rurin",
+    "number": "E29",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "Oh☆ My hand somehow slipped～☆",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E29.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E29.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E30",
+    "name": "Fuu's Prank, Haru",
+    "number": "E30",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "I will never let・you…… get your hands on my sis?｛＿でわありません-です。｝",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E30.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E30.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E31",
+    "name": "Sisters Taking a Bath, Haru",
+    "number": "E31",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Kosaki(小咲)\" in its card name, this card cannot Stand@ during your stand phase. {小と咲の間のスペースを消してください}",
+    "flavorText": "I don't get it. What makes\nyou think he's a good person?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E31.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E31.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E32",
+    "name": "1/10000 Miracle, Kosaki",
+    "number": "E32",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Sweets》 character, put it into your clock. (If it is, return the revealed card to its original place.)",
+    "flavorText": "Huh!? Delicious!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E32.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E32.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E33",
+    "name": "New Life! Kosaki",
+    "number": "E33",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets -1500 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "But I'm so glad that we all\ngot to be in the same class.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E33.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E33.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E34",
+    "name": "Head Tilt Haru",
+    "number": "E34",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if all of your characters are 《Sweets》, and the character facing this card is level 3 or higher, this card gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E34.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E34.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E35",
+    "name": "New Life! Ruri",
+    "number": "E35",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.　｛詰めてください｝",
+    "flavorText": "The day they announced what class we'd be in,\nthis one was so happy she was in tears.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E35.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E35.png"
+    }
+  },
+  {
+    "id": "NK/WE22-E36",
+    "name": "Contract Concluded☆",
+    "number": "E36",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "……Is that really a magical girl's job……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E36.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_E36.png"
+    }
+  },
+  {
+    "id": "NK/WE22-PE01",
+    "name": "Scouting for a Magical Girl, Magical Patissiere, Kosaki",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Magic"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "What? You mean there are other magical girls besides me!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_we22/NK_WE22_PE01.png"
+    }
+  }
+]

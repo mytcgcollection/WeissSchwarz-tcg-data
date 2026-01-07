@@ -1,0 +1,3477 @@
+[
+  {
+    "id": "AT/WX02-001",
+    "name": "Finn the Human & Jake the Dog",
+    "number": "001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Experience If the total level of cards in your level is 4 or higher, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if \"The Call of Adventure\" is in your climax area, and all of your characters are 《Ooo》, you may pay the cost. If you do, this card gets the following 2 abilities until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent.\" \"【AUTO】 At the end of this card's attack, deal 2 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_001.png"
+    }
+  },
+  {
+    "id": "AT/WX02-002",
+    "name": "Finn the Human",
+    "number": "002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Experience If the total level of cards in your level is 5 or higher, this card gets +1500 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_002.png"
+    }
+  },
+  {
+    "id": "AT/WX02-003",
+    "name": "Finn: Heroic Pose",
+    "number": "003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Ooo》 characters, this card gets +2000 power. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_003.png"
+    }
+  },
+  {
+    "id": "AT/WX02-004",
+    "name": "Jake the Dog",
+    "number": "004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Ooo》 characters, this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other 《Ooo》 characters. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Ooo》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_004.png"
+    }
+  },
+  {
+    "id": "AT/WX02-005",
+    "name": "Jake: Mocking Imitation",
+    "number": "005",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Ooo》 characters among those cards ×1000. 【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"Escape from Ice Kingdom\" is in your climax area, and the total level of cards in your level is 2 or higher, you may choose 1 《Ooo》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm Finn the Human, and I stink at viola.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_005.png"
+    }
+  },
+  {
+    "id": "AT/WX02-006",
+    "name": "Finn: Trusty Weapon",
+    "number": "006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Memory If \"Scarlet, the Golden Sword of Battle\" is in your memory, this card gains the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_006.png"
+    }
+  },
+  {
+    "id": "AT/WX02-007",
+    "name": "Finn: What Was Missing",
+    "number": "007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 All of your other 《Ooo》 characters get +500 power and 《Music》. 【AUTO】 When this card is placed on the stage from your hand, reveal your hand, and this card gets 《Music》 until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "♪ You a-a-a-a-a-are my best friends in the world ♫",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_007.png"
+    }
+  },
+  {
+    "id": "AT/WX02-008",
+    "name": "Finn: Demonic Disguise",
+    "number": "008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Ooo》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+    "flavorText": "Paper plate mask, yo.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_008.png"
+    }
+  },
+  {
+    "id": "AT/WX02-009",
+    "name": "Jake: Demonic Disguise",
+    "number": "009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "Groaaar!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_009.png"
+    }
+  },
+  {
+    "id": "AT/WX02-010",
+    "name": "Jake: Infected",
+    "number": "010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room. 【AUTO】 [(1) At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_010.png"
+    }
+  },
+  {
+    "id": "AT/WX02-011",
+    "name": "Cake the Cat",
+    "number": "011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【CONT】 All of your other \"Fionna the Human\" get the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" 【CONT】 During your turn, all of your other 《Fanfiction》 characters get +2000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_011.png"
+    }
+  },
+  {
+    "id": "AT/WX02-012",
+    "name": "Flame Princess",
+    "number": "012",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters with \"Finn\" in its card name get +1000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Scarlet, the Golden Sword of Battle\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_012.png"
+    }
+  },
+  {
+    "id": "AT/WX02-013",
+    "name": "Finn & Jake: Working as a Team",
+    "number": "013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have an 《Ooo》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "My name is, uh… Magic… uh, Fist!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_013.png"
+    }
+  },
+  {
+    "id": "AT/WX02-014",
+    "name": "Finn: Prince Hotbod",
+    "number": "014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Experience If the total level of cards in your level is 2 or higher, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"The Creeps!\" is in your climax area, and you have 2 or more other 《Ooo》 characters, reveal the top 2 cards of your deck, your opponent chooses a character or event card from among them, you put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Prince Hotbod, at your service.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_014.png"
+    }
+  },
+  {
+    "id": "AT/WX02-015",
+    "name": "Jake: Finding His Buddy a New Love Interest",
+    "number": "015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ooo》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I am Sir Jake, Baron of the Grasslands",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_015.png"
+    }
+  },
+  {
+    "id": "AT/WX02-016",
+    "name": "Jake: What Was Missing",
+    "number": "016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If you have another \"Finn: What Was Missing\", this card gets +500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Jake: What Was Missing\" in your memory, and put it on any position of your stage.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_016.png"
+    }
+  },
+  {
+    "id": "AT/WX02-017",
+    "name": "BMO: Buttons Pushed",
+    "number": "017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "If I push this button-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_017.png"
+    }
+  },
+  {
+    "id": "AT/WX02-018",
+    "name": "BMO: Professor Pants",
+    "number": "018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Ooo》 characters get +500 power. 【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, draw 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_018.png"
+    }
+  },
+  {
+    "id": "AT/WX02-019",
+    "name": "Billy the Hero",
+    "number": "019",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 You cannot play event cards or \"Backup\" from hand.",
+    "flavorText": "Who's the greatest warrior ever? A hero of renown!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_019.png"
+    }
+  },
+  {
+    "id": "AT/WX02-020",
+    "name": "Fionna the Human",
+    "number": "020",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +2500 power for each of your other 《Fanfiction》 or card with \"Ice King\" in its card name in your back stage. 【AUTO】 [(1)] When damage dealt by this card is canceled, you may pay the cost. If you do, draw 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_020.png"
+    }
+  },
+  {
+    "id": "AT/WX02-021",
+    "name": "Joshua & Margaret",
+    "number": "021",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Demon Blood Sword\" in your waiting room, and return it to your hand. 【AUTO】 Bond/\"Finn the Human & Jake the Dog\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Finn the Human & Jake the Dog\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_021.png"
+    }
+  },
+  {
+    "id": "AT/WX02-022",
+    "name": "Finn: Protected from the Cold",
+    "number": "022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"His Hero\" is in your climax area, choose 1 of the 2 following abilities, and this card gets the chosen ability until end of turn. \"【CONT】 This card gets +2000 power.\" \"【CONT】 This card gets +1 soul.\" 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Ooo》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "I love it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_022.png"
+    }
+  },
+  {
+    "id": "AT/WX02-023",
+    "name": "Finn: Fireproof Suit",
+    "number": "023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "3",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 [Put 1 《Ooo》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Jake: Fireproof Suit\" in your waiting room, and put it on any position of your stage. 【AUTO】 [Put 1 《Ooo》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"N.E.P.T.R.\" in your waiting room, and put it on any position of your stage.",
+    "flavorText": "Flame Princess: \"You meanie!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_023.png"
+    }
+  },
+  {
+    "id": "AT/WX02-024",
+    "name": "Finn: Filled with Chaotic Evil",
+    "number": "024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Ooo》 characters, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put 1 \"The Nightosphere Amulet\" from your memory into your waiting room] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is an 《Ooo》 character, you may pay the cost. If you do, return this card to your hand. (Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_024.png"
+    }
+  },
+  {
+    "id": "AT/WX02-025",
+    "name": "Jake: Gold-Crazed",
+    "number": "025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, put this card into your stock. 【AUTO】 When your opponent's climax is placed on his or her climax area, you may put this card into your stock.",
+    "flavorText": "I'm not Jake, I'm the Gut Grinder!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_025.png"
+    }
+  },
+  {
+    "id": "AT/WX02-026",
+    "name": "Jake: Fireproof Suit",
+    "number": "026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 All of your other \"Finn: Fireproof Suit\" get +2000 power. 【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 2 of your characters] Look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_026.png"
+    }
+  },
+  {
+    "id": "AT/WX02-027",
+    "name": "Jake: Randy Butternubs",
+    "number": "027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When \"The Creeps!\" is placed on your climax area, if this card is in your center stage, and you have another \"Finn: Prince Hotbod\" and another \"BMO: Professor Pants\" and another \"Princess Bubblegum: Lady Quietbottom\", put up to 1 card from the top of your deck into your stock, and deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_027.png"
+    }
+  },
+  {
+    "id": "AT/WX02-028",
+    "name": "BMO: Noire",
+    "number": "028",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in your stage, this card gets 《Detective》. 【CONT】 This card gets +2000 power for each of your other \"BMO: Noire\" in your center stage. 【AUTO】 【CXCOMBO】 When this card attacks, if \"A Tough Case to Crack\" is in your climax area, you may choose 1 of your opponent's characters, and return it to his or her hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_028.png"
+    }
+  },
+  {
+    "id": "AT/WX02-029",
+    "name": "BMO: Beating Himself at His Own Game",
+    "number": "029",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your stock] Choose up to 1 \"BMO: Noire\" in your hand, and put it on the stage position that this card was on.\" 【ACT】 [【REST】 2 of your 《Ooo》 characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_029.png"
+    }
+  },
+  {
+    "id": "AT/WX02-030",
+    "name": "N.E.P.T.R.",
+    "number": "030",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 If you have another \"Finn: Fireproof Suit\" and another \"Jake: Fireproof Suit\", all of your characters get the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Finn: Fireproof Suit\", choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_030.png"
+    }
+  },
+  {
+    "id": "AT/WX02-031",
+    "name": "Super Freak",
+    "number": "031",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Ooo》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_031.png"
+    }
+  },
+  {
+    "id": "AT/WX02-032",
+    "name": "Demon Blood Sword",
+    "number": "032",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your characters, and put it into your waiting room. If you do, choose up to 2 of your opponent's characters, and return them to his or her hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_032.png"
+    }
+  },
+  {
+    "id": "AT/WX02-033",
+    "name": "Scarlet, the Golden Sword of Battle",
+    "number": "033",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. Reveal the top card of your deck. If that card is an 《Ooo》 character or event card, put it into your hand. (Otherwise, return it to its original place) 【CONT】 Memory During your turn, if this card is in your memory, all of your 《Ooo》 characters get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_033.png"
+    }
+  },
+  {
+    "id": "AT/WX02-034",
+    "name": "Card Wars!",
+    "number": "034",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a character with \"Jake\" in its card name, this card cannot be played from your hand. You Floop the Pig. Choose 1 of your characters, and that character gets +2500 power until end of turn. Put this card into your memory. 【REPLAY】 Floop the Pig Put the top 3 cards of your deck into your waiting room. If there are 2 or more level 0 or lower characters among those cards, you may choose 1 of your opponent's characters, and return it to his or her hand. If there are 2 or more level 1 or higher characters among those cards, you may choose 1 character in your waiting room, and return it to your hand. If there are 2 or more climax among those cards, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Look at you: you're a babe in the woods. Your beginner's luck ends this round.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_034.png"
+    }
+  },
+  {
+    "id": "AT/WX02-035",
+    "name": "The Call of Adventure",
+    "number": "035",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_035.png"
+    }
+  },
+  {
+    "id": "AT/WX02-036",
+    "name": "His Hero",
+    "number": "036",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Billy: \"It's as if your words are filling a void in my very being.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_036.png"
+    }
+  },
+  {
+    "id": "AT/WX02-037",
+    "name": "A Tough Case to Crack",
+    "number": "037",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_037.png"
+    }
+  },
+  {
+    "id": "AT/WX02-038",
+    "name": "The Creeps!",
+    "number": "038",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_038.png"
+    }
+  },
+  {
+    "id": "AT/WX02-039",
+    "name": "Escape from Ice Kingdom",
+    "number": "039",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_039.png"
+    }
+  },
+  {
+    "id": "AT/WX02-040",
+    "name": "Princess Bubblegum",
+    "number": "040",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 This ability activates up to 3 times per turn. When your other character is placed on the stage from your waiting room, this card gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 When \"Science!\" is placed on your climax area, if this card is in your center stage, and you have another 《Ooo》 character, this card gains the following 2 abilities until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 At the end of this card's attack, you may choose 1 《Ooo》 character in your waiting room, and put it into your stock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_040.png"
+    }
+  },
+  {
+    "id": "AT/WX02-041",
+    "name": "Princess Bubblegum: Sending Off on a Quest",
+    "number": "041",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "3000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.\" 【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent's characters, and return it to his or her hand.",
+    "flavorText": "Farewell, Finn the Human Boy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_041.png"
+    }
+  },
+  {
+    "id": "AT/WX02-042",
+    "name": "Marceline the Vampire Queen",
+    "number": "042",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 Memory If \"Remember You\" is in your memory, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When \"My Best Friends In The World\" is placed on your climax area, if this card is in your center stage, choose up to 2 cards in your opponent's waiting room, return them to your opponent's deck, your opponent shuffles his or her deck, and this card gets +1500 power and the following ability until end of turn. \"【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 3 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_042.png"
+    }
+  },
+  {
+    "id": "AT/WX02-043",
+    "name": "Marceline: I Remember You",
+    "number": "043",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 Memory If \"Remember You\" is in your memory, this card gets \"【CONT】 Assist All of your characters in front of this card get +500 power.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_043.png"
+    }
+  },
+  {
+    "id": "AT/WX02-044",
+    "name": "Princess Bubblegum: Possessed",
+    "number": "044",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Unlocking the Enchiridion\" in your waiting room, and return it to your hand. 【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_044.png"
+    }
+  },
+  {
+    "id": "AT/WX02-045",
+    "name": "Princess Bubblegum: Beauty and Brains",
+    "number": "045",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "The answer was so simple, I was too smart to see it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_045.png"
+    }
+  },
+  {
+    "id": "AT/WX02-046",
+    "name": "Princess Bubblegum: Lady Quietbottom",
+    "number": "046",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card or your other 《Ooo》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card to its original place) 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "According to the invitation, we're supposed to use mystery names.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_046.png"
+    }
+  },
+  {
+    "id": "AT/WX02-047",
+    "name": "Marceline: Monstrous",
+    "number": "047",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Ooo》 characters. 【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+    "flavorText": "What do you think of me now?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_047.png"
+    }
+  },
+  {
+    "id": "AT/WX02-048",
+    "name": "Marceline: What Was Missing",
+    "number": "048",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 During this card's battle, your opponent cannot play event cards from his or her hand. 【AUTO】 [(2) Put 1 card from your hand into your waiting room & Put 1 other character from your stage into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 \"Princess Bubblegum: What Was Missing\" in your waiting room, and put it on any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_048.png"
+    }
+  },
+  {
+    "id": "AT/WX02-049",
+    "name": "Wildberry Princess",
+    "number": "049",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_049.png"
+    }
+  },
+  {
+    "id": "AT/WX02-050",
+    "name": "Lady Rainicorn",
+    "number": "050",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "어 고마워 나도 재밌었어",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_050.png"
+    }
+  },
+  {
+    "id": "AT/WX02-051",
+    "name": "Princess Bubblegum: What Was Missing",
+    "number": "051",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Ooo》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_051.png"
+    }
+  },
+  {
+    "id": "AT/WX02-052",
+    "name": "Marceline: With Hambo",
+    "number": "052",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 Memory If there is a card in your memory, this card gets +3000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Ooo》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Hambo is my only friend. See?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_052.png"
+    }
+  },
+  {
+    "id": "AT/WX02-053",
+    "name": "Marceline: Filled with Chaotic Evil",
+    "number": "053",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 Memory If \"The Nightosphere Amulet\" is in your memory, this card gets +4000 power and the following ability. \"【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.\" 【CONT】 Memory If there are 2 or more cards in your memory, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand. If you do, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_053.png"
+    }
+  },
+  {
+    "id": "AT/WX02-054",
+    "name": "Teenaged Marceline",
+    "number": "054",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+    "flavorText": "Daddy…? Why?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_054.png"
+    }
+  },
+  {
+    "id": "AT/WX02-055",
+    "name": "Slime Princess",
+    "number": "055",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is an 《Ooo》 character or \"The Ice King's Schemes\", you may put this card into your memory. (Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_055.png"
+    }
+  },
+  {
+    "id": "AT/WX02-056",
+    "name": "Lady Rainicorn: Afraid for Her Love",
+    "number": "056",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_056.png"
+    }
+  },
+  {
+    "id": "AT/WX02-057",
+    "name": "Lord Monochromicorn",
+    "number": "057",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【CONT】 All of your other \"Prince Gumball\" get the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\" 【CONT】 All of your other 《Ooo》 or 《Fanfiction》 characters get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_057.png"
+    }
+  },
+  {
+    "id": "AT/WX02-058",
+    "name": "Marshall Lee",
+    "number": "058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack. 【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_058.png"
+    }
+  },
+  {
+    "id": "AT/WX02-059",
+    "name": "Prince Gumball",
+    "number": "059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_059.png"
+    }
+  },
+  {
+    "id": "AT/WX02-060",
+    "name": "Princess Bubblegum: Reconstituted",
+    "number": "060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 All of your other 《Ooo》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the number of cards you have in your memory.",
+    "flavorText": "Give me a hug, hero.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_060.png"
+    }
+  },
+  {
+    "id": "AT/WX02-061",
+    "name": "Princess Bubblegum: Infected",
+    "number": "061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, put it into your opponent's waiting room, your opponent chooses up to 1 level 0 or lower character in his or her waiting room, and puts it on the position that that character was on. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Muhrraaaaaarrgh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_061.png"
+    }
+  },
+  {
+    "id": "AT/WX02-062",
+    "name": "Marceline: Sanguine Form",
+    "number": "062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(1) Put this card into your waiting room] When \"Fry Song\" is placed on your climax area, you may pay the cost. If you do, choose up to 1 \"Marceline: Monstrous\" in your hand, and put it on the stage position that this card was on. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Your blood is mine!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_062.png"
+    }
+  },
+  {
+    "id": "AT/WX02-063",
+    "name": "Hot Dog Princess",
+    "number": "063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【ACT】 [Put 1 \"Muscle Princess\" from your hand into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_063.png"
+    }
+  },
+  {
+    "id": "AT/WX02-064",
+    "name": "Lumpy Space Princess",
+    "number": "064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 All of your other level 0 or lower characters get +1000 power. 【AUTO】 【CXCOMBO】 When \"Captured!\" is placed on your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0)",
+    "flavorText": "And she's, like, talking to a new nice king. And he's like totally single.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_064.png"
+    }
+  },
+  {
+    "id": "AT/WX02-065",
+    "name": "Muscle Princess",
+    "number": "065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_065.png"
+    }
+  },
+  {
+    "id": "AT/WX02-066",
+    "name": "Skeleton Princess",
+    "number": "066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power. 【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_066.png"
+    }
+  },
+  {
+    "id": "AT/WX02-067",
+    "name": "Turtle Princess",
+    "number": "067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【CONT】 Memory If there are 2 or more 《Ooo》 characters in your memory, this card gets +1500 power. 【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_067.png"
+    }
+  },
+  {
+    "id": "AT/WX02-068",
+    "name": "Bob & Ethel Rainicorn",
+    "number": "068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 Bond/\"Lady Rainicorn: Afraid for Her Love\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Lady Rainicorn: Afraid for Her Love\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_068.png"
+    }
+  },
+  {
+    "id": "AT/WX02-069",
+    "name": "Remember You",
+    "number": "069",
+    "rarity": "R",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 《Ooo》 character in your waiting room, return it to your hand, and put this card into your memory. 【AUTO】 Memory [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_069.png"
+    }
+  },
+  {
+    "id": "AT/WX02-070",
+    "name": "The Nightosphere Amulet",
+    "number": "070",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have an 《Ooo》 or 《Nightosphere》 character, this card cannot be played from your hand. You may choose 1 of your characters with \"Marceline\" in its card name, and put it into your waiting room. If you do, choose 1 \"Marceline: Filled with Chaotic Evil\" in your waiting room, and put it on any position of your stage. Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_070.png"
+    }
+  },
+  {
+    "id": "AT/WX02-071",
+    "name": "My Best Friends In The World",
+    "number": "071",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "♪ I'm gonna sing a song to you, and I refuse to make it fake ♫",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_071.png"
+    }
+  },
+  {
+    "id": "AT/WX02-072",
+    "name": "Science!",
+    "number": "072",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_072.png"
+    }
+  },
+  {
+    "id": "AT/WX02-073",
+    "name": "Fry Song",
+    "number": "073",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "♪ Daddy, why did you eat my fries ♫",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_073.png"
+    }
+  },
+  {
+    "id": "AT/WX02-074",
+    "name": "Captured!",
+    "number": "074",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Nice King: \"Ladies! I'll have time to meet you individually later, please, just stop squirming.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_074.png"
+    }
+  },
+  {
+    "id": "AT/WX02-075",
+    "name": "Ice King: The King of Ice",
+    "number": "075",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Memory If there are 2 or more \"Remember You\" in your memory, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hand.\"",
+    "flavorText": "And you're violating Ice World law! Trespassing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_075.png"
+    }
+  },
+  {
+    "id": "AT/WX02-076",
+    "name": "Ice King",
+    "number": "076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Memory If \"Skeleton Princess\" and \"Slime Princess\" and \"Turtle Princess\" and \"Wildberry Princess\" are in your memory, this card gets -1 level and -2 cost while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 Memory [(1) Put 1 \"Skeleton Princess\" and 1 other \"Slime Princess\" and 1 other \"Turtle Princess\" and 1 other \"Wildberry Princess\" from your memory into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I collect princesses because I want to marry one.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_076.png"
+    }
+  },
+  {
+    "id": "AT/WX02-077",
+    "name": "Ice King: I Remember You",
+    "number": "077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Ooo》 or 《Fanfiction》 characters get +1000 power. 【CONT】 If you have another \"Marceline: I Remember You\", all of your other characters get +500 power. 【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Wow, I wrote that? Hot stuff!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_077.png"
+    }
+  },
+  {
+    "id": "AT/WX02-078",
+    "name": "The Lich",
+    "number": "078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is an 《Ooo》 character or \"Unlocking the Enchiridion\", put it into your hand. (Otherwise, return it to its original place) 【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room & Put 1 \"Ultimate Evil\" from your climax area into your waiting room] When this card attacks, you may pay the cost. If you do, put all level 3 or lower characters in your opponent's center stage into his or her waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_078.png"
+    }
+  },
+  {
+    "id": "AT/WX02-079",
+    "name": "Hunson Abadeer",
+    "number": "079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Nightosphere",
+      "Evil"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put all cards in your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of your opponent's deck into his or her stock. 【AUTO】 When this card is put into your waiting room from the stage, you may choose 1 \"The Nightosphere Amulet\" in your waiting room, and put it into your memory.",
+    "flavorText": "Marceline?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_079.png"
+    }
+  },
+  {
+    "id": "AT/WX02-080",
+    "name": "Hunson Abadeer: Chaotic Evil",
+    "number": "080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Nightosphere",
+      "Evil"
+    ],
+    "text": "【CONT】 Memory If \"The Nightosphere Amulet\" is in your memory, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Ooo》 or 《Nightosphere》 characters, you may choose 1 character in your clock, and put it into your memory. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Ruler of the Nightosphere\" is in your climax area, you may put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_080.png"
+    }
+  },
+  {
+    "id": "AT/WX02-081",
+    "name": "Kitten",
+    "number": "081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Memory If \"Demonic Wishing Eye\" is in your memory, this card gets +6000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_081.png"
+    }
+  },
+  {
+    "id": "AT/WX02-082",
+    "name": "Ice King: Nice King?",
+    "number": "082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Memory If there is a card in your memory, this card gets +1500 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Prisoners of Love\" is in your climax area, search your deck for up to 1 《Ooo》 or 《Fanfiction》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "With my rod of niceness I dub thee two my nice knights.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_082.png"
+    }
+  },
+  {
+    "id": "AT/WX02-083",
+    "name": "Ice King: Past Self",
+    "number": "083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Remember You\" in your waiting room, and return it to your hand. 【AUTO】 [Put 1 《Ooo》 character from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, if you have 2 or more other 《Ooo》 characters and 2 or less cards in your memory, you may pay the cost. If you do, search your deck for up to 1 character with \"Marceline\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_083.png"
+    }
+  },
+  {
+    "id": "AT/WX02-084",
+    "name": "Gunter",
+    "number": "084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or higher, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0) 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "Wenk.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_084.png"
+    }
+  },
+  {
+    "id": "AT/WX02-085",
+    "name": "The Lich: Possessing Billy",
+    "number": "085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Memory If \"Billy the Hero\" is in your memory, this card gets +6000 power. 【CONT】 Memory If there are 2 or more 《Ooo》 characters in your memory, this card gains the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_085.png"
+    }
+  },
+  {
+    "id": "AT/WX02-086",
+    "name": "Earl of Lemongrab",
+    "number": "086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_086.png"
+    }
+  },
+  {
+    "id": "AT/WX02-087",
+    "name": "Ice Queen",
+    "number": "087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fanfiction",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character with level higher than your opponent's level in his or her back stage. That character cannot 【STAND】 during your opponent's next stand phase. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_087.png"
+    }
+  },
+  {
+    "id": "AT/WX02-088",
+    "name": "Magic Man",
+    "number": "088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.",
+    "flavorText": "Finn: \"You're just a big jerk!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_088.png"
+    }
+  },
+  {
+    "id": "AT/WX02-089",
+    "name": "Ricardio the Heart Guy",
+    "number": "089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Ooo》 character, this card gets +1500 power. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Ooo》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_089.png"
+    }
+  },
+  {
+    "id": "AT/WX02-090",
+    "name": "Gunter: Demonic Wishing Eye",
+    "number": "090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 Bond/\"Kitten\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Kitten\" in your waiting room, and return it to your hand) 【ACT】 [【REST】 this card] Choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_090.png"
+    }
+  },
+  {
+    "id": "AT/WX02-091",
+    "name": "Gunter: Giant Penguin Monster",
+    "number": "091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if there are 2 or more cards in your memory, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_091.png"
+    }
+  },
+  {
+    "id": "AT/WX02-092",
+    "name": "The Lich: Possessing Snail",
+    "number": "092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When your \"Princess Bubblegum: Possessed\" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】. 【ACT】 [(2) Put 1 \"Billy the Hero\" on your stage and this card into your memory] Choose 1 \"The Lich: Possessing Billy\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_092.png"
+    }
+  },
+  {
+    "id": "AT/WX02-093",
+    "name": "Princess Monster Wife",
+    "number": "093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Ice King\" in its card name, this card cannot 【STAND】 during your stand phase. 【CONT】 This card gets +1500 power for each marker underneath this card. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Royalty》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_093.png"
+    }
+  },
+  {
+    "id": "AT/WX02-094",
+    "name": "King of Mars",
+    "number": "094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Mars",
+      "-"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, put that character on the stage position it was on as 【REST】. 【ACT】 [(1)] Choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_094.png"
+    }
+  },
+  {
+    "id": "AT/WX02-095",
+    "name": "Demonic Wishing Eye",
+    "number": "095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 2 \"Kitten\", put them on separate positions of your stage, and shuffle your deck. Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_095.png"
+    }
+  },
+  {
+    "id": "AT/WX02-096",
+    "name": "The Ice King's Schemes",
+    "number": "096",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a character with \"Ice King\" in its card name, this card cannot be played from your hand. Choose 1 of your 《Ooo》 characters, and that character gets +2500 power until end of turn. At the end of the turn, put that character into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_096.png"
+    }
+  },
+  {
+    "id": "AT/WX02-097",
+    "name": "Unlocking the Enchiridion",
+    "number": "097",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_097.png"
+    }
+  },
+  {
+    "id": "AT/WX02-098",
+    "name": "Prisoners of Love",
+    "number": "098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_098.png"
+    }
+  },
+  {
+    "id": "AT/WX02-099",
+    "name": "Ruler of the Nightosphere",
+    "number": "099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_099.png"
+    }
+  },
+  {
+    "id": "AT/WX02-100",
+    "name": "Ultimate Evil",
+    "number": "100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_100.png"
+    }
+  },
+  {
+    "id": "AT/WX02-101",
+    "name": "Finn: Let's Play!",
+    "number": "101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Experience If the total level of cards in your level is 2 or higher, this card gets +2000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_101.png"
+    }
+  },
+  {
+    "id": "AT/WX02-102",
+    "name": "Jake: Let's Play!",
+    "number": "102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000. 【ACT】 [(1)] This card gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_102.png"
+    }
+  },
+  {
+    "id": "AT/WX02-103",
+    "name": "Princess Bubblegum: Let's Play!",
+    "number": "103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Ooo》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_103.png"
+    }
+  },
+  {
+    "id": "AT/WX02-104",
+    "name": "Marceline: Let's Play!",
+    "number": "104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】. 【CONT】 Memory If there are 2 or more cards in your memory, this card gets +2000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_104.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A01",
+    "name": "Finn: Everything In!",
+    "number": "A01",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "－",
+    "flavorText": "And then we can\n♪ get down ♫!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A01.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A02",
+    "name": "Jake: Bacon Pancakes",
+    "number": "A02",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Bacon pancakes, makin' bacon pancakes,\nTake some bacon and I'll put it in a pancake,\nBacon pancakes, that's what it's gonna make,\nBacon pancaaake!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A02.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A03",
+    "name": "Finn: Puncha Yo Buns!",
+    "number": "A03",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Memory of a Memory\" is in your climax area, you may draw 1 card.",
+    "flavorText": "I’m a tough tooting baby, I can punch-ah your buns,\npunch-ah your buns, I can punch all your buns!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A03.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A04",
+    "name": "Jake: Date at Sunset",
+    "number": "A04",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Anyway, I’m here now, my lady, and I have brought to you half an orange.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A04.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A05",
+    "name": "BMO: Conversation Parade",
+    "number": "A05",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "#9834; What do you think about the stars in the sky? ♫",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A05.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A06",
+    "name": "Finn & Jake: Rainy Day Daydream",
+    "number": "A06",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+    "flavorText": "I'll kill you, troll!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A06.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A07",
+    "name": "Quest Received!",
+    "number": "A07",
+    "rarity": "DD",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Finn: \"You know what time it is, buddy?\"\nJake: \"Adventure Time?!\"\nFinn: \"Yeah, man!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A07.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A08",
+    "name": "Memory of a Memory",
+    "number": "A08",
+    "rarity": "DD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Marceline: \"Finn, what’s going on? What is this place?\"\nFinn: \"It’s my old house. That magic powder put you in my memories.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A08.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A09",
+    "name": "Lumpy Space Princess: Unimpressed",
+    "number": "A09",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Yah, there’s an antidote. But you have to go all the way to lumpy space to get it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A09.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A10",
+    "name": "Princess Bubblegum: Tea Ceremony Adept",
+    "number": "A10",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 Bond/\"Marceline: Party Crasher\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Marceline: Party Crasher\" in your waiting room, and return it to your hand)",
+    "flavorText": "Oh, don’t worry, Finn.\nThe mallow tea ceremony takes years to master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A10.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A11",
+    "name": "Lady Rainicorn: Date at Sunset",
+    "number": "A11",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "고마워♥",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A11.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A12",
+    "name": "Marceline: Party Crasher",
+    "number": "A12",
+    "rarity": "DD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Ooo》 characters.",
+    "flavorText": "Thanks for fixing the place up for me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A12.png"
+    }
+  },
+  {
+    "id": "AT/WX02-A13",
+    "name": "Adventure Time!",
+    "number": "A13",
+    "rarity": "DD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/AT_WX02_A13.png"
+    }
+  },
+  {
+    "id": "AT/WX02-P01A",
+    "name": "Finn & Jake: Adventure Time!",
+    "number": "P01A",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_P01A.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_P01A.png"
+    }
+  },
+  {
+    "id": "AT/WX02-P02",
+    "name": "Princess Bubblegum: Gauntleted Fists",
+    "number": "P02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your deck into your waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "And now, Ice King, prepare to howl with… pain?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_P02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_P02.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T01",
+    "name": "Finn: Home Remedy",
+    "number": "T01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "Then let's just give him some uh… purple whatevers.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T01.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T02",
+    "name": "Finn: Pledge of Ultimate Responsibility",
+    "number": "T02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "-",
+    "flavorText": "Aw man, this sucks.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T02.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T03",
+    "name": "Jake: Don't Roast Them!",
+    "number": "T03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, choose 1 of your other characters with \"Finn\" in its card name, and that character gets +1000 power until end of turn.",
+    "flavorText": "You gotta flambé!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T03.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T04",
+    "name": "BMO: Movie Filming Time",
+    "number": "T04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T04.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T05",
+    "name": "Finn & Jake: Gauntlet Dock Cleared!",
+    "number": "T05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 All of your other \"Marceline: Vampiric Tendencies\" get +1000 power. 【AUTO】 Bond/\"Marceline: Vampiric Tendencies\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Marceline: Vampiric Tendencies\" in your waiting room, and return it to your hand)",
+    "flavorText": "Haha, yeah! Woo!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T05.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T06",
+    "name": "Jake: No Longer Pure",
+    "number": "T06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "-",
+    "flavorText": "Huh? What? What boots?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T06.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T07",
+    "name": "Finn: Daily Diligence",
+    "number": "T07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If you have another \"Princess Bubblegum: Casual\", this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\" 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000.",
+    "flavorText": "They come every day at 4 o'clock, on the dot.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T07.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T08",
+    "name": "BMO: Doing Strange Things When Nobody's Around",
+    "number": "T08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T08.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T09",
+    "name": "Finn & Jake: Heroes of Ooo",
+    "number": "T09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Hero"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +1000 power. 【AUTO】 When damage dealt by this card is canceled, this card gets +2000 power until end of turn. 【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T09.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T10",
+    "name": "Vampire Kick",
+    "number": "T10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T10.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T11",
+    "name": "Imagination Hyperdrive",
+    "number": "T11",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "I can imagine everything!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T11.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T12",
+    "name": "Princess Bubblegum: Casual",
+    "number": "T12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When your other 《Ooo》 character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T12.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T13",
+    "name": "Princess Bubblegum: Stately Gown",
+    "number": "T13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Whistling Choir Deathmatch Championship Practice\" is in your climax area, and you have another 《Ooo》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Sorry Finn. I'm busy practicing for the Whistling Choir Deathmatch Championship.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T13.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T14",
+    "name": "Emerald Princess",
+    "number": "T14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Ooo》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T14.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T15",
+    "name": "Marceline: Vampiric Tendencies",
+    "number": "T15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T15.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T16",
+    "name": "Engagement Ring Princess",
+    "number": "T16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ooo》 character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T16.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T17",
+    "name": "Lady Rainicorn: Universally Understood",
+    "number": "T17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Ooo",
+      "Magic"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "And then I ate all the peaches in the orchard!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T17.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T18",
+    "name": "Marceline: Fond of Pranks",
+    "number": "T18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Ooo",
+      "Vampire"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, choose 1 of your other 《Ooo》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×500.",
+    "flavorText": "Dang man, I didn't think you'd ever catch on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T18.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T19",
+    "name": "Don't Eat Those",
+    "number": "T19",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 2 characters in your waiting room, and return them to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T19.png"
+    }
+  },
+  {
+    "id": "AT/WX02-T20",
+    "name": "Whistling Choir Deathmatch Championship Practice",
+    "number": "T20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/a/at_wx02/AT_WX02_T20.png"
+    }
+  }
+]

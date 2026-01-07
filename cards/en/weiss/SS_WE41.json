@@ -1,0 +1,1527 @@
+[
+  {
+    "id": "SS/WE41-E01",
+    "name": "Growing Up in This City, Shana",
+    "number": "E01",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Experience When this card attacks, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Reach out and I'll get through...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E01.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E02",
+    "name": "Shana in a Maid Outfit",
+    "number": "E02",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 When this card attacks, choose 1 of your other 《Flame》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Flame》 characters you have ×500.",
+    "flavorText": "If I say we can, then we can!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E02.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E03",
+    "name": "Shana Hesitating",
+    "number": "E03",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【CONT】 All of your other 《Flame》 characters get +500 power. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.\"",
+    "flavorText": "That really is a strange torch.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E03.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E04",
+    "name": "Shana in a Swimsuit",
+    "number": "E04",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【CONT】 Experience This card gets +1 level and +2000 power for each 《Flame》 character in your level. 【AUTO】 【CXCOMBO】 At the beginning of your encore step, if \"Unable to Help Her Own Feelings\" is in your climax area, and you have 2 or more other 《Flame》 characters, look at up to 4 cards from the top of your deck, choose up to 1 《Flame》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Shut up! Shut up! Shut up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E04.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E05",
+    "name": "Shana in a Chinese Dress",
+    "number": "E05",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Flame》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "Ha!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E05.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E06",
+    "name": "Dressed Up, Shana",
+    "number": "E06",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "Well? Alastor?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E06.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E07",
+    "name": "Captured Shana",
+    "number": "E07",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Flame》 characters you have ×1000.",
+    "flavorText": "I was so scared of his touch...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E07.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E08",
+    "name": "Fumina Konoe",
+    "number": "E08",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Mystery",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Flame》 characters or characters with \"Konoe(近衛)\" in its card name, and that character gets +1500 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Time of Confrontation, Hecate\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "I'm sorry...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E08.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E09",
+    "name": "Clumsy Shana",
+    "number": "E09",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if all of your characters are 《Flame》, you may put the top card of your deck into your stock. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "You've gotta be with me, Yuji!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E09.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E10",
+    "name": "Peculiar \"Torch\", Yuji",
+    "number": "E10",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Precious Tool"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Flame》 characters, you cannot receive damage by 【AUTO】 effects of your opponent's characters. 【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.",
+    "flavorText": "Then your name is Shana! That's what I'll call you from now on!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E10.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E11",
+    "name": "Student of Misaki High, Shana",
+    "number": "E11",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 When your other 《Flame》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Flame》 characters you have ×500. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Hmm... Well... I'm not telling you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E11.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E12",
+    "name": "Kazumi Yoshida",
+    "number": "E12",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Love",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "I can say it. I can do it. It's all right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E12.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E13",
+    "name": "Feelings Never Felt Before, Shana",
+    "number": "E13",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 Change [(1) Put 2 《Flame》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Outstanding Vessel, Shana\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "I want to connect with Yuji.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E13.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E14",
+    "name": "Shana in Summer Clothes",
+    "number": "E14",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【CONT】 If you have \"Peculiar \"Torch\", Yuji\" and \"Shana & Alastor\", this card gets -1 level while in your hand. 【CONT】 This card gets +500 power for each of your other 《Flame》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "It's natural for summers to be hot.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E14.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E15",
+    "name": "\"Flame Haze\" Shana",
+    "number": "E15",
+    "rarity": "N",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Flame》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Wanting to Confirm Her Feelings\" is in your climax area, this card gets the color red until end of turn, and you may pay the cost up to 5 times. Perform the following action X times. \"Put the bottom 3 cards of your opponent's deck into their waiting room. If there is a climax among those cards, deal 1 damage to your opponent.\" X is equal to the number of times you paid the cost +1. (Damage may be canceled)",
+    "flavorText": "I don't have a name. I'm only a Flame Haze.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E15.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E16",
+    "name": "The Start of Clear Autumn Festival",
+    "number": "E16",
+    "rarity": "N",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a 《Flame》 or 《Love》 character, this card cannot be played from your hand. Look at up to 4 cards from the top of your deck, choose up to 1 《Flame》 or 《Love》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Shana: \"This is likely gonna be fun.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E16.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E17",
+    "name": "The Day Yuji Disappeared",
+    "number": "E17",
+    "rarity": "N",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 2 《Flame》 characters, reveal them to your opponent, put them into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck. Put this card into your memory.",
+    "flavorText": "Yuji...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E17.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E18",
+    "name": "Unable to Help Her Own Feelings",
+    "number": "E18",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Yuji is... Yuji is my... my...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E18.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E19",
+    "name": "Wanting to Confirm Her Feelings",
+    "number": "E19",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E19.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E20",
+    "name": "Shana & Alastor",
+    "number": "E20",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, if you have another \"Peculiar \"Torch\", Yuji\", choose 1 of your 《Flame》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "Alastor: \"Shana. You shall decide for yourself what path you wish to take.\"\nShana: \"Yeah.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E20.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E21",
+    "name": "Margery & Marchosias",
+    "number": "E21",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Book"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Now then... Let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E21.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E22",
+    "name": "Apostle of Destruction, Shana",
+    "number": "E22",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 《Flame》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Stay sharp, Yuji.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E22.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E23",
+    "name": "Unrivalled Love for Melon Bread, Shana",
+    "number": "E23",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Melon Bread"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Flame》 characters you have. 【AUTO】 When a climax is placed on your opponent's climax area, you may put this card into your stock.",
+    "flavorText": "This \"crisp spongy\" sensation on the palate is important. Know what I mean?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E23.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E24",
+    "name": "Love Is All, Shana",
+    "number": "E24",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Flame》 characters get +500 power. 【AUTO】 【CXCOMBO】 When \"To The New World\" is placed on your climax area, if you have 2 or more other 《Flame》 characters, you may choose 1 level 0 or lower 《Flame》 character in your waiting room, and put it in any position of your stage.",
+    "flavorText": "Alastor: \"Shall we go to the new world, Xanadu?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E24.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E25",
+    "name": "Undaunted Heart, Shana",
+    "number": "E25",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0) 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Flame》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm... going to destroy you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E25.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E26",
+    "name": "Beautiful Maiden of \"Peerless Combatant Skills\", Wilhelmina",
+    "number": "E26",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Maid"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Flame》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +X power until end of turn. X is equal to that character's level ×500. 【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it into your opponent's waiting room.",
+    "flavorText": "I cannot let you pass, indeed!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E26.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E26.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E27",
+    "name": "\"Mobilizer of Ceremonial Equipment\" Khamsin Nbh'w",
+    "number": "E27",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Sacred Object"
+    ],
+    "text": "【CONT】 You cannot play events or \"Backup\" from your hand.",
+    "flavorText": "There's no danger. We're just here to fix the distortion that has occurred to this city.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E27.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E27.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E28",
+    "name": "“Improvisational Poem of Slaughter” Margery",
+    "number": "E28",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Book"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Margery: \"Save your crap...\"\nMarcosias: \"...for the afterlife!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E28.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E28.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E29",
+    "name": "Alastor's Contractor, Shana",
+    "number": "E29",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Flame》 characters, this card gets +1 level and +500 power. 【CONT】 If this card is level 2 or higher, this card gets +3000 power.",
+    "flavorText": "Never heard of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E29.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E29.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E30",
+    "name": "Betting All on This Sword, Shana",
+    "number": "E30",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "It isn't over yet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E30.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E30.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E31",
+    "name": "“Flame Haze” Wilhelmina",
+    "number": "E31",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Maid"
+    ],
+    "text": "【CONT】 Experience During your turn, if the total level of the cards in your level is 2 or higher, this card gets +2000 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\" 【AUTO】 [【REST】 1 of your other 《Flame》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, exchange them, choose up to 1 of your characters, and that character gets +1 level until end of turn.",
+    "flavorText": "The real battle is just beginning, indeed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E31.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E31.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E32",
+    "name": "Wings of Crimson, Shana",
+    "number": "E32",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock. 【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"I Can Do Anything\" is in your climax area, and you have another 《Flame》 character, look at up to 2 cards from the top of your deck, choose up to 2 events or 《Flame》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "Why is it? My body's responding. And I'm feeling... hot!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E32.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E32.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E33",
+    "name": "Things to Protect, Shana",
+    "number": "E33",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Flame》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 Experience When this card attacks, if \"The Power of Emotions\" is in your climax area, and the total level of the cards in your level is 2 or higher, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Flame》 character in your waiting room, and return it to your hand. If X is equal to 2 or higher, this card gets +1 soul until end of turn. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "Yuji! I'll save you, no matter what!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E33.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E33.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E34",
+    "name": "\"Manipulator of Objects\" Wilhelmina Carmel",
+    "number": "E34",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Maid"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Flame》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "You're to stay with me a little longer, indeed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E34.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E34.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E35",
+    "name": "\"Chanter of Elegies\" Margery Daw",
+    "number": "E35",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Book"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Flame》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Margery: \"Let's blast him, Marcosias!\"\nMarcosias: \"Right on! We'll kill them, destroy them, chew them to pieces!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E35.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E35.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E36",
+    "name": "Prideful One, Shana",
+    "number": "E36",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《Flame》 characters. 【AUTO】 When your other 《Flame》 character attacks, this card gets +1500 power until end of turn. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
+    "flavorText": "But to me, you're a nuisance!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E36.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E36.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E37",
+    "name": "Path to Walk With Yuji, Shana",
+    "number": "E37",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Flame》 characters, this card gets -1 level while in your hand. 【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +500 power and the following ability. \"【AUTO】 When this card attacks, choose 1 of your 《Flame》 characters, and that character gets +1500 power until end of turn.\" 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "I know what you're thinking. But I want to hear what you're feeling.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E37.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E37.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E38",
+    "name": "Shana & Yuji",
+    "number": "E38",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power and the following ability. \"【AUTO】 [(3) Put 1 《Flame》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 2 damage to your opponent.\" (Damage may be canceled) 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Shana: \"You can do it, Yuji. I know you can grow stronger!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E38.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E38.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E39",
+    "name": "Outstanding Vessel, Shana",
+    "number": "E39",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2)] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Tenpa Josai\" is in your climax area, and you have 2 or more other 《Flame》 characters, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"【STAND】 this card.\" \"Choose up to 3 characters in your waiting room, return them to your hand, return all cards from your waiting room to your deck, and shuffle your deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E39.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E39.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E40",
+    "name": "Tiamat's Contractor, Wilhelmina",
+    "number": "E40",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Flame》 characters you have ×500. 【AUTO】 [【REST】 1 of your characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck. 【ACT】 [Put 1 card from your hand into your waiting room] Choose 1 of your 《Flame》 characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "The Persona god vessel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E40.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E40.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E41",
+    "name": "\"Goblet of Beauty\" Margery",
+    "number": "E41",
+    "rarity": "N",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Book"
+    ],
+    "text": "【CONT】 This card cannot be chosen by your opponent's effects. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【ACT】 [Put 1 《Flame》 character from your hand into your waiting room] Choose 1 of your characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Why don't both of us fight like never before?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E41.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E41.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E42",
+    "name": "Unwavering Heart",
+    "number": "E42",
+    "rarity": "N",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Flame》 character, this card cannot be played from your hand. Choose 1 cost 1 or lower character in your opponent's back stage, and put it into their waiting room.",
+    "flavorText": "No one else will do it, so we will. With all our wit, and all our might. We shall weave our plans, and win the victory.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E42.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E42.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E43",
+    "name": "To The New World",
+    "number": "E43",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E43.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E43.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E44",
+    "name": "I Can Do Anything",
+    "number": "E44",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "He used to always irritate me, but now, I'm feeling all this energy from within.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E44.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E44.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E45",
+    "name": "The Power of Emotions",
+    "number": "E45",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Yuji! I will protect you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E45.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E45.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E46",
+    "name": "Tenpa Josai",
+    "number": "E46",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "I love you, Yuji.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E46.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E46.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E47",
+    "name": "Hecate in a Yukata",
+    "number": "E47",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "I do not belong to you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E47.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E47.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E48",
+    "name": "“Master Throne” Hecate",
+    "number": "E48",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "It filled my emptiness...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E48.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E48.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E49",
+    "name": "Empty Existence, Hecate",
+    "number": "E49",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 During your opponent's turn, if your hand has 5 or more cards, this card gets +1 level and +1500 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "Having served its purpose, it will simply disappear now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E49.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E49.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E50",
+    "name": "\"Colorful Wave\" Pheles",
+    "number": "E50",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Love"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Flame》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Johann... I promise I'll come for you...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E50.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E50.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E51",
+    "name": "\"Chief of Staff\" Bel-Peol",
+    "number": "E51",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【ACT】 [(1)] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Split, Tartaros.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E51.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E51.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E52",
+    "name": "Logic and Emotions, Yuji",
+    "number": "E52",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Snake"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Flame》 characters or characters with \"Konoe(近衛)\" in their card names you have ×500. 【AUTO】 When this card attacks, choose 1 of your 《Flame》 characters or characters with \"Konoe(近衛)\" in its card name, and that character gets +1500 power until end of turn.",
+    "flavorText": "I told you... If I'm not alone, it isn't a punishment!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E52.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E52.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E53",
+    "name": "Time of Confrontation, Hecate",
+    "number": "E53",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each other 《Flame》 character or character with \"Konoe(近衛)\" in its card name in your back stage. 【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Direct Confrontation!\" is in your climax area, and you have 2 or more other characters, you may pay the cost. If you do, choose up to 2 《Flame》 characters or characters with \"Konoe(近衛)\" in their card names in your waiting room, and return them to your hand.",
+    "flavorText": "Obstacle...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E53.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E53.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E54",
+    "name": "Oracle Priestess, Hecate",
+    "number": "E54",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, and draw up to 1 card.",
+    "flavorText": "An answer. An answer to what I desire.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E54.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E54.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E55",
+    "name": "Crystallization of Thousands of Wishes, Hecate",
+    "number": "E55",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of the following abilities, and this card gets that ability until the end of your opponent's next turn. \"【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.\" \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E55.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E55.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E56",
+    "name": "\"General\" Sydonay",
+    "number": "E56",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Flame》 characters you have ×1000. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your 《Flame》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Yes, Sir. Behold...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E56.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E56.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E57",
+    "name": "\"Priestess\" Hecate",
+    "number": "E57",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "You are... not needed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E57.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E57.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E58",
+    "name": "Divine Recall, Hecate",
+    "number": "E58",
+    "rarity": "N",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Flame",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"Until the Realization of the Next Wish\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "We will now proceed intoning the Ceremonial Prayer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E58.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E58.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E59",
+    "name": "Direct Confrontation!",
+    "number": "E59",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Flow inside, O energy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E59.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E59.png"
+    }
+  },
+  {
+    "id": "SS/WE41-E60",
+    "name": "Until the Realization of the Next Wish",
+    "number": "E60",
+    "rarity": "N",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Sydonay: \"Someday, we three shall be together again.\"\nHecate: \"Four, with the master there, too.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E60.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_E60.png"
+    }
+  },
+  {
+    "id": "SS/WE41-PE02",
+    "name": "Maelstrom of Conflict, Shana",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Flame",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Flame》 character in your waiting room, return it to your hand, choose 1 of your other 《Flame》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "We still have one card left to play.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SS/WE41_PE02.png"
+    }
+  }
+]

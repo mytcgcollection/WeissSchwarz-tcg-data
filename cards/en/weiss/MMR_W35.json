@@ -1,0 +1,2695 @@
+[
+  {
+    "id": "MM/W35-E001",
+    "name": "Mami's Confrontation with Homura",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Unavoidable Clash\" is in your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Magic》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +2000 power until end of turn.",
+    "flavorText": "It seems we can read one another too well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E001.png"
+    }
+  },
+  {
+    "id": "MM/W35-E002",
+    "name": "One Guided By the Law of the Cycle, Nagisa",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1)] When a card named \"Bearer of Memories\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters, put it into your opponent's memory, your opponent chooses up to one level 0 or lower character from his or her waiting room, and puts it on the stage position that character was on.",
+    "flavorText": "I'm sorry I didn't tell you until now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E002.png"
+    }
+  },
+  {
+    "id": "MM/W35-E003",
+    "name": "Mami & Nagisa",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I put up a false bravado to be seen as a reliable senior magical girl.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E003.png"
+    }
+  },
+  {
+    "id": "MM/W35-E004",
+    "name": "In Top Form, Mami",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 【CLOCK】 Shift, Level 1 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them) 【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E004.png"
+    }
+  },
+  {
+    "id": "MM/W35-E005",
+    "name": "Desired Direction, Mami",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I no longer have to strain to push myself past my limit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E005.png"
+    }
+  },
+  {
+    "id": "MM/W35-E006",
+    "name": "One Who Knows the Truth, Nagisa",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【CONT】 If you have another character with \"Mami(マミ)\" in its card name, this card gets +1500 power.",
+    "flavorText": "Let me explain it from my own lips.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E006.png"
+    }
+  },
+  {
+    "id": "MM/W35-E007",
+    "name": "“I'm Happy Now” Mami",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand or by a \"Change\" effect, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "To think that a life bound by the destiny of the magical girls could be so happy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E007.png"
+    }
+  },
+  {
+    "id": "MM/W35-E008",
+    "name": "Living Everyday Like a Dream, Mami",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 All of your other \"One Who Knows the Truth, Nagisa\" get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 Bond／\"One Who Knows the Truth, Nagisa\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"One Who Knows the Truth, Nagisa\" in your waiting room, and return it to your hand.)",
+    "flavorText": "I believe that without Bebe, I would have given up long ago.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E008.png"
+    }
+  },
+  {
+    "id": "MM/W35-E009",
+    "name": "Lively Evening, Mami",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn.",
+    "flavorText": "Oh, Bebe, you silly thing. If you don't mind your manners, you'll turn into cheese.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E009.png"
+    }
+  },
+  {
+    "id": "MM/W35-E010",
+    "name": "Hills in the Morning Glow, Mami",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position on the stage. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Magic》 character, put it into your clock. (If it is, return the revealed card to its original place)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E010.png"
+    }
+  },
+  {
+    "id": "MM/W35-E011",
+    "name": "Elegant Strike, Mami",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "Tiro Finale!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E011.png"
+    }
+  },
+  {
+    "id": "MM/W35-E012",
+    "name": "“Magical Girls' Tea Party” Mami",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +1000 power. 【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"“I'm Happy Now” Mami\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E012.png"
+    }
+  },
+  {
+    "id": "MM/W35-E013",
+    "name": "Pinpoint Targeting, Nagisa",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I can see it! The Incubators' seal!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E013.png"
+    }
+  },
+  {
+    "id": "MM/W35-E014",
+    "name": "“Puella Magi Holy Quintet” Mami",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 [【REST】 one of your 【STAND】 characters] When this card attacks, you may pay the cost. If you do, choose one of your other characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E014.png"
+    }
+  },
+  {
+    "id": "MM/W35-E015",
+    "name": "Fair and Beautiful, Mami",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power. 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "Oh dear, late nights are the natural enemy of beauty.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E015.png"
+    }
+  },
+  {
+    "id": "MM/W35-E016",
+    "name": "Mami's Friend, Bebe",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "",
+    "flavorText": "0",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E016.png"
+    }
+  },
+  {
+    "id": "MM/W35-E017",
+    "name": "Kyubey Manifestation",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "",
+    "flavorText": "It just goes to show how illogical human curiosity is.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E017.png"
+    }
+  },
+  {
+    "id": "MM/W35-E018",
+    "name": "Innocent Girl, Nagisa",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +1000 power. 【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Ah ha ha!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E018.png"
+    }
+  },
+  {
+    "id": "MM/W35-E019",
+    "name": "Young-looking Magical Girl, Nagisa",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "We planned that if things went bad, at least one of us would survive and be able to return her true memories to her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E019.png"
+    }
+  },
+  {
+    "id": "MM/W35-E020",
+    "name": "Junior and Senior, Mami & Madoka",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 When this card attacks, if a card named \"Tiro Duet\" is in your climax area, you may choose one of your opponent's characters, and return it to your opponent's hand.",
+    "flavorText": "0",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E020.png"
+    }
+  },
+  {
+    "id": "MM/W35-E021",
+    "name": "Exterminating Nightmares, Mami",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power.",
+    "flavorText": "Get serious, you two, or you'll put yourselves in danger.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E021.png"
+    }
+  },
+  {
+    "id": "MM/W35-E022",
+    "name": "A New Encounter",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "5",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If the number of characters you have with \"Mami(マミ)\" or \"Nagisa(なぎさ)\" in its card name is five or more, until end of turn, all of your characters get +3000 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E022.png"
+    }
+  },
+  {
+    "id": "MM/W35-E023",
+    "name": "Unavoidable Clash",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "But do you think you can beat me in an equal fight?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E023.png"
+    }
+  },
+  {
+    "id": "MM/W35-E024",
+    "name": "Bearer of Memories",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "We were once bringers of hope, who despaired and spread our curses.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E024.png"
+    }
+  },
+  {
+    "id": "MM/W35-E025",
+    "name": "Tiro Duet",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Tiro Duet!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E025.png"
+    }
+  },
+  {
+    "id": "MM/W35-E026",
+    "name": "“For Madoka's Sake” Homura",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand and put it into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Magic》 characters, and 【REST】 it. 【AUTO】 When this card attacks, if a card named \"Truth Behind the Barrier\" is in your climax area, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\"",
+    "flavorText": "I'll never let you Incubators touch Madoka again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E026.png"
+    }
+  },
+  {
+    "id": "MM/W35-E027",
+    "name": "“A Painful Thing” Madoka",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Magic》 character in your clock with a level equal to or less than your level, and put it on any position of your stage. If you do, put the top card of your deck into your clock.",
+    "flavorText": "And because I could never bear to do something that would make someone as strong as you cry like this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E027.png"
+    }
+  },
+  {
+    "id": "MM/W35-E028",
+    "name": "“A Lonely Fight” Homura",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card attacks, all of your other characters with \"Madoka(まどか)\" in its card name get +500 power until end of turn. 【AUTO】 Bond／\"“A Desired Form” Madoka\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“A Desired Form” Madoka\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Someday, that final day will come. As we wait for the Law of the Cycle to lead us away, we continue our unending battle.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E028.png"
+    }
+  },
+  {
+    "id": "MM/W35-E029",
+    "name": "“Real Memories” Homura",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "Madoka, you should know that even when you know how much it would hurt you, you do have the courage\nto make that hard decision.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E029.png"
+    }
+  },
+  {
+    "id": "MM/W35-E030",
+    "name": "Madoka from the New World",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+    "flavorText": "I should have a different form, a different role.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E030.png"
+    }
+  },
+  {
+    "id": "MM/W35-E031",
+    "name": "“A Desired Form” Madoka",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Magic》 characters you have.",
+    "flavorText": "Hah",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E031.png"
+    }
+  },
+  {
+    "id": "MM/W35-E032",
+    "name": "Madoka Thinking of Homura",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card attacks, if a card named \"Guide to Salvation\" is in your climax area, until end of turn, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Now I remember. I came here for Homura. I can't believe I could forget something so important.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E032.png"
+    }
+  },
+  {
+    "id": "MM/W35-E033",
+    "name": "Unchanging Smile, Madoka",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put a 《Magic》 character from your hand into your waiting room & 【REST】 one of your 【STAND】 《Magic》 characters] When this card attacks, if a card named \"Mild Days\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Magic》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I am the melon♪ When a melon breaks, it creates a sweet dream♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E033.png"
+    }
+  },
+  {
+    "id": "MM/W35-E034",
+    "name": "Homura Became a Demon",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Demon"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +8500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose one of your cards named \"Ultimate Madoka\", and put it face down underneath this card as a marker. If you do, choose a card named \"Madoka from the New World\" in your waiting room, and put it on any position of your stage. 【AUTO】 [(2) Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+    "flavorText": "I've finally, caught you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E034.png"
+    }
+  },
+  {
+    "id": "MM/W35-E035",
+    "name": "Worrying Madoka",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 Bond／\"“For Madoka's Sake” Homura\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“For Madoka's Sake” Homura\" in your waiting room, and return it to your hand.) 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "Thank goodness! I've been looking for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E035.png"
+    }
+  },
+  {
+    "id": "MM/W35-E036",
+    "name": "“Puella Magi Holy Quintet” Homura",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +500 power. 【ACT】 [(1)] Choose one of your 《Magic》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "0",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E036.png"
+    }
+  },
+  {
+    "id": "MM/W35-E037",
+    "name": "Hills in the Morning Glow, Homura",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "0",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E037.png"
+    }
+  },
+  {
+    "id": "MM/W35-E038",
+    "name": "“Usual” Homura",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【ACT】 [【REST】 one of your 《Magic》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "Quick to run away, aren't you. I thought you were supposed to be clumsier than that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E038.png"
+    }
+  },
+  {
+    "id": "MM/W35-E039",
+    "name": "Resolution to Become a Witch, Homura",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied the number of characters you have with \"Assist\". 【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Magic》 characters is four or more, you may put the top card of your deck into your stock.",
+    "flavorText": "I'm certain that this labyrinth will be my grave.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E039.png"
+    }
+  },
+  {
+    "id": "MM/W35-E040",
+    "name": "“True Power” Madoka",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Magic》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place) 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Kyubey: \"Madoka, you should have the power to save Homura. All you have to do is acknowledge the real power inside of you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E040.png"
+    }
+  },
+  {
+    "id": "MM/W35-E041",
+    "name": "The Only Hope, Homura",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "2000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1500 power. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"“For Madoka's Sake” Homura\" in your waiting room, and put it on the stage position that this card was on. 【AUTO】 【CLOCK】 Shift, Level 2 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "In this irredeemable world, forever repeating its tragedies and hatred, I dreamt that I encountered that familiar smile once again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E041.png"
+    }
+  },
+  {
+    "id": "MM/W35-E042",
+    "name": "Hills in the Morning Glow, Madoka",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on the stage from your hand or your clock, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Wow…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E042.png"
+    }
+  },
+  {
+    "id": "MM/W35-E043",
+    "name": "Ultimate Madoka",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, draw up to one card, and this card gets +2000 power until end of turn.",
+    "flavorText": "That's no good, Homura. I told you you shouldn't go off by yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E043.png"
+    }
+  },
+  {
+    "id": "MM/W35-E044",
+    "name": "Ladylike, Madoka",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [Put this card into your waiting room] Choose one of your 《Magic》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E044.png"
+    }
+  },
+  {
+    "id": "MM/W35-E045",
+    "name": "Exterminating Nightmares, Madoka",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E045.png"
+    }
+  },
+  {
+    "id": "MM/W35-E046",
+    "name": "Two Best Friends, Homura & Madoka",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 If the number of your other 《Magic》 characters is two or more, this card gets +1000 power.",
+    "flavorText": "Madoka: \"Because I'd never go alone to somewhere so far away that I couldn't see any of you again.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E046.png"
+    }
+  },
+  {
+    "id": "MM/W35-E047",
+    "name": "“Rebel” Homura",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Demon"
+    ],
+    "text": "【ACT】 [【REST】 one of your 《Magic》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "I am now an existence known as \"Evil.\" A being who disrupts providence and acts as an agitator for this world.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E047.png"
+    }
+  },
+  {
+    "id": "MM/W35-E048",
+    "name": "Mission to Fight, Homura & Madoka",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E048.png"
+    }
+  },
+  {
+    "id": "MM/W35-E049",
+    "name": "Homura's Confrontation with Mami",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "",
+    "flavorText": "In terms of endurance, I'm better than you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E049.png"
+    }
+  },
+  {
+    "id": "MM/W35-E050",
+    "name": "Deceptive Homura",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E050.png"
+    }
+  },
+  {
+    "id": "MM/W35-E051",
+    "name": "Change of Stance, Kyubey",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "【CONT】 All of your other characters get +500 power. 【AUTO】 This ability activates up to one time per turn. When you use \"Shift\", until the end of your opponent's next turn, this card gets \"【CONT】 Assist All of your characters in front of this card get +500 power.\".",
+    "flavorText": "Homura: \"You Incubators are now necessary for us. So you'll be staying to help, Incubator.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E051.png"
+    }
+  },
+  {
+    "id": "MM/W35-E052",
+    "name": "“Puella Magi Holy Quintet” Madoka",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E052.png"
+    }
+  },
+  {
+    "id": "MM/W35-E053",
+    "name": "“No Matter What Happens” Madoka & Homura",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [Put a card named \"To the Outside World\" from your climax area into your waiting room] When this card attacks, you may pay the cost. If you do, return all cards in your waiting room to your deck, shuffle your deck afterwards, and this card gets +1500 power until end of turn.",
+    "flavorText": "Madoka: \"No matter what happens, you will always be you, Homura.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E053.png"
+    }
+  },
+  {
+    "id": "MM/W35-E054",
+    "name": "Homura's “Determination”",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 [【REST】 one of your 【STAND】 《Magic》 characters] When this card attacks, you may pay the cost. If you do, choose one of your other 《Magic》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I'm going now. There's something left that I need to do.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E054.png"
+    }
+  },
+  {
+    "id": "MM/W35-E055",
+    "name": "Feelings of Love, Hitomi",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress"
+    ],
+    "text": "",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E055.png"
+    }
+  },
+  {
+    "id": "MM/W35-E056",
+    "name": "Homura's Despair",
+    "number": "E056",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Choose up to one character in your hand with \"Homura(ほむら)\" in its card name, and put it on any position of your stage.",
+    "flavorText": "Ah, so this is my, despair.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E056.png"
+    }
+  },
+  {
+    "id": "MM/W35-E057",
+    "name": "Truth Behind the Barrier",
+    "number": "E057",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Kyubey: \"Well, considering that it was you, I did think that you would find the answer eventually.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E057.png"
+    }
+  },
+  {
+    "id": "MM/W35-E058",
+    "name": "Guide to Salvation",
+    "number": "E058",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I'm sorry for making you wait so long.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E058.png"
+    }
+  },
+  {
+    "id": "MM/W35-E059",
+    "name": "Mild Days",
+    "number": "E059",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E059.png"
+    }
+  },
+  {
+    "id": "MM/W35-E060",
+    "name": "To the Outside World",
+    "number": "E060",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Madoka: \"We'll always be together from now on.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E060.png"
+    }
+  },
+  {
+    "id": "MM/W35-E061",
+    "name": "Doubt Towards the World, Kyoko",
+    "number": "E061",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "You may be right that my memories are mixed up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E061.png"
+    }
+  },
+  {
+    "id": "MM/W35-E062",
+    "name": "Intuitive Type, Kyoko",
+    "number": "E062",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "We can't go on like nothing's wrong after all this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E062.png"
+    }
+  },
+  {
+    "id": "MM/W35-E063",
+    "name": "Mild Autumn Days, Kyoko",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E063.png"
+    }
+  },
+  {
+    "id": "MM/W35-E064",
+    "name": "“Magical Girls' Tea Party” Kyoko",
+    "number": "E064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand.\"",
+    "flavorText": "I am the apple♪ The round cake loves Bebe♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E064.png"
+    }
+  },
+  {
+    "id": "MM/W35-E065",
+    "name": "Exterminating Nightmares, Kyoko",
+    "number": "E065",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "All according to plan.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E065.png"
+    }
+  },
+  {
+    "id": "MM/W35-E066",
+    "name": "Unyielding Girl, Kyoko",
+    "number": "E066",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room. 【AUTO】 [(1)] When this card attacks, if a card named \"Reunion and Alliance\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E066.png"
+    }
+  },
+  {
+    "id": "MM/W35-E067",
+    "name": "“Puella Magi Holy Quintet” Kyoko",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【CONT】 Assist All of your 《Magic》 characters in front of this card get +1 level and +500 power. 【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"Unyielding Girl, Kyoko\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E067.png"
+    }
+  },
+  {
+    "id": "MM/W35-E068",
+    "name": "Mascot? Kyubey",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Kyu",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E068.png"
+    }
+  },
+  {
+    "id": "MM/W35-E069",
+    "name": "A Morning Sight, Kyoko",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Magic》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.",
+    "flavorText": "You're late, Madoka.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E069.png"
+    }
+  },
+  {
+    "id": "MM/W35-E070",
+    "name": "“Farewell to Nightmares” Kyoko",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E070.png"
+    }
+  },
+  {
+    "id": "MM/W35-E071",
+    "name": "Kyoko & Homura",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E071.png"
+    }
+  },
+  {
+    "id": "MM/W35-E072",
+    "name": "Hills in the Morning Glow, Kyoko",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E072.png"
+    }
+  },
+  {
+    "id": "MM/W35-E073",
+    "name": "Conducting an Experiment, Kyubey",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "【AUTO】 [Put a 《Magic》 character from your stage into your waiting room] When this card attacks, if a card named \"Law of the Cycle Observer\" is in your climax area, you may pay the cost. If you do, this card gets +3500 power until the end of your opponent's next turn.",
+    "flavorText": "Now then, Homura Akemi. Reach out to Madoka Kaname for help.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E073.png"
+    }
+  },
+  {
+    "id": "MM/W35-E074",
+    "name": "A Straight Thought, Kyoko",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "",
+    "flavorText": "Oh, I didn't know you could talk normally.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E074.png"
+    }
+  },
+  {
+    "id": "MM/W35-E075",
+    "name": "A New Morning, Kyoko",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named \"New Days\" is in your climax area, you may pay the cost. If you do, until the end of your opponent's next turn, this card gets +3000 power and the following ability. \"【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.\"",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E075.png"
+    }
+  },
+  {
+    "id": "MM/W35-E076",
+    "name": "A World Tampered With",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.",
+    "flavorText": "The world is being rewritten. Does this mean a new principle has been born into this universe?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E076.png"
+    }
+  },
+  {
+    "id": "MM/W35-E077",
+    "name": "Town With No Way Out",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Choose a 《Magic》 character in your waiting room, and return it to your hand. Choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Eh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E077.png"
+    }
+  },
+  {
+    "id": "MM/W35-E078",
+    "name": "Reunion and Alliance",
+    "number": "E078",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COME BACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "You dummy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E078.png"
+    }
+  },
+  {
+    "id": "MM/W35-E079",
+    "name": "New Days",
+    "number": "E079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E079.png"
+    }
+  },
+  {
+    "id": "MM/W35-E080",
+    "name": "Law of the Cycle Observer",
+    "number": "E080",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "You see, this place is the\nworld inside your Soul Gem.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E080.png"
+    }
+  },
+  {
+    "id": "MM/W35-E081",
+    "name": "“My Role” Sayaka",
+    "number": "E081",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Because that's my role.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E081.png"
+    }
+  },
+  {
+    "id": "MM/W35-E082",
+    "name": "One Guided By the Law of the Cycle, Sayaka",
+    "number": "E082",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand. 【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn. 【AUTO】 [(1)] When this card attacks, if a card named \"Sayaka's True Identity\" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Magic》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Because I actually do have one regret. The fact that I left you behind.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E082.png"
+    }
+  },
+  {
+    "id": "MM/W35-E083",
+    "name": "Memories of a Witch, Sayaka",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards.",
+    "flavorText": "I see…… So you do remember her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E083.png"
+    }
+  },
+  {
+    "id": "MM/W35-E084",
+    "name": "Mild Autumn Days, Sayaka",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters. 【AUTO】 【CLOCK】 Shift, Level 1 (At the beginning of your main phase, you may choose a blue card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E084.png"
+    }
+  },
+  {
+    "id": "MM/W35-E085",
+    "name": "“Magical Girls' Tea Party” Sayaka",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【ACT】 [Put a climax from your hand into your waiting room] Until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may draw a card.\"",
+    "flavorText": "I am the raspberry♪ The round cake is red♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E085.png"
+    }
+  },
+  {
+    "id": "MM/W35-E086",
+    "name": "Exterminating Nightmares, Sayaka",
+    "number": "E086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Magic》 characters is four or more, you may put the top card of your deck into your stock. 【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Bingo, Madoka!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E086.png"
+    }
+  },
+  {
+    "id": "MM/W35-E087",
+    "name": "“Farewell to Nightmares” Sayaka",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 When your opponent uses \"Brainstorm\", if a climax is put into the waiting room by that effect, you may draw a card. If you do, choose a card in your hand, and put it into your waiting room. 【AUTO】 Bond／\"Exterminating Nightmares, Kyoko\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Exterminating Nightmares, Kyoko\" in your waiting room, and return it to your hand.)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E087.png"
+    }
+  },
+  {
+    "id": "MM/W35-E088",
+    "name": "“Puella Magi Holy Quintet” Sayaka",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power. 【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E088.png"
+    }
+  },
+  {
+    "id": "MM/W35-E089",
+    "name": "Spectacular Plan, Kyubey",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.",
+    "flavorText": "I won't deny that that was the end goal we had in mind. Though it would have been a very long and difficult endeavor.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E089.png"
+    }
+  },
+  {
+    "id": "MM/W35-E090",
+    "name": "Combination, Sayaka",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"True Dream\" is in your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Kyoko!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E090.png"
+    }
+  },
+  {
+    "id": "MM/W35-E091",
+    "name": "Kyubey Saying Kyu-",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Magic"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【AUTO】 [(2) Put a card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose up to two cards named \"Kyubey Saying Kyu-\" in your waiting room, put them on separate positions of your stage as 【REST】, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Kyu-?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E091.png"
+    }
+  },
+  {
+    "id": "MM/W35-E092",
+    "name": "Sayaka & Madoka in Winter Days",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E092.png"
+    }
+  },
+  {
+    "id": "MM/W35-E093",
+    "name": "“Mysterious Gal” Sayaka",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "That's right. I'm one mysterious gal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E093.png"
+    }
+  },
+  {
+    "id": "MM/W35-E094",
+    "name": "Hills in the Morning Glow, Sayaka",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters with \"Kyoko(杏子)\" in its card name get +1000 power. 【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E094.png"
+    }
+  },
+  {
+    "id": "MM/W35-E095",
+    "name": "Honest Question, Sayaka",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Tell me, is this really so bad?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E095.png"
+    }
+  },
+  {
+    "id": "MM/W35-E096",
+    "name": "Kazuko Saotome",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Glasses"
+    ],
+    "text": "",
+    "flavorText": "I need to introduce a new transfer student to you all today.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E096.png"
+    }
+  },
+  {
+    "id": "MM/W35-E097",
+    "name": "Hitomi's Nightmare",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Draw up to one card, choose one of your characters, and that character gets +2000 power until end of turn. Put this card into your memory.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E097.png"
+    }
+  },
+  {
+    "id": "MM/W35-E098",
+    "name": "Mermaid Witch Appears",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If the number of 《Magic》 characters you have is two or less, this card cannot be played from your hand. Choose one of your opponent's cost 1 or lower characters, and put it on the bottom of your opponent's deck. Put this card into your memory.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E098.png"
+    }
+  },
+  {
+    "id": "MM/W35-E099",
+    "name": "Sayaka's True Identity",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Easy. It's not like we're going to take you to the outside.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E099.png"
+    }
+  },
+  {
+    "id": "MM/W35-E100",
+    "name": "True Dream",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Kyoko: \"I had a sickening dream. A dream where you were dead.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E100.png"
+    }
+  },
+  {
+    "id": "MM/W35-E101",
+    "name": "SD Mami",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Tea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Magic》 characters you have. 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Now everyone, let's finish this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E101.png"
+    }
+  },
+  {
+    "id": "MM/W35-E102",
+    "name": "SD Nagisa",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "1000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Cheese"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 4000, Level 2 [(2) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +4000 power until end of turn)",
+    "flavorText": "I just wanted to eat cheese one more time!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E102.png"
+    }
+  },
+  {
+    "id": "MM/W35-E103",
+    "name": "SD Madoka",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.",
+    "flavorText": "It's stopped moving!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E103.png"
+    }
+  },
+  {
+    "id": "MM/W35-E104",
+    "name": "SD Homura",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 If you do not have any other characters on your center stage, this card gets +1 level and +1000 power.",
+    "flavorText": "Just leave things to me for now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E104.png"
+    }
+  },
+  {
+    "id": "MM/W35-E105",
+    "name": "SD Kyoko",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Sweets"
+    ],
+    "text": "【CONT】 All of your other \"SD Sayaka\" get +2000 power.",
+    "flavorText": "Latticework Barrier!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E105.png"
+    }
+  },
+  {
+    "id": "MM/W35-E106",
+    "name": "SD Sayaka",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 All of your other \"SD Kyoko\" get +2000 power.",
+    "flavorText": "Yeah, I guess? Maybe this means I've gained some life experience?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E106.png"
+    }
+  },
+  {
+    "id": "MM/W35-E107",
+    "name": "Hope and Acceptance, Homura",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock. 【ACT】 [【REST】 one of your 《Magic》 characters] This card gets +1500 power until end of turn.",
+    "flavorText": "Magical girls must continue always to fight.\nThat was the price we paid for our miracles.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_E107.png"
+    }
+  },
+  {
+    "id": "MM/W35-PE01",
+    "name": "Homura in Archery Uniform",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other level 0 or lower characters.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_PE01.png"
+    }
+  },
+  {
+    "id": "MM/W35-PE02",
+    "name": "Madoka in Archery Uniform",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put this card into your waiting room] Choose a card in your clock, and return it to your hand. Choose a card in your hand, and put it into your clock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/m/mm_w35/MM_W35_PE02.png"
+    }
+  }
+]

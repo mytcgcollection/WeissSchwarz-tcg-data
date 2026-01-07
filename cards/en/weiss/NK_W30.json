@@ -1,0 +1,3176 @@
+[
+  {
+    "id": "NK/W30-E001",
+    "name": "First Feelings, Seishiro",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Heiress》 characters. 【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "There's something strange going on with me lately.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E001.png"
+    }
+  },
+  {
+    "id": "NK/W30-E002",
+    "name": "The One, Chitoge",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card attacks, if a card named \"Diary\" is in your climax area, until end of turn, this card gets +3000 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "Would you like to go out on a date with me now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E002.png"
+    }
+  },
+  {
+    "id": "NK/W30-E003",
+    "name": "Not Good at Romance, Chitoge",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [Put a card named \"Promised Pendant\" from your memory into your waiting room] Choose one of your characters, and that character gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "I'm no good at romance or anything like that…… I just don't understand that stuff……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E003.png"
+    }
+  },
+  {
+    "id": "NK/W30-E004",
+    "name": "Great Disguise!? Seishiro",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+    "flavorText": "Never in his wildest dreams would it occur to him that I'd be dressed so……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E004.png"
+    }
+  },
+  {
+    "id": "NK/W30-E005",
+    "name": "Weekend Date, Chitoge",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 Memory If a card named \"Promised Pendant\" is in your memory, this card gets +2000 power.",
+    "flavorText": "Would you believe this boy, every single weekend～ he asks me to the movies～",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E005.png"
+    }
+  },
+  {
+    "id": "NK/W30-E006",
+    "name": "Swimsuit Seishiro",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "……This is why breasts are so unnecessary.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E006.png"
+    }
+  },
+  {
+    "id": "NK/W30-E007",
+    "name": "Chitoge Out of the Bath",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of your other 《Key》 characters is two or more, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "……I wonder if my heart started racing, too, back then……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E007.png"
+    }
+  },
+  {
+    "id": "NK/W30-E008",
+    "name": "Raku Ichijo",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I've told you guys over and over. I'm never gonna become a yakuza.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E008.png"
+    }
+  },
+  {
+    "id": "NK/W30-E009",
+    "name": "Chitoge in Yukata",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of your other characters is one or less, this card gets +1000 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"",
+    "flavorText": "……What?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E009.png"
+    }
+  },
+  {
+    "id": "NK/W30-E010",
+    "name": "Heart Beating Faster, Seishiro",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【ACT】 [【REST】 this card] Choose one of your 《Weapon》 or 《Heiress》 or 《Animal》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Hey, what are you staring at? Were you even listening to me just now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E010.png"
+    }
+  },
+  {
+    "id": "NK/W30-E011",
+    "name": "Swimsuit Chitoge",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 Memory This card gets +1000 power for each card named \"Promised Pendant\" in your memory.",
+    "flavorText": "Oh, that's totally fine with me! I do love exercising!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E011.png"
+    }
+  },
+  {
+    "id": "NK/W30-E012",
+    "name": "Ties with You, Chitoge",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other characters, and that character gets +1500 power until end of turn. 【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"The One, Chitoge\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E012.png"
+    }
+  },
+  {
+    "id": "NK/W30-E013",
+    "name": "Wonderful Darling!? Raku",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Animal",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, all of your characters get +1 soul until end of turn. 【AUTO】 When another of your 《Key》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "So sorry, but I can't be with you……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E013.png"
+    }
+  },
+  {
+    "id": "NK/W30-E014",
+    "name": "Childhood Chitoge",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn. 【AUTO】 Bond／\"Seishiro Tsugumi\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Seishiro Tsugumi\" in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E014.png"
+    }
+  },
+  {
+    "id": "NK/W30-E015",
+    "name": "Change of Heart, Seishiro",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +500 power. 【AUTO】 [(1)] When a card named \"Hair Ornament\" is placed on your climax area, you may pay the cost. If you do, choose one of your other characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "……No, there's nothing different about him……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E015.png"
+    }
+  },
+  {
+    "id": "NK/W30-E016",
+    "name": "Transfer Student, Chitoge",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "Hello, everybody!\nI'm Chitoge Kirisaki, and I transferred here from the U.S.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E016.png"
+    }
+  },
+  {
+    "id": "NK/W30-E017",
+    "name": "First Date, Chitoge",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "Just hold up a second!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E017.png"
+    }
+  },
+  {
+    "id": "NK/W30-E018",
+    "name": "Heroine in Love",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E018.png"
+    }
+  },
+  {
+    "id": "NK/W30-E019",
+    "name": "Seishiro Tsugumi",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)",
+    "flavorText": "Young Miss…… Do you remember…… The day we made that promise, ten years ago……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E019.png"
+    }
+  },
+  {
+    "id": "NK/W30-E020",
+    "name": "Lovers!? Chitoge",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 [(2)] When this card attacks, if a card named \"Fake Love\" is in your climax area, you may pay the cost. If you do, choose up to two of your opponent's characters, and return them to your opponent's hand. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I'm telling you, he's smitten with me～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E020.png"
+    }
+  },
+  {
+    "id": "NK/W30-E021",
+    "name": "Claude",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "Never fear, Young Miss.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E021.png"
+    }
+  },
+  {
+    "id": "NK/W30-E022",
+    "name": "Promised Pendant",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Put this card into your memory.",
+    "flavorText": "……a key……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E022.png"
+    }
+  },
+  {
+    "id": "NK/W30-E023",
+    "name": "Diary",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Chitoge: \"Huh…… That scar…… It's just like the one from that day……\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E023.png"
+    }
+  },
+  {
+    "id": "NK/W30-E024",
+    "name": "Fake Love",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E024.png"
+    }
+  },
+  {
+    "id": "NK/W30-E025",
+    "name": "Hair Ornament",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Come to think of it, Young Miss just now……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E025.png"
+    }
+  },
+  {
+    "id": "NK/W30-E026",
+    "name": "The One, Seishiro",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If the number of your other 《Weapon》 or 《Heiress》 characters is three or more, this card gets +1000 power. 【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, look at up to three cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room.",
+    "flavorText": "……I was told that it was love.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E026.png"
+    }
+  },
+  {
+    "id": "NK/W30-E027",
+    "name": "After School Date, Kosaki",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on stage from your hand, choose one of your 【STAND】 《Key》 characters, and 【REST】 it. 【AUTO】 When this card attacks, if a card named \"Your Only Juliet\" is in your climax area, search your deck for up to two 《Key》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.",
+    "flavorText": "……Hey, is it okay if we take a little detour?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E027.png"
+    }
+  },
+  {
+    "id": "NK/W30-E028",
+    "name": "Learning About Love, Seishiro",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is not a 《Weapon》 or 《Heiress》 character, put that card into your clock. (If it is not, return the revealed card to its original place)",
+    "flavorText": "You're in love at this very moment, Lady Onodera?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E028.png"
+    }
+  },
+  {
+    "id": "NK/W30-E029",
+    "name": "Girl's Uniform, Seishiro",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Heiress》 characters. 【AUTO】 [(1)] When this card attacks, if a card named \"\"Close Quarters\"\" is in your climax area, you may pay the cost. If you do, search you deck for up to one 《Weapon》 or 《Heiress》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Why do I have to dress this way……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E029.png"
+    }
+  },
+  {
+    "id": "NK/W30-E030",
+    "name": "Swimsuit Kosaki",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your 《Key》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and until end of turn, that character gets the following ability. \"【AUTO】 Memory When this card's battle opponent becomes 【Reverse】, if you have a card named \"Promised Pendant\" in your memory, you may put the top card of your deck into your stock.\"",
+    "flavorText": "When I can't swim at all-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E030.png"
+    }
+  },
+  {
+    "id": "NK/W30-E031",
+    "name": "Brilliant Smile, Kosaki",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"After School Date, Kosaki\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E031.png"
+    }
+  },
+  {
+    "id": "NK/W30-E032",
+    "name": "Love Story, Seishiro",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your clock] When this card is placed on stage from your waiting room, you may pay the cost. If you do, choose a 《Weapon》 or 《Heiress》 character from your clock, and return it to your hand. 【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"The One, Seishiro\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "What are you talking about. You have a boyfriend ? Raku Ichijo……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E032.png"
+    }
+  },
+  {
+    "id": "NK/W30-E033",
+    "name": "Draw of the Shop, Kosaki",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Thanks for…… coming in today……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E033.png"
+    }
+  },
+  {
+    "id": "NK/W30-E034",
+    "name": "Transfer Student, Seishiro",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 All of your other characters get +500 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Weapon》 or 《Heiress》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Hello, everybody, my name is Seishirou Tsugumi.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E034.png"
+    }
+  },
+  {
+    "id": "NK/W30-E035",
+    "name": "Fateful Lottery, Kosaki",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When this card attacks, if a card named \"Promised Pendant\" is in your memory, this card gets +2000 power until end of turn. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "……Um, are you sure you're okay with me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E035.png"
+    }
+  },
+  {
+    "id": "NK/W30-E036",
+    "name": "Crack Hit-man, Seishiro",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Weapon》 or 《Heiress》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place) 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "All right, then, please die.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E036.png"
+    }
+  },
+  {
+    "id": "NK/W30-E037",
+    "name": "Troubled by Love, Seishiro",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in the middle position of the center stage, this card gets the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\" 【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "Just what is this thing I'm going through……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E037.png"
+    }
+  },
+  {
+    "id": "NK/W30-E038",
+    "name": "Seishiro Cannot be Honest with Herself",
+    "number": "E038",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card from your opponent's waiting room, and put it into your opponent's stock.",
+    "flavorText": "It can't be helped, I guess. Let me take a look.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E038.png"
+    }
+  },
+  {
+    "id": "NK/W30-E039",
+    "name": "Rival!? Seishiro",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 Bond／\"Ties with You, Chitoge\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Ties with You, Chitoge\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Oh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E039.png"
+    }
+  },
+  {
+    "id": "NK/W30-E040",
+    "name": "Kosaki in Yukata",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card attacks, if the number of cards in your hand is five or more, choose one of your 《Key》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "……I wish I could've stayed with him a little longer……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E040.png"
+    }
+  },
+  {
+    "id": "NK/W30-E041",
+    "name": "Seishiro in Yukata",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "……Yum.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E041.png"
+    }
+  },
+  {
+    "id": "NK/W30-E042",
+    "name": "Thoughtfulness, Raku",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "Key"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E042.png"
+    }
+  },
+  {
+    "id": "NK/W30-E043",
+    "name": "Gentle Smile, Kosaki",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "Oh, I'll help, too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E043.png"
+    }
+  },
+  {
+    "id": "NK/W30-E044",
+    "name": "Shocking Truth, Seishiro",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your waiting room] When this card attacks, if a card named \"Huge Back\" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. \"【AUTO】 When this card's level 2 or higher battle opponent becomes 【Reverse】, you may put that character into your opponent's clock.\"",
+    "flavorText": "Wh……What do you think you're……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E044.png"
+    }
+  },
+  {
+    "id": "NK/W30-E045",
+    "name": "Overwhelming Feelings, Kosaki",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When a green climax is placed on your climax area, choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Oh, my heart's still pounding……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E045.png"
+    }
+  },
+  {
+    "id": "NK/W30-E046",
+    "name": "Promised Pendant",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Key》 character, this card cannot be played from hand. Choose one of your characters, and that character gets +3500 power until end of your opponent's next turn. Put this card into your memory.",
+    "flavorText": "Raku: \"……Is it all right if I just ask you one thing……\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E046.png"
+    }
+  },
+  {
+    "id": "NK/W30-E047",
+    "name": "Poker Face!?",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to two 《Sweets》 or 《Animal》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards.",
+    "flavorText": "Hah wah wah wah……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E047.png"
+    }
+  },
+  {
+    "id": "NK/W30-E048",
+    "name": "Huge Back",
+    "number": "E048",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Just when I think he's my enemy, he treats me so nicely, and tells me that I'm cute and all--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E048.png"
+    }
+  },
+  {
+    "id": "NK/W30-E049",
+    "name": "\"Close Quarters\"",
+    "number": "E049",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Raku: \"Well, now, that's a big waste, since you're so cute.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E049.png"
+    }
+  },
+  {
+    "id": "NK/W30-E050",
+    "name": "Your Only Juliet",
+    "number": "E050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "……Thank you…… I'm so happy……I'm really, really happy……!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E050.png"
+    }
+  },
+  {
+    "id": "NK/W30-E051",
+    "name": "Deep Friendship, Chitoge",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [(1) 【REST】 two of your characters] Until end of turn, this character gets +2000 power and the the following ability. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "No way!! Me, too! Me, too!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E051.png"
+    }
+  },
+  {
+    "id": "NK/W30-E052",
+    "name": "The One, Marika",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a 《Key》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 When another of your 《Key》 characters becomes 【Reverse】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I think I might be falling even more in love with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E052.png"
+    }
+  },
+  {
+    "id": "NK/W30-E053",
+    "name": "Surprising Side, Chitoge",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card becomes 【Reverse】, if this card's battle opponent is level 0 or lower, you may 【Reverse】 that character. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.",
+    "flavorText": "Shut up! If you tell anybody, I'll make you pay!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E053.png"
+    }
+  },
+  {
+    "id": "NK/W30-E054",
+    "name": "Aggressive Girl, Marika",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Key》 character in your waiting room, and return it to your hand.",
+    "flavorText": "It's the same with romance - your only hope is to be aggressive.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E054.png"
+    }
+  },
+  {
+    "id": "NK/W30-E055",
+    "name": "Chitoge as Juliet",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [(2)] When a card named \"Beloved Juliet\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 1 or lower 《Key》 or 《Weapon》 character, and put it on any position of your stage. Shuffle your deck afterwards.",
+    "flavorText": "What should I name the way I'm feeling right now……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E055.png"
+    }
+  },
+  {
+    "id": "NK/W30-E056",
+    "name": "Marika's Ordeal",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【Reverse】, if a card named \"Feelings for the Last 10 Years\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "……Well, considering who's more appropriate for Master Raku, it's only natural, I think.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E056.png"
+    }
+  },
+  {
+    "id": "NK/W30-E057",
+    "name": "Police Commissioner's Daughter, Marika",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Key》 character in your waiting room, and return it to your hand.",
+    "flavorText": "……I apologize for the commotion.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E057.png"
+    }
+  },
+  {
+    "id": "NK/W30-E058",
+    "name": "First Love, Chitoge",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【Reverse】 in battle, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Key》 or 《Weapon》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Uh…… do you know where it was that I met my first love?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E058.png"
+    }
+  },
+  {
+    "id": "NK/W30-E059",
+    "name": "Head Tilt Marika",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 Memory If a card named \"Promised Pendant\" is in your memory, this card gets the following ability. \"【AUTO】 When this card becomes 【Reverse】, if this card's battle opponent is level 1 or lower, you may 【Reverse】 that character.\" 【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a 《Key》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Then I suppose there's nothing to be done.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E059.png"
+    }
+  },
+  {
+    "id": "NK/W30-E060",
+    "name": "Words of Promise, Chitoge",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power. 【CONT】 Memory If the number of cards named \"Promised Pendant\" in your memory is two or more, this card gets the following ability. \"【CONT】 Assist All of your characters in front of this card get +500 power.\"",
+    "flavorText": "What was it again? What he said that day……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E060.png"
+    }
+  },
+  {
+    "id": "NK/W30-E061",
+    "name": "Sweet Princess, Marika",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When another of your 《Key》 characters attack, this card gets +1000 power until end of turn. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Oh, my, this won't do. To think that I haven't even offered you tea yet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E061.png"
+    }
+  },
+  {
+    "id": "NK/W30-E062",
+    "name": "Promise of a Date, Marika",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Key》 characters you have. 【AUTO】 [(1)] When this card attacks, if a card named \"Adlib\" is in your climax area, you may pay the cost. If you do, choose one of your 《Key》 characters, and until end of turn, that character gets +5500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "Good morning! I've been waiting for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E062.png"
+    }
+  },
+  {
+    "id": "NK/W30-E063",
+    "name": "Marika in Yukata",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose one of your 《Key》 characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Now, then, it's finally show time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E063.png"
+    }
+  },
+  {
+    "id": "NK/W30-E064",
+    "name": "Spoiled Child, Marika",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "Surely you don't mind, do you? I want to play the main character opposite Master Raku……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E064.png"
+    }
+  },
+  {
+    "id": "NK/W30-E065",
+    "name": "Long-awaited Reunion, Marika",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Raku's Fiancee, Marika\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I am Master Raku's fiancee.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E065.png"
+    }
+  },
+  {
+    "id": "NK/W30-E066",
+    "name": "Fake Lovers, Raku",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "I just wanted you to know that we're not in any ordinary love～ Right, honey!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E066.png"
+    }
+  },
+  {
+    "id": "NK/W30-E067",
+    "name": "Transfer Student, Marika",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "……Hello everybody, nice to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E067.png"
+    }
+  },
+  {
+    "id": "NK/W30-E068",
+    "name": "Chitoge as a Ghost",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "Oh, wait, I just remembered.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E068.png"
+    }
+  },
+  {
+    "id": "NK/W30-E069",
+    "name": "Incomprehensible, Chitoge",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When another of your 《Key》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【Reverse】, you may pay the cost. If you do, search your deck for up to one 《Key》 or 《Weapon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Eh.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E069.png"
+    }
+  },
+  {
+    "id": "NK/W30-E070",
+    "name": "Raku's Fiancee, Marika",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If not, put this card into your waiting room.",
+    "flavorText": "If only you'd remember me, Master Raku, then I'm sure……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E070.png"
+    }
+  },
+  {
+    "id": "NK/W30-E071",
+    "name": "Promised Pendant",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose two of your 【STAND】 characters, and 【REST】 them. If you 【REST】 two characters, choose up to two 《Key》 characters in your waiting room, return them to your hand, choose a card in your hand, and put it into your waiting room. Put this card into your memory.",
+    "flavorText": "If he insists that he doesn't remember, then I shall jog his memory.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E071.png"
+    }
+  },
+  {
+    "id": "NK/W30-E072",
+    "name": "For Your Sake…",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Deal five damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Marika: \"I know I can transform myself in any way, as long as it's for your sake……!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E072.png"
+    }
+  },
+  {
+    "id": "NK/W30-E073",
+    "name": "Feelings for the Last 10 Years",
+    "number": "E073",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E073.png"
+    }
+  },
+  {
+    "id": "NK/W30-E074",
+    "name": "Adlib",
+    "number": "E074",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Raku: \"The road I'll be traveling is a blood-soaked trail involving both families. I don't want to get my fragile little sister involved in such an ordeal!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E074.png"
+    }
+  },
+  {
+    "id": "NK/W30-E075",
+    "name": "Beloved Juliet",
+    "number": "E075",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Chitoge: \"That's right…… The fact that I'm in love with this guy……\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E075.png"
+    }
+  },
+  {
+    "id": "NK/W30-E076",
+    "name": "The One, Kosaki",
+    "number": "E076",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level in your hand. 【CONT】 If the number of your other 《Key》 characters is two or more, this card gets +1000 power. 【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Is it all right if I kiss you……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E076.png"
+    }
+  },
+  {
+    "id": "NK/W30-E077",
+    "name": "Non-stop Attacks, Marika",
+    "number": "E077",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, if a card named \"Exchanged Promises\" is in your climax area, draw up to two cards, choose two cards in your hand, put them into your waiting room, and until end of your opponent's next turn, this card gets the following ability. \"【CONT】 The character facing this card gets -1 soul.\"",
+    "flavorText": "It was full speed ahead for me to become the ideal woman that you were seeking.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E077RR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E077RR.png"
+    }
+  },
+  {
+    "id": "NK/W30-E078",
+    "name": "Swimsuit Marika",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Key》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I am counting on you, all right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E078.png"
+    }
+  },
+  {
+    "id": "NK/W30-E079",
+    "name": "Infatuation, Marika",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【AUTO】 [(3)] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)",
+    "flavorText": "Well, either way, I am the one who shall wed Master Raku!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E079.png"
+    }
+  },
+  {
+    "id": "NK/W30-E080",
+    "name": "First Visit, Kosaki",
+    "number": "E080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Key》 or 《Sports》 characters. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "It smells like Ichijo……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E080.png"
+    }
+  },
+  {
+    "id": "NK/W30-E081",
+    "name": "Angel in White, Kosaki",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, shuffle your deck, and draw up to one card. 【ACT】 [【REST】 two of your 《Key》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Hold on a second. I'll get you a band-aid……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E081.png"
+    }
+  },
+  {
+    "id": "NK/W30-E082",
+    "name": "Girl in Glasses, Ruri",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Sweets》 or 《Sports》 characters. 【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【Reverse】, you may draw a card.\"",
+    "flavorText": "You have a crush on him, don't you? On Ichijo.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E082.png"
+    }
+  },
+  {
+    "id": "NK/W30-E083",
+    "name": "Kosaki's Close Friend, Ruri",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "【AUTO】 Bond／\"First Visit, Kosaki\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"First Visit, Kosaki\" in your waiting room, and return it to your hand.) 【ACT】 [【REST】 this card] Choose one of your characters with \"Kosaki(小咲)\" in its card name, and that character gets +500 power until end of turn.",
+    "flavorText": "……I see……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E083.png"
+    }
+  },
+  {
+    "id": "NK/W30-E084",
+    "name": "Two of a Kind, Raku",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Promised Pendant\" in your waiting room, and return it to your hand.",
+    "flavorText": "You're an annoying person, but I do understand a little how you feel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E084.png"
+    }
+  },
+  {
+    "id": "NK/W30-E085",
+    "name": "Mischievous Kiss, Marika",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +2000 power. 【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "……An unforgettable memory, that's the first one……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E085.png"
+    }
+  },
+  {
+    "id": "NK/W30-E086",
+    "name": "Their Progress, Kosaki",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 At the beginning of your encore step, if a card named \"I told…… a lie……\" is in your climax area, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose a card named \"Their Progress, Kosaki\" in your memory, put it on any position of your stage, and that character gets +3500 power until end of turn.",
+    "flavorText": "Ichijo's coming over to my place.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E086.png"
+    }
+  },
+  {
+    "id": "NK/W30-E087",
+    "name": "Head Tilt Kosaki",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is four or more, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Ichijo……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E087.png"
+    }
+  },
+  {
+    "id": "NK/W30-E088",
+    "name": "Fake Love!? Kosaki",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 or 《Sports》 characters get +1000 power. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your 《Key》 or 《Sports》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Performance…… What are they talking about?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E088.png"
+    }
+  },
+  {
+    "id": "NK/W30-E089",
+    "name": "Gentle Profile, Kosaki",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "……But from the moment that I first saw you, I did get the feeling that we could be good friends, Chitoge.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E089.png"
+    }
+  },
+  {
+    "id": "NK/W30-E090",
+    "name": "Moodmaker, Shu",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "-"
+    ],
+    "text": "【AUTO】 Bond／\"Wonderful Darling!? Raku\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Wonderful Darling!? Raku\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Raku: \"Why, you…… You schemed to make this happen, you bastard……!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E090.png"
+    }
+  },
+  {
+    "id": "NK/W30-E091",
+    "name": "At the Secret Place, Kosaki",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 During your opponent's turn, if the number of characters your opponent has is three or less, this card gets +2000 power. 【AUTO】 Memory [(1)] When this card is placed on stage from your hand, if the number of cards named \"Promised Pendant\" in your memory is two or more, you may pay the cost. if you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "……Now that I think of it, that was my first love……It does seem that way to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E091.png"
+    }
+  },
+  {
+    "id": "NK/W30-E092",
+    "name": "Kosaki in Denial",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "I mistook it for my house key……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E092.png"
+    }
+  },
+  {
+    "id": "NK/W30-E093",
+    "name": "Love Triangle? Raku",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E093.png"
+    }
+  },
+  {
+    "id": "NK/W30-E094",
+    "name": "Swimsuit Ruri",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "You're just into seeing all the swimsuits, aren't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E094.png"
+    }
+  },
+  {
+    "id": "NK/W30-E095",
+    "name": "Modest Personality, Kosaki",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Promise from Long Ago\" is in your climax area, choose up to one card named \"Promised Pendant\" in your waiting room, put it into your memory, and this card gets +2000 power until end of your opponent's next turn.",
+    "flavorText": "I think Ichijo should sit next to Chitoge, don't you? They are dating, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E095.png"
+    }
+  },
+  {
+    "id": "NK/W30-E096",
+    "name": "Marika Tachibana",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "We are alone at last.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E096.png"
+    }
+  },
+  {
+    "id": "NK/W30-E097",
+    "name": "Promised Pendant",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Key》 characters, and that character gets +3000 power until end of turn. Put this card into your memory.",
+    "flavorText": "I couldn't bring myself to ask, again……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E097.png"
+    }
+  },
+  {
+    "id": "NK/W30-E098",
+    "name": "I told…… a lie……",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "……No. Never. Not once.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E098.png"
+    }
+  },
+  {
+    "id": "NK/W30-E099",
+    "name": "Promise from Long Ago",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Zyjacya in love\n(Forever in love)",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E099.png"
+    }
+  },
+  {
+    "id": "NK/W30-E100",
+    "name": "Exchanged Promises",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)",
+    "flavorText": "Marika: \"It was during one summer ten years ago that I first met you, Master Raku.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E100.png"
+    }
+  },
+  {
+    "id": "NK/W30-E101",
+    "name": "Mini Chitoge",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power. 【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Promised Pendant\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_101.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_101.png"
+    }
+  },
+  {
+    "id": "NK/W30-E102",
+    "name": "Mini Raku",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Animal",
+      "Key"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_102.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_102.png"
+    }
+  },
+  {
+    "id": "NK/W30-E103",
+    "name": "Mini Seishiro",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_103.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_103.png"
+    }
+  },
+  {
+    "id": "NK/W30-E104",
+    "name": "Mini Marika",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.  【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Promised Pendant\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_104.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_104.png"
+    }
+  },
+  {
+    "id": "NK/W30-E105",
+    "name": "Mini Kosaki",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power.  【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named \"Promised Pendant\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_105.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_105.png"
+    }
+  },
+  {
+    "id": "NK/W30-E106",
+    "name": "Transfer Student, Chitoge",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "",
+    "flavorText": "Hello, everybody!\nI'm Chitoge Kirisaki, and I transferred here from the U.S.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_E106.png"
+    }
+  },
+  {
+    "id": "NK/W30-PE04",
+    "name": "To the Highest Stage, Chitoge",
+    "number": "PE04",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Key",
+      "Music"
+    ],
+    "text": "【AUTO】 If the number of other 《Key》 or 《Weapon》 characters you have is three or more, this card gets the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_PE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_PE04.png"
+    }
+  },
+  {
+    "id": "NK/W30-PE05",
+    "name": "To the Highest Stage, Kosaki",
+    "number": "PE05",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "Music"
+    ],
+    "text": "【ACT】 【COUNT】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_PE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_PE05.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE01",
+    "name": "Raku Ichijo",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE01.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE02",
+    "name": "Transfer Student, Chitoge",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "So please don't be shy about approaching me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE02.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE03",
+    "name": "First Date, Chitoge",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power.",
+    "flavorText": "What the…! Who are you to talk to me like that……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE03.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE04",
+    "name": "Seishiro Tsugumi",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE04.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE05",
+    "name": "Lovers!? Chitoge",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 [(2)] When this card attacks, if a card named \"Fake Love\" is in your climax area, you may pay the cost. If you do, choose up to two of your opponent's characters, and return them to your opponent's hand. 【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【AUTO】 )",
+    "flavorText": "Oh, there you go again, darling～!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE05.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE06",
+    "name": "Love Triangle? Chitoge",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Key》 or 《Weapon》 characters.",
+    "flavorText": "Th-That's right! Who'd want to ……!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE06.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE07",
+    "name": "Chitoge Kirisaki",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Heiress",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, this card gets +4500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE07.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE08",
+    "name": "Promised Pendant",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Put this card into your memory.",
+    "flavorText": "Maybe it's time to just forget about this promise.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE08.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE09",
+    "name": "Fake Love",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Me dating this guy is absolutely not happening!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE09.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE10",
+    "name": "Gentle Profile, Kosaki",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "I see you have some new injuries.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE10.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE11",
+    "name": "Ruri Miyamoto",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Sports"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE11.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE12",
+    "name": "Kosaki in Denial",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "Ichijo… you did make a promise to someone, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE12.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE13",
+    "name": "Love Triangle? Kosaki",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power. 【ACT】 [【REST】 two of your characters] Choose one of your characters, and until end of turn, that character gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】 , you may draw a card. If you do, choose a card from your hand, and put it into your waiting room.\"",
+    "flavorText": "You two are… uh… dating each other……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE13.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE14",
+    "name": "Love Triangle? Raku",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Key",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Why would I be dating her……!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE14.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE15",
+    "name": "Head Tilt Kosaki",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is four or more, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【AUTO】 )",
+    "flavorText": "?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE15.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE16",
+    "name": "Kosaki Onodera",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9000",
+      "soul": 1
+    },
+    "tags": [
+      "Sweets",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE16.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE17",
+    "name": "Marika Tachibana",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Police",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE17.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE18",
+    "name": "Promise from Long Ago",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "You keep the lock. I'll keep the key. Let's wear them always, and treasure them forever.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE18.png"
+    }
+  },
+  {
+    "id": "NK/W30-TE19",
+    "name": "I told…… a lie……",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "……What should I do? Now I've made it even harder to come right out and ask him……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/n/nk_w30/NK_W30_TE19.png"
+    }
+  }
+]

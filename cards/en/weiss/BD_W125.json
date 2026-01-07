@@ -1,0 +1,2956 @@
+[
+  {
+    "id": "BD/W125-E001",
+    "name": "Masquerade, Oblivionis",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Music》 character, this card gets +1500 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Invitation to Entrust Your Life to Me\" is in your climax area, and you have 2 or more other 《Music》 characters, look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand or your stock, and put the rest into your waiting room. If you put 1 card into your stock, this card gets +1000 power until end of turn.",
+    "flavorText": "I do not fear forgetting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E001.png"
+    }
+  },
+  {
+    "id": "BD/W125-E002",
+    "name": "Masquerade, Mortis",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 This card can be played from your hand without fulfilling color requirements. 【CONT】 If you have 4 or more 《Music》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into your waiting room. If you have 4 or more other 《Music》 characters, you may put that card into your stock instead of into your waiting room.",
+    "flavorText": "I do not fear death.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E002.png"
+    }
+  },
+  {
+    "id": "BD/W125-E003",
+    "name": "Newfound Determination, Sakiko Togawa",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, you may put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, all of your 《Music》 characters get +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "There's something I need to seriously talk about with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E003.png"
+    }
+  },
+  {
+    "id": "BD/W125-E004",
+    "name": "Meeting That Started It All, Sakiko Togawa",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"Song About Wanting to Become Human\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《Music》 character in your waiting room, and return it to your hand. 【ACT】【CXCOMBO】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each \"Song About Wanting to Become Human\" or \"Haruhikage\" among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "I used to use the beetle one to…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E004.png"
+    }
+  },
+  {
+    "id": "BD/W125-E005",
+    "name": "Amicable Conduct, Oblivionis",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 If all of your characters are 《Music》, this card gets the following abilities. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Music》 characters, 【REST】 it, and move it to an open position of your back stage.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E005.png"
+    }
+  },
+  {
+    "id": "BD/W125-E006",
+    "name": "Celebrities' Daughter, Mutsumi Wakaba",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Hidden Face, Mortis\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 At the beginning of your climax phase, you may choose 1 \"Hidden Face, Mortis\" marker underneath this card, and put it in the position that this card is in.",
+    "flavorText": "Nyamu: \"I really want to meet them,\nso can I come to your house next time?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E006.png"
+    }
+  },
+  {
+    "id": "BD/W125-E007",
+    "name": "Hidden Face, Mortis",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Music》, this card gets +4000 power. 【AUTO】 【CXCOMBO】 At the beginning of your attack phase, if \"Worries in My Heart\" is in your climax area, this card is in your center stage, and you have another 《Music》 character, put up to 1 card from the top of your deck into your stock, choose 1 of the following effects, and perform it. \"Choose 1 \"Celebrities' Daughter, Mutsumi Wakaba\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"Celebrities' Daughter, Mutsumi Wakaba\", reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E007.png"
+    }
+  },
+  {
+    "id": "BD/W125-E008",
+    "name": "Poor Doll, Oblivionis",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Music》 character in your waiting room, and return it to your hand.",
+    "flavorText": "But the harshest death for us, is to be consigned to oblivion.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E008.png"
+    }
+  },
+  {
+    "id": "BD/W125-E009",
+    "name": "Weight on Her Shoulders, Mutsumi Wakaba",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, if there is a green marker underneath this card, this card gets +10000 power. 【CONT】 If there is a red marker underneath this card, this card gets the following abilities. \"【AUTO】 When this card becomes 【REVERSE】, you may put this card into your stock.\" \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your deck face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E009.png"
+    }
+  },
+  {
+    "id": "BD/W125-E010",
+    "name": "Words of Rejection, Sakiko Togawa",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 [【REST】 this card] At the beginning of your climax phase, you may pay the cost. If you do, choose this card and 1 \"Masquerade, Oblivionis\" in your waiting room, exchange them, and that character gets +1000 power until end of turn.",
+    "flavorText": "From now on, don't get involved with me anymore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E010.png"
+    }
+  },
+  {
+    "id": "BD/W125-E011",
+    "name": "Poor Doll, Mortis",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock. 【AUTO】 When this card is put into your waiting room from the stage, if you have 4 or more other 《Music》 characters, you may choose 1 《Music》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Elder Sister…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E011.png"
+    }
+  },
+  {
+    "id": "BD/W125-E012",
+    "name": "Our Song, Soyo Nagasaki",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +6000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if you have 2 or more other 《CRYCHIC》 characters, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E012.png"
+    }
+  },
+  {
+    "id": "BD/W125-E013",
+    "name": "Our Song, Mutsumi Wakaba",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to their hand. 【AUTO】 【CLOCK】 Alarm [Put 1 card from your hand into your waiting room] If this card is the top card of your clock, at the beginning of your climax phase, you may pay the cost. If you do, choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E013.png"
+    }
+  },
+  {
+    "id": "BD/W125-E014",
+    "name": "Our Song, Sakiko Togawa",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 If you have another \"Different From Everyone, Tomori Takamatsu\", this card gets +1500 power and the following ability. \"【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room.\" 【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Different From Everyone, Tomori Takamatsu\", put it in any position of your stage, shuffle your deck, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E014.png"
+    }
+  },
+  {
+    "id": "BD/W125-E015",
+    "name": "Heartwarming Time, Soyo Nagasaki",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《CRYCHIC》 characters get +500 power. 【AUTO】 [Put this card into your waiting room] When your other 《CRYCHIC》 character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "Please stop playing with your drinks.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E015.png"
+    }
+  },
+  {
+    "id": "BD/W125-E016",
+    "name": "Complicated Feelings, Mutsumi Wakaba",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ave Mujica》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E016.png"
+    }
+  },
+  {
+    "id": "BD/W125-E017",
+    "name": "Taking Care of Dad, Sakiko Togawa",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, you may put the top card of your opponent's clock into their waiting room. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their clock. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Yes, I see that you knew.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E017.png"
+    }
+  },
+  {
+    "id": "BD/W125-E018",
+    "name": "Watching the Live to the End, Mutsumi Wakaba",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +1000 power and 《Cucumber》 until end of turn. 【AUTO】 Memory When this card's battle opponent becomes 【REVERSE】, if \"CRYCHIC\" is in your memory, you may put the top card of your deck into your stock.",
+    "flavorText": "It was good.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E018.png"
+    }
+  },
+  {
+    "id": "BD/W125-E019",
+    "name": "Painful Truth, Mutsumi Wakaba",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《CRYCHIC》 characters, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\" 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I've never had fun playing in this band, not even once.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E019.png"
+    }
+  },
+  {
+    "id": "BD/W125-E020",
+    "name": "By Myself, Sakiko Togawa",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 2 of your characters, and those characters get the following ability until end of turn. \"【AUTO】 When this card attacks, if you have another 《Music》 character, and the character facing this card is level 3 or higher, this card gets +4500 power until end of turn.\"",
+    "flavorText": "Then, our technician will arrive at 1- A.M. this Sunday.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E020.png"
+    }
+  },
+  {
+    "id": "BD/W125-E021",
+    "name": "CRYCHIC",
+    "number": "E021",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If you have 1 or less 《Music》 characters, this card cannot be played from your hand. This card can be played from your hand without fulfilling color requirements. Choose 1 《Music》 character in your waiting room, and return it to your hand. Choose 1 of the following effects, and perform it. \"You may choose 1 card in your level, and put it into your waiting room. If you do, put this card into your level.\" \"Put this card into your memory.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E021.png"
+    }
+  },
+  {
+    "id": "BD/W125-E022",
+    "name": "Mortis TV Show",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【COUNTER】 Choose 1 of the following effects, and perform it. \"Put up to 1 card from the top of your clock into your waiting room, choose 1 of your characters, and that character gets +1500 power until end of turn.\" \"If you have a 《Music》 character, choose up to 2 《Music》 characters in your waiting room, and return them to your hand.\"",
+    "flavorText": "Mortis: \"Mutsumi-chan! Welcome to our show today!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E022.png"
+    }
+  },
+  {
+    "id": "BD/W125-E023",
+    "name": "Invitation to Entrust Your Life to Me",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Apologies for the wait.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E023.png"
+    }
+  },
+  {
+    "id": "BD/W125-E024",
+    "name": "Song About Wanting to Become Human",
+    "number": "E024",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E024.png"
+    }
+  },
+  {
+    "id": "BD/W125-E025",
+    "name": "Worries in My Heart",
+    "number": "E025",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Mortis: \"It's painful, isn't it? It hurts, doesn't it?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E025.png"
+    }
+  },
+  {
+    "id": "BD/W125-E026",
+    "name": "Masquerade, Amoris",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 [Put 1 other 《Music》 character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "I do not fear love.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E026.png"
+    }
+  },
+  {
+    "id": "BD/W125-E027",
+    "name": "Masquerade, Timoris",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If \"Masquerade, Timoris\" is put into your waiting room by this effect, choose up to 1 \"Masquerade, Timoris\" in your waiting room, and put it at the bottom of your stock.",
+    "flavorText": "I do not fear being afraid.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E027.png"
+    }
+  },
+  {
+    "id": "BD/W125-E028",
+    "name": "Lost Girls' Band, Soyo Nagasaki",
+    "number": "E028",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\" 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Music》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E028.png"
+    }
+  },
+  {
+    "id": "BD/W125-E029",
+    "name": "Lost Girls' Band, Anon Chihaya",
+    "number": "E029",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of the following effects, and perform it. \"You may choose 1 《Music》 character in your waiting room, and return it to your hand.\" \"[(1)] You may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.\" 【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if all of your characters are 《Music》, you may pay the cost. If you do, reveal the top card of your deck, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "Yay.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E029.png"
+    }
+  },
+  {
+    "id": "BD/W125-E030",
+    "name": "Masquerade, Doloris",
+    "number": "E030",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Reunion, Uika Misumi\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Ave Mujica\" is in your climax area, and you have 2 or more other 《Music》 characters, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, deal the same damage to your opponent, choose 1 of your other characters, and that character gets this ability until end of turn.\" (Damage may be canceled)",
+    "flavorText": "I do not fear sorrow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E030.png"
+    }
+  },
+  {
+    "id": "BD/W125-E031",
+    "name": "Still Lost, Anon Chihaya",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Lost Girls' Band, Tomori Takamatsu\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Resonate [Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "We… will do the live show!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E031.png"
+    }
+  },
+  {
+    "id": "BD/W125-E032",
+    "name": "Professional Label Bassist, Umiri Yahata",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "So, what do you need?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E032.png"
+    }
+  },
+  {
+    "id": "BD/W125-E033",
+    "name": "Together, Soyo Nagasaki",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Taki-chan, I'll accompany\nTomori-chan home for today.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E033.png"
+    }
+  },
+  {
+    "id": "BD/W125-E034",
+    "name": "Fabrication of Fiction, Doloris",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower 《Ave Mujica》 character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Budoukan is amazing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E034.png"
+    }
+  },
+  {
+    "id": "BD/W125-E035",
+    "name": "Feeling It Out, Nyamu Yutenji",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Music》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "Why me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E035.png"
+    }
+  },
+  {
+    "id": "BD/W125-E036",
+    "name": "Reality Beneath the Mask, Amoris",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000. 【AUTO】 【CXCOMBO】 [Put 1 other 《Music》 character from your stage into your waiting room] At the beginning of your encore step, if \"The Gears Have Turned\" is in your climax area, and this card is in your center stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Music》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in the stage position that character was in.",
+    "flavorText": "What a nice face.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E036.png"
+    }
+  },
+  {
+    "id": "BD/W125-E037",
+    "name": "\"Hitoshizuku\" Soyo Nagasaki",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When your other 《Music》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 Resonate [(1) Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] When this card attacks, if all of your characters are 《Music》, you may pay the cost. If you do, choose 1 《Music》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E037.png"
+    }
+  },
+  {
+    "id": "BD/W125-E038",
+    "name": "After the Big Stage, Uika Misumi",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is put into your waiting room from the stage, look at up to 3 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room. 【ACT】 [Put this card into your waiting room] Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Great job out there. The people at my agency were praising how you handled the guitar.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E038.png"
+    }
+  },
+  {
+    "id": "BD/W125-E039",
+    "name": "Scenery After Progress, Anon Chihaya",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, and put up to 1 card from the top of your deck into your stock. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Hekitenbansou\" is in your climax area, you may put that character into your opponent's clock. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have another \"Take My Energy, Tomori Takamatsu\" in your center stage, you may choose this card and 1 character in your center stage, and exchange them.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E039.png"
+    }
+  },
+  {
+    "id": "BD/W125-E040",
+    "name": "Composed, Timoris",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "11000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +4500 power and the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands.\" 【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, if you have 2 or more other 《Music》 characters, you may pay the cost. If you do, choose up to 2 《Music》 characters in your waiting room, and return them to your hand.",
+    "flavorText": "What's your plan?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E040.png"
+    }
+  },
+  {
+    "id": "BD/W125-E041",
+    "name": "Night Talk, Uika Misumi",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Music》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "My dream of being with you forever came true.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E041.png"
+    }
+  },
+  {
+    "id": "BD/W125-E042",
+    "name": "Poor Doll, Doloris",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Ave Mujica》 characters, this card gets the following abilities. \"【CONT】 During your turn, all of your other 《Ave Mujica》 characters get +1000 power.\" \"【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.\" 【AUTO】 [(1)] When this card is placed on the stage from your hand, if you have 4 or more other 《Music》 characters, you may pay the cost. If you do, choose up to 2 of your opponent's characters with level higher than your opponent's level, and those characters cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E042.png"
+    }
+  },
+  {
+    "id": "BD/W125-E043",
+    "name": "Poor Doll, Timoris",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\" 【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "Oblivionis: \"Timoris, keep your shoulders up.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E043.png"
+    }
+  },
+  {
+    "id": "BD/W125-E044",
+    "name": "Calculative Words, Nyamu Yutenji",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Music》 characters, this card gets +1500 power and the following ability. \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" 【AUTO】 [Put 1 other 《Music》 character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)",
+    "flavorText": "Hm?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E044.png"
+    }
+  },
+  {
+    "id": "BD/W125-E045",
+    "name": "Real Feelings Brought to Light, Soyo Nagasaki",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 Resonate [(1) Put 1 《MyGO!!!!!》 character from your hand into your waiting room & Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] When you use this card's \"Backup\", if you have a 《MyGO!!!!!》 character, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "So, you know, being in a band with you means facing those things. I had a difficult time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E045.png"
+    }
+  },
+  {
+    "id": "BD/W125-E046",
+    "name": "Poor Doll, Amoris",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Music》 characters get +2000 power. 【ACT】 [Put 1 other 《Music》 character from your stage into your waiting room & 【REST】 this card] Draw 1 card.",
+    "flavorText": "Oh? I see we have another newcomer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E046.png"
+    }
+  },
+  {
+    "id": "BD/W125-E047",
+    "name": "Reaching Out, Umiri Yahata",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "Are you not going to practice with your band?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E047.png"
+    }
+  },
+  {
+    "id": "BD/W125-E048",
+    "name": "\"Hitoshizuku\" Anon Chihaya",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character. 【ACT】 [Put this card at the bottom of your deck] Choose up to 1 character in your hand with level equal to or lower than your level, put it in any position of your stage, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E048.png"
+    }
+  },
+  {
+    "id": "BD/W125-E049",
+    "name": "Reunion, Uika Misumi",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room & 【REST】 this card] At the beginning of your climax phase, if your level is 3 or higher, you may pay the cost. If you do, choose this card and 1 \"Masquerade, Doloris\" in your waiting room, exchange them, and that character gets +1 soul until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"Reunion, Uika Misumi\" in your memory, and put it in any position of your stage.",
+    "flavorText": "It's ok, I'm glad we can even meet at all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E049.png"
+    }
+  },
+  {
+    "id": "BD/W125-E050",
+    "name": "Song of How We Became Us, Anon Chihaya",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Song of How We Became Us, Tomori Takamatsu\", draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Utakotoba\" is in your climax area, and this card is in the right position of your center stage, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 2 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E050.png"
+    }
+  },
+  {
+    "id": "BD/W125-E051",
+    "name": "Song of How We Became Us, Soyo Nagasaki",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Song of How We Became Us, Tomori Takamatsu\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room & 【REST】 this card] At the beginning of your attack phase, if \"Utakotoba\" is in your climax area, and this card is in the right position of your back stage, and all of your characters are 《MyGO!!!!!》, you may pay the cost. If you do, deal 1 damage to your opponent, and all of your characters get +1500 power until end of turn. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E051.png"
+    }
+  },
+  {
+    "id": "BD/W125-E052",
+    "name": "Popular Video Uploader, Nyamu Yutenji",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 At the beginning of your attack phase, choose up to 2 of your 《Music》 characters, and those characters get +1000 power until end of turn. 【ACT】 [(1) 【REST】 this card] If your level is 2 or higher, choose this card and 1 \"Poor Doll, Amoris\" in your waiting room, and exchange them.",
+    "flavorText": "Good afternyamu nyamu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E052.png"
+    }
+  },
+  {
+    "id": "BD/W125-E053",
+    "name": "Discerned Truth, Anon Chihaya",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may return this card to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "You don't need me, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E053.png"
+    }
+  },
+  {
+    "id": "BD/W125-E054",
+    "name": "Why Did You Play Haruhikage?! Soyo Nagasaki",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Music》 character, this card gets +3000 power. 【AUTO】 【CXCOMBO】 When \"Haruhikage\" is placed on your climax area, if you have 2 or more other 《Music》 characters, this card gets +3500 power, +1 soul and the following ability until end of turn. \"【AUTO】 At the end of turn, put this card into your waiting room.\" 【AUTO】 Experience When this card is placed on the stage from your hand, if \"CRYCHIC\" is in your level, this card gets +4500 power until end of turn.",
+    "flavorText": "Why did you play Haruhikage?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E054.png"
+    }
+  },
+  {
+    "id": "BD/W125-E055",
+    "name": "How to Convey Your Feelings, Uika Misumi",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Music》 characters among those cards ×2000. If there is a climax among those cards, you may pay the cost. If you paid the cost, choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Songs can reach out to others, don't they? When you don't know how to say it, they get your feelings across better than words.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E055.png"
+    }
+  },
+  {
+    "id": "BD/W125-E056",
+    "name": "Sisterly Figure, Soyo Nagasaki",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] At the end of this card's attack, you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "She's my friend.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E056.png"
+    }
+  },
+  {
+    "id": "BD/W125-E057",
+    "name": "Something to Discuss, Umiri Yahata",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Music》 characters, choose 1 of the following effects, and perform it. \"All of your 《Music》 characters get +1000 power until end of turn.\" \"Put the top card of your deck into your waiting room. If that card is level 1 or higher, you may put that card into your stock.\" (Climax are regarded as level 0)",
+    "flavorText": "What is it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E057.png"
+    }
+  },
+  {
+    "id": "BD/W125-E058",
+    "name": "Moodmaker, Anon Chihaya",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】) 【AUTO】 Resonate [Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand & Put 1 other character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 of your opponent's level 1 or higher characters. If you do, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.\"",
+    "flavorText": "I won't give up on this, so make sure you don't either, Soyorin!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E058.png"
+    }
+  },
+  {
+    "id": "BD/W125-E059",
+    "name": "Behind the Scenes, Nyamu Yutenji",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Music》 characters you have. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Say, Oblivionis.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E059.png"
+    }
+  },
+  {
+    "id": "BD/W125-E060",
+    "name": "sumimi, Uika",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "sumimi"
+    ],
+    "text": "【CONT】 During your turn, this card gets +4000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Music》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "I hope our music will cheer you up more.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E060.png"
+    }
+  },
+  {
+    "id": "BD/W125-E061",
+    "name": "sumimi, Mana",
+    "number": "E061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "sumimi"
+    ],
+    "text": "【CONT】 During your opponent's turn, if you have another \"sumimi, Uika\", this card gets +4000 power. 【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"sumimi, Uika\" in your waiting room, and put it in any position of your stage. 【AUTO】 At the beginning of your opponent's attack phase, you may choose this card and 1 of your \"sumimi, Uika\", and exchange them as 【STAND】.",
+    "flavorText": "How are you guys? You see, Mana's doing good!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E061.png"
+    }
+  },
+  {
+    "id": "BD/W125-E062",
+    "name": "Band's Support, Umiri Yahata",
+    "number": "E062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [【REST】 this card] During your climax phase, when \"Support Bass\" is placed on your climax area, if your level is 2 or higher, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"[Put 1 card from your hand into your waiting room] You may pay the cost. If you do, you may choose this card and 1 \"Composed, Timoris\" in your hand, and exchange them.\" \"Choose 1 \"Reaching Out, Umiri Yahata\" in your waiting room and this card, exchange them, and put up to 1 card from the top of your deck into your stock.\"",
+    "flavorText": "Sorry to keep you waiting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E062.png"
+    }
+  },
+  {
+    "id": "BD/W125-E063",
+    "name": "You Can Do It Bread",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Your opponent puts all of their stock into their waiting room, and puts the same number of cards from the top of their deck into their stock.",
+    "flavorText": "Tomori: \"I ended up lost. So I took a different route. Even so, some people proceeded onward.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E063.png"
+    }
+  },
+  {
+    "id": "BD/W125-E064",
+    "name": "Ave Mujica",
+    "number": "E064",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E064.png"
+    }
+  },
+  {
+    "id": "BD/W125-E065",
+    "name": "The Gears Have Turned",
+    "number": "E065",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Perfect~ Smile!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E065.png"
+    }
+  },
+  {
+    "id": "BD/W125-E066",
+    "name": "Hekitenbansou",
+    "number": "E066",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E066.png"
+    }
+  },
+  {
+    "id": "BD/W125-E067a",
+    "name": "Utakotoba",
+    "number": "E067a",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E067a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E067a.png"
+    }
+  },
+  {
+    "id": "BD/W125-E068",
+    "name": "Support Bass",
+    "number": "E068",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "What's the song?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E068.png"
+    }
+  },
+  {
+    "id": "BD/W125-E069",
+    "name": "Lost Girls' Band, Rana Kaname",
+    "number": "E069",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 At the beginning of all players' attack phase, reveal the top card of your deck. If that card is a 《Music》 character, this card gets +3000 power until end of turn. (Return the revealed card to its original place) 【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E069.png"
+    }
+  },
+  {
+    "id": "BD/W125-E070",
+    "name": "Lost Girls' Band, Taki Shiina",
+    "number": "E070",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Music》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 Resonate [(1) Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] At the end of this card's attack, if \"What's Your Real Intent?\" is in your climax area, you may pay the cost. If you do, choose up to 2 《Music》 characters in your waiting room, choose 1 card from among them, put it into your hand, and put the rest at the bottom of your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E070.png"
+    }
+  },
+  {
+    "id": "BD/W125-E071",
+    "name": "Lost Girls' Band, Tomori Takamatsu",
+    "number": "E071",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Mayoiuta\" is placed on your climax area, if this card is in your center stage, search your deck for up to 2 《Music》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck. 【AUTO】 Experience Resonate [Put 2 cards from your hand into your waiting room & Reveal 1 character from your hand with the same card name as a character in your level] During the turn that this card is placed on the stage from your hand, when this card attacks, you may pay the cost. If you do, choose 1 of the following effects, and perform it. \"Put up to 2 cards from the top of your clock into your waiting room.\" \"Put the top 4 cards of your deck into your waiting room, and deal 2 damage X times to your opponent. X is equal to the number of climax among those cards.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E071.png"
+    }
+  },
+  {
+    "id": "BD/W125-E072",
+    "name": "Still Lost, Tomori Takamatsu",
+    "number": "E072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Cries From The Heart\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Um…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E072.png"
+    }
+  },
+  {
+    "id": "BD/W125-E073",
+    "name": "Free Spirited, Rana Kaname",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Music》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"You're Not Playing?\" is in your climax area, and you have another 《Music》 character, look at up to 3 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Third year.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E073.png"
+    }
+  },
+  {
+    "id": "BD/W125-E074",
+    "name": "New Song, Tomori Takamatsu",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +4000 power. 【AUTO】 Experience Resonate [Put 1 card from your hand into your waiting room & Reveal 1 character from your hand with the same card name as a character in your level] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Anon-chan asked me to.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E074.png"
+    }
+  },
+  {
+    "id": "BD/W125-E075",
+    "name": "Lifelong Oath, Taki Shiina",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 Assist All of your 《Music》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 Resonate [Put 1 card from your hand into your waiting room & Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Choose 1 card in your level and 1 《Music》 character in your waiting room, and exchange them.",
+    "flavorText": "I will swear on that. I don't mind doing it for my whole life if it's with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E075.png"
+    }
+  },
+  {
+    "id": "BD/W125-E076",
+    "name": "\"Hitoshizuku\" Taki Shiina",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E076.png"
+    }
+  },
+  {
+    "id": "BD/W125-E077",
+    "name": "Interesting Woman, Rana Kaname",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 If you or your opponent has 2 or less climax in the waiting room, this card gets -1 level while in your hand. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】 Resonate [Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3000 power until the end of your opponent's turn.",
+    "flavorText": "Interesting woman.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E077.png"
+    }
+  },
+  {
+    "id": "BD/W125-E078",
+    "name": "Our Song, Tomori Takamatsu",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Haruhikage\" is in your climax area, your hand has 5 or less cards, and all of your characters are 《CRYCHIC》, you may deal 2 damage to your opponent. (Damage may be canceled) 【AUTO】 【CXCOMBO】 [(3) Put 1 \"Haruhikage\" from your climax area into your memory] At the beginning of your encore step, you may pay the cost. If you do, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, choose 1 of your opponent's characters, and that character gets -3 soul until end of turn.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E078.png"
+    }
+  },
+  {
+    "id": "BD/W125-E079",
+    "name": "Adding Melody to Lyrics, Taki Shiina",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room & Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +1000 power and 《Matcha》 until the end of your opponent's next turn.",
+    "flavorText": "Don't touch this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E079.png"
+    }
+  },
+  {
+    "id": "BD/W125-E080",
+    "name": "SPACE, Rana Kaname",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 character with \"Experience\" or \"Resonate\" from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Meow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E080.png"
+    }
+  },
+  {
+    "id": "BD/W125-E081",
+    "name": "Face to Face Meeting, Taki Shiina",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "Sakiko: \"Taki Shiina-san?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E081.png"
+    }
+  },
+  {
+    "id": "BD/W125-E082",
+    "name": "Take My Energy, Tomori Takamatsu",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, if you have another 《Music》 character, choose up to 1 character in your waiting room, return it to your hand, and you may pay the cost. If you paid the cost, choose up to 1 \"Scenery After Progress, Anon Chihaya\" from your hand, and put it in any position of your stage. 【AUTO】 【CXCOMBO】 [(3) Put 1 \"Scenery After Progress, Anon Chihaya\" from your hand into your waiting room] At the end of this card's attack, if \"Hekitenbansou\" is in your climax area, you may pay the cost. If you do, choose 1 of your other \"Scenery After Progress, Anon Chihaya\", 【STAND】 it, and that character gets +2000 power until end of turn.",
+    "flavorText": "But I felt like someone told me to hang in there.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E082.png"
+    }
+  },
+  {
+    "id": "BD/W125-E083",
+    "name": "Song of How We Became Us, Tomori Takamatsu",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 4 《MyGO!!!!!》 characters, put them into your waiting room, and shuffle your deck. 【AUTO】 【CXCOMBO】 [Put 5 《MyGO!!!!!》 characters from your hand into your waiting room] During your climax phase, when \"Utakotoba\" is placed on your climax area, if this card is in the middle position of your center stage, you may pay the cost. If you do, choose in your waiting room, up to 1 \"Song of How We Became Us, Anon Chihaya\", up to 1 \"Song of How We Became Us, Soyo Nagasaki\", up to 1 \"Song of How We Became Us, Rana Kaname\", up to 1 \"Song of How We Became Us, Taki Shiina\", and put them in separate positions of your stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E083.png"
+    }
+  },
+  {
+    "id": "BD/W125-E084",
+    "name": "Song of How We Became Us, Rana Kaname",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Song of How We Became Us, Tomori Takamatsu\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Utakotoba\" is in your climax area, and this card is in the left position of your center stage, you may pay the cost. If you do, deal 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E084.png"
+    }
+  },
+  {
+    "id": "BD/W125-E085",
+    "name": "Song of How We Became Us, Taki Shiina",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] At the beginning of your attack phase, if \"Utakotoba\" is in your climax area, this card is in the left position of your back stage, and all of your characters are 《MyGO!!!!!》, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【CONT】 If this 【STAND】 card is in your back stage, you may choose this card as the character that performs an attack. If you do, this card direct attacks.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E085.png"
+    }
+  },
+  {
+    "id": "BD/W125-E086",
+    "name": "Watching Over Her Grandchild, Shifune Tsuzuki",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other characters with \"Rana(楽奈)\" in its card name, and that character gets +2000 power until the end of your opponent's next turn. 【AUTO】 【CLOCK】 Shift Level 0 (At the beginning of your main phase, you may choose 1 blue card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "I'm not the owner anymore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E086.png"
+    }
+  },
+  {
+    "id": "BD/W125-E087",
+    "name": "Lone Wolf, Taki Shiina",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Music》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm not really good at talking with people.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E087.png"
+    }
+  },
+  {
+    "id": "BD/W125-E088",
+    "name": "Different From Everyone, Tomori Takamatsu",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 If you have another \"Our Song, Sakiko Togawa\", this card gets +1500 power and the following ability. \"【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +1000 power until end of turn.\" 【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Our Song, Sakiko Togawa\", put it in any position of your stage, shuffle your deck, and that character gets +1000 power until end of turn.",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E088.png"
+    }
+  },
+  {
+    "id": "BD/W125-E089",
+    "name": "RiNG's Stray Cat, Rana Kaname",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "I'm satisfied.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E089.png"
+    }
+  },
+  {
+    "id": "BD/W125-E090",
+    "name": "Vocal, Tomori Takamatsu",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《CRYCHIC》 characters, this card gets +2000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Sakiko: \"You're our vocalist!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E090.png"
+    }
+  },
+  {
+    "id": "BD/W125-E091",
+    "name": "Relying on Her Sister, Taki Shiina",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Something to Discuss, Umiri Yahata\" in your waiting room, put it in any position of your stage, that character gets +2500 power until end of turn, and at the end of the turn, put that character into your waiting room.",
+    "flavorText": "Big Sis, there's something I'd like to ask.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E091.png"
+    }
+  },
+  {
+    "id": "BD/W125-E092",
+    "name": "\"Hitoshizuku\" Tomori Takamatsu",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 [Put 1 《Music》 character from your hand into your waiting room] When you use this card's \"Backup\", if you have a 《Music》 character, you may pay the cost. If you do, choose 1 level 2 or higher character in your waiting room, and return it to your hand. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E092.png"
+    }
+  },
+  {
+    "id": "BD/W125-E093",
+    "name": "Our Song, Taki Shiina",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "CRYCHIC"
+    ],
+    "text": "【CONT】 During your turn, all of your other \"Our Song, Tomori Takamatsu\" get +2000 power. 【CONT】 Assist All of your 《Music》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 [Put 1 climax from your hand into your waiting room] When your climax triggers, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E093.png"
+    }
+  },
+  {
+    "id": "BD/W125-E094",
+    "name": "\"Hitoshizuku\" Rana Kaname",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 Resonate [Put 1 card from your hand into your waiting room & Reveal 1 \"Lost Girls' Band, Tomori Takamatsu\" in your hand] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E094.png"
+    }
+  },
+  {
+    "id": "BD/W125-E095a",
+    "name": "Haneoka's Quirky Girl, Tomori Takamatsu",
+    "number": "E095a",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "MyGO!!!!!"
+    ],
+    "text": "【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock. 【AUTO】 Experience Resonate [Reveal 1 character from your hand with the same card name as a character in your level] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +4000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\"",
+    "flavorText": "Anon: \"Tomori-chan, you can play the tambourine, right?\"\nAnon: \"Triangle sounds good, too.\"\nAnon: \"And maybe castanet, as well.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E095a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E095a.png"
+    }
+  },
+  {
+    "id": "BD/W125-E096",
+    "name": "Cries From The Heart",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "If you do not have a 《Music》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets +2000 power and the following abilities until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "This is a song.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E096.png"
+    }
+  },
+  {
+    "id": "BD/W125-E097",
+    "name": "What's Your Real Intent?",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E097.png"
+    }
+  },
+  {
+    "id": "BD/W125-E098",
+    "name": "Mayoiuta",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E098.png"
+    }
+  },
+  {
+    "id": "BD/W125-E099",
+    "name": "You're Not Playing?",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw up to 1 card, choose up to 2 of your characters, and those characters get +1 soul until end of turn. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E099.png"
+    }
+  },
+  {
+    "id": "BD/W125-E100",
+    "name": "Haruhikage",
+    "number": "E100",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_E100.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE01",
+    "name": "\"Quaerere Lumina\" Mortis",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE01.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE02",
+    "name": "\"Perdere Omnia\" Oblivionis",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE02.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE03",
+    "name": "\"Perdere Omnia\" Mortis",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +3000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Choir 'S' Choir\" is in your climax area, and you have 2 or more other 《Music》 characters, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE03.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE04",
+    "name": "\"Quaerere Lumina\" Oblivionis",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE04.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE05",
+    "name": "\"Veritas\" Mortis",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Music》 characters. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Music》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE05.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE06",
+    "name": "\"Veritas\" Oblivionis",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Music》 characters, and that character gets +1500 power until end of turn. 【AUTO】 [(2)] During the turn that this card is placed on the stage from your hand, at the beginning of your encore step, if you have another 《Music》 character, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE06.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE07",
+    "name": "Choir 'S' Choir",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE07.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE08",
+    "name": "\"Quaerere Lumina\" Amoris",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【ACT】 [Put this card into your waiting room] Choose 1 of your 《Music》 characters, and that character gets +2000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE08.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE09",
+    "name": "\"Quaerere Lumina\" Doloris",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 All of your other \"\"Quaerere Lumina\" Oblivionis\" get +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\". 【AUTO】 Bond/\"\"Quaerere Lumina\" Oblivionis\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"\"Quaerere Lumina\" Oblivionis\" in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE09.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE10",
+    "name": "\"Veritas\" Doloris",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 If your stock has 3 or less cards, this card gets +1000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE10.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE11",
+    "name": "\"Perdere Omnia\" Timoris",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 All of your other 《Music》 characters get +500 power. 【ACT】 [(1) Put 1 card from your hand into your waiting room & 【REST】 this card] Search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE11.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE12",
+    "name": "\"Veritas\" Amoris",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 During this card's battle, when the damage you received is not canceled, you may put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE12.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE13",
+    "name": "\"Perdere Omnia\" Amoris",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 At the beginning of your climax phase, choose up to 2 of your 《Music》 characters, and those characters get +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE13.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE14",
+    "name": "\"Veritas\" Timoris",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE14.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE15",
+    "name": "\"Quaerere Lumina\" Timoris",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +6000 power until end of turn. 【AUTO】 [【REST】 1 of your other 【STAND】 《Music》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put the top card of your deck into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE15.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE16",
+    "name": "\"Perdere Omnia\" Doloris",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Music",
+      "Ave Mujica"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into your waiting room, and you may pay the cost. If you paid the cost, choose 1 character in your opponent's waiting room, and put it in an open position of their stage. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if \"Black Birthday\" is in your climax area, and you have 2 or more other 《Music》 characters, you may pay the cost. If you do, deal 1 damage to your opponent, and put that battle opponent into your opponent's clock. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE16.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE17",
+    "name": "Two Moons ~Deep Into The Forest~",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "This card can be played from your hand without fulfilling color requirements. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 2 cards from the top of your deck, choose up to 2 《Music》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE17.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE18",
+    "name": "Black Birthday",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE18.png"
+    }
+  },
+  {
+    "id": "BD/W125-TE19",
+    "name": "Memento Mori",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/BDAM/W125_TE19.png"
+    }
+  }
+]

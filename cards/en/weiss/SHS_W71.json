@@ -1,0 +1,2652 @@
+[
+  {
+    "id": "SHS/W71-E001",
+    "name": "Overcoming Barriers, Eriri",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"And the Rivals Will Challenge God\" is in your climax area, and you have 2 or more other 《Game》 characters, look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn.",
+    "flavorText": "Go where?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E001.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E002",
+    "name": "A New Everyday, Utaha & Eriri",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 Experience If \"Cropped View, Eriri\" and \"A New Option, Utaha\" are in your level, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it in any position of your stage, and this card gets +2000 power until end of turn. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose this card and 1 of your other 《Game》 characters in the middle position of your center stage, exchange them as 【STAND】, and this card gets +1500 power until end of turn.",
+    "flavorText": "Eriri: \"What are you doing here? You already graduated.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E002.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E003",
+    "name": "Illustrator Battle, Izumi",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Confronting Determination\" is in your climax area, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +2.\" (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "Oh yes. Thank you for inviting me, then, Megumi.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E003.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E004",
+    "name": "Reason for Being in a Slump, Eriri",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Game》 characters get +500 power. 【ACT】 Experience [【REST】 this card] If \"Cropped View, Eriri\" is in your level, draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Akane: \"HAHAHAHAHAHAHAHAHAHAHAHAHAHA!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E004.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E005",
+    "name": "Provocation by the Pool, Izumi",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Game》 characters, this card gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Alluring Kouhai Body\" is in your climax area, put the top 3 cards of your deck into your waiting room, choose up to X 《Game》 characters in your waiting room, and return them to your hand. X is equal to the number of level 0 or lower characters put into your waiting room by this effect.",
+    "flavorText": "Thank you for your autograph. Eri Kashiwagi-sensei.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E005.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E006",
+    "name": "An Answer to the Autograph Board, Izumi",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Memory If \"Little Love Rhapsody\" is in your memory, this card gets the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "And Sawamura-senpai's art too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E006.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E007",
+    "name": "A New Beginning, Izumi",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When damage dealt by your level 3 or higher characters is canceled, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+    "flavorText": "I, Izumi Hashima, have just enrolled at Toyogasaki Academy! I look forward to our year together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E007.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E008",
+    "name": "Cropped View, Eriri",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"A New Option, Utaha\" in your waiting room, and put it in any position of your stage. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E008.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E009",
+    "name": "Parting Gift, Eriri",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand or deck, you may pay the cost. If you do, search your deck for up to 1 \"Parting Gift, Eriri\", put it in any position of your stage, and shuffle your deck. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When damage dealt by this card is not canceled, if \"Wimp Overtaken\" is in your climax area, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I can have them, can't I?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E009.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E010",
+    "name": "A New Autograph Board, Eriri",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Eri Kashiwagi's LLR Autograph Board\" in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "No, that's okay, Megumi.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E010.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E011",
+    "name": "Shift in Attitude, Eriri",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's characters, put it into their memory, and at the beginning of the encore step, your opponent puts that character from their memory in any position of their stage. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "Utaha: \"\"I'll be waiting for you forever, Tomoya.\"\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E011.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E012",
+    "name": "Villainous Image, Iori",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "【ACT】 [(1) 【REST】 this card] Look at up to 2 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0) 【ACT】 [Put 1 \"Sudden Reunion, Izumi\" from your hand into your waiting room] Choose 1 character with \"Izumi(出海)\" in its card name except \"Sudden Reunion, Izumi\" in your waiting room, and return it to your hand.",
+    "flavorText": "Akane.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E012.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E013",
+    "name": "Time to Make a Decision, Tomoya",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Iori: \"Now, come on, Tomoya. Let's head over to Nasu Kogen.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E013.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E014",
+    "name": "Absolute Commitment, Eriri",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or higher, this card gets +2000 power until end of turn. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Game》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "We're all here because you said you'd only do it if we were all in swimsuits too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E014.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E015",
+    "name": "Time for Canned Food, Eriri",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Experience If \"Cropped View, Eriri\" is in your level, this card gets +1000 power and the following ability. \"【AUTO】 [(1) Put this card into your waiting room] When your other 《Game》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.\"",
+    "flavorText": "I thought I'd let you know before I left.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E015.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E016",
+    "name": "Forced Interruption, Eriri",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their memory. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Well, things are different now, aren't they?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E016.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E017",
+    "name": "The Emotional Childhood Friend Ending, Eriri",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your main phase, you may choose this card and 1 character in your waiting room, and exchange them.",
+    "flavorText": "Who cares! I still want to talk about \"The Snow\"!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E017.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E018",
+    "name": "After the Drinking Bout, Akane",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 [Put 3 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 《Game》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "If you can conveniently find a partner willing to do that for you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E018.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E019",
+    "name": "Exposed Hostility, Izumi",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (Otherwise, return it to its original place) 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Game》 characters, at the beginning of your climax phase, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Our name recognition is irrelevant.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E019.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E020",
+    "name": "Where I Can Exert My Best, Izumi",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E020.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E021",
+    "name": "Admiration and Determination, Izumi",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Game》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+    "flavorText": "Wow, that's amazing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E021.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E022",
+    "name": "Eriri in Trouble",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I didn't send it, did I? I didn't email Tomoya, did I?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E022.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E023",
+    "name": "rouge en rouge Representative, Akane",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your hand and 1 card in your level, and exchange them.",
+    "flavorText": "I found something that I wanted to check out myself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E023.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E024",
+    "name": "Creativity in the Air, Izumi",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+    "flavorText": "Whoa…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E024.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E025",
+    "name": "Sudden Reunion, Izumi",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "-",
+    "flavorText": "I'm here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E025.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E026",
+    "name": "That Sort of Appearance, Iori",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
+    "flavorText": "There's no need to panic.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E026.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E027",
+    "name": "Outcome of the Battle, Izumi",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "What? Hold on...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E027.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E028",
+    "name": "The Deadline Buried in Snow",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to your hand.\"",
+    "flavorText": "Does that mean the game is finished, then?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E028.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E029",
+    "name": "And the Rivals Will Challenge God",
+    "number": "E029",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "WAAAAAAAAAAAAAaaaaaahhh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E029.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E030",
+    "name": "Wimp Overtaken",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+    "flavorText": "WAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E030.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E031",
+    "name": "Confronting Determination",
+    "number": "E031",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Tomoya-Senpai. I... I...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E031.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E032",
+    "name": "Alluring Kouhai Body",
+    "number": "E032",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)",
+    "flavorText": "Eriri: \"Her breasts are bursting from her top.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E032.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E033",
+    "name": "Betrayal and Farewell, Utaha",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When your other 《Game》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1) Put this card into your memory] When your other character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "Creatives like us stop growing the moment we aren't asked to push ourselves.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E033.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E034",
+    "name": "Growth and Departure, Eriri",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of your center stage gets +1000 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "See? Who's bad now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E034.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E035",
+    "name": "Wavering Sentiments, Megumi",
+    "number": "E035",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When \"The Girl Who Didn't Break the Flag\" is placed on your climax area, if you have another 《Game》 character, this card gets the following abilities until the end of your opponent's next turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "Right... I should have known.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E035.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E036",
+    "name": "First-Time Feelings, Megumi",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【ACT】 [Put this card into your waiting room] If your level is 1 or higher, choose 1 \"Explosion of Emotion, Megumi\" in your waiting room, and put it in the stage position that this card was in. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I'm going to head home for the day.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E036.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E037",
+    "name": "Developing Duo, Megumi",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Game》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "But that's pretty much what they do with this game.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E037.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E038",
+    "name": "Fueled by Defeat, Eriri",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Memory During your turn, if there is a card in your memory, this card gets +2500 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\"",
+    "flavorText": "But I won't lose next time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E038.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E039",
+    "name": "Before Bed, Megumi",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 3 or higher, you may pay the cost. If you do, choose 1 \"A New Story, Megumi\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "Here, Aki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E039.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E040",
+    "name": "Unexpected Enthusiasm, Megumi",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your 《Game》 characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "If you can't know unless you play them, then you should try just that.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E040.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E041",
+    "name": "Rewarding Scene, Megumi",
+    "number": "E041",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Game》 character, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\" (Return the revealed card to its original place) 【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, return this card to your hand.",
+    "flavorText": "I'd like to ask you to just draw me with what I'm wearing now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E041.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E042",
+    "name": "Time to Set Off, Utaha",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position of the stage. 【CONT】 If your hand has 5 or more cards, this card gets +2000 power.",
+    "flavorText": "Are you ready for this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E042.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E043",
+    "name": "A New Determination, Tomoya",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +3000 power until end of turn.",
+    "flavorText": "I want to make a game again!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E043.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E044",
+    "name": "Seeking Treasure, Megumi",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Game》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×500. 【AUTO】 When this card attacks, all of your characters get the following ability until end of turn. \"【AUTO】 When this card's trigger check reveals a climax with in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Copy that. I'll be right back.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E044.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E045",
+    "name": "Barriers to Overcome, Eriri",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Game》 characters. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Game》 characters, you may choose 1 character in your clock, and put it into your memory.",
+    "flavorText": "Izumi: \"And Sawamura-senpai's art too.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E045.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E046",
+    "name": "Fashion Coordinator, Megumi",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "We're picking new outfits for you, right? You can't stay in tracksuits for--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E046.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E047",
+    "name": "Rematch at Rokutenba Mall, Megumi",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Game》 characters get +500 power. 【AUTO】 【CXCOMBO】 [(1)] When \"A Different Gift\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other 《Game》 characters, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "I'll be fine as long as you clear the way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E047.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E048",
+    "name": "Path of a Creator, Eriri",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Search your deck for up to 1 character with \"Memory\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "And they want me and you to make a new one!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E048.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E049",
+    "name": "Fantasies in Poor Taste, Utaha",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Game》 characters you have ×500.",
+    "flavorText": "If we're going to say goodbye... \"Then I want something to remember you by.\" You say as you try to score a one-night stand?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E049.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E050",
+    "name": "Memories From a Year Ago, Utaha",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 Memory When this card attacks, if your memory has 2 or more cards, this card gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×1500.",
+    "flavorText": "Oh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E050.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E051",
+    "name": "Disappearing Highlights Once Again",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.",
+    "flavorText": "What are you talking about, Aki?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E051.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E052",
+    "name": "Time to Make a Decision",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a 《Game》 character, this card cannot be played from your hand. Choose 1 of your characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\"",
+    "flavorText": "How could you leave Ruri behind like that?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E052.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E053",
+    "name": "The Girl Who Didn't Break the Flag",
+    "number": "E053",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Be quiet. Whose fault do you think this is anyway?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E053.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E054",
+    "name": "A Different Gift",
+    "number": "E054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "You're welcome.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E054.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E055",
+    "name": "Girlfriend Who's Not Monotonous, Megumi",
+    "number": "E055",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Game》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room. 【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"A New Story, Megumi\" in your waiting room, and return it to your hand.",
+    "flavorText": "What are you...? What are you...? What are you talking about?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E055.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E056",
+    "name": "A New Story, Megumi",
+    "number": "E056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 Memory If your memory has 2 or more cards, during your turn, this card gets +2000 power. If there are 3 or more cards, your opponent cannot play \"Backup\" from their hand during this card's battle. If there are 4 or more cards, this card cannot be chosen by your opponent's effects. 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Before Bed, Megumi\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if \"Restart and Start a New Game\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "... Hehe.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E056.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E057",
+    "name": "A New Option, Utaha",
+    "number": "E057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Cropped View, Eriri\", you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 Experience [(3)] If \"New Route of Two Nights and Three Days\" is in your climax area, and \"A New Option, Utaha\" is in your level, when this card attacks, you may pay the cost. If you do, perform the following effects in any order. If you do not, choose 1 of the following effects, and perform it. \"Choose up to 3 cards in your opponent's waiting room, return them to their deck, and your opponent shuffles their deck.\" \"Deal 1 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "Even though these characters have changed to live in this changed world, they weren't dead at all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E057.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E058",
+    "name": "Squandered Spendings, Utaha",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0) 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "It's okay, I wrote down that we were brother and sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E058.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E059",
+    "name": "Determined Duo, Utaha",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"New Route of Two Nights and Three Days\" or \"And the Rivals Will Challenge God\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"New Route of Two Nights and Three Days\" or \"And the Rivals Will Challenge God\" in your waiting room, and return it to your hand. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Wait, Ms. Sawamura. Are you...? Are you able to draw again?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E059.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E060",
+    "name": "Negotiation Between Boy and Girl, Utaha",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.",
+    "flavorText": "Why do you seem so worried?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E060.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E061",
+    "name": "Explosion of Emotion, Megumi",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【CONT】 Assist During your turn, all of your characters in front of this card get +500 power. 【AUTO】 [(1) Put this card into your memory] At the beginning of your climax phase, if your level is 2 or higher, you may pay the cost. If you do, choose 1 \"Before Bed, Megumi\" in your waiting room, and put it in the stage position that this card was in. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "We're friends, aren't we? Eriri, Kasumigaoka-Senpai, and Ms. Hyodo too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E061.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E062",
+    "name": "Expressing Determination, Utaha",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【CONT】 If you have 2 or less 《Game》 characters, this card cannot be played from your hand. 【CONT】 Experience If \"A New Option, Utaha\" is in your level, this card gets +1500 power.",
+    "flavorText": "Did you forget? They don't want me without you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E062.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E063",
+    "name": "Morning of the Festival, Megumi",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "I think we can consider this matter closed. You're both okay with that, aren't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E063.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E064",
+    "name": "Refrain, Megumi",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "We should go out on a date.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E064.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E065",
+    "name": "Recalling Past Meetings, Utaha",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Well, that's because... Why do you hide it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E065.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E066",
+    "name": "Developing Relationship, Megumi",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 Memory When this card is placed on the stage from your hand, if there is a card in your memory, put the top card of your deck into your waiting room. If that card is a level 1 or lower character, this card gets +3000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "I think that might suit you better.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E066.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E067",
+    "name": "Feelings of Detestation, Utaha",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Which means, my university is her alma mater as well?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E067.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E068",
+    "name": "Immoral Senpai, Utaha",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【CONT】 Experience If the total level of the cards in your level is 4 or higher, this card gets +2500 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"His First Girl\" is in your climax area, put up to 1 card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "Mr. Ethical... Mr. Ethical... No, you're Mr. Unethical from now on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E068.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E069",
+    "name": "Professional Extortionist, Akane",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Game》 characters. 【AUTO】 【CXCOMBO】 [(3) Put 2 cards from your hand into your waiting room & Put 1 \"Creativity Crunch\" from your climax area into your waiting room] At the beginning of your attack phase, you may pay the cost. If you do, put all of your opponent's level 3 or lower characters into their waiting room.",
+    "flavorText": "It's been awhile, Kashiwagi-sensei. How's your health been?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E069.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E070",
+    "name": "Friendship of a Schoolmate, Sonoko",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Novel",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Novel》 character, put it into your waiting room, and shuffle your deck. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Novel》 character in your waiting room, and return it to your hand.",
+    "flavorText": "You don't have to be so unhappy. She's your professional senior as well, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E070.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E071",
+    "name": "Director's Pride, Tomoya",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "【CONT】 All of your other \"Overlooked Measures, Utaha\" get +1 soul. 【CONT】 All of your other 《Game》 characters get +500 power.",
+    "flavorText": "Utaha-senpai?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E071.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E072",
+    "name": "What She Wanted, Megumi",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character among those cards, this card's soul does not decrease by side attacking until end of turn. 【AUTO】 When this card attacks, choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Hey Eriri. Would you mind making one more for me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E072.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E073",
+    "name": "After the Festival, Megumi",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 《Game》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "But you didn't talk to me about anything.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E073.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E074",
+    "name": "In the Art Room at Dusk, Utaha",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 Experience When you use this card's \"Backup\", if \"A New Option, Utaha\" is in your level, choose 1 of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "So you won't be alone at least. Isn't that right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E074.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E075",
+    "name": "Overlooked Measures, Utaha",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "-",
+    "flavorText": "How dare you call me out, Ms. Kato?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E075.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E076",
+    "name": "A Gentle Denunciation, Utaha",
+    "number": "E076",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.",
+    "flavorText": "It seems to me that you're too obsessed with the quality, and you're treading water.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E076.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E077",
+    "name": "A Collaborative Work",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If you do not have a character with \"Utaha(詩羽)\" in its card name, this card cannot be played from your hand. Choose 1 of your 《Game》 characters, that character gets +2000 power until end of turn, choose 1 of your opponent's characters, and that character gets -1 soul until end of turn.",
+    "flavorText": "Good night.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E077.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E078",
+    "name": "Exceptional Work",
+    "number": "E078",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Game》 character, this card cannot be played from your hand. Choose 1 level 2 or higher character in your waiting room, and return it to your hand.",
+    "flavorText": "Especially these last seven pages are the greatest pieces in Eri Kashiwagi's career!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E078.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E079",
+    "name": "New Route of Two Nights and Three Days",
+    "number": "E079",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "That's not what I wanted to know! That's not what I'm asking!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E079.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E080",
+    "name": "Restart and Start a New Game",
+    "number": "E080",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. ([: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Besides, while it's mostly the same, it's not identical.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E080.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E081",
+    "name": "His First Girl",
+    "number": "E081",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Eriri: \"WAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E081.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E082",
+    "name": "Creativity Crunch",
+    "number": "E082",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "That's not a slump. You're just terrible! Your skills are just lagging behind!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E082.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E083",
+    "name": "Game Development Training Camp, Michiru",
+    "number": "E083",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E083.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E084",
+    "name": "Late-Night Invitation? Michiru",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《ゲーム》 characters among those cards ×1000. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "You should just spend the night in our room.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E084.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E085",
+    "name": "Band's Future in Crisis, Tokino & Echika & Ranko",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +500 power until end of turn. 【ACT】 Resonate [(1) Reveal 1 \"icy tail, Michiru\" in your hand & 【REST】 this card] Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Tokino: \"What's that have to do with our band?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E085.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E086",
+    "name": "Morning of the Festival, Michiru",
+    "number": "E086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Game》 characters you have. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
+    "flavorText": "Although, our booth seems just a little sad compared to everyone else's.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E086.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E087",
+    "name": "Childhood Friend by the Pool, Michiru",
+    "number": "E087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to their hand. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Childhood Friend by the Pool\" is in your climax area, reveal the top card of your deck. If that card is a 《Game》 character, you may deal 5 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)",
+    "flavorText": "That was a nice Flying Body Press.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E087.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E088",
+    "name": "Unexpected Reinforcement? Michiru",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, if you have 2 or more other 《Game》 characters, you may pay the cost. If you do, search your deck for up to 1 \"icy tail, Michiru\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 Resonate [Reveal 1 \"icy tail, Michiru\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.",
+    "flavorText": "I can't help you with all that clickety-clack work.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E088.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E089",
+    "name": "Assisting All Night, Ranko",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【CONT】 All of your other 《Game》 characters get +500 power. 【AUTO】 【CXCOMBO】 [【REST】 this card] When \"Fall In, icy tail!\" is placed on your climax area, you may pay the cost. If you do, put the top card of your deck into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E089.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E090",
+    "name": "Assisting All Night, Echiko",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Fall In, icy tail!\" is placed on your climax area, if this card is in your center stage, search your deck for up to 1 \"Assisting All Night, Tokino\", put it in any position of your stage, and shuffle your deck. 【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E090.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E091",
+    "name": "Assisting All Night, Tokino",
+    "number": "E091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When your other 《Game》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Fall In, icy tail!\" is in your climax area, and you have another 《Game》 character, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E091.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E092",
+    "name": "Appealing Presence, Michiru",
+    "number": "E092",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place) 【AUTO】 When this card attacks, choose 1 of your other 《Game》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Game》 characters you have ×1000.",
+    "flavorText": "Tomo said we'd be resuming our team activities this afternoon.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E092.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E093",
+    "name": "Scapegoat, Michiru",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Game》 characters, and that character gets +1000 power until end of turn. 【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your memory.",
+    "flavorText": "Well, Tomo asked me to come up with whatever excuse I could to get you all here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E093.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E094",
+    "name": "Reversal Move, Tomoya",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Otaku"
+    ],
+    "text": "-",
+    "flavorText": "Don't worry, Michiru. You have another important role that nobody else can do.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E094.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E095",
+    "name": "Uncontrollable Crowd, Michiru",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【CONT】 If the level of the character facing this card is higher than your opponent's level, this card cannot become 【REVERSE】.",
+    "flavorText": "You're finally back! Come on, Tomo! What are we going to do about this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E095.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E096",
+    "name": "Misunderstanding and Punishment, Michiru",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +6000 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Reversal Move, Tomoya\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Kato? What is this? How long has this been going on between you two?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E096.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E097",
+    "name": "Realization of an Outmaneuver, Michiru",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Game》 character in your back stage. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "I'm pretty sure she said she was staying in this room.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E097.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E098",
+    "name": "Reveal of New Songs",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your characters, and put it into your waiting room. If you do, search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Like I said, I didn't just come to play around either.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E098.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E099",
+    "name": "Childhood Friend by the Pool",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Yeah, yeah.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E099.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E100",
+    "name": "Fall In, icy tail!",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw 1 card)",
+    "flavorText": "Tomoya: \"This is a really important crossroad for our team.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E100.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E101",
+    "name": "A New Start, Izumi",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card or your other 《Game》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)",
+    "flavorText": "What? I applied, but I got accepted here first, so I didn't go through with it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E101.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E102",
+    "name": "A New Start, Eriri",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Manga"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Game》, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "It's too late to try to vie for screen time now. We're already in the act three of the finale!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E102.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E103",
+    "name": "A New Start, Megumi",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I know you've told me multiple times how bland I was, but I never thought you'd make it the title!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E103.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E104",
+    "name": "A New Start, Utaha",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Novel"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Game》 characters, this card gets +2000 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Besides, you were basically gone for the entire second half. What do you think you can do at this point?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E104.png"
+    }
+  },
+  {
+    "id": "SHS/W71-E105",
+    "name": "A New Start, Michiru",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "Music"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Let go of me! But I really am being friendly!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_E105.png"
+    }
+  },
+  {
+    "id": "SHS/W71-PE01",
+    "name": "Victim of Obsession, Megumi",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Game",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is 2 or lower, you may 【REVERSE】 that character. 【ACT】 [(1)] This card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "You know, that's become your way to cajole me into doing whatever you want.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SHS2/W71_PE01.png"
+    }
+  }
+]

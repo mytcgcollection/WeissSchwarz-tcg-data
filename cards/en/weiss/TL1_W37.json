@@ -1,0 +1,3281 @@
+[
+  {
+    "id": "TL/W37-E001",
+    "name": "Yami",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【CONT】 If all of your characters are 《Trans》 or 《Housework》, this card gets +1500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card attacks, if a card named \"Gentle Time\" is in your climax area, choose one of your other characters and this card, and those cards get the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "I don't like nasty stuff!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E001.png"
+    }
+  },
+  {
+    "id": "TL/W37-E002",
+    "name": "Mea Kurosaki",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《Trans》 or 《Housework》 characters. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of your 《Trans》 or 《Housework》 characters.",
+    "flavorText": "\"…That's wonderful?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E002.png"
+    }
+  },
+  {
+    "id": "TL/W37-E003",
+    "name": "“Lollipop” Mea",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 All of your other 《Trans》 or 《Housework》 characters get +500 power. 【AUTO】 Resonate [(2) Reveal a card named \"Yami\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Yes! I like it sweet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E003.png"
+    }
+  },
+  {
+    "id": "TL/W37-E004",
+    "name": "“Sitting” Mea",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Please tell me?…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E004.png"
+    }
+  },
+  {
+    "id": "TL/W37-E005",
+    "name": "“Sitting” Yami",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Trans》 or 《Housework》 character is placed on the stage from your hand, this card gets +1000 power until end of turn. 【AUTO】 Resonate [Reveal a card named \"Yami\" in your hand] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose one of your other characters, 【REST】 it, and move it to an open stage position of your back stage.",
+    "flavorText": "I realize that it's not myself that I can rely on when I'm in trouble, but my friends.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E005.png"
+    }
+  },
+  {
+    "id": "TL/W37-E006",
+    "name": "“Own Heart” Yami",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【CONT】 If all of your characters are 《Trans》 or 《Housework》, this card gets +2000 power. 【AUTO】 Resonate [(1) Reveal a card named \"Yami\" in your hand] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card.",
+    "flavorText": "But…There are times when I don't know my own feelings.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E006.png"
+    }
+  },
+  {
+    "id": "TL/W37-E007",
+    "name": "“Killing Order of Rito” Yami",
+    "number": "E007",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your waiting room, choose one of your 《Trans》 or 《Housework》 characters, and that character gets +1500 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"“Just Like It Was Till Now” Yami\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)",
+    "flavorText": "The fact that you are my target has not changed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E007.png"
+    }
+  },
+  {
+    "id": "TL/W37-E008",
+    "name": "“Just Like It Was Till Now” Yami",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your waiting room, this card gets +1 soul until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"“Killing Order of Rito” Yami\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)",
+    "flavorText": "Yes… this town is… very troublesome.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E008.png"
+    }
+  },
+  {
+    "id": "TL/W37-E009",
+    "name": "Kyoko Kirisaki",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Flame"
+    ],
+    "text": "【AUTO】 [(2) Put the top card of your deck into your clock] When this card is frontal attacked, you may pay the cost. If you do, choose one of your other 《Alien》 or 《Plant》 characters and this card, and return them to your hand.",
+    "flavorText": "I'll play with you…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E009.png"
+    }
+  },
+  {
+    "id": "TL/W37-E010",
+    "name": "“Wrapping With Ribbons” Mea",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Trans》 or 《Housework》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Please lick me next time, Yuki?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E010.png"
+    }
+  },
+  {
+    "id": "TL/W37-E011",
+    "name": "“Memories That Connect to the Future” Yami",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【CONT】 Assist All of your 《Trans》 or 《Housework》 characters in front of this card get +500 power and [【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 When a card named \"Taiyaki Key Holder\" is placed on your climax area, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Why don't I share an old tale with you---…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E011.png"
+    }
+  },
+  {
+    "id": "TL/W37-E012",
+    "name": "“Heart-racing Bath Time” Mea",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 If the number of other 《Trans》 or 《Housework》 characters you have is three or more, this card gets +1500 power and this card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.",
+    "flavorText": "So…… I just want all of us to get along?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E012.png"
+    }
+  },
+  {
+    "id": "TL/W37-E013",
+    "name": "“Weapon Born for Battle” Mea",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 If a card named \"Yami\" is in your clock, this card gets -1 level while in your hand. 【CONT】 If the number of other 《Trans》 or 《Housework》 characters you have is three or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Yes, I know that, Master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E013.png"
+    }
+  },
+  {
+    "id": "TL/W37-E014",
+    "name": "Tearju Lunatique",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 Bond/\"Yami\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Yami\" in your waiting room, and return it to your hand.)",
+    "flavorText": "W-When did you undress me…!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E014.png"
+    }
+  },
+  {
+    "id": "TL/W37-E015",
+    "name": "“Enduring Teacher” Tearju",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named \"Ryoko Mikado\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Hah…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E015.png"
+    }
+  },
+  {
+    "id": "TL/W37-E016",
+    "name": "Ren Elise Jewelria",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Trans"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"Run Elise Jewelria\" in your waiting room, return it to your hand, choose a card named \"“Blue Metallia” Run\" in your waiting room, and put it on the stage position that this card was on as 【REST】.",
+    "flavorText": "Achoo!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E016.png"
+    }
+  },
+  {
+    "id": "TL/W37-E017",
+    "name": "“Psychological Invasion” Mea",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "-",
+    "flavorText": "Come on! Stop it already... This is inside of your dream---",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E017.png"
+    }
+  },
+  {
+    "id": "TL/W37-E018",
+    "name": "“Collected and Calm” Yami",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【CONT】 If your level is two or higher, this card gets the following ability. \"【ACT】 [Put a card from your hand into your waiting room & Put this card into your waiting room] Choose a card named \"“Own Heart” Yami\" in your waiting room, and put it on the stage position that this card was on.\" 【ACT】 [(1) Put a climax from your hand into your clock & Put this card into your clock] Choose up to one card named \"Yami\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "How can I help you, Princess Momo?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E018.png"
+    }
+  },
+  {
+    "id": "TL/W37-E019",
+    "name": "“Southern Beach Resort” Mea",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"Yami\" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +4000 power and -1 soul until end of turn.",
+    "flavorText": "W-What does that mean!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E019.png"
+    }
+  },
+  {
+    "id": "TL/W37-E020",
+    "name": "“Southern Beach Resort” Yami",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "-",
+    "flavorText": "Stare～…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E020.png"
+    }
+  },
+  {
+    "id": "TL/W37-E021",
+    "name": "“Blue Metallia” Run",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Trans"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not an 《Alien》 or 《Trans》 character, at the beginning of your encore step, put this card into your waiting room. (The revealed card is returned to its original place) 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I want Rito to see this!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E021.png"
+    }
+  },
+  {
+    "id": "TL/W37-E022",
+    "name": "“Heart-racing Bath Time” Yami",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Please don't look!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E022.png"
+    }
+  },
+  {
+    "id": "TL/W37-E023",
+    "name": "“Thoughts From Master” Mea",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【AUTO】 When a card named \"Warm Town “Sainan”\" is placed on your climax area, if this card is in your center stage, look at your opponent's hand, choose one of your 《Trans》 or 《Housework》 characters, and that character gets +3000 power and +1 soul until end of turn.",
+    "flavorText": "Basically your heart can't be changed that easily.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E023.png"
+    }
+  },
+  {
+    "id": "TL/W37-E024",
+    "name": "Ryoko Mikado",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Infirmary"
+    ],
+    "text": "-",
+    "flavorText": "I guess this visual clue helped the informer tremendously.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E024.png"
+    }
+  },
+  {
+    "id": "TL/W37-E025",
+    "name": "Run Elise Jewelria",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Trans"
+    ],
+    "text": "【CONT】 This card gets -1 level while on the stage.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E025.png"
+    }
+  },
+  {
+    "id": "TL/W37-E026",
+    "name": "Comforting Warmth",
+    "number": "E026",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Search your deck for up to one 《Trans》 character and up to one 《Housework》 character, reveal them to your opponent, put them into your hand, and shuffle your deck. Choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "I came so close to telling him that…\"I want you to hold me\"…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E026.png"
+    }
+  },
+  {
+    "id": "TL/W37-E027",
+    "name": "Project Darkness",
+    "number": "E027",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn, \"【CONT】 This card cannot deal damage to a player.\" Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "\"Darkness\" is a dangerous power.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E027.png"
+    }
+  },
+  {
+    "id": "TL/W37-E028",
+    "name": "Gentle Time",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Yami: \"Good night～ Tear……\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E028.png"
+    }
+  },
+  {
+    "id": "TL/W37-E029",
+    "name": "Taiyaki Key Holder",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Thank you…Mikan…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E029.png"
+    }
+  },
+  {
+    "id": "TL/W37-E030",
+    "name": "Warm Town “Sainan”",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "And yet, I feel like I want to stay here a bit longer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E030.png"
+    }
+  },
+  {
+    "id": "TL/W37-E031",
+    "name": "“Sitting” Mikan",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.",
+    "flavorText": "Were you worried about me that much~?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E031.png"
+    }
+  },
+  {
+    "id": "TL/W37-E032",
+    "name": "Mikan Yuki",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Trans》 or 《Housework》 characters. 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Rely on me more. We're friends, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E032.png"
+    }
+  },
+  {
+    "id": "TL/W37-E033",
+    "name": "Yui Kotegawa",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, search your deck for up to one 《Animal》 or 《Plant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1000 power until end of turn, and your opponent cannot play event cards from hand until the end of your opponent's next turn.",
+    "flavorText": "You pervert-!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E033.png"
+    }
+  },
+  {
+    "id": "TL/W37-E034",
+    "name": "“Sitting” Yui",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, all of your other characters get +1500 power. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "But… now I know he can be pretty serious sometimes…….",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E034.png"
+    }
+  },
+  {
+    "id": "TL/W37-E035",
+    "name": "“Cute Pajamas” Mikan",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Trans》 or 《Housework》 character in your clock, return it to your hand, and put the top card of your deck into your clock. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Trans》 or 《Housework》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "W-What… is going on?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E035.png"
+    }
+  },
+  {
+    "id": "TL/W37-E036",
+    "name": "“Only a Dress Shirt” Yui",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put X cards from the top of your deck into your waiting room. X is equal to the number of 《Animal》 or 《Plant》 characters you have. 【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "What do you mean...? This is what you gave me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E036.png"
+    }
+  },
+  {
+    "id": "TL/W37-E037",
+    "name": "“Feelings of Love” Yui",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "Love……? This feeling… Is that what it's called……?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E037.png"
+    }
+  },
+  {
+    "id": "TL/W37-E038",
+    "name": "“Regretting a Little?” Yui",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【CONT】 This card gets +1 level and +1500 power for each marker underneath this card. 【AUTO】 When a card named \"Heart-racing Voice\" is placed on your climax area, this card gets +1500 power until the end of your opponent's next turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker.",
+    "flavorText": "\"I always watch Magical Kyoko.\" …should I have said that?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E038.png"
+    }
+  },
+  {
+    "id": "TL/W37-E039",
+    "name": "“Nap Time” Mikan",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Trans》 or 《Housework》 characters.",
+    "flavorText": "Just for today…I don't mind? In my bed…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E039.png"
+    }
+  },
+  {
+    "id": "TL/W37-E040",
+    "name": "“Putting Away Clothes” Mikan",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【CONT】 If all of your characters are 《Trans》 or 《Housework》, this card gets +1000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if you have a card named \"Taiyaki Key Holder\" in your climax area, search your deck for up to one 《Trans》 or 《Housework》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Celine's clothes… I got sad while putting them away.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E040.png"
+    }
+  },
+  {
+    "id": "TL/W37-E041",
+    "name": "Aya Fujisaki",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses"
+    ],
+    "text": "【CONT】 All of your other green characters get +500 power. 【ACT】 [(2) 【REST】 two of your characters] Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E041.png"
+    }
+  },
+  {
+    "id": "TL/W37-E042",
+    "name": "Saki Tenjoin",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Heiress"
+    ],
+    "text": "【CONT】 All of your other cards named \"Rin Kujo\" get +500 power and the following ability. \"【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.\" 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one green character, reveal it to your opponent, put it into your hand and shuffle your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E042.png"
+    }
+  },
+  {
+    "id": "TL/W37-E043",
+    "name": "“Preparing Breakfast” Mikan",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 Change [Put two 《Trans》 or 《Housework》 characters from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Mikan Yuki\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Morning, Nana.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E043.png"
+    }
+  },
+  {
+    "id": "TL/W37-E044",
+    "name": "“Good At Cooking” Mikan",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【AUTO】 When another of your 《Trans》 or 《Housework》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "I'm doing this because I want to so you don't need to be so polite!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E044.png"
+    }
+  },
+  {
+    "id": "TL/W37-E045",
+    "name": "“Worried Stare” Mikan",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "-",
+    "flavorText": "… …",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E045.png"
+    }
+  },
+  {
+    "id": "TL/W37-E046",
+    "name": "“Talk Between Two” Yui",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "The both of us… …?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E046.png"
+    }
+  },
+  {
+    "id": "TL/W37-E047",
+    "name": "“Discipline Committee Activity Report” Yui",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "So quick to trip over nothing…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E047.png"
+    }
+  },
+  {
+    "id": "TL/W37-E048",
+    "name": "“Usual Day” Mikan",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "But... if she's been doing that with certain intentions…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E048.png"
+    }
+  },
+  {
+    "id": "TL/W37-E049",
+    "name": "“Cat Notification Tone” Yui",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if a card named \"Alluring Voice\" is in your climax area, until end of turn, this card gets +X power, and your opponent cannot play \"Backup\" from hand. X is equal to 500 multiplied by the number of other 《Animal》 or 《Plant》 characters you have.",
+    "flavorText": "This notification tone… Yuki…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E049.png"
+    }
+  },
+  {
+    "id": "TL/W37-E050",
+    "name": "“Shameful Happening” Yui",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from hand. 【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Animal》 or 《Plant》 characters you have is four or more, you may put the top card of your deck into your stock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E050.png"
+    }
+  },
+  {
+    "id": "TL/W37-E051",
+    "name": "Rin Kujo",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon"
+    ],
+    "text": "【CONT】 if you have cards named \"Saki Tenjoin\" and \"Aya Fujisaki\", this card gets -1 level while in your hand.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E051.png"
+    }
+  },
+  {
+    "id": "TL/W37-E052",
+    "name": "Black Cat Mode",
+    "number": "E052",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one 《Animal》 or 《Plant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. Choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn. Put this card into your clock.",
+    "flavorText": "Meow?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E052.png"
+    }
+  },
+  {
+    "id": "TL/W37-E053",
+    "name": "Taiyaki Key Holder",
+    "number": "E053",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Me too, we match.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E053.png"
+    }
+  },
+  {
+    "id": "TL/W37-E054",
+    "name": "Heart-racing Voice",
+    "number": "E054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Eh!? Wha… What is this--… !?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E054.png"
+    }
+  },
+  {
+    "id": "TL/W37-E055",
+    "name": "Alluring Voice",
+    "number": "E055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Rito: \"It was a sweetness that can ascend you to the heavens-!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E055.png"
+    }
+  },
+  {
+    "id": "TL/W37-E056",
+    "name": "Lala-Satarin-Deviluke",
+    "number": "E056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【CONT】 If the number of other characters you have is one or less, this card gets +1500 power. 【AUTO】 Resonate [Reveal a card named \"“Sitting” Lala\" in your hand] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your center stage.",
+    "flavorText": "But Rito likes me too…right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E056.png"
+    }
+  },
+  {
+    "id": "TL/W37-E057",
+    "name": "Nana-Astar-Deviluke",
+    "number": "E057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.",
+    "flavorText": "You beast!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E057.png"
+    }
+  },
+  {
+    "id": "TL/W37-E058",
+    "name": "Momo-Belia-Deviluke",
+    "number": "E058",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【CONT】 If the number of other 《Alien》 or 《Plant》 characters you have is three or more, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Alien》 or 《Plant》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Heart-racing Approach\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose an 《Alien》 or 《Plant》 character with a level equal to or less than your level in your waiting room, put it on any position of your stage, and that character gets +2000 power until end of turn.",
+    "flavorText": "\"I want to stay by your side forever…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E058.png"
+    }
+  },
+  {
+    "id": "TL/W37-E059",
+    "name": "“Alluring Pajama Look” Momo",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Alien》 or 《Plant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【AUTO】 [Put this card into your waiting room] When another of your 《Alien》 or 《Plant》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "If you don’t wake up……I'll play a prank on you, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E059.png"
+    }
+  },
+  {
+    "id": "TL/W37-E060",
+    "name": "“Sitting” Momo",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower 《Alien》 or 《Plant》 character in your waiting room, and put it on any position of your stage. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "That's just like Rito!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E060.png"
+    }
+  },
+  {
+    "id": "TL/W37-E061",
+    "name": "“Trusting Stare” Lala",
+    "number": "E061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Alien》 or 《Science》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "That's just like Rito, huh…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E061R.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E061R.png"
+    }
+  },
+  {
+    "id": "TL/W37-E062",
+    "name": "“Gentle Warmth” Nana",
+    "number": "E062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of other 《Alien》 or 《Animal》 characters you have is three or more, this card gets +1 level and +1500 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Being h-held… feels nice, doesn't it……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E062.png"
+    }
+  },
+  {
+    "id": "TL/W37-E063",
+    "name": "“Sitting” Lala",
+    "number": "E063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Alien》 or 《Science》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place) 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "It's for my important Rito! Leave it to me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E063.png"
+    }
+  },
+  {
+    "id": "TL/W37-E064",
+    "name": "“Sitting” Nana",
+    "number": "E064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【CONT】 If a card named \"“True Friends” Nana\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Well...he can be a little sweet though…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E064.png"
+    }
+  },
+  {
+    "id": "TL/W37-E065",
+    "name": "“Friendly? Three Sisters” Lala",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 Bond/\"“Friendly? Three Sisters” Nana\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Friendly? Three Sisters” Nana\" in your waiting room, and return it to your hand.) 【AUTO】 Bond/\"“Friendly? Three Sisters” Momo\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"“Friendly? Three Sisters” Momo\" in your waiting room, and return it to your hand.)",
+    "flavorText": "After all, they're my dear younger sisters. I can't ignore them fighting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E065.png"
+    }
+  },
+  {
+    "id": "TL/W37-E066",
+    "name": "“Modest Support” Momo",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When a card named \"Secret Flower Garden?\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to two cost 0 or lower characters from among them, put them on separate positions of your stage, and put the rest into your waiting room.",
+    "flavorText": "Please do your best, Rito.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E066.png"
+    }
+  },
+  {
+    "id": "TL/W37-E067",
+    "name": "“True Friends” Nana",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put this card into your stock. (The revealed card is returned to its original place)",
+    "flavorText": "The important thing is… our feelings, right!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E067.png"
+    }
+  },
+  {
+    "id": "TL/W37-E068",
+    "name": "“Friendly? Three Sisters” Momo",
+    "number": "E068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"“Sitting” Lala\" in your hand] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, all of your other characters get +2000 power until end of turn.",
+    "flavorText": "Me too…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E068.png"
+    }
+  },
+  {
+    "id": "TL/W37-E069",
+    "name": "“Friendly? Three Sisters” Nana",
+    "number": "E069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 Resonate [(1) Reveal a card named \"“Sitting” Lala\" in your hand] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm… glad that I'm her younger sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E069.png"
+    }
+  },
+  {
+    "id": "TL/W37-E070",
+    "name": "“Twirling Mechanical Pencil” Lala",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【CONT】 Assist All of your 《Alien》 or 《Science》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Alluring Pose\" is placed on your climax area, you may pay the cost. If you do, choose up to two of your 《Alien》 or 《Science》 characters, and those characters get +3000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E070.png"
+    }
+  },
+  {
+    "id": "TL/W37-E071",
+    "name": "“Twin Sisters” Nana",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 [Put two cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "What do you expect? I've been together with her forever as her twin sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E071.png"
+    }
+  },
+  {
+    "id": "TL/W37-E072",
+    "name": "“Friend From Planet Tentac” Nana",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Alien》 or 《Animal》 characters is placed on the stage from your hand, this card get +1000 power until end of turn. 【AUTO】 When a card named \"True Friends\" is placed on your climax area, if this card is in your center stage, choose up to one of your 《Alien》 or 《Animal》 characters in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.",
+    "flavorText": "We became friends! Right, MedaQ?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E072.png"
+    }
+  },
+  {
+    "id": "TL/W37-E073",
+    "name": "“Bond of Trust” Lala",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【AUTO】 Resonate [Reveal a card named \"“Sitting” Lala\" in your hand] When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may pay the cost. If you do, 【REVERSE】 that battle opponent.",
+    "flavorText": "But if you're here, I'm sure everything will work out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E073.png"
+    }
+  },
+  {
+    "id": "TL/W37-E074",
+    "name": "“Surprisingly Aggressive” Nana",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【CONT】 All of your other 《Alien》 or 《Animal》 characteｒs get +500 power.",
+    "flavorText": "I… I'll shower with you too!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E074.png"
+    }
+  },
+  {
+    "id": "TL/W37-E075",
+    "name": "“Sorting Inventions” Lala",
+    "number": "E075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "-",
+    "flavorText": "Hmm, hm～m, hmm?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E075.png"
+    }
+  },
+  {
+    "id": "TL/W37-E076",
+    "name": "“Transport System 【DeDial】” Momo",
+    "number": "E076",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck.",
+    "flavorText": "It's okay now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E076.png"
+    }
+  },
+  {
+    "id": "TL/W37-E077",
+    "name": "“Black-hearted Strategist” Momo",
+    "number": "E077",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 Change [Put two 《Alien》 or 《Plant》 characters from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"“Heart-racing Bath Time” Momo\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Heh heh? It's a joke?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E077.png"
+    }
+  },
+  {
+    "id": "TL/W37-E078",
+    "name": "Worrying Nana",
+    "number": "E078",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E078.png"
+    }
+  },
+  {
+    "id": "TL/W37-E079",
+    "name": "“Heart-racing Bath Time” Momo",
+    "number": "E079",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Alien》 or 《Plant》 characters. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Ah… Too bad?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E079.png"
+    }
+  },
+  {
+    "id": "TL/W37-E080",
+    "name": "“Southern Beach Resort” Momo",
+    "number": "E080",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "-",
+    "flavorText": "Yes! Just a little bit?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E080.png"
+    }
+  },
+  {
+    "id": "TL/W37-E081",
+    "name": "Project Harem",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "Choose up to two 《Alien》 characters in your waiting room, and return them to your hand. Put this card into your clock.",
+    "flavorText": "Let's create \"Rito's harem\"…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E081.png"
+    }
+  },
+  {
+    "id": "TL/W37-E082",
+    "name": "Heart-racing Approach",
+    "number": "E082",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Stay still?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E082.png"
+    }
+  },
+  {
+    "id": "TL/W37-E083",
+    "name": "Secret Flower Garden?",
+    "number": "E083",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "I'll suck it up and do it even if I feel embarrassed?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E083.png"
+    }
+  },
+  {
+    "id": "TL/W37-E084",
+    "name": "Alluring Pose",
+    "number": "E084",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Like this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E084.png"
+    }
+  },
+  {
+    "id": "TL/W37-E085",
+    "name": "True Friends",
+    "number": "E085",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Mea is just Mea.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E085.png"
+    }
+  },
+  {
+    "id": "TL/W37-E086",
+    "name": "Haruna Sairenji",
+    "number": "E086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.",
+    "flavorText": "…To find out that you already know that Yuki is really an earnest person.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E086.png"
+    }
+  },
+  {
+    "id": "TL/W37-E087",
+    "name": "Celine",
+    "number": "E087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Plant",
+      "Alien"
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, put up to one card from the top of your deck into your stock, choose two of your 【STAND】 characters, and 【REST】 them.",
+    "flavorText": "Mau～～～",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E087.png"
+    }
+  },
+  {
+    "id": "TL/W37-E088",
+    "name": "“Sitting” Haruna",
+    "number": "E088",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When your other 《Animal》 or 《Plant》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "I should be more outgoing…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E088.png"
+    }
+  },
+  {
+    "id": "TL/W37-E089",
+    "name": "“Naked Apron” Haruna",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【CONT】 The character facing this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Eh heh heh…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E089.png"
+    }
+  },
+  {
+    "id": "TL/W37-E090",
+    "name": "Mio Sawada",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Animal》 or 《Worries》 characters you have.",
+    "flavorText": "Welcome?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E090.png"
+    }
+  },
+  {
+    "id": "TL/W37-E091",
+    "name": "Risa Morioka",
+    "number": "E091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Worries"
+    ],
+    "text": "【CONT】 All of your other cards named \"“Sitting” Haruna\" get +1000 power. 【AUTO】 [Put a card named \"\"Naked Apron\" Haruna\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "Yuki… you shouldn't…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E091.png"
+    }
+  },
+  {
+    "id": "TL/W37-E092",
+    "name": "“Reading a Book” Haruna",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 Bond/\"Mio Sawada\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Mio Sawada\" in your waiting room, and return it to your hand.)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E092.png"
+    }
+  },
+  {
+    "id": "TL/W37-E093",
+    "name": "“Psychokinesis Converge!!!” Oshizu",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Spirit",
+      "Psychic Ability"
+    ],
+    "text": "-",
+    "flavorText": "If…if that's the case! I'll stop you without hesitation!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E093.png"
+    }
+  },
+  {
+    "id": "TL/W37-E094",
+    "name": "“Wedding Dress” Haruna",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of other 《Animal》 or 《Plant》 characters you have is three or more, this card gets +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 When this card attacks, if a card named \"Ripping Happening\" is in your climax area, reveal the top card of your deck. If that card is an 《Animal》 or 《Plant》 character, put it into your hand. (If it is not, return the revealed card to its original place)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E094.png"
+    }
+  },
+  {
+    "id": "TL/W37-E095",
+    "name": "“Packing Up” Haruna?",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Heh--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E095.png"
+    }
+  },
+  {
+    "id": "TL/W37-E096",
+    "name": "“In a Pinch” Haruna",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your ≪Animal≫ and ≪Plant≫ characters in front of this card get +1000 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "I… I want to go to the toilet…!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E096.png"
+    }
+  },
+  {
+    "id": "TL/W37-E097",
+    "name": "Oshizu",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Spirit",
+      "Psychic Ability"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Bound Happening\" is in your climax area, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, and your opponent reveals his or her hand. If there is a climax among those cards, put the top card of your stock into your waiting room.",
+    "flavorText": "This……might be a chance…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E097.png"
+    }
+  },
+  {
+    "id": "TL/W37-E098",
+    "name": "White Cat Mode",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and that character gets +2000 power until end of turn. Choose a character in battle, and that character gets -1 soul until end of turn.",
+    "flavorText": "Meow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E098.png"
+    }
+  },
+  {
+    "id": "TL/W37-E099",
+    "name": "Ripping Happening",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Noooo!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E099.png"
+    }
+  },
+  {
+    "id": "TL/W37-E100",
+    "name": "Bound Happening",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "I can't take it…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E100.png"
+    }
+  },
+  {
+    "id": "TL/W37-E101",
+    "name": "Petit Mea",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【ACT】 [(2) 【REST】 two of your characters] Look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Who are you talking about, Master?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E101.png"
+    }
+  },
+  {
+    "id": "TL/W37-E102",
+    "name": "Petit Yami",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Trans》 or 《Housework》, this card gets +2000 power.",
+    "flavorText": "I'm quite disturbed as well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E102.png"
+    }
+  },
+  {
+    "id": "TL/W37-E103",
+    "name": "Petit Mikan",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Trans》 or 《Housework》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Hah--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E103.png"
+    }
+  },
+  {
+    "id": "TL/W37-E104",
+    "name": "Petit Yui",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【CONT】 If the number of your other characters is one or less, this card gets +1000 power and the following ability. \"【CONT】 The character facing this card cannot move to another position on the stage.\"",
+    "flavorText": "You haven't changed…from a long time ago…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E104.png"
+    }
+  },
+  {
+    "id": "TL/W37-E105",
+    "name": "Petit Lala",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose an 《Alien》 character in your waiting room, and return it to your hand.",
+    "flavorText": "What's wrong, Rito-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E105.png"
+    }
+  },
+  {
+    "id": "TL/W37-E106",
+    "name": "Petit Nana",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Alien》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Is that so? Then it's fine.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E106.png"
+    }
+  },
+  {
+    "id": "TL/W37-E107",
+    "name": "Petit Momo",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)",
+    "flavorText": "Heh heh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E107.png"
+    }
+  },
+  {
+    "id": "TL/W37-E108",
+    "name": "Petit Haruna",
+    "number": "E108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Progress… huh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_E108.png"
+    }
+  },
+  {
+    "id": "TL/W37-PE01",
+    "name": "\"Troubled Days\" Momo & Yami",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Trans"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p01.png"
+    }
+  },
+  {
+    "id": "TL/W37-PE02",
+    "name": "\"Midsummer Beachside\" Yami & Momo",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Trans"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multipled by that character's level. 【ACT】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p02.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p02.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE01",
+    "name": "“Taiyaki of Memories” Yami",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】[(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Alien》 or 《Trans》 or 《Housework》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Don't get ahead of yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE01.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE02",
+    "name": "“Changing Clothes” Mikan",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Get out, stupid--!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE02.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE03",
+    "name": "“Changing Clothes” Yui",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Now we need to watch out even more for… that person.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE03.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE04",
+    "name": "“Loves Licking” Mea",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "And then…licking would also be wonderful…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE04.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE05",
+    "name": "“Midsummer Poolside” Yui",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Discipline Committee",
+      "Animal"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "But I know, how that person actually is.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE05.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE06",
+    "name": "“Doubtful Heart” Mea",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Trans",
+      "Sweets"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 (2) 【REST】 two of your characters] Look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Why won't you appear? Master……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE06.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE07",
+    "name": "“Yuki Household Dining Table” Mikan",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Housework",
+      "Bag"
+    ],
+    "text": "-",
+    "flavorText": "Well, let's take it easy until the effects wear off.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE07.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE08",
+    "name": "“Reading a Book” Yami",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place) 【AUTO】Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"“Darkness” Yami\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "This is unpleasant.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE08.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE09",
+    "name": "“Darkness” Yami",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Trans",
+      "Taiyaki"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】[Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +3500 power until end of turn.",
+    "flavorText": "Heh heh heh, I'd love to meet that pervy boy…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE09.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE10",
+    "name": "Heart-racing Happening",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Wow, it really tore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE10.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE11",
+    "name": "Precious Younger Sister",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "It's the same as that time…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE11.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE12",
+    "name": "“Ideal Project Harem” Momo",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【CONT】 All of your other cards named \"“Midsummer Poolside” Nana\" get +500 power and \"【AUTO】Encore [Put a character from your hand into your waiting room]\". 【CONT】 Assist All of your characters in front of this card gets +500 power.",
+    "flavorText": "For everyone's happiness, I will make this happen… !",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE12.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE13",
+    "name": "“Pure and Sweet? Girl” Momo",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Plant"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 [(1) Put a climax from your hand into your waiting room] Choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Do you feel more up to it now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE13.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE14",
+    "name": "“Midsummer Poolside” Haruna",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "I should be more outgoing…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE14.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE15",
+    "name": "“Midsummer Poolside” Nana",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "-",
+    "flavorText": "Did you see it? My swimming!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE15.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE16",
+    "name": "“Looking After Younger Sisters” Lala",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Thank you- I'm saved, thanks to the both of you!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE16.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE17",
+    "name": "“Encounter With a Happening” Haruna",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Animal"
+    ],
+    "text": "【AUTO】Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Yuki, Yami!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE17.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE18",
+    "name": "“Heart-racing Bath Time” Nana",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】[(1)] When a card named \"Friends\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Wah!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE18.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE19",
+    "name": "“Innovative Girl” Lala",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Science"
+    ],
+    "text": "-",
+    "flavorText": "Heh heh--- About that~",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE19.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE20",
+    "name": "“Gentle and Brave” Rito",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Plant",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "I…… will try it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE20.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE21",
+    "name": "Melting Ice-cream",
+    "number": "TE21",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and that character gets +3500 power until end of turn.",
+    "flavorText": "Huh!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE21.png"
+    }
+  },
+  {
+    "id": "TL/W37-TE22",
+    "name": "Friends",
+    "number": "TE22",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "…That's great♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tl_w37/TL_W37_TE22.png"
+    }
+  }
+]

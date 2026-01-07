@@ -1,0 +1,877 @@
+[
+  {
+    "id": "SY/WE09-E01",
+    "name": "Kyon & Koizumi",
+    "number": "E01",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Psychic Ability",
+      "SOS Brigade"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.",
+    "flavorText": "Koizumi: \"The world is at peace.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E01.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E02",
+    "name": "Koizumi Talking About the Stars",
+    "number": "E02",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Psychic Ability",
+      "SOS Brigade"
+    ],
+    "text": "【CONT】 If you have another 《SOS Brigade》 character in the middle position of your center stage, this card gets +1000 power.",
+    "flavorText": "I was pretty moved when I caught a glimpse of the moons of Jupiter.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E02.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E03",
+    "name": "Kyon Looking Up at the Night Sky",
+    "number": "E03",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "SOS Brigade",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "The time that we've lost, eh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E03.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E04",
+    "name": "5th Grade Elementary Student, Kyon's Sister",
+    "number": "E04",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Animal",
+      "-"
+    ],
+    "text": "【AUTO】 When another of your character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn.",
+    "flavorText": "Kyon, the phone's ringing.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E04.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E05",
+    "name": "Mikuru Wishing Upon the Stars",
+    "number": "E05",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Time",
+      "Maid"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power. 【ACT】 [(2)] Choose one of your 《Time》 characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "\"I hope to get better at sewing.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E05.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E06",
+    "name": "Time Travel, Kyon & Mikuru",
+    "number": "E06",
+    "rarity": "Ｒ",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Time",
+      "SOS Brigade"
+    ],
+    "text": "【CONT】 All of your other 《SOS Brigade》 characters get \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 [【REST】 this card] When another of your characters is put into your clock from the stage, if this card is 【STAND】, you may pay the cost. If you do, put the top card of your deck into your stock.",
+    "flavorText": "Mikuru(Adult): \"You can give\nthe sleeping me there a kiss. But only while she's asleep.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E06.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E07",
+    "name": "Encounter with Mikuru, Mikuru(Adult)",
+    "number": "E07",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Time",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, if a card named \"Guiding Role\" is in your climax area, return this card to your hand, choose one of your 《Time》 characters, and that character gets +3000 power until end of turn. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "So this is how I looked\nback then…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E07.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E08",
+    "name": "Energetic Senior, Tsuruya",
+    "number": "E08",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Forehead",
+      "Fang Teeth"
+    ],
+    "text": "【CONT】 All of your other 《Time》 or 《Forehead》 characters get +500 power. 【AUTO】 When your character's trigger check reveals a climax, if that card's trigger icon is Treasure@, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "You're so cute, Mikuru. I'd love to keep you as a pet!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E08.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E09",
+    "name": "Mikuru Working Part-time",
+    "number": "E09",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Time",
+      "Frog"
+    ],
+    "text": "-",
+    "flavorText": "Huh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E09.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E10",
+    "name": "Flower Viewing, Mikuru",
+    "number": "E10",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Time",
+      "SOS Brigade"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Time》 or 《SOS Brigade》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Oh, they're so beautiful～",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E10.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E11",
+    "name": "Cicada Capturing Competition, Mikuru",
+    "number": "E11",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Time",
+      "SOS Brigade"
+    ],
+    "text": "【CONT】 If the number of other 《Time》 or 《SOS Brigade》 characters you have is three or more, this card gets +1000 power.",
+    "flavorText": "Haruhi: \"This will be the SOS Brigade's Cicada Capturing Competition!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E11.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E12",
+    "name": "Guiding Role",
+    "number": "E12",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Mikuru(Adult): \"Guiding you from this point on is mine.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E12.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E13",
+    "name": "“Super Director” Haruhi",
+    "number": "E13",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Brigade Leader",
+      "SOS Brigade"
+    ],
+    "text": "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power. 【ACT】 [【REST】 this card] Choose one of your 《SOS Brigade》 characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Okay! Now let's try this for real!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E13.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E14",
+    "name": "Flower Viewing, Haruhi",
+    "number": "E14",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "10000",
+      "soul": 1
+    },
+    "tags": [
+      "Brigade Leader",
+      "SOS Brigade"
+    ],
+    "text": "-",
+    "flavorText": "Of course! Come on.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E14.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E15",
+    "name": "“Bamboo Leaf Rhapsody” Haruhi",
+    "number": "E15",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《SOS Brigade》 character in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, if a card named \"I am here\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "I don't know who you are, but if you're not doing anything, then help me out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E15.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E16",
+    "name": "Girl Who Will Change the World, Haruhi",
+    "number": "E16",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Brigade Leader",
+      "SOS Brigade"
+    ],
+    "text": "【ACT】 [【REST】 one of your 《SOS Brigade》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "We're going to do something\nreally exciting!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E16.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E17",
+    "name": "Swimsuit Haruhi",
+    "number": "E17",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Brigade Leader",
+      "Swimsuit"
+    ],
+    "text": "【AUTO】 [(2) Put this card into your clock] When a card named \"End of Summer\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Flower Viewing, Haruhi\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I don't know when those are!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E17.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E18",
+    "name": "Haruhi at a Summer Festival",
+    "number": "E18",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Brigade Leader",
+      "Japanese Clothes"
+    ],
+    "text": "-",
+    "flavorText": "You can have one, but only one.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E18.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19a",
+    "name": "Endless Eight",
+    "number": "E19a",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Haruhi: \"We have to do summer vacation-y things during our summer vacation!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19a.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19a.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19b",
+    "name": "Endless Eight",
+    "number": "E19b",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Koizumi: \"This makes me smile, though.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19b.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19b.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19c",
+    "name": "Endless Eight",
+    "number": "E19c",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "And yet it feels like there are\na lot of things we've yet to do!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19c.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19c.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19d",
+    "name": "Endless Eight",
+    "number": "E19d",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Haruhi: \"Yup. There're only two weeks of summer vacation left, right?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19d.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19d.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19e",
+    "name": "Endless Eight",
+    "number": "E19e",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Kyon: \"That's not a cicada.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19e.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19e.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19f",
+    "name": "Endless Eight",
+    "number": "E19f",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Mikuru: \"T-Thank you…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19f.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19f.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19g",
+    "name": "Endless Eight",
+    "number": "E19g",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "Mikuru: \"Wah～～!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19g.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19g.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E19h",
+    "name": "Endless Eight",
+    "number": "E19h",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to eight cards with the same card name as this card in your deck. 【COUNTER】 Put this card into your memory. Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named \"Endless Eight\" in your memory.",
+    "flavorText": "This is the 15,532nd time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19h.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E19h.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E20",
+    "name": "I am here",
+    "number": "E20",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Who are you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E20.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E21",
+    "name": "End of Summer",
+    "number": "E21",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "RED",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "I'm going too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E21.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E22",
+    "name": "Observer, Nagato",
+    "number": "E22",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "SOS Brigade"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other 《Alien》 characters get +500 power.",
+    "flavorText": "Fine.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E22.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E23",
+    "name": "Mage Nagato & Shamisen",
+    "number": "E23",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Animal"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if the number of 《Alien》 characters you have is two or more, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Take this…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E23.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E24",
+    "name": "Nagato at a Summer Festival",
+    "number": "E24",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Alien",
+      "Mask"
+    ],
+    "text": "【CONT】 If the number of 《Alien》 characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 When this card attacks, if a card named \"Night with Two Weeks Left\" is in your climax area, put up to one card from the top of your clock into your waiting room, and this card gets +3000 power until end of turn.",
+    "flavorText": "Haruhi: \"Huh, what's with\nthe mask, Yuki?\"\nNagato: \"I bought it.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E24.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E24.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E25",
+    "name": "Standby Mode, Nagato",
+    "number": "E25",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "That is my role.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E25.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E25.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E26",
+    "name": "Flower Viewing, Nagato",
+    "number": "E26",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Alien",
+      "SOS Brigade"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Alien》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "It is enough.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E26.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E26.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E27",
+    "name": "Night with Two Weeks Left",
+    "number": "E27",
+    "rarity": "C",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E27.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E27.png"
+    }
+  },
+  {
+    "id": "SY/WE09-E28",
+    "name": "Literature Club Yuki",
+    "number": "E28",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "W",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Book"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E28_PR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/s/sy_we09/SY_WE09_E28_PR.png"
+    }
+  }
+]
