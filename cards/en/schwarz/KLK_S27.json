@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "KLK/S27-E001",
+    "name": "Daughter of a Back-alley Doctor, Mako",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put a card from your hand into your waiting room & Put a card named \"\"Rampage\" Ryuko\" from your stage into your memory] When a card named \"So now it's my turn!\" is placed on your climax area, you may pay the cost. If you do, choose up to one 《Clothes》 or 《Family》 character in your hand, and put it on any position of your stage.",
+    "flavorText": "When people die of blood loss, that means they die!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E001.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E002",
+    "name": "Mako Can't Stop for Any Reason",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Clothes》 or 《Family》 characters you have. 【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled)",
+    "flavorText": "My life's traffic lights are always yellow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E002.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E003",
+    "name": "Worrying Mako",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Clothes》 or 《Family》 characters get +500 power. 【CONT】 Your other character in the middle position of the center stage gets the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\"",
+    "flavorText": "If I was allowed to be her assistant, I'd be right there looking after her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E003.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E004",
+    "name": "Fight Club President, Mako",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Clothes"
+    ],
+    "text": "【CONT】 If the number of other 《Clothes》 or 《Family》 characters you have is three or more, this card gets +1000 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"",
+    "flavorText": "I can't, not when we finally have a life of luxury!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E004.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E005",
+    "name": "Osaka Sightseeing, Mako",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Clothes》 or 《Family》 characters you have.",
+    "flavorText": "That's the newest Osakan spot, the Naniwa Sky Tower!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E005.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E006",
+    "name": "Second Year Class K, Ryuko",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's stock.",
+    "flavorText": "*snore*…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E006.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E007",
+    "name": "Fight Club Member, Ryuko",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Clothes》 or 《Family》 characters. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.",
+    "flavorText": "Idiot! Snap out of it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E007.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E008",
+    "name": "Ryuko in Pajamas",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Bond／\"Fight Club President, Mako\" ［Put the top card of your deck into your clock］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Fight Club President, Mako\" in your waiting room, and return it to your hand.) 【ACT】 [(1)] This card gets +1 soul until end of turn.",
+    "flavorText": "My Kamui's in the laundry!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E008.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E009",
+    "name": "Motionless Mako",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your character is put into clock from your hand, this card gets +2000 power until end of turn. 【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Ryuko: \"You bastard! What did you do to Mako!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E009.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E010",
+    "name": "Mako Eating Croquettes",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your yellow characters in battle, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Yummy, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E010.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E011",
+    "name": "\"Uber\" Own Pace Mother, Sukuyo",
+    "number": "E011",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Croquette"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Clothes》 or 《Family》 characters, and until end of turn that character gets +1 soul and the following ability. \"【CONT】 This card cannot side attack.\"",
+    "flavorText": "I know it's nothing fancy, but eat all you like.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E011.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E012",
+    "name": "Guts 'cause He Eats With Gusto",
+    "number": "E012",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "Woof!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E012.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E013",
+    "name": "Mako with Glasses",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Glasses"
+    ],
+    "text": "-",
+    "flavorText": "It's enough to put a twinkle in anyone's eye, isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E013.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E014",
+    "name": "Out of Place Rascal, Mataro",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Glasses"
+    ],
+    "text": "【ACT】 [(2)] Choose one of your opponent's characters, until end of turn that character gets -500 power, and this card gets +3000 power.",
+    "flavorText": "You were totally bad-ass, swinging that scissor around half-naked.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E014.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E015",
+    "name": "Ryuko Living with the Mankanshoku Family",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When a card named \"Let's Eat!\" is placed on your climax area, if this card is in your center stage, reveal the top card of your deck. If the revealed card is a 《Clothes》 or 《Family》 character, all of your characters get +2000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "Mako: \"Don't just sit there, eat!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E015.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E016",
+    "name": "Back-alley Doctor, Barazo",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "Doctor"
+    ],
+    "text": "-",
+    "flavorText": "Don't worry about it. The dead ones don't sue you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E016.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E017",
+    "name": "Suspicious Croquettes",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters, and that character gets +3000 power until end of turn. At the end of turn, put that character into your stock.",
+    "flavorText": "Sukuyo: \"Oh, you. I use only non-poisonous ingredients.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E017.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E018",
+    "name": "Classic Trap",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your characters, and return it to your hand.",
+    "flavorText": "Ryuko: \"Mako! Look out!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E018.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E019",
+    "name": "So now it's my turn!",
+    "number": "E019",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Don't!～～～",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E019.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E020",
+    "name": "Let's Eat!",
+    "number": "E020",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Mako: \"It's like my fatigue's been alleviated, my diseases have been cured, and I'm full of vim and vigor or something!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E020.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E021",
+    "name": "Ragyo Plots Cocoon Sphere Birth",
+    "number": "E021",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "CEO"
+    ],
+    "text": "【CONT】 This card gets +1 level and +2000 power for each marker underneath this card. 【AUTO】 When this card is placed on stage from your hand, you may put a marker from underneath a card named \"Great Spirit, Satsuki\" underneath this card as a marker. 【AUTO】 [(1)] When this card attacks, if a card named \"Shinra Koketsu, Absolute Submission!\" is in your climax area, you may pay the cost. If you do, choose a 《Clothes》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "This shows that Satsuki was never worthy to be a vessel of the Life Fibers.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E021.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E022",
+    "name": "Spinning Wheel of Fate, Nui",
+    "number": "E022",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【CONT】 If all of your characters are 《Clothes》, this card gets +2000 power. 【AUTO】 When this card is placed on stage from your hand, you may choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room. If you do, your opponent will choose up to one level 0 or lower character from your opponent's waiting room, and put it on the stage position that character was on.",
+    "flavorText": "Go all-out when you play. Life's no fun if you don't.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E022.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E023",
+    "name": "Nui Pulling Thread",
+    "number": "E023",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, if the number of characters in your opponent's center stage is one or less, choose one of your opponent's characters in the center stage, and that character gets -3000 power until end of turn.",
+    "flavorText": "I'm just dying to see you naked!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E023.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E024",
+    "name": "Owner of Scissor Blade, Nui",
+    "number": "E024",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets -1500 power until end of turn. 【AUTO】 When a card named \"Surprise Confession\" is placed on your climax area, if this card is on your center stage, search your deck for up to one card named \"Owner of Scissor Blade, Nui\", and put it on any position of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Didn't you see, I defeated that Goku Uniform just now.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E024.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E025",
+    "name": "Dodging Nui",
+    "number": "E025",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"Spinning Wheel of Fate, Nui\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "Ooh.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E025.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E026",
+    "name": "CEO of REVOCS, Ragyo",
+    "number": "E026",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "CEO"
+    ],
+    "text": "【CONT】 This card gets +1 level and +3000 power for each marker underneath this card. 【AUTO】 When this card attacks, choose one of your other cards named \"Secretary to Ragyo, Hououmaru\", and put it face down underneath this card as a marker. 【AUTO】 [(1) Put the top card of your deck into your clock & Reveal a card named \"Ready-made Nui\" in your hand and put it face down underneath this card as a marker] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Sorry I'm late, Hououmaru.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E026R.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E026R.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E027",
+    "name": "Grand Couturier, Nui",
+    "number": "E027",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [Put a card named \"Disguise\" from your hand into your waiting room & 【REST】 this card] Choose a character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "How wonderful! I can't believe he was hiding something like that! That sly old dog.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E027.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E028",
+    "name": "Head Steward of Kiryuin Family, Kuroido",
+    "number": "E028",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Butler",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When you have refreshed your deck, you may put this card into your stock. 【ACT】 [(1) 【REST】 this card] Choose a card in your clock, return it to your hand, choose a card in your hand, and put it into your clock.",
+    "flavorText": "Lady Satsuki, your mother has expressly forbidden the removal of that outfit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E028.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E029",
+    "name": "\"Mind Stitching\" Ragyo",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "CEO"
+    ],
+    "text": "【CONT】 All of your other characters get +500 power. 【ACT】 [(1) 【REST】 this card] Choose one of your characters with marker, and that character gets +2500 power until end of turn.",
+    "flavorText": "You may have expected her to fight for you, but if I do this, she becomes my pawn.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E029.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E030",
+    "name": "Ready-made Nui",
+    "number": "E030",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【CONT】 If the number of other 《Clothes》 characters you have is two or more, this card gets +1000 power. 【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Mon mignon pret-a-porter!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E030.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E031",
+    "name": "Secretary to Ragyo, Hououmaru",
+    "number": "E031",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Secretary"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Clothes》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Impossible, she broke free of your Mind Stitching…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E031.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E032",
+    "name": "Whimsical Nui",
+    "number": "E032",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one 《Clothes》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "You're in my way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E032.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E033",
+    "name": "Head of Trap Development, Ogure",
+    "number": "E033",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Discipline Committee"
+    ],
+    "text": "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If the revealed card is level 1 or higher, you may pay the cost. If you do, return this card to your hand. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "Thank you, Matoi.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E033.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E034",
+    "name": "Satsuki's Mother, Ragyo",
+    "number": "E034",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "CEO"
+    ],
+    "text": "【CONT】 If you do not have any other characters on your center stage, this card gets +1500 power.",
+    "flavorText": "Well done.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E034.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E035",
+    "name": "Tennis Club President, Hakodate",
+    "number": "E035",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "So, you're saying that you want to face me, Tennis Club Captain Omiko Hakodate, in a tennis match!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E035.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E036",
+    "name": "Boxing Club President, Fukuroda",
+    "number": "E036",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "To boxers, these gloves and trunks are our uniform!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E036.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E037",
+    "name": "Mysterious Girl, Nui",
+    "number": "E037",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "-",
+    "flavorText": "Satsuki: \"Why have you come here， Nui Harime.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E037.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E038",
+    "name": "Disguise",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters, and put that character into your waiting room. If you do, choose a level 2 or lower 《Clothes》 character in your clock, put it on any position of your stage, and put this card into your clock.",
+    "flavorText": "Ta-dah.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E038.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E039",
+    "name": "Surprise Confession",
+    "number": "E039",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Yep! It was me. I was the one who killed your father.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E039.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E040",
+    "name": "Shinra Koketsu, Absolute Submission!",
+    "number": "E040",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Shinra-Koketsu is the master of all Life Fibers.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E040.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E041",
+    "name": "Towards a New Self, Ryuko",
+    "number": "E041",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"The time comes when a girl outgrows her sailor uniform\" is in your climax area, this card gets +4500 power until end of turn. 【AUTO】 When this card attacks, if a card named \"The time comes when a girl outgrows her sailor uniform\" is in your climax area, and your level is two or higher, you may choose a card in your opponent's waiting room, and put it on the top of your opponent's deck.",
+    "flavorText": "You and I need to become even stronger.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E041.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E042",
+    "name": "Conclusion After Wearing! Ryuko",
+    "number": "E042",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may choose a card named \"Junketsu\" from your waiting room, and put it into your memory. If you do, choose a card named \"Only Clothing Ryuko Has, Senketsu\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 [(1) Reveal a 《Clothes》 character in your hand and put it face down underneath this card as a marker] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card. 【AUTO】 [(2)] At the beginning of your encore step, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of markers underneath this card. (This damage may be canceled)",
+    "flavorText": "This is true Life Fiber Synchronization!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E042.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E043",
+    "name": "Deep Bonds, Ryuko",
+    "number": "E043",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Clothes》 or 《Family》 character in your waiting room, and return it to your hand. 【AUTO】 When another of your 《Clothes》 or 《Family》 character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Senketsu: \"We're both in tatters. Don't push yourself.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E043.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E044",
+    "name": "Taking Back Senketsu! Ryuko",
+    "number": "E044",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one card named \"Seki Tekko\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Clothes》 or 《Family》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I don't have time to mess around with you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E044.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E045",
+    "name": "Only Clothing Ryuko Has, Senketsu",
+    "number": "E045",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Blood"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other characters with marker, and that character gets +1000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Don't you dare lay a finger on Ryuko. Do, and I'll make you pay.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E045.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E046",
+    "name": "Encounter with Senketsu, Ryuko",
+    "number": "E046",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a card named \"\"Rampage\" Ryuko\" in your waiting room, and put it on the stage position that this card was on as 【REST】. 【AUTO】 Memory If this card is in your memory, when your card or your opponent's card in the clock is put into the waiting room due to respective card effects, that player may put the top two cards from stock into the waiting room. If not, that player puts the top card of the deck into the clock.",
+    "flavorText": "W-What kind of perverted outfit is this!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E046.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E047",
+    "name": "\"Rampage\" Ryuko",
+    "number": "E047",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects. 【AUTO】 When this card is put into your waiting room from the stage, put the top card of your deck into your clock.",
+    "flavorText": "Satsuki: \"Damn! That's what you were after, Nui Harime?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E047.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E048",
+    "name": "War Declaration! Ryuko",
+    "number": "E048",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Clothes》 characters get +1000 power. 【AUTO】 When this card is placed on stage from your hand, 【REST】 this card. 【AUTO】 When a card named \"Battle of Fate\" is placed on your climax area, if this card is in your center stage, 【STAND】 this card, choose up to one level 1 or lower character in your waiting room, and return it to your hand.",
+    "flavorText": "…we'll have a leisurely chat another day, Satsuki Kiryuin!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E048.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E049",
+    "name": "Ryuko's Father, Isshin",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Eye Patch"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When another of your 《Clothes》 character becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character.",
+    "flavorText": "Who are you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E049.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E050",
+    "name": "Along with Senketsu, Satsuki",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other characters with the highest level, and put it into your waiting room.",
+    "flavorText": "Lend me your strength, Senketsu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E050.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E051",
+    "name": "Ryuko Wearing Junketsu",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"Connected by Blood, Ryuko\" in your waiting room, and put that card on any position of your stage as 【REST】.",
+    "flavorText": "I'll smash you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E051.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E052",
+    "name": "Member of Nudist Beach, Kinagase",
+    "number": "E052",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "Mohican"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.",
+    "flavorText": "As I feared, you've been swallowed up by your clothing, too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E052.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E053",
+    "name": "Voice Heard, Senketsu",
+    "number": "E053",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Blood"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Clothes》 or 《Family》 character, choose one of your characters, and that character gets +1000 power until end of turn. (The revealed card is returned to its original place) 【ACT】【COUNTER】 Backup 2500, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "Ryuko, it's too dangerous!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E053.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E054",
+    "name": "Same Feelings! Mako",
+    "number": "E054",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1500 power and 《Clothes》. 【AUTO】 When this card is placed on stage from your hand, you may choose a card named \"Only Clothing Ryuko Has, Senketsu\" in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "After all, the reason you wear Senketsu is because you love him best, right!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E054.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E055",
+    "name": "Satsuki Wearing Senketsu",
+    "number": "E055",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may choose a card named \"Only Clothing Ryuko Has, Senketsu\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 When your opponent's 【STAND】 character becomes 【REST】, if there is a marker underneath this card, this card gets +2000 power until end of turn.",
+    "flavorText": "It's not clinginess! It's vengeance!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E055.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E056",
+    "name": "Ryuko Searching for \"Girl with Scissor Blade\"",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of other 《Clothes》 or 《Family》 characters you have is two or more, this card gets +1500 power.",
+    "flavorText": "You're coming with me for a while, Senketsu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E056.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E057",
+    "name": "Next Seat, Mako",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【CONT】 If this card is on the middle position of the center stage, this card gets +1000 power.",
+    "flavorText": "Yeah, he's a Three-Star!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E057.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E058",
+    "name": "Transfer Student, Ryuko",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Is he a bigshot?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E058.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E059",
+    "name": "Talking Sailor Uniform, Senketsu",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Blood"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Clothes》 or 《Family》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Put me on!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E059.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E060",
+    "name": "Naniwa Kinman High School, Takarada",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Currency",
+      "Glasses"
+    ],
+    "text": "【AUTO】 [(2) Put a card named \"Naniwa Kinman High School, Takarada\" from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose up to three level 0 or lower characters in your waiting room, and put them on separate positions of your stage.",
+    "flavorText": "If we don't throw this money around, who will!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E060.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E061",
+    "name": "Power with Senketsu, Ryuko",
+    "number": "E061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.",
+    "flavorText": "This'll work!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E061.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E062",
+    "name": "Satsuki Looking Up At the Sky",
+    "number": "E062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "Yes, I am now free of the past karma of the Kiryuins.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E062.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E063",
+    "name": "Naked Nudist, Mikisugi",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Narcissist"
+    ],
+    "text": "【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Farewell.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E063.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E064",
+    "name": "Connected by Blood, Ryuko",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"Life Fiber Synchronize, Kamui Senketsu!\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +4000 power until end of turn. 【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I feel it, this is the real you, Senketsu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E064.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E065",
+    "name": "Mysterious Guy, Mikisugi",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Teacher",
+      "Narcissist"
+    ],
+    "text": "-",
+    "flavorText": "You'll have to find those answers yourself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E065.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E066",
+    "name": "Junketsu",
+    "number": "E066",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Clothes》 characters, and that character gets +3500 power until end of turn.",
+    "flavorText": "Ragyo: \"Open your heart to Junketsu, Ryuko.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E066.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E067",
+    "name": "Seki Tekko",
+    "number": "E067",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two characters in your waiting room, and return them to your hand.",
+    "flavorText": "Mikisugi: \"It will make it easier for you to provide it with blood.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E067.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E068",
+    "name": "The time comes when a girl outgrows her sailor uniform",
+    "number": "E068",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)",
+    "flavorText": "Senketsu―――――",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E068.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E069",
+    "name": "Battle of Fate",
+    "number": "E069",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Ryuko: \"Now you're going to tell me, Satsuki Kiryuin!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E069.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E070",
+    "name": "Life Fiber Synchronize, Kamui Senketsu!",
+    "number": "E070",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Quit while you're ahead. I'm never taking Senketsu off.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E070.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E071",
+    "name": "Satsuki's Ambition",
+    "number": "E071",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1)] When a card named \"Life Fiber Override, Kamui Junketsu!\" is placed on your climax area, put the top three cards of your deck into your waiting room. If all those cards are 《Clothes》 characters, you may pay the cost. If you do, search your deck for up to one 《Clothes》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Defeating my mother is my lifelong ambition.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E071.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E072",
+    "name": "To Protect the World, Satsuki",
+    "number": "E072",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of cards named \"To Honnouji Academy\" in your waiting room is three or more, this card gets -1 level in your hand. 【CONT】 If there is a marker underneath this card, this card gets +1500 power. 【AUTO】 When this card is placed on stage from your hand, put up to one card from the top of your clock into your waiting room, choose a card named \"Junketsu\" in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Fight at my side so that we may protect that world!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E072.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E073",
+    "name": "Before the Final Battle, Satsuki",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of characters in your opponent's center stage is two or less, this card gets +1000 power. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.",
+    "flavorText": "She has also decided to pay a visit to Honnouji Academy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E073.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E074",
+    "name": "First Step of Lifelong Ambition, Satsuki",
+    "number": "E074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one 《Clothes》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Tri-City Schools Raid Trip, commence operation!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E074.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E075",
+    "name": "Genius Hacker, Inumuta",
+    "number": "E075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Glasses"
+    ],
+    "text": "【CONT】 Assist All of your 《Clothes》 characters in front of this card get +1 level and +500 power. 【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, draw up to two cards, choose a card from your hand, and put it into your waiting room.",
+    "flavorText": "Now, now, what's with all the \"yakking\" about \"konnyaku\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E075.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E076",
+    "name": "Great Spirit, Satsuki",
+    "number": "E076",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1500 power. 【AUTO】 When this card is placed on stage from your hand, you may choose a card named \"Junketsu\" from your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "What!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E076.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E077",
+    "name": "High Aspirations, Satsuki",
+    "number": "E077",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named \"My actions are utterly pure!\" is in your climax area, you may pay the cost. If you do, draw a card, and this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your other 《Clothes》 characters. 【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "But if your ambition is to protect humanity's freedom, fight now with every ounce of your strength!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E077.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E078",
+    "name": "Satsuki's Childhood Friend, Jakuzure",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Music"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card get +2000 power. 【CONT】 If the number of your other 《Clothes》 characters is two or more, this card gets the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\" 【AUTO】 When this card is placed on stage from your waiting room, you may put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Argh",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E078.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E079",
+    "name": "Sewing Club President, Iori",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Glasses"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Clothes》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Three-Star Goku Uniform, Tailor's Regalia!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E079.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E080",
+    "name": "Gamagoori Maintaining Discipline",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Discipline Committee"
+    ],
+    "text": "【CONT】 If the number of cards in your clock is three or more, this card gets +1000 power. 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power until end of turn.",
+    "flavorText": "That's enough, you two. Behave yourselves in front of Lady Satsuki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E080.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E081",
+    "name": "Family Runs a Konnyaku Business, Sanageyama",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power. 【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card.",
+    "flavorText": "Mock Northern Kanto once more, I'll mix you up with limewater and boil you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E081.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E082",
+    "name": "Start of the Song, Jakuzure",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Music"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When a card named \"Honnouji Academy Elite Four, Ultimate Battle Regalia!\" is placed in your climax area, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. \"【CONT】 When this card attacks, you may instead choose a character on your opponent's back stage, and have this card frontal attack with the chosen character as the defending character.\"",
+    "flavorText": "For our encore, let's go with one of the standards.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E082.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E083",
+    "name": "Satsuki Discovering a Chance for Victory",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Clothes》 characters.",
+    "flavorText": "It's because of you that I believe it is possible to turn the tables!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E083.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E084",
+    "name": "Shingantsu Surpassing Tengantsu, Sanageyama",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When a card named \"Honnouji Academy Elite Four, Ultimate Battle Regalia!\" is placed in your climax area, if this card is in your center stage, you may pay the cost. If you do, look at up to two cards from the top of your opponent's deck, choose up to one card and put it on the bottom of your opponent's deck. Put the rest of the cards on the top of your opponent's deck in any order, and this card gets +4000 power until end of turn.",
+    "flavorText": "I can see the inner workings of your mind as clear as day.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E084.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E085",
+    "name": "Satsuki's Butler, Soroi",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Butler",
+      "Tea"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other characters with \"Satsuki(皐月)\" in its card name, and that character gets +2000 power until end of turn.",
+    "flavorText": "I will have plenty of hot water ready.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E085.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E086",
+    "name": "Top of the Skyscraper, Satsuki",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a 《Clothes》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "However, your battle has only just begun!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E086.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E087",
+    "name": "The Elite Four, Inumuta",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Clothes》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Analysis complete.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E087.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E088",
+    "name": "The Elite Four, Jakuzure",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Music"
+    ],
+    "text": "-",
+    "flavorText": "It would be boring to simply beat her outright, wouldn't it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E088.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E089",
+    "name": "Absolute Terror, Satsuki",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "No one on this Earth can do something before Satsuki Kiryuin!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E089.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E090",
+    "name": "Pervert During Every Change, Gamagoori",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Discipline Committee"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Honnouji Academy Elite Four, Ultimate Battle Regalia!\" is in your climax area, choose one of your other 《Clothes》 characters or character with \"Mako(マコ)\" in its card name, and that character gets +1500 power until end of your opponent's next turn.",
+    "flavorText": "Let me show you the true terror of the Shackle Regalia!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E090.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E091",
+    "name": "The Elite Four, Sanageyama",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "All right, show me the power of a man's resolve.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E091.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E092",
+    "name": "The Elite Four, Gamagoori",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Discipline Committee"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "Explanations will fall on deaf ears. This person will be punished immediately!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E092.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E093",
+    "name": "Data-minded, Inumuta",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Glasses"
+    ],
+    "text": "AUTO When this card attacks, if a card named \"Honnouji Academy Elite Four, Ultimate Battle Regalia!\" is in your climax area, look at up to two cards from the top of your deck, choose up to two level 0 or lower cards from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Senketsu: \"And yet, it makes me uneasy. As if I am being stripped naked.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E093.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E094",
+    "name": "Smiling Satsuki",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "I'm not surprised.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E094.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E095",
+    "name": "Junketsu",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to four cards from the top of your deck, choose up to one 《Clothes》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Satsuki: \"The name of that outfit was Junketsu ? 'purity.'\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E095.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E096",
+    "name": "Soroi's Tea",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Draw a card, choose a card from your hand, and put it into your waiting room. Choose one of your 《Clothes》 characters, and that character gets +3500 power until end of turn.",
+    "flavorText": "Even this tea that I once found so bitter is now the most delicious thing in the world to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E096.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E097",
+    "name": "To Honnouji Academy",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Satsuki: \"All right, let's take back our academy!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E097.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E098",
+    "name": "My actions are utterly pure!",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters gets +2 soul.",
+    "flavorText": "This is the form in which a Kamui is able to unleash the most power!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E098.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E099",
+    "name": "Life Fiber Override, Kamui Junketsu!",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Magnificent.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E099.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E100",
+    "name": "Honnouji Academy Elite Four, Ultimate Battle Regalia!",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "The Elite Four: \"Three-Star Goku Uniforms, ultimate configuration!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E100.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E101",
+    "name": "Mini Mako",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "Winning with friendship means winning at life.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E101.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E102",
+    "name": "Mini Ryuko",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.",
+    "flavorText": "You're a precocious kid, stealing a lemon\nsomeone else had just started eating.You're a precocious kid, stealing a lemon\nsomeone else had just started eating.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E102.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E103",
+    "name": "Mini \"Life Fiber Synchronize\" Ryuko",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your draw phase, put the top card of your deck into your clock.",
+    "flavorText": "Life Fiber Synchronize, Kamui Senketsu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E103.png"
+    }
+  },
+  {
+    "id": "KLK/S27-E104",
+    "name": "Mini Satsuki",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【ACT】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Clothes》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Surrender to those truths, you pigs in human clothing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_E104.png"
+    }
+  },
+  {
+    "id": "KLK/S27-PE01",
+    "name": "Swimsuit Ryuko",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your other 《Clothes》 or 《Family》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Let's do it, Senketsu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_PE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_PE01.png"
+    }
+  },
+  {
+    "id": "KLK/S27-PE02",
+    "name": "Senketsu's Date with Ryuko",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Blood"
+    ],
+    "text": "【ACT】 [【REST】 one of your 《Clothes》 or 《Family》 character] This card gets +1000 power until end of turn.",
+    "flavorText": "Calm down, Ryuko.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_PE02.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE01",
+    "name": "Next Seat, Mako",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "【CONT】 If this card is on the middle position of the center stage, this card gets +1000 power.",
+    "flavorText": "Well, I'll be! You're a transfer student, huh? Nice to meet you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE01.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE02",
+    "name": "Transfer Student, Ryuko",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "-",
+    "flavorText": "So, I hear you're the queen bee in this school?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE02.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE03",
+    "name": "Talking Sailor Uniform, Senketsu",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Blood"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Clothes》 or 《Family》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Quit you quibbling! All right, I'll make you wear me by force!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE03.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE04",
+    "name": "Power with Senketsu, Ryuko",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.",
+    "flavorText": "So now it's my turn, right?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE04.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE05",
+    "name": "Connected by Blood, Ryuko",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named \"Life Fiber Synchronize, Kamui Senketsu!\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +4000 power until end of turn. 【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE05.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE06",
+    "name": "Mysterious Guy, Mikisugi",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Teacher",
+      "Narcissist"
+    ],
+    "text": "-",
+    "flavorText": "Anyway, I only put girls in my debt.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE06.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE07",
+    "name": "Seki Tekko",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two characters in your waiting room, and return them to your hand.",
+    "flavorText": "Mikisugi: \"Use this Seki Tekko from now on.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE07.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE08",
+    "name": "Life Fiber Synchronize, Kamui Senketsu!",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Putting on a Kamui means becoming one wil you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE08.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE09",
+    "name": "The Elite Four, Inumuta",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Clothes》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I've turned up some intel on her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE09.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE10",
+    "name": "The Elite Four, Jakuzure",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Music"
+    ],
+    "text": "-",
+    "flavorText": "Oh, dear. The toad, the monkey, and the dog have all screwed up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE10.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE11",
+    "name": "Absolute Terror, Satsuki",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +1000 power.",
+    "flavorText": "Where did you get your hands on that outfit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE11.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE12",
+    "name": "The Elite Four, Sanageyama",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "That's why I'm discipling him!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE12.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE13",
+    "name": "The Elite Four, Gamagoori",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Discipline Committee"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "She's choosing friendship over her own life.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE13.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE14",
+    "name": "My actions are utterly pure!",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters gets +2 soul.",
+    "flavorText": "Satsuki Kiryuin will show neither shame nor hesitation even if she bares her breasts for all the world to see!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE14.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE15",
+    "name": "Life Fiber Override, Kamui Junketsu!",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Allow me to show you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE15.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE16",
+    "name": "Wandering High School Girl, Ryuko",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Interesting. Something tells me I'll find some leads here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE16.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE17",
+    "name": "Another Wielder of Kamui, Satsuki",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "This fight has finally become interesting.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE17.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE18",
+    "name": "\"Uber\" Air-head Girl, Mako",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Family",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Ryuko, Senketsu isn't your only friend!\nRemember, you also have me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE18.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE19",
+    "name": "\"Best Friends\" Ryuko & Mako",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Clothes",
+      "Family"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
+    "flavorText": "Mako: 'Me, my family, we all love you, Ryuko!\"\nRyuko: \"Sure, I know that.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE19.png"
+    }
+  },
+  {
+    "id": "KLK/S27-TE20",
+    "name": "Dominating Student Council President, Satsuki",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Clothes",
+      "Family"
+    ],
+    "text": "【CONT】 During your opponent's turn, all of your other characters get +500 power. 【ACT】 [(2) 【REST】 two of your characters] Draw a card.",
+    "flavorText": "If you wish to know the answer,\nask the question with your skill.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/klk_s27/KLK_S27_TE20.png"
+    }
+  }
+]

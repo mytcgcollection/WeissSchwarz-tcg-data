@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "CSM/S96-E001",
+    "name": "Blood Fiend, Power",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 This card gets +500 power for each of your other 《Devil Hunter》 or 《Devil》 or 《Animal》 characters. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Fiend's Everyday Life\" is in your climax area, and you have 2 or more other 《Devil Hunter》 or 《Devil》 or 《Animal》 characters, look at up to 4 cards from the top of your deck, choose up to 1 《Devil Hunter》 or 《Devil》 or 《Animal》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and if the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E001.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E002",
+    "name": "Public Safety Devil Extermination Special Division 4, Power",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Devil Hunter》 or 《Devil》 or 《Animal》 characters, this card gets -1 level while in your hand. 【CONT】 During your turn, if you have another 《Devil Hunter》 or 《Devil》 or 《Animal》 character, this card gets +2500 power and the following ability. \"【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.\" 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E002.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E003",
+    "name": "The Devil Hunter Feared by Devils, Chainsaw Man",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 3 or more other characters, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Blood-Soaked Declaration of War\" is in your climax area, and you have 3 or more other characters, deal 1 damage to your opponent, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent, and you may put that character on the top of your opponent's deck.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E003.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E004",
+    "name": "Always Together, Pochita",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【ACT】 [(1) Put 1 \"Start of the Battle, Denji\" from your hand into your waiting room] If your level is 3 or higher, choose up to 1 character in your waiting room, return it to your hand, choose up to 1 character with \"Chainsaw Man(チェンソーマン)\" in its card name in your hand, and put it in the stage position that this card is in. Put this card into your waiting room or face up underneath that character as a marker afterwards. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E004.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E005",
+    "name": "Leader of Special Division 4, Makima",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 climax, reveal it to your opponent, choose up to 1 climax from your hand, reveal it to your opponent, exchange them, and shuffle your deck. 【AUTO】 At the beginning of your climax phase, choose 1 of your 《Devil Hunter》 or 《Devil》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E005.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E006",
+    "name": "Promise with a Fiend, Power",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, put them on the top of your deck in any order, choose 1 《Devil Hunter》 or 《Devil》 or 《Animal》 character in your waiting room, and return it to your hand.",
+    "flavorText": "We had a deal, did we not? You may fondle my chest. So, fondle!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E006.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E007",
+    "name": "Start of the Battle, Denji",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, this card gets +4000 power, and cannot side attack. 【AUTO】 During this card's battle, when the damage you received is canceled, you may put this card into your waiting room. If you do, put the top card of your deck into your stock.",
+    "flavorText": "Go ahead and try, dumbass!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E007.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E008",
+    "name": "Angelic Temptation, Power",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4500 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E008.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E009",
+    "name": "Request From a Superior, Makima",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "4000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Devil Hunter》 or 《Devil》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I'd like you to put Power up in one of your rooms, Hayakawa.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E009.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E010",
+    "name": "After a Fierce Battle, Denji",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Devil Hunter》 or 《Devil》 characters among those cards ×1000. 【AUTO】 [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] When this card is placed on the stage from your hand or when this card attacks, you may pay the cost. If you do, draw 1 card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E010.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E011",
+    "name": "Last Night's Drinks, Makima",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 2 《Devil Hunter》 or 《Devil》 characters from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your stock in any order. 【AUTO】 When your other 《Devil Hunter》 or 《Devil》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "Last night's drinks were very good.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E011.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E012",
+    "name": "That's an Indirect Kiss! Denji",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0) 【AUTO】 [(1) Put this card into your waiting room] When your other 《Devil Hunter》 or 《Devil》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "Dude, that's kissing! No fair! That's an indirect kiss!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E012.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E013",
+    "name": "Scuffle, Chainsaw Man",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.",
+    "flavorText": "Ow!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E013.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E014",
+    "name": "Battle with a Devil, Chainsaw Man",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose 1 of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E014.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E015",
+    "name": "New Objective, Denji",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards except that card from their waiting room to their deck, and shuffles their deck. 【ACT】 [Put this card into your waiting room] Choose 1 of your opponent's characters, and return it to their hand.",
+    "flavorText": "I got my sights set on someone for a first kiss already.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E015.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E016",
+    "name": "Battle of Wits, Power",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your clock & Put 1 \"Fiend Going Berserk\" from your climax area into your waiting room] When this card attacks, if your clock has 5 or less cards, you may pay the cost. If you do, choose up to 3 cards in your opponent's waiting room, put them on the top of their deck in any order, and deal 4 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "How to defeat him! As fierce as he may be, ultimately, his mind is addled by spirits!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E016.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E017",
+    "name": "Newcomer Welcome Party, Denji",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 1 《Devil Hunter》 or 《Devil》 character from your waiting room at the bottom of your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, reveal the top 2 cards of your deck, your opponent chooses 1 event or 《Devil Hunter》 or 《Devil》 character from among them, puts it into your hand, and puts the rest into your waiting room.",
+    "flavorText": "Damn it! I can't read most of these kanji...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E017.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E018",
+    "name": "Sudden Resignation, Makima",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your characters, and put it in the stage position that this card was in.",
+    "flavorText": "You're quitting?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E018.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E019",
+    "name": "Newcomer Welcome Party, Makima",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Devil Hunter》 or 《Devil》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "So, are you kissing someone, Denji?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E019.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E020",
+    "name": "Meowy",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Animal"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Choose 1 \"Blood Fiend, Power\" in your waiting room, put it in the stage position that this card was on, and that character gets +2000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "Meow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E020.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E021",
+    "name": "Newcomer Welcome Party, Power",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Devil Hunter》 or 《Devil》 or 《Animal》 characters, and that character gets +2000 power until end of turn. 【ACT】 [【REST】 this card] If there are 2 or less markers underneath this card, choose 1 character in your waiting room, and put it face up underneath this card as a marker. If you put 1 card underneath this card, look at the top card of your opponent's deck, and put it on the top or at the bottom of their deck.",
+    "flavorText": "Hands off, you scoundrel! The fried chicken is all mine!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E021.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E022",
+    "name": "Slice of Everyday Life, Power",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your 《Devil Hunter》 or 《Devil》 or 《Animal》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Devil Hunter》 or 《Devil》 or 《Animal》 characters you have ×1000. 【AUTO】 Encore [Put 1 《Devil Hunter》 or 《Devil》 or 《Animal》 character from your waiting room at the bottom of your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E022.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E023",
+    "name": "Granting a Wish, Makima",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E023.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E024",
+    "name": "Rowdy Life",
+    "number": "E024",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "[Put 2 《Devil Hunter》 or 《Devil》 characters from your hand into your waiting room] You may pay the cost. If you do, search your deck for up to 1 character with \"Denji(デンジ)\" or \"Chainsaw Man(チェンソーマン)\" in its card name, up to 1 character with \"Aki Hayakawa(早川アキ)\" in its card name, up to 1 character with \"Power(パワー)\" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck.",
+    "flavorText": "Don't fling your vegetables!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E024.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E025",
+    "name": "Blood-Soaked Declaration of War",
+    "number": "E025",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E025.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E026",
+    "name": "Fiend's Everyday Life",
+    "number": "E026",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "The toilet? I prefer to only occasionally flush my feces.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E026.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E027",
+    "name": "Fiend Going Berserk",
+    "number": "E027",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "After me, Denji! I entrust my back to you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E027.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E028",
+    "name": "Devil Hunter, Himeno",
+    "number": "E028",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【ACT】 [(1) Put this 【STAND】 card into your memory] If your level is 2 or higher, search your deck for up to 1 level 2 or higher character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E028.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E029",
+    "name": "Public Safety Devil Extermination Special Division 4, Aki Hayakawa",
+    "number": "E029",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Memory If \"Devil Hunter, Himeno\" is in your memory, this card gets +4000 power and \"【AUTO】 Encore [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room]\". 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Resolute Unsheathing\" is in your climax area, this card gets +1000 power until end of turn, put the bottom 4 cards of your opponent's deck into their waiting room, and deal 1 damage X times to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E029.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E030",
+    "name": "Devil Hunter, Kobeni",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E030.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E031",
+    "name": "Newcomer Welcome Party, Kobeni",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have another 《Devil Hunter》 or 《Devil》 character, this card gets +1500 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if all of your characters are 《Devil Hunter》 or 《Devil》, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "It's a hand-me-down from my sister.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E031.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E032",
+    "name": "Devil Hunter, Kishibe",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E032.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E033",
+    "name": "Contract with the Fox Devil, Aki Hayakawa",
+    "number": "E033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Devil Hunter》 or 《Devil》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E033.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E034",
+    "name": "Invitation to Smoke, Himeno",
+    "number": "E034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 Memory When this card attacks, if \"Easy Revenge!\" is in your memory, reveal the top card of your deck. If that card is an \"Easy Revenge!\" or a 《Devil Hunter》 or 《Devil》 character, all of your characters get +4000 power and +1 soul until end of turn. (Return the revealed card to its original place)",
+    "flavorText": "Not gonna smoke, Aki?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E034.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E035",
+    "name": "Bearing the Heart of a Devil, Samurai Sword",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Devil Hunter》 or 《Devil》 characters, this card gets -1 level while in your hand. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of your opponent's characters ×1000. 【AUTO】 【CXCOMBO】 [Put 1 \"Strike From a Katana\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 3 《Devil Hunter》 or 《Devil》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, and this card gets +2000 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\" until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E035.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E036",
+    "name": "Senior Devil Hunter, Himeno",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, and return it to their hand. You may choose 1 card in your hand and put it into your waiting room. If you do, choose 1 of your opponent's characters, and return it to their hand. 【AUTO】 【CLOCK】 Alarm [Put 1 card from your hand into your waiting room] If this card is the top card of your clock, at the beginning of your climax phase, you may pay the cost. If you do, choose 1 of your opponent's level 1 or higher characters, your opponent chooses 1 level X or lower character in their waiting room, and exchanges them. X is equal to the level of the character you chose -1.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E036.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E037",
+    "name": "Last Cigarette, Himeno",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, look at the top card of your deck, put it on the top or at the bottom of your deck or into your waiting room, choose 1 of your characters, and that character gets +1500 power until the end of your opponent's next turn. 【AUTO】 Memory [Put 1 climax from your hand into your waiting room] When your character's trigger check reveals a climax, if \"Easy Revenge!\" is in your memory, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Sorry. Last one.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E037.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E038",
+    "name": "Sudden Assault, Kobeni",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, put the top 3 cards of your deck into your waiting room. If all of those cards are 《Devil Hunter》 or 《Devil》 characters, you may return this card to your hand.",
+    "flavorText": "You two... are with the shooters, aren't you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E038.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E039",
+    "name": "Contract with the Snake Devil, Sawatari",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Devil Hunter》 or 《Devil》 characters. 【AUTO】 [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 cost 0 or lower character from your waiting room, and put it in any position of your stage.",
+    "flavorText": "Snake: Spit it out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E039.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E040",
+    "name": "Public Safety Devil Extermination Special Division 4 Captain, Kishibe",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 You cannot play events or \"Backup\" from your hand. 【CONT】 This card gets +2000 power for each other \"Public Safety Devil Extermination Special Division 4 Captain, Kishibe\" in your center stage.",
+    "flavorText": "So, until you're strong enough to beat me... I'll be hunting the two of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E040.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E041",
+    "name": "Manic, Kobeni",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Devil Hunter》 or 《Devil》 character, put the top 3 cards of your deck or your opponent’s deck into the waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "I-It's not my fault!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E041.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E042",
+    "name": "After a Fierce Battle, Aki Hayakawa",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If a climax with in its trigger icon is in your climax area, your other \"Living Like in a Dream, Denji\" in all of your zones get in the trigger icon. 【CONT】 Assist All of your 《Devil Hunter》 or 《Devil》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your climax with in its trigger icon is placed on your climax area, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E042.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E043",
+    "name": "Sliced in Half, Samurai Sword",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【CONT】 If you have 2 or more \"Swift Slash, Samurai Sword\" in your waiting room, this card gets -1 level while in your hand. 【AUTO】 [Put 2 green cards from your hand into your waiting room] When this card attacks, this card gets +4000 power until end of turn, and you may pay the cost. If you do, your opponent puts the top 18 cards of their deck into their waiting room. 【AUTO】 [(1) Put 1 \"Swift Slash, Samurai Sword\" from your waiting room at the bottom of your deck] At the beginning of your opponent's main phase, you may pay the cost. If you do, this card cannot become 【REVERSE】 until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E043.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E044",
+    "name": "Swift Slash, Samurai Sword",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into their waiting room. If you do, your opponent puts the top card of their deck into their clock. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E044.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E045",
+    "name": "Slice of Everyday Life, Aki Hayakawa",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 1 climax from your hand into your waiting room & Put 1 other character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E045.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E046",
+    "name": "Blissful Time, Kobeni",
+    "number": "E046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If all of your characters are 《Devil Hunter》 or 《Devil》, this card gets +2000 power. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E046.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E047",
+    "name": "After the Newcomer Welcome Party, Himeno",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Memory During your turn, if \"Easy Revenge!\" is in your memory, this card gets +3500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.\"",
+    "flavorText": "Huh... It's Den-Den-Denji? What are you doing in my place?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E047.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E048",
+    "name": "Start of Training, Kishibe",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, this card gets +10000 power. 【CONT】 Assist All of your 《Devil Hunter》 or 《Devil》 characters in front of this card get +X power. X is equal to that character's level ×500.",
+    "flavorText": "The boy's immortal. And the Fiend's mostly immortal.\nNo hesitation about bashing someone's head in…\nYou two have no rights here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E048.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E049",
+    "name": "Really Timid, Kobeni",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1500 power for each of your other 《Devil Hunter》 or 《Devil》 characters. 【AUTO】 Encore [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Himeno: \"Meanwhile, Kobeni's got the moves, but she's really timid.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E049.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E050",
+    "name": "Flesh of the Gun Devil",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 of your 《Devil Hunter》 or 《Devil》 characters without a marker, put this card face up underneath that character as a marker, and that character gets +2000 power until end of turn. 【AUTO】 When this card is put into the waiting room from a marker area, if you have 2 or more 《Devil Hunter》 or 《Devil》 characters, put this card into your memory. 【AUTO】 Memory If this card is in your memory, at the beginning of your main phase, return this card to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E050.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E051",
+    "name": "Resolute Unsheathing",
+    "number": "E051",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E051.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E052",
+    "name": "Strike From a Katana",
+    "number": "E052",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E052.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E053",
+    "name": "Living Like in a Dream, Denji",
+    "number": "E053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a \"First Indirect Kiss\" or 《Devil Hunter》 or 《Devil》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place) 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E053.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E054",
+    "name": "First Taste, Makima",
+    "number": "E054",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Devil Hunter》 or 《Devil》 character from your waiting room at the bottom your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, choose 1 of your 《Devil Hunter》 or 《Devil》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E054.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E055",
+    "name": "Public Safety Devil Extermination Special Division 4, Makima",
+    "number": "E055",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If \"First Taste, Makima\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand, you may choose 1 \"Hidden Strength\" in your waiting room, and return it to your hand or put it into your stock. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Hidden Strength\" is in your climax area, reveal the top card of your deck. If that card is an event or a 《Devil Hunter》 or 《Devil》 character, choose up to 1 of your opponent's characters, put it into their waiting room, and this card gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E055.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E056",
+    "name": "Expressing Resolve, Denji",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Devil Hunter》 or 《Devil》 characters, and that character gets +2000 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage.",
+    "flavorText": "Sure. I'll keep it in mind.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E056.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E057",
+    "name": "Devil Covered in Blood, Chainsaw Man",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, if all of your characters are 《Devil Hunter》 or 《Devil》, this card gets +8000 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E057.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E058",
+    "name": "Devil Hunter, Makima",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When \"Concealed Ability\" is placed on your climax area, if this card is in your center stage, and you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, search your deck for up to 1 《Devil Hunter》 or 《Devil》 character, reveal it to your opponent, put it at the bottom of your stock, shuffle your deck, and this card gets the following ability until end of turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E058.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E059",
+    "name": "What a Pitiful Home~ Power",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 《Devil Hunter》 or 《Devil》 or 《Animal》 character, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "What a pitiful home this is!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/CSM-S96-E059_R.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/updates/errata/CSM-S96-E059_R.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E060",
+    "name": "Bearing the Heart of a Devil, Chainsaw Man",
+    "number": "E060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [Put 3 cards from your hand into your waiting room] When this card direct attacks, you may pay the cost. If you do, choose up to 2 cards in your opponent's waiting room, put them on the top of your opponent's deck in any order, and this card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E060.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E061",
+    "name": "Sudden Confession, Makima",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Special Request\" is placed on your climax area, if you have 2 or more other《Devil Hunter》 or 《Devil》 characters, declare either your deck or your waiting room, search your declared zone for up to 1 \"Unforeseen Incident, Denji\", reveal it to your opponent, and put it into your hand. If you declared your deck, shuffle your deck. 【ACT】 Brainstorm [Put 1 of your other characters from your stage into your waiting room & 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "What exactly are you talking about, Denji?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E061.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E062",
+    "name": "After a Fierce Battle, Power",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, choose 1 of your opponent's characters, and that character gets the following ability until the end of the next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E062.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E063",
+    "name": "Childlike Fiend, Power",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 4 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 of your opponent's level 3 or lower characters, and return it to their hand. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E063.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E064",
+    "name": "Directly Under the Chief Cabinet Secretary, Makima",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 You may choose 1 \"First Indirect Kiss\" in your waiting room by the effect. 【AUTO】 When a climax with in its trigger icon is placed on your climax area, you may choose 1 character in your waiting room, and return it to your hand. If you do, choose 1 climax in your climax area, and that card gets the following ability until end of turn. \"【CONT】 All of your characters get -1000 power and -1 soul.\" 【ACT】 [【REST】 this card] Choose 1 of your 《Devil Hunter》 or 《Devil》 characters, and that character gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "Come in.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E064.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E065",
+    "name": "Sound of a Loser, Denji",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 The damage this card deals is resolved from the bottom of the deck. 【AUTO】 【CXCOMBO】 [(1) Put 1 \"Best Contest Ever\" from your climax area into your waiting room] At the beginning of your attack phase, you may pay the cost. If you do, 【STAND】 this card, choose up to 1 \"Requiem to Heaven, Aki Hayakawa\" in your hand, put it in any position of your stage, and that character and this card get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent's deck.\" 【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Losers sure love to make noise, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E065.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E066",
+    "name": "Unforeseen Incident, Denji",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Devil Hunter》 or 《Devil》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E066.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E067",
+    "name": "How Delicate~ Power",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card attacks, you may choose 1 of your other characters, and put it in your stock.",
+    "flavorText": "You two are absurd. How delicate these humans be.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E067.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E068",
+    "name": "I Wasn't Shot, Makima",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +2000 power. 【AUTO】 Experience [Put 3 characters with \"Denji(デンジ)\" or \"Chainsaw Man(チェンソーマン)\" or \"Makima(マキマ)\" in their card names from your hand into your waiting room] When this card is placed on the stage from your hand, if your level has a yellow card, you may pay the cost. If you do, draw up to 3 cards.",
+    "flavorText": "There was a shooting on the train. The bodies are still there, so take care of them.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E068.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E069",
+    "name": "Change in Partner, Denji",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +2000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Something happen to Power?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E069.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E070",
+    "name": "Highly Cerebral Warfare, Power",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 All of your other \"Highly Cerebral Warfare, Denji\" get +4000 power. 【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Highly Cerebral Warfare, Denji\" in your waiting room, and put it in any position of your stage.",
+    "flavorText": "Let the highly cerebral warfare begin.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E070.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E071",
+    "name": "Highly Cerebral Warfare, Denji",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 All of your other \"Highly Cerebral Warfare, Power\" get +4000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E071.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E072",
+    "name": "Immortal Devil, Chainsaw Man",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Devil Hunter》 or 《Devil》 characters. 【AUTO】 Encore [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E072.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E073",
+    "name": "Assault on the Bullet Train, Makima",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, this card gets +3000 power for each character in your opponent's back stage. 【AUTO】 Encore [Put 2 characters from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E073.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E074",
+    "name": "Moment on the Way Home, Power",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 3 cards from your hand into your waiting room} When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 4 《Devil Hunter》 or 《Devil》 or 《Animal》 characters, reveal them to your opponent, choose 1 card from among them, put it into your stock, put the rest into your hand, and shuffle your deck. 【AUTO】 When this card's trigger check reveals a climax, you may deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E074.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E075",
+    "name": "First Indirect Kiss",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【AUTO】 Memory [Put this card from face up to face down] If this card is in your memory, at the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -3 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E075.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E076",
+    "name": "Hidden Strength",
+    "number": "E076",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E076.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E077",
+    "name": "Concealed Ability",
+    "number": "E077",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Say the name \"Shuzo Mishima\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E077.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E078",
+    "name": "Special Request",
+    "number": "E078",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Makima: \"Denji... I'd like you to do something for me. Can I?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E078.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E079",
+    "name": "Best Contest Ever",
+    "number": "E079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E079.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E080",
+    "name": "Watchdog of Special Division 4, Aki Hayakawa",
+    "number": "E080",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets the following abilities. \"【CONT】 During your turn, this card gets +3000 power.\" \"【AUTO】 Encore [Put 1 event or climax from your hand into your waiting room]\" 【AUTO】 【CXCOMBO】 When this card attacks, if \"Starting Point of Devil Hunting\" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E080.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E081",
+    "name": "Public Safety Devil Extermination Special Division 4, Himeno",
+    "number": "E081",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 【CLOCK】 Alarm [Put 1 card from your hand into your waiting room] If this card is the top card of your clock, at the beginning of your climax phase, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 《Devil Hunter》 or 《Devil》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E081.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E082",
+    "name": "Devil Hunter, Aki Hayakawa",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E082.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E083",
+    "name": "Revenge, Aki Hayakawa",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Memory If you have 2 or more \"Easy Revenge!\" in your memory, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, put up to 1 card from the top of your clock into your waiting room, and this card gets +1500 power until end of turn. 【AUTO】 Memory When this card's battle opponent becomes 【REVERSE】, if you have a card in your memory, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "Himeno... I'll be with you soon.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E083.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E084",
+    "name": "First Cigarette, Himeno",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if \"Ghost's Right Hand\" is in your climax area, and you have 2 or more \"Easy Revenge!\" in your memory, you may pay the cost. If you do, deal either 2 or 3 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Just one.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E084.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E085",
+    "name": "Forming an Alliance, Himeno",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Easy Revenge!\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "So, starting today, we're not just coworkers, but friends.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E085.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E086",
+    "name": "Break Time, Himeno",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"Secret Alliance\" from your climax area into your waiting room] At the beginning of your attack phase, if you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 2 \"Easy Revenge!\" or 《Devil Hunter》 or 《Devil》 characters, reveal them to your opponent, put them into your hand, and put the rest into your waiting room. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "I can take it easy because Aki's working hard.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E086.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E087",
+    "name": "Future Devil",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "Devil"
+    ],
+    "text": "【CONT】 All of your other 《Devil Hunter》 or 《Devil》 characters get +500 power. 【AUTO】 When your other \"Career Advice, Aki Hayakawa\" is placed on the stage from your hand, if there are no markers underneath that character, you may put this card face up underneath that character as a marker. If you do, search your deck for up to 1 《Devil Hunter》 or 《Devil》 character, reveal it to your opponent, put it at the bottom of your stock, and shuffle your deck.",
+    "flavorText": "The future rules.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E087.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E088",
+    "name": "Morning Routine, Aki Hayakawa",
+    "number": "E088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E088.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E089",
+    "name": "Last Cigarette, Aki Hayakawa",
+    "number": "E089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Shut up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E089.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E090",
+    "name": "Requiem to Heaven, Aki Hayakawa",
+    "number": "E090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 The damage this card deals is resolved from the bottom of the deck. 【CONT】 All of your other 《Devil Hunter》 or 《Devil》 characters get +1500 power. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "What do I get if I win?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E090.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E091",
+    "name": "Scene at the Hotel, Aki Hayakawa",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power. 【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room.",
+    "flavorText": "He's actually asleep...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E091.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E092",
+    "name": "Request for Devil Extermination, Himeno",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's back stage with level higher than your opponent's level. That character cannot 【STAND】 during your opponent's next stand phase. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Devil Hunter》 or 《Devil》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Oh~",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E092.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E093",
+    "name": "Honest Question, Himeno",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it at the bottom of their deck. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Be honest with me. What do you think Denji is?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E093.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E094",
+    "name": "First Cigarette, Aki Hayakawa",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Memory During your turn, if your memory has a card, this card gets +2500 power and the following ability. \"【AUTO】 When this card attacks, if the character facing this card is level 2, this card gets +6000 power until end of turn.\"",
+    "flavorText": "Just one, then. This is the first and last cigarette I ever light up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E094.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E095",
+    "name": "Reward for Work, Himeno",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, if you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +2000 power. 【AUTO】 [(1) Put 1 card from your hand into your waiting room & 【REST】 1 of your other 【STAND】 《Devil Hunter》 or 《Devil》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 2 《Devil Hunter》 or 《Devil》 characters in your waiting room, and return them to your hand.",
+    "flavorText": "Whoever kills this devil will win…\na kiss on the cheek from yours truly!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E095.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E096",
+    "name": "Career Advice, Aki Hayakawa",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 At the beginning of your clock phase or attack phase, if \"Future Devil\" is underneath this card as a marker, look at up to 3 cards from the top of your deck, and put them on the top of your deck in the original order. 【AUTO】 [Put 1 climax from your hand into your waiting room] When your climax triggers, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "Is this what you meant by coaching?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E096.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E097",
+    "name": "Easy Revenge!",
+    "number": "E097",
+    "rarity": "R",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. Put this card into your memory. (Climax are regarded as level 0) 【AUTO】 Memory If this card is in your memory, when your \"Public Safety Devil Extermination Special Division 4, Aki Hayakawa\" attacks, look at the bottom card of your opponent's deck, and put it at the bottom of their deck or into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E097.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E098",
+    "name": "Starting Point of Devil Hunting",
+    "number": "E098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "We keep killing devils, and eventually, we'll find him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E098.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E099",
+    "name": "Ghost's Right Hand",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Let's see what my ghost can do, then.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E099.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E100",
+    "name": "Secret Alliance",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Himeno: \"I propose we form a secret alliance, Denji.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E100.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E101",
+    "name": "Gaze of Attraction, Power",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E101.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E102",
+    "name": "After the Newcomer Welcome Party, Denji",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] If you have another 《Devil Hunter》 or 《Devil》 character, choose 1 of your opponent's characters, and move it to another open position of their stage.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E102.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E103",
+    "name": "Intoxicated, Himeno",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.",
+    "flavorText": "Stick 'em up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E103.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E104",
+    "name": "After the Newcomer Welcome Party, Makima",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1)] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 \"After the Newcomer Welcome Party, Makima\" in your waiting room, and return it to your hand. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Open your mouth.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E104.png"
+    }
+  },
+  {
+    "id": "CSM/S96-E105",
+    "name": "Daily Life After a Fierce Battle, Aki Hayakawa",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Devil Hunter》 or 《Devil》 character from your hand into your waiting room] When this card is placed on the stage from your hand or into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_E105.png"
+    }
+  },
+  {
+    "id": "CSM/S96-PE02",
+    "name": "Public Safety Devil Extermination Special Division 4, Denji",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +3000 power. 【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step. If performed 2 times, put the top card of your stock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_PE02.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE01",
+    "name": "Belief for the Job, Aki Hayakawa",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Devil Hunter》 or 《Devil》 characters get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 5 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Makima... is not the kind of woman a punk like you should be chasing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE01.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE02",
+    "name": "Devil Hunter, Power",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【AUTO】 [(1) Put 1 《Devil Hunter》 or 《Devil》 character from your waiting room at the bottom of your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Prostrate yourselves, humans!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE02.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE03",
+    "name": "Chainsaw Devil, Pochita",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Devil Hunter》 or 《Devil》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Devil Hunter》 or 《Devil》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE03.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE04",
+    "name": "Type of Person She Likes? Makima",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have another 《Devil Hunter》 or 《Devil》 character, this card gets +3000 power until end of turn.",
+    "flavorText": "I'm into the \"Denji\" type.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE04.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE05",
+    "name": "Scent of Blood, Power",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "The scent of blood!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE05.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE06",
+    "name": "Devils' Names, Makima",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Devil Hunter》 or 《Devil》 characters, you may choose 1 《Devil Hunter》 or 《Devil》 character in your waiting room, and put it into your stock.",
+    "flavorText": "All devils are born with names.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE06.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE07",
+    "name": "Resolve Towards the Job, Aki Hayakawa",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Devil Hunter》 or 《Devil》 characters, and that character gets +1500 until end of turn. 【AUTO】 When this card attacks, if you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +4000 power until end of turn.",
+    "flavorText": "You're just after Makima, right? That's why you took the job?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE07.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE08",
+    "name": "Best Toast",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "4",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "You may choose 1 card in your hand, and put it into your waiting room. If you do, perform the following effects 1 time each. \"Look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to their hand.\" \"Deal 1 damage to your opponent, choose up to 1 card in their waiting room, put it on the top of their deck, choose 1 of your characters, and that character gets +1000 power until end of turn.\" (Damage may be canceled) \"Choose up to 2 of your characters, and those characters get +1 soul until end of turn.\"",
+    "flavorText": "Denji: \"I got the best toast ever right here!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE08.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE09",
+    "name": "Dog and Owner",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Makima: \"Here. Say, \"Ahh.\"\"\nDenji: \"Ahh...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE09.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE10",
+    "name": "First Meeting, Power",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 Bond/\"Heart's Secret, Denji\" \"Aiming for the Vitals, Denji\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Heart's Secret, Denji\" or \"Aiming for the Vitals, Denji\" in your waiting room, and return it to your hand) 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Meowy! Your name shall be Meowy! You smell tasty, for a cat.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE10.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE11",
+    "name": "Mysterious Scent, Makima",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "I take it you did this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE11.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE12",
+    "name": "Devil With an Electric Chainsaw, Chainsaw Man",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\".",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE12.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE13",
+    "name": "Devil Hunter, Denji",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Devil Hunter》 or 《Devil》 characters, this card gets +2000 power until end of turn. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Forming a Contract in the Trash Bin\" is in your climax area, and you have another 《Devil Hunter》 or 《Devil》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Devil Hunter》 or 《Devil》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "How about we have us a dream battle, then?! How about that?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE13.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE14",
+    "name": "Aiming for the Vitals, Denji",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "-",
+    "flavorText": "Because... when I fight a dude... It's nuts... or nothing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE14.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE15",
+    "name": "Serious Motive, Makima",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When your other 《Devil Hunter》 or 《Devil》 character attacks, this card gets +X power until end of turn. X is equal to the number of 《Devil Hunter》 or 《Devil》 characters you have ×500. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Boobs?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE15.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE16",
+    "name": "Heart's Secret, Denji",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room. 【ACT】 [Put this card into your waiting room] Choose 1 \"Devil Hunting Devils, Chainsaw Man\" in your waiting room, put it in the stage position that your \"Chainsaw Devil, Pochita\" is in, and put that \"Chainsaw Devil, Pochita\" face up underneath that \"Devil Hunting Devils, Chainsaw Man\" as a marker.",
+    "flavorText": "Makima: \"Your best friend is alive inside of you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE16.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE17",
+    "name": "Devil Hunting Devils, Chainsaw Man",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Heart's Secret, Denji\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put the bottom 4 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE17.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE18",
+    "name": "How Foolish! Power",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Devil Hunter",
+      "Public Safety"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1) Put 1 of your other 《Devil Hunter》 or 《Devil》 characters from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, choose up to 2 cards in your opponent's waiting room, return them to their deck, your opponent shuffles their deck, and this card gets +1000 power until end of turn.",
+    "flavorText": "How foolish you humans are.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE18.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE19",
+    "name": "Forming a Contract in the Trash Bin",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Denji: \"Did you take my body, like I said?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE19.png"
+    }
+  },
+  {
+    "id": "CSM/S96-TE20",
+    "name": "Roar of a Devil",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "0",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "So how come I haven't gotten to cop a single damn feel yet?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/CSM/S96_TE20.png"
+    }
+  }
+]

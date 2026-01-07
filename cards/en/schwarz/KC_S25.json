@@ -1,0 +1,4777 @@
+[
+  {
+    "id": "KC/S25-E001",
+    "name": "1st Yamato-class Battleship, Yamato",
+    "number": "E001",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】When this card attacks, if a card named \"Gunfire assault, ready!\" is in your climax area, until end of turn, all of your characters get +2000 power and your opponent cannot use \"【AUTO】Encore\". (Your opponent cannot use the \"【AUTO】Encore [(3)]\" rule either)",
+    "flavorText": "Battleship Yamato, pushing forth。",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E001.png"
+    }
+  },
+  {
+    "id": "KC/S25-E002",
+    "name": "2nd Yamato-class Battleship, Musashi",
+    "number": "E002",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "11000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【CONT】This card cannot side attack. 【AUTO】This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. This damage may be canceled)",
+    "flavorText": "Let Musashi handle this battle!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E002.png"
+    }
+  },
+  {
+    "id": "KC/S25-E003",
+    "name": "Shimakaze-class Destroyer, Shimakaze",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card's battle opponent becomes 【Reverse】, if a card named \"Fast like Shimakaze\" is in your climax area, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Rensoho-chan, let's go together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E003.png"
+    }
+  },
+  {
+    "id": "KC/S25-E004",
+    "name": "2nd Shokaku-class Aircraft Carrier, Zuikaku",
+    "number": "E004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【AUTO】 When a card named \"All planes, take off!\" is placed on your climax area, choose one of your characters with \"Aircraft\" in its trait, and that character gets the following ability until end of turn. \"【AUTO】 [(1)] This ability activates up to one time per turn. When damage dealt by this card is canceled, you may pay the cost. If you do, deal one damage to your opponent.\" (This damage may be canceled) 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +3000 power until end of turn.",
+    "flavorText": "Fifth Carrier Division, Zuikaku, heading out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E004.png"
+    }
+  },
+  {
+    "id": "KC/S25-E005",
+    "name": "1st Shokaku-class Aircraft Carrier, Shokaku",
+    "number": "E005",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【AUTO】When this card attacks, if a card named \"All planes, take off!\" is in your climax area, you may choose one of your opponent's characters, and return it to your opponent's hand. 【AUTO】Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "Fifth Carrier Division, Shokaku, heading out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E005.png"
+    }
+  },
+  {
+    "id": "KC/S25-E006",
+    "name": "7th Kagero-class Destroyer, Hatsukaze",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +500 power. 【AUTO】During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.",
+    "flavorText": "Let's go! We'll leave the burden behind!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E006.png"
+    }
+  },
+  {
+    "id": "KC/S25-E007",
+    "name": "18th Kagero-class Destroyer, Maikaze",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, put it into your clock. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Nice judgement! Admiral!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E007.png"
+    }
+  },
+  {
+    "id": "KC/S25-E008",
+    "name": "Miracle Destroyer, Yukikaze",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】[(1)] When this card becomes 【Reverse】 in battle, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, you may pay the cost. If you do, return this card to your hand. (The revealed card is returned to its original place)",
+    "flavorText": "You can feel the kiss from the goddess of fortune!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E008.png"
+    }
+  },
+  {
+    "id": "KC/S25-E009",
+    "name": "2nd Junsen-class Type Ⅲ Submarine, I-8",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Submarine"
+    ],
+    "text": "【AUTO】[(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】[(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"2nd Junsen-class Type Ⅲ Submarine, I-8-Kai\" in your waiting room, and put that card on any position of your stage as 【REST】' />.",
+    "flavorText": "This is great, danke scho?n.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E009.png"
+    }
+  },
+  {
+    "id": "KC/S25-E010",
+    "name": "3rd Agano-class Light Cruiser, Yahagi",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />) 【ACT】[【REST】two of your 《Fleet Girl》 characters] This card gets +2500 power until end of turn.",
+    "flavorText": "Do not take the Agano-class lightly just because they are light cruisers.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E010.png"
+    }
+  },
+  {
+    "id": "KC/S25-E011",
+    "name": "1st Kagero-class Destroyer, Kagero",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】[(1)] When damage dealt by this card is canceled, you may pay the cost. If you do, draw a card.",
+    "flavorText": "I've finally met you! I'm Kagero. Nice to meet you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E011.png"
+    }
+  },
+  {
+    "id": "KC/S25-E012",
+    "name": "4th Yugumo-class Destroyer, Naganami",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】During your turn, all of your other characters get +500 power. 【ACT】[(2) 【REST】this card] All of your 《Destroyer》 characters get +1 soul until end of turn.",
+    "flavorText": "It's alright, a motley team is the best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E012.png"
+    }
+  },
+  {
+    "id": "KC/S25-E013",
+    "name": "19th Kagero-class Destroyer, Akigumo",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card attacks, you may reveal your hand. If you do, if there is a climax among those cards, this card gets +2000 power until end of turn.",
+    "flavorText": "Fall in! Welcome-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E013.png"
+    }
+  },
+  {
+    "id": "KC/S25-E014",
+    "name": "1st Yugumo-class Destroyer, Yugumo",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When another of your \"2nd Yugumo-class Destroyer, Makigumo\" attacks, this card gets +500 power and +1 soul until end of turn.",
+    "flavorText": "Both the admiral and Makigumo seem to like close contact.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E014.png"
+    }
+  },
+  {
+    "id": "KC/S25-E015",
+    "name": "2nd Yugumo-class Destroyer, Makigumo",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【ACT】[(3)] Until end of turn, this card gets +7500 power and the following ability. \"【AUTO】When this card's battle opponent becomes 【Reverse】, you may put that character into your opponent's stock.\"",
+    "flavorText": "Commander, was Makigumo of any help?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E015.png"
+    }
+  },
+  {
+    "id": "KC/S25-E016",
+    "name": "3rd Junsen Otsu-class Type Kai Ⅱ Submarine, I-58",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Submarine"
+    ],
+    "text": "【AUTO】When this card side attacks, this card gets +1 soul until end of turn. 【AUTO】Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】' />, you may pay the cost. If you do, choose a card named \"3rd Junsen Otsu-class Type Kai Ⅱ Submarine, I-58-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Greetings from the sea! It's Goya!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E016.png"
+    }
+  },
+  {
+    "id": "KC/S25-E017",
+    "name": "1st Agano-class Light Cruiser, Agano",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "It's almost time for Agano's entrance. Eh heh heh, I've been waiting for this moment.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E017.png"
+    }
+  },
+  {
+    "id": "KC/S25-E018",
+    "name": "1st Hiyo-class Light Aircraft Carrier, Hiyo",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【AUTO】[(2) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's cost 1 or lower characters, and put it into your opponent's stock. 【AUTO】When this card becomes 【Reverse】 in battle, put this card into your memory.",
+    "flavorText": "All planes get ready for bombardment! Right, take off!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E018.png"
+    }
+  },
+  {
+    "id": "KC/S25-E019",
+    "name": "2nd Junsen-class Type Ⅲ Submarine, I-8-Kai",
+    "number": "E019",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrying Submarine"
+    ],
+    "text": "【AUTO】When another of your 《Fleet Girl》 character attacks, this card gets +1000 power until end of turn. 【ACT】[【REST】one of your 《Fleet Girl》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "I won't lose to anyone in terms of long sailing distances!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E019.png"
+    }
+  },
+  {
+    "id": "KC/S25-E020",
+    "name": "1st Tone-class Heavy Cruiser, Tone",
+    "number": "E020",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters. 【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, this card gets +1 soul until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "As long as you have me here, you do not have to worry about reconnaissance!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E020.png"
+    }
+  },
+  {
+    "id": "KC/S25-E021",
+    "name": "3rd Junsen Otsu-class Submarine, I-19-Kai",
+    "number": "E021",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrying Submarine"
+    ],
+    "text": "【CONT】If the number of cards in your hand is three or less, this card gets +1500 power. 【AUTO】[(2) Put a 《Fleet Girl》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters in the center stage and one of your opponent's level 3 or lower characters in the back stage, and return them to your opponent's hand.",
+    "flavorText": "Admiral! Don't take your eyes off Iku!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E021.png"
+    }
+  },
+  {
+    "id": "KC/S25-E022",
+    "name": "2nd Kagero-class Destroyer, Shiranui",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(1)] When this card becomes 【Reverse】 in battle, you may pay the cost. If you do, 【REST】this card, and this card cannot 【STAND】during your next stand phase.",
+    "flavorText": "Why's that…… Are you saying Shiranui is at fault here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E022.png"
+    }
+  },
+  {
+    "id": "KC/S25-E023",
+    "name": "3rd Kagero-class Destroyer, Kuroshio",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "It's Kuroshio, pleased to meet'cha.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E023.png"
+    }
+  },
+  {
+    "id": "KC/S25-E024",
+    "name": "1st Kaidai Ⅵ-class Type a Submarine, I-168",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Submarine"
+    ],
+    "text": "【ACT】【COUNTER】Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Wow! We have a really great catch today!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E024.png"
+    }
+  },
+  {
+    "id": "KC/S25-E025",
+    "name": "2nd Agano-class Light Cruiser, Noshiro",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】This ability activates up to one time per turn. When you use an 【ACT】' />, choose one of your characters, and that character gets +1500 power until end of turn. 【ACT】[(1)] Choose one of your 《Light Cruiser》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Thank you for the vital materials!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E025.png"
+    }
+  },
+  {
+    "id": "KC/S25-E026",
+    "name": "3rd Junsen Otsu-class Submarine, I-19",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Submarine"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Fleet Girl》 characters you have. 【AUTO】[Put a card from your hand into your waiting room & Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one \"3rd Junsen Otsu-class Submarine, I-19-Kai\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "Alright! Iku, on my way!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E026.png"
+    }
+  },
+  {
+    "id": "KC/S25-E027",
+    "name": "2nd Tone-class Heavy Cruiser, Chikuma",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【ACT】【COUNTER】Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "Are the reconnaissance seaplanes alright? Alright! Let's head out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E027.png"
+    }
+  },
+  {
+    "id": "KC/S25-E028",
+    "name": "2nd Hiyo-class Light Aircraft Carrier, Junyo-Kai",
+    "number": "E028",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +1000 power. 【AUTO】【CLOCK】Shift, Level 2 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them)",
+    "flavorText": "Thank goodness.\nLet's replenish our supplies at the Exchange as well. That's very important.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E028.png"
+    }
+  },
+  {
+    "id": "KC/S25-E029",
+    "name": "3rd Junsen Otsu-class Type Kai Ⅱ Submarine, I-58-Kai",
+    "number": "E029",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrying Submarine"
+    ],
+    "text": "【CONT】If the number of other 《Fleet Girl》 characters you have is two or more, this card gets +1 soul and \"【AUTO】Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Goya, diving in!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E029.png"
+    }
+  },
+  {
+    "id": "KC/S25-E030",
+    "name": "2nd I-400-class Submarine, I-401",
+    "number": "E030",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrying Submarine"
+    ],
+    "text": "【AUTO】When this card side attacks, choose one of your other characters, and that character gets +2500 power until end of turn.",
+    "flavorText": "Dive? Shall we dive in?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E030.png"
+    }
+  },
+  {
+    "id": "KC/S25-E031",
+    "name": "Compass",
+    "number": "E031",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. If there is a climax among those cards, choose one of your opponent's characters in battle, and that character gets the following ability until end of turn. \"【CONT】This card cannot deal damage to a player.\" If there is none, put this card on the top of your deck.",
+    "flavorText": "Which direction would you like to take?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E031.png"
+    }
+  },
+  {
+    "id": "KC/S25-E032",
+    "name": "Gunfire assault, ready!",
+    "number": "E032",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Battleship Yamato, heading out with the combined fleet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E032.png"
+    }
+  },
+  {
+    "id": "KC/S25-E033",
+    "name": "All planes, take off!",
+    "number": "E033",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Shokaku: \"Ready? Let's go, Zuikaku! Mobile task force, heading out!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E033.png"
+    }
+  },
+  {
+    "id": "KC/S25-E034",
+    "name": "Fast like Shimakaze",
+    "number": "E034",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "No one can catch up to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E034.png"
+    }
+  },
+  {
+    "id": "KC/S25-E035",
+    "name": "Akagi-class Aircraft Carrier, Akagi-Kai",
+    "number": "E035",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】At the beginning of your climax phase, put all cards from your stock into your waiting room, and all of your characters get +1000 power until the end of your opponent's next turn. 【AUTO】When this card's battle opponent becomes 【Reverse】, if a card named \"Akagi of the First Carrier Division is up next!\" is in your climax area, you may put that character into your opponent's clock.",
+    "flavorText": "All planes, are you ready?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E035.png"
+    }
+  },
+  {
+    "id": "KC/S25-E036",
+    "name": "Kaga-class Aircraft Carrier, Kaga",
+    "number": "E036",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +1500 power. 【AUTO】When this card is placed on the stage from your hand, you may put two cards from the top of your deck underneath this card as a marker. 【AUTO】[(3)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your opponent's characters, and that character gets +4 soul until end of turn. 【AUTO】At the beginning of your draw phase, put all markers underneath this card into your stock.",
+    "flavorText": "I will not concede.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E036.png"
+    }
+  },
+  {
+    "id": "KC/S25-E037",
+    "name": "Yubari-class Light Cruiser, Yubari",
+    "number": "E037",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If the number of climax in your waiting room is one or less, this card cannot be played from hand. 【CONT】If the number of cards in your stock is four or more, this card gets +1000 power. 【AUTO】When your opponent's character is returned to hand from the waiting room, choose one of your characters, and that character gets +2000 power until end of turn. 【CONT】If your level is 2 or higher, this card gets +1500 power.",
+    "flavorText": "Let me have your feedback later!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E037.png"
+    }
+  },
+  {
+    "id": "KC/S25-E038",
+    "name": "\"Faithful\" Destroyer, Верный",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】Memory If a card named \"2nd Akatsuki-class Destroyer, Hibiki\" is in your memory, this card gets +1000 power.",
+    "flavorText": "Hibi… I mean, Верный(Verniy). A name that means \"faithful\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E038.png"
+    }
+  },
+  {
+    "id": "KC/S25-E039",
+    "name": "2nd Aoba-class Heavy Cruiser, Kinugasa-Kai-Ni",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "Leave it to Kinugasa!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E039.png"
+    }
+  },
+  {
+    "id": "KC/S25-E040",
+    "name": "1st Chitose-class Light Aircraft Carrier, Chitose-Ko-Kai-Ni",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +1000 power. 【AUTO】Encore [(2)] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "The newly developed two-seater reconnaissance planes are my pride and joy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E040.png"
+    }
+  },
+  {
+    "id": "KC/S25-E041",
+    "name": "2nd Chitose-class Light Aircraft Carrier, Chiyoda-Ko-Kai-Ni",
+    "number": "E041",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "2500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +1500 power. 【AUTO】When your opponent's character is returned to hand from the waiting room, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "The planes are all prepared. Let's head out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E041.png"
+    }
+  },
+  {
+    "id": "KC/S25-E042",
+    "name": "1st Ise-class Aviation Battleship, Ise-Kai",
+    "number": "E042",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Battleship"
+    ],
+    "text": "【CONT】All of your other \"2nd Ise-class Aviation Battleship, Hyuga-Kai\" get +1000 power. 【AUTO】[Put a card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose another of your characters and this card, exchange them as 【STAND】' />, and this card gets +2000 power until end of turn.",
+    "flavorText": "Main cannons, all turrets, fire!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E042.png"
+    }
+  },
+  {
+    "id": "KC/S25-E043",
+    "name": "2nd Ise-class Aviation Battleship, Hyuga-Kai",
+    "number": "E043",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Battleship"
+    ],
+    "text": "【CONT】All of your other \"1st Ise-class Aviation Battleship, Ise-Kai\" get +1000 power. 【AUTO】[Put a card from your hand into your waiting room] When this card is placed on the stage from your hand or by the 【AUTO】effect of \"2nd Ise-class Battleship, Hyuga\", you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. \"【AUTO】When this card's battle opponent becomes 【Reverse】, you may put that character into your opponent's clock.\" 【AUTO】This ability activates up to one time per turn. When you use an 【ACT】' />, this card gets +1000 power until end of turn.",
+    "flavorText": "Feel the true power of an aviation battleship!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E043.png"
+    }
+  },
+  {
+    "id": "KC/S25-E044",
+    "name": "1st Ayanami-class Destroyer, Ayanami",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If you do not have any other characters, this card gets +2000 power. 【AUTO】When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of characters your opponent has.",
+    "flavorText": "Ayanami is the first…… I'm really glad.\n……it's all thanks to the commander.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E044.png"
+    }
+  },
+  {
+    "id": "KC/S25-E045",
+    "name": "1st Hatsuharu-class Destroyer, Hatsuharu",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If there is a marker underneath this card, this card gets +2000 power. 【ACT】[【REST】this card] If there are no markers underneath this card, choose a 《Fleet Girl》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Hatsuharu, pushing on!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E045.png"
+    }
+  },
+  {
+    "id": "KC/S25-E046",
+    "name": "1st Akatsuki-class Destroyer, Akatsuki",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card attacks, if a card named \"It's Akatsuki's turn, pay close attention!\" is in your climax area, all of your other level 1 or lower characters get +2000 power until end of turn.",
+    "flavorText": "It's Akatsuki. Try to treat me like a proper lady!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E046.png"
+    }
+  },
+  {
+    "id": "KC/S25-E047",
+    "name": "1st Furutaka-class Heavy Cruiser, Furutaka",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When you use this card's \"Backup\", you may reveal your hand. If you do, if there is a climax among those cards, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)",
+    "flavorText": "It will be great if you could learn more about the merits of a heavy cruiser.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E047.png"
+    }
+  },
+  {
+    "id": "KC/S25-E048",
+    "name": "3rd Sendai-class Light Cruiser, Naka",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock. 【AUTO】Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "Naka is on the scene!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E048.png"
+    }
+  },
+  {
+    "id": "KC/S25-E049",
+    "name": "1st Sendai-class Light Cruiser, Sendai",
+    "number": "E049",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When a card named \"We must go into night combat!\" is placed on your climax area, if this card is on the center stage, this card gets the following ability until the end of your opponent's next turn. \"【CONT】All level 1 or lower characters get +2 soul.\"",
+    "flavorText": "The night is really great～isn't it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E049.png"
+    }
+  },
+  {
+    "id": "KC/S25-E050",
+    "name": "1st Aoba-class Heavy Cruiser, Aoba",
+    "number": "E050",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, your opponent chooses one of his or her characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Sorry to bother you, it's Aoba! How about a word for our readers!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E050.png"
+    }
+  },
+  {
+    "id": "KC/S25-E051",
+    "name": "1st Ise-class Battleship, Ise",
+    "number": "E051",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【CONT】All of your other \"2nd Ise-class Battleship, Hyuga\" get +1000 power. 【AUTO】[(1) Put this card into your clock] When a card named \"Aviation battleship, heading out!\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"1st Ise-class Aviation Battleship, Ise-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Eh, I have the best results? Alright!\nHyuga, did you see that? How about that!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E051.png"
+    }
+  },
+  {
+    "id": "KC/S25-E052",
+    "name": "2nd Ise-class Battleship, Hyuga",
+    "number": "E052",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【CONT】All of your other \"1st Ise-class Battleship, Ise\" get +1000 power. 【AUTO】[(1) Put this card into your clock] When a card named \"Aviation battleship, heading out!\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"2nd Ise-class Aviation Battleship, Hyuga-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "My attack was that effective…… I understand.\nI meant no harm, but that doesn't really matter.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E052.png"
+    }
+  },
+  {
+    "id": "KC/S25-E053",
+    "name": "Ryujo-class Light Aircraft Carrier, Ryujo",
+    "number": "E053",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【ACT】[Put a 《Fleet Girl》 character from your hand into your waiting room] This card gets +3500 power until end of turn.",
+    "flavorText": "I did it! A victory for me! Go ahead and praise me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E053.png"
+    }
+  },
+  {
+    "id": "KC/S25-E054",
+    "name": "2nd Takao-class Heavy Cruiser, Atago",
+    "number": "E054",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When this card attacks, if a card named \"Pan Pakka Pa-n!\" is on your climax area, choose up to two 《Heavy Cruiser》 characters in your waiting room, and put them into your stock in any order. 【AUTO】When this card attacks, reveal the top card of your deck. If that card is level 0 or lower, this card gets -2 soul until end of turn. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "Steady as she goes♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E054.png"
+    }
+  },
+  {
+    "id": "KC/S25-E055",
+    "name": "8th Ayanami-class Destroyer, Akebono",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】Your other character in the middle position of the center stage gets +1000 power. 【AUTO】When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order.",
+    "flavorText": "Stop looking over here! You mean admiral!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E055.png"
+    }
+  },
+  {
+    "id": "KC/S25-E056",
+    "name": "2nd Akatsuki-class Destroyer, Hibiki",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(1) Put this card into your memory] When this card becomes 【Reverse】 in battle, you may pay the cost. If you do, choose a card named \"\"Faithful\" Destroyer, Верный\" in your waiting room, and put it on the stage position that this card was on as 【REST】' />. 【AUTO】Memory If this card is in your memory, when your card or your opponent's card in the clock is put into the waiting room due to the respective player's card effects, that player may put the top two cards from the stock into the waiting room. If not, that player puts the top card of the deck into the clock.",
+    "flavorText": "As expected from one named after a phoenix.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E056.png"
+    }
+  },
+  {
+    "id": "KC/S25-E057",
+    "name": "Hardworking, Ikaduchi",
+    "number": "E057",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【ACT】Brainstorm [(1) 【REST】this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.\"",
+    "flavorText": "Ikaduchi, heading out for the Admiral.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E057.png"
+    }
+  },
+  {
+    "id": "KC/S25-E058",
+    "name": "2nd Hatsuharu-class Destroyer, Nenohi",
+    "number": "E058",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If there is a marker underneath this card, this card gets +1 level and +2500 power. 【ACT】[【REST】this card] If there are no markers underneath this card, choose a climax in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "Pleased to meet you, I'm Nenohi.\nMy name is not that hard to say, right? Right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E058.png"
+    }
+  },
+  {
+    "id": "KC/S25-E059",
+    "name": "2nd Ayanami-class Destroyer, Shikinami",
+    "number": "E059",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[Put this card into your waiting room] When another of your 《Fleet Girl》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "Right, I'm on my way! Let's head out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E059.png"
+    }
+  },
+  {
+    "id": "KC/S25-E060",
+    "name": "9th Ayanami-class Destroyer, Sazanami",
+    "number": "E060",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters in the center stage. That character cannot 【STAND】during your opponent's next stand phase.",
+    "flavorText": "You cannot escape! Sazanami can be really persistant!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E060.png"
+    }
+  },
+  {
+    "id": "KC/S25-E061",
+    "name": "Clumsy Girl, Inaduma",
+    "number": "E061",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place) 【AUTO】[(1) Put the top card of your deck into your clock] When this card is placed into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one level 1 or lower character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Ha wah wah wah, that was a surprise!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E061.png"
+    }
+  },
+  {
+    "id": "KC/S25-E062",
+    "name": "4th Hatsuharu-class Destroyer, Hatsushimo",
+    "number": "E062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】This ability activates up to one time per turn. When this card is 【Reverse】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】this card. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "Yes! Please feel free to ask any questions at any time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E062.png"
+    }
+  },
+  {
+    "id": "KC/S25-E063",
+    "name": "7th Ayanami-class Destroyer, Oboro",
+    "number": "E063",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "Oboro has really worked hard?\nAh……t-that's right, I'll do my best next time too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E063.png"
+    }
+  },
+  {
+    "id": "KC/S25-E064",
+    "name": "10th Ayanami-class Destroyer, Ushio",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】The character facing this card gets \"【AUTO】Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "I'll save everyone if possible!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E064.png"
+    }
+  },
+  {
+    "id": "KC/S25-E065",
+    "name": "3rd Hatsuharu-class Destroyer, Wakaba",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】At the beginning of your climax phase, if you have other 【REST】characters, 【REST】this card.",
+    "flavorText": "I can head out anytime.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E065.png"
+    }
+  },
+  {
+    "id": "KC/S25-E066",
+    "name": "2nd Sendai-class Light Cruiser, Jintsu",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +1000 power. 【AUTO】When your other character is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】that character. (The revealed card is returned to its original place)",
+    "flavorText": "If you touch me that much, I'll become disorientated……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E066.png"
+    }
+  },
+  {
+    "id": "KC/S25-E067",
+    "name": "2nd Aoba-class Heavy Cruiser, Kinugasa",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】[Put a card from your hand into your waiting room & Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one \"2nd Aoba-class Heavy Cruiser, Kinugasa-Kai-Ni\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "Yes-! It's time for Kinugasa's entrance!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E067.png"
+    }
+  },
+  {
+    "id": "KC/S25-E068",
+    "name": "2nd Furutaka-class Heavy Cruiser, Kako",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "My name is Kako, the second Furutaka-class heavy cruiser, nice to meet you-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E068.png"
+    }
+  },
+  {
+    "id": "KC/S25-E069",
+    "name": "1st Chitose-class Seaplane Carrier, Chitose",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Seaplane Carrier"
+    ],
+    "text": "【AUTO】Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"1st Chitose-class Light Aircraft Carrier, Chitose-Ko-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on. 【ACT】[【REST】this card] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I'm Chitose. The first seaplane carrier of Japan. Pleased to meet you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E069.png"
+    }
+  },
+  {
+    "id": "KC/S25-E070",
+    "name": "2nd Chitose-class Seaplane Carrier, Chiyoda",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Seaplane Carrier"
+    ],
+    "text": "【AUTO】Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"2nd Chitose-class Light Aircraft Carrier, Chiyoda-Ko-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on. 【ACT】[【REST】this card] Reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place)",
+    "flavorText": "I'm Chiyoda, the seaplane carrier.\nHas my elder sis, Chitose caused any trouble?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E070.png"
+    }
+  },
+  {
+    "id": "KC/S25-E071",
+    "name": "4th Takao-class Heavy Cruiser, Chokai",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "It's all going according to my plan.\nOf course the commander had a hand in it too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E071.png"
+    }
+  },
+  {
+    "id": "KC/S25-E072",
+    "name": "3rd Takao-class Heavy Cruiser, Maya",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "1000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【ACT】【COUNTER】Backup 4000, Level 2 [(2) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +4000 power until end of turn.)",
+    "flavorText": "Alright, I'm really pumped up! Let's do this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E072.png"
+    }
+  },
+  {
+    "id": "KC/S25-E073",
+    "name": "1st Takao-class Heavy Cruiser, Takao",
+    "number": "E073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】If this card is on the middle position of your center stage, this card gets +1000 power. 【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters.",
+    "flavorText": "Please follow me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E073.png"
+    }
+  },
+  {
+    "id": "KC/S25-E074",
+    "name": "Mission Girl",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two of your characters, until end of turn, those characters get +1000 power and the following ability. \"【AUTO】When this card's battle opponent becomes 【Reverse】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Thank you for the hard work.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E074.png"
+    }
+  },
+  {
+    "id": "KC/S25-E075",
+    "name": "Akagi of the First Carrier Division is up next!",
+    "number": "E075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "First wave, please take off!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E075.png"
+    }
+  },
+  {
+    "id": "KC/S25-E076",
+    "name": "Pan Pakka Pa-n!",
+    "number": "E076",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Let me give you a hand with that♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E076.png"
+    }
+  },
+  {
+    "id": "KC/S25-E077",
+    "name": "Aviation battleship, heading out!",
+    "number": "E077",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Ise: \"Hyuga is really slow. I'll leave you behind.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E077.png"
+    }
+  },
+  {
+    "id": "KC/S25-E078",
+    "name": "We must go into night combat!",
+    "number": "E078",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Gunfire assault, ready-! Fire-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E078.png"
+    }
+  },
+  {
+    "id": "KC/S25-E079",
+    "name": "It's Akatsuki's turn, pay close attention!",
+    "number": "E079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +2 soul.",
+    "flavorText": "Akatsuki, torpedo squadron, heading out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E079.png"
+    }
+  },
+  {
+    "id": "KC/S25-E080",
+    "name": "1st Kongo-class Battleship, Kongo-Kai-Ni",
+    "number": "E080",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters. 【AUTO】When this card is placed on the stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room. 【AUTO】[Put a card from your hand into your waiting room] During your opponent's turn, when this card becomes 【Reverse】 in battle, you may pay the cost. If you do, 【REST】this card, and at the beginning of your next encore step, put this card into your waiting room.",
+    "flavorText": "I will try even harder! So don't you take your eyes off me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E080.png"
+    }
+  },
+  {
+    "id": "KC/S25-E081",
+    "name": "2nd Kongo-class Battleship, Hiei-Kai-Ni",
+    "number": "E081",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【CONT】This card gets +X power. X is equal to 1000 multiplied by the level of the character facing this card. 【AUTO】When this card is placed on the stage from your hand or by the 【ACT】effect of \"2nd Kongo-class Battleship, Hiei\", all of your characters get +2000 power until end of turn.",
+    "flavorText": "I am always ready!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E081.png"
+    }
+  },
+  {
+    "id": "KC/S25-E082",
+    "name": "1st Kongo-class Battleship, Kongo",
+    "number": "E082",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets the following ability until end of turn. \"【AUTO】When this card's battle opponent becomes 【Reverse】, choose up to two 《Fleet Girl》 characters in your waiting room, and return them to your hand.\" 【AUTO】When this card attacks, if a card named \"Standby! Fire!\" is in your climax area, deal one damage to your opponent, and this card gets +3000 power until end of turn. (This damage may be canceled) 【AUTO】Change [Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】' />, you may pay the cost. If you do, choose a card named \"1st Kongo-class Battleship, Kongo-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Yes! Let me show you my full potential-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E082.png"
+    }
+  },
+  {
+    "id": "KC/S25-E083",
+    "name": "2nd Kongo-class Battleship, Hiei",
+    "number": "E083",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, you may choose a 《Fleet Girl》 character in your waiting room, and return it to your hand. 【ACT】[【REST】two of your other 《Fleet Girl》 characters & Put this card into your waiting room] Choose a card named \"2nd Kongo-class Battleship, Hiei-Kai-Ni\" in your waiting room, put it on the stage position this card was on, and that character gets +1000 power until end of turn.",
+    "flavorText": "Let's move out! With lots of fighting spirit!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E083.png"
+    }
+  },
+  {
+    "id": "KC/S25-E084",
+    "name": "3rd Kongo-class Battleship, Haruna",
+    "number": "E084",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, you may deal one damage to your opponent. (This damage may be canceled. The revealed card is returned to its original place) 【AUTO】[(1)] At the beginning of the encore step, if you do not have any other 【REST】characters in your center stage, you may pay the cost. If you do, 【REST】this card. 【ACT】[【REST】one of your 《Fleet Girl》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "Haruna! Heading out right now!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E084RR.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E084RR.png"
+    }
+  },
+  {
+    "id": "KC/S25-E085",
+    "name": "4th Kongo-class Battleship, Kirishima",
+    "number": "E085",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, put three cards from the top of your deck into your waiting room. If there is a level 1 and level 2 card revealed among those cards, you may choose one of your opponent's cards in the waiting room, and put it on the top of your opponent's deck. (Climax are regarded as level 0) 【AUTO】[Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room.",
+    "flavorText": "How's the mike volume……? Check, 1, 2…… Alright.\nPleased to meet you, I'm Kirishima.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E085.png"
+    }
+  },
+  {
+    "id": "KC/S25-E086",
+    "name": "1st Tenryu-class Light Cruiser, Tenryu-Kai",
+    "number": "E086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power. 【AUTO】[(1)] When this card attacks, if a card named \"That's the way to do it, anchors aweigh!\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Tenryu, torpedo squadron, heading out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E086.png"
+    }
+  },
+  {
+    "id": "KC/S25-E087",
+    "name": "3rd Kuma-class Torpedo Cruiser, Kitakami-Kai-Ni",
+    "number": "E087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Torpedo Cruiser"
+    ],
+    "text": "【AUTO】When a card named \"Torpedo ships, heading out!\" is placed on your climax area, if this card is in your center stage, put two cards from the top of your deck into your waiting room. If there is a climax among those cards, deal X damage to your opponent. X is equal to the number of your other 《Torpedo Cruiser》 characters. (This damage may be canceled)",
+    "flavorText": "Single turrets just seem so quaint.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E087.png"
+    }
+  },
+  {
+    "id": "KC/S25-E088",
+    "name": "4th Kuma-class Torpedo Cruiser, Oi-Kai-Ni",
+    "number": "E088",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Torpedo Cruiser"
+    ],
+    "text": "【AUTO】When a card named \"Torpedo ships, heading out!\" is placed on your climax area, if this card is in your center stage, put two cards from the top of your deck into your waiting room. If there is a climax among those cards, deal X damage to your opponent. X is equal to the number of your other 《Torpedo Cruiser》 characters. (This damage may be canceled)",
+    "flavorText": "Once I hear gunfire assault…… I get all worked up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E088.png"
+    }
+  },
+  {
+    "id": "KC/S25-E089",
+    "name": "5th Kuma-class Torpedo Cruiser, Kiso-Kai-Ni",
+    "number": "E089",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Torpedo Cruiser"
+    ],
+    "text": "【CONT】If there is a marker underneath this card, this card gets +3000 power. 【AUTO】When this card is placed on the stage from your hand, choose a card named \"5th Kuma-class Light Cruiser, Kiso\" in your waiting room, and put it face down underneath this card as a marker. 【ACT】[Put a marker from underneath this card into your waiting room] This card gets +1 soul until end of turn.",
+    "flavorText": "Who is the idiot that wishes to challenge me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E089.png"
+    }
+  },
+  {
+    "id": "KC/S25-E090",
+    "name": "I'll be the flagship! Isuzu-Kai-Ni",
+    "number": "E090",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】When this card is played from your hand, you may choose one of your cards named \"2nd Nagara-class Light Cruiser, Isuzu\", and put it into your waiting room. If you do, you may play this card with 0 cost. 【AUTO】[Put a card from your hand into your waiting room] When this card attacks, if a card named \"Torpedo Squadron, Charge!\" is in your climax area, you may pay the cost. If you do, deal one damage to your opponent, and this card gets +1000 power until end of turn. (This damage may be canceled)",
+    "flavorText": "Right, let's show you what a remodeled Isuzu is capable of!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E090.png"
+    }
+  },
+  {
+    "id": "KC/S25-E091",
+    "name": "1st Fubuki-class Destroyer, Fubuki",
+    "number": "E091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If you do not have any other characters on your center stage, this card gets +1500 power. 【AUTO】When a card named \"Let me take care of it!\" is placed on your climax area, if this card is on your center stage, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets +2000 power until end of turn.",
+    "flavorText": "Hello, I'm Fubuki. Nice to meet you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E091.png"
+    }
+  },
+  {
+    "id": "KC/S25-E092",
+    "name": "1st Mutsuki-class Destroyer, Mutsuki",
+    "number": "E092",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】The character facing this card gets +1 soul.",
+    "flavorText": "Mutsuki's fleet, heading out-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E092.png"
+    }
+  },
+  {
+    "id": "KC/S25-E093",
+    "name": "2nd Tenryu-class Light Cruiser, Tatsuta",
+    "number": "E093",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When a card named \"That's the way to do it, anchors aweigh!\" is placed on your climax area, you may put a marker from underneath this card into your stock.. 【ACT】[【REST】this card] If there are no markers underneath this card, choose a 《Fleet Girl》 character in your waiting room, and put it face down underneath this card as a marker. 【ACT】[【REST】this card] Put a marker from underneath this card into your stock.",
+    "flavorText": "Pleased to meet you, I'm Tatsuta.\nDid Tenryu cause you any trouble at all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E093.png"
+    }
+  },
+  {
+    "id": "KC/S25-E094",
+    "name": "3rd Kuma-class Light Cruiser, Kitakami",
+    "number": "E094",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If you have another card named \"4th Kuma-class Torpedo Cruiser, Oi-Kai-Ni\", this card gets the following ability. \"【ACT】[(1) Put this card into your waiting room] Choose a card named \"3rd Kuma-class Torpedo Cruiser, Kitakami-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on.\"",
+    "flavorText": "Well, seems like I'm more suited for torpedo warfare.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E094.png"
+    }
+  },
+  {
+    "id": "KC/S25-E095",
+    "name": "4th Kuma-class Light Cruiser, Oi",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If you have another card named \"3rd Kuma-class Torpedo Cruiser, Kitakami-Kai-Ni\", this card gets the following ability. \"【ACT】[(1) Put this card into your waiting room] Choose a card named \"4th Kuma-class Torpedo Cruiser, Oi-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on.\"",
+    "flavorText": "Sink to your watery grave!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E095.png"
+    }
+  },
+  {
+    "id": "KC/S25-E096",
+    "name": "1st Kuma-class Light Cruiser, Kuma",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with \"Assist\". 【AUTO】[(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "It's Kuma. Bear-y nice to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E096.png"
+    }
+  },
+  {
+    "id": "KC/S25-E097",
+    "name": "1st Nagara-class Light Cruiser, Nagara",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.",
+    "flavorText": "Torpedo squadron, heading out! I can hardly wait!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E097.png"
+    }
+  },
+  {
+    "id": "KC/S25-E098",
+    "name": "1st Fuso-class Battleship, Fuso",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【ACT】[【REST】two of your other 《Fleet Girl》 characters & Put this card into your waiting room] Choose a card named \"1st Fuso-class Aviation Battleship, Fuso-Kai\" in your waiting room, put it on the stage position that this card was on, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "Battleship Fuso, heading out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E098.png"
+    }
+  },
+  {
+    "id": "KC/S25-E099",
+    "name": "Hosho-class Light Aircraft Carrier, Hosho",
+    "number": "E099",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】[(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Aircraft Carrier》 or 《Light Aircraft Carrier》 character, reveal it to your opponent, and put it into your hand, Shuffle your deck afterwards.",
+    "flavorText": "Thank you for the hard work. Would you like to take a bath? How about a meal? Or…… just kidding.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E099.png"
+    }
+  },
+  {
+    "id": "KC/S25-E100",
+    "name": "2nd Fuso-class Aviation Battleship, Yamashiro-Kai",
+    "number": "E100",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, put the top card of your deck into your clock. 【AUTO】[【REST】two of your 【STAND】characters] When this card becomes 【Reverse】 in battle, you may pay the cost. If you do, 【REST】this card, and this card cannot 【STAND】during your next stand phase.",
+    "flavorText": "Elder sister…… Yamashiro will return……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E100.png"
+    }
+  },
+  {
+    "id": "KC/S25-E101",
+    "name": "5th Fubuki-class Destroyer, Murakumo",
+    "number": "E101",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, chose a 《Fleet Girl》 character in your waiting room, and return it to your hand. 【AUTO】Bond／\"1st Furutaka-class Heavy Cruiser, Furutaka\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"1st Furutaka-class Heavy Cruiser, Furutaka\" in your waiting room, and return it to your hand.)",
+    "flavorText": "You are the commander, right? Well, do try your best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E101.png"
+    }
+  },
+  {
+    "id": "KC/S25-E102",
+    "name": "7th Mutsuki-class Destroyer, Fumiduki",
+    "number": "E102",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[【REST】one of your other 【STAND】《Destroyer》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.",
+    "flavorText": "Heading out! Time to show off my talents.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E102.png"
+    }
+  },
+  {
+    "id": "KC/S25-E103",
+    "name": "9th Mutsuki-class Destroyer, Kikuduki",
+    "number": "E103",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +500 power. 【ACT】[(1)] Choose one of your opponent's level 0 or lower characters in the center stage, and put it into your opponent's waiting room.",
+    "flavorText": "I'm Kikuduki…… Let's go together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E103.png"
+    }
+  },
+  {
+    "id": "KC/S25-E104",
+    "name": "5th Mutsuki-class Destroyer, Satsuki",
+    "number": "E104",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card becomes 【Reverse】, if this card's battle opponent is level 0 or lower, you may 【Reverse】 that character. 【AUTO】Encore [(2)] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "You would like to go up against me? That's cute!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E104.png"
+    }
+  },
+  {
+    "id": "KC/S25-E105",
+    "name": "2nd Fubuki-class Destroyer, Shirayuki",
+    "number": "E105",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】When another of your \"3rd Fubuki-class Destroyer, Hatsuyuki\" attacks, if this card is in your center stage, you may choose one of your opponent's level 0 or less characters in the center stage, and put it into your opponent's waiting room.",
+    "flavorText": "Everyone, let's work hard together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E105.png"
+    }
+  },
+  {
+    "id": "KC/S25-E106",
+    "name": "9th Fubuki-class Destroyer, Isonami",
+    "number": "E106",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +500 power. 【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place)",
+    "flavorText": "Time to head out……ooh…… I-I'll do my best!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E106.png"
+    }
+  },
+  {
+    "id": "KC/S25-E107",
+    "name": "10th Mutsuki-class Destroyer, Mikaduki",
+    "number": "E107",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card attacks, choose one of your other 《Fleet Girl》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I do not wish to lose! Since this is a battle afterall!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E107.png"
+    }
+  },
+  {
+    "id": "KC/S25-E108",
+    "name": "11th Mutsuki-class Destroyer, Mochiduki",
+    "number": "E108",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "Mm? ……ah, I'm Mochiduki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E108.png"
+    }
+  },
+  {
+    "id": "KC/S25-E109",
+    "name": "8th Mutsuki-class Destroyer, Nagatsuki",
+    "number": "E109",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "Do you have the battle plans memorized? Then let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E109.png"
+    }
+  },
+  {
+    "id": "KC/S25-E110",
+    "name": "3rd Fubuki-class Destroyer, Hatsuyuki",
+    "number": "E110",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card attacks, reveal the top card of your deck. If that card is a climax, this card gets -3000 power until end of turn. (The revealed card is returned to its original place)",
+    "flavorText": "I'm…… Hatsuyuki…… nice to meet you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E110.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E110.png"
+    }
+  },
+  {
+    "id": "KC/S25-E111",
+    "name": "2nd Mutsuki-class Destroyer, Kisaragi",
+    "number": "E111",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card becomes 【Reverse】 in battle, your opponent chooses one of his or her characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Kisaragi will go along, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E111.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E111.png"
+    }
+  },
+  {
+    "id": "KC/S25-E112",
+    "name": "4th Fubuki-class Destroyer, Miyuki",
+    "number": "E112",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, put this card into your waiting room. (The revealed card is returned to its original place)",
+    "flavorText": "Miyuki Special!　Go-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E112.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E112.png"
+    }
+  },
+  {
+    "id": "KC/S25-E113",
+    "name": "5th Nagara-class Light Cruiser, Kinu",
+    "number": "E113",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【ACT】【COUNTER】Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "I'm here, I'm here! Kinu has finally arrived!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E113.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E113.png"
+    }
+  },
+  {
+    "id": "KC/S25-E114",
+    "name": "2nd Nagara-class Light Cruiser, Isuzu",
+    "number": "E114",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When this card attacks, if a card named \"Torpedo Squadron, Charge!\" is in your climax area, all of your level 1 or lower characters get +1500 power until end of turn. 【AUTO】Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "I'm always prepared!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E114.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E114.png"
+    }
+  },
+  {
+    "id": "KC/S25-E115",
+    "name": "6th Nagara-class Light Cruiser, Abukuma",
+    "number": "E115",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】[(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"10th Ayanami-class Destroyer, Ushio\" in your waiting room, and put it on the stage position that this card was on as 【REST】' />.",
+    "flavorText": "Finally!\n……well, not that I've been waiting for a really long time.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E115.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E115.png"
+    }
+  },
+  {
+    "id": "KC/S25-E116",
+    "name": "4th Nagara-class Light Cruiser, Yura",
+    "number": "E116",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "Right, shall I show you Yura's good points then?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E116.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E116.png"
+    }
+  },
+  {
+    "id": "KC/S25-E117",
+    "name": "5th Kuma-class Light Cruiser, Kiso",
+    "number": "E117",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】During this card's battle, all players cannot play \"Backup\" from hand.",
+    "flavorText": "I'm Kiso. Let me bestow upon you the greatest victory.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E117.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E117.png"
+    }
+  },
+  {
+    "id": "KC/S25-E118",
+    "name": "3rd Nagara-class Light Cruiser, Natori",
+    "number": "E118",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】If this card is in the middle position of the center stage, this card gets +1000 power. 【AUTO】Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "My name is Natori.\nI'll work hard not to cause any trouble!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E118.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E118.png"
+    }
+  },
+  {
+    "id": "KC/S25-E119",
+    "name": "2nd Kuma-class Light Cruiser, Tama",
+    "number": "E119",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "You would like Tama to lend a hand? Guess it can't be helped meow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E119.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E119.png"
+    }
+  },
+  {
+    "id": "KC/S25-E120",
+    "name": "2nd Fuso-class Battleship, Yamashiro",
+    "number": "E120",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】[Put this card into your waiting room] When this card is placed on the stage from your hand, put three cards from the top of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose a card named \"2nd Fuso-class Aviation Battleship, Yamashiro-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I'm Yamashiro, younger of the Fuso battleship sisters. Have you seen my elder sister, Fuso?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E120.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E120.png"
+    }
+  },
+  {
+    "id": "KC/S25-E121",
+    "name": "1st Fuso-class Aviation Battleship, Fuso-Kai",
+    "number": "E121",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Battleship"
+    ],
+    "text": "-",
+    "flavorText": "I do not wish to lose to…… Ise or Hyuga!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E121.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E121.png"
+    }
+  },
+  {
+    "id": "KC/S25-E122",
+    "name": "Item Shop Girl",
+    "number": "E122",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards. Choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Delighted to make your acquaintance.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E122.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E122.png"
+    }
+  },
+  {
+    "id": "KC/S25-E123",
+    "name": "Standby! Fire!",
+    "number": "E123",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Burning Love!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E123.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E123.png"
+    }
+  },
+  {
+    "id": "KC/S25-E124",
+    "name": "That's the way to do it, anchors aweigh!",
+    "number": "E124",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Tenryu: \"So scared that you've lost your voice! Hey hey!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E124.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E124.png"
+    }
+  },
+  {
+    "id": "KC/S25-E125",
+    "name": "Let me take care of it!",
+    "number": "E125",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Is everyone ready?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E125.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E125.png"
+    }
+  },
+  {
+    "id": "KC/S25-E126",
+    "name": "Torpedo ships, heading out!",
+    "number": "E126",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +2 soul.",
+    "flavorText": "Kitakami: \"Well, I can't lose when paired up with Oi-\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E126.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E126.png"
+    }
+  },
+  {
+    "id": "KC/S25-E127",
+    "name": "Torpedo Squadron, Charge!",
+    "number": "E127",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Isuzu can see everything.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E127.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E127.png"
+    }
+  },
+  {
+    "id": "KC/S25-E128",
+    "name": "1st Nagato-class Battleship, Nagato",
+    "number": "E128",
+    "rarity": "RR+",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】When a card named \"Do not look down on the power of the Big 7\" is placed on your climax area, if this card is in your center stage, until end of turn, all of your characters get +500 power and the following ability. \"【AUTO】When this card's battle opponent becomes 【Reverse】, you may put that character on the bottom of your opponent's deck.\"",
+    "flavorText": "It's the long awaited showdown between the fleets. My chest is burning with anticipation.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E128.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E128.png"
+    }
+  },
+  {
+    "id": "KC/S25-E129",
+    "name": "3rd Mogami-class Heavy Cruiser, Suzuya",
+    "number": "E129",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】[Put this card into your waiting room] When a card named \"Leave it to Suzuya-!\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"3rd Mogami-class Aviation Heavy Cruiser, Suzuya-Kai\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "Come on-, stop touching Suzuya's deck knee highs-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E129.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E129.png"
+    }
+  },
+  {
+    "id": "KC/S25-E130",
+    "name": "4th Mogami-class Heavy Cruiser, Kumano",
+    "number": "E130",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】If your level is 2 or higher, this card gets the following ability. \"【ACT】[(1) Put a card from your hand into your waiting room & Put this card into your waiting room] Choose a card named \"4th Mogami-class Aviation Heavy Cruiser, Kumano-Kai\" in your waiting room, and put it on the stage position that this card was on.\" 【AUTO】When this card becomes 【Reverse】 in battle, put the top card of your deck into your clock, and 【REST】this card.",
+    "flavorText": "Heeey!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E130.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E130.png"
+    }
+  },
+  {
+    "id": "KC/S25-E131",
+    "name": "2nd Nagato-class Battleship, Mutsu",
+    "number": "E131",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room. X is equal to the number of 《Fleet Girl》 characters you have. 【AUTO】At the beginning of your climax phase, reveal the top card of your deck. If that card is level 3 or higher, put this card into your waiting room. If it is not, this card gets +1500 power until the end of your opponent's next turn. (Climax are regarded as level 0. The revealed card is returned to its original place) 【ACT】[【REST】two of your 《Fleet Girl》 characters] Look at the top card of your deck, and put it on the top or the bottom of your deck.",
+    "flavorText": "Didn't I tell you not to play with fire?\n……what, you're serious? Hmm, I'll leave the rest to you then♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E131.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E131.png"
+    }
+  },
+  {
+    "id": "KC/S25-E132",
+    "name": "4th Shiratsuyu-class Destroyer, Yudachi-Kai-Ni",
+    "number": "E132",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(1)] When a card named \"Well then, let's have a great party!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's characters, and move it to another open position on your opponent's stage.",
+    "flavorText": "Like, did you call me? What is it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E132.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E132.png"
+    }
+  },
+  {
+    "id": "KC/S25-E133",
+    "name": "Lucky Destroyer, Shigure-Kai-Ni",
+    "number": "E133",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, or by the 【ACT】effect of \"2nd Shiratsuyu-class Destroyer, Shigure\", your opponent reveals the top card of his or her deck. If that card is level 1 or higher, this card gets +1000 power until the end of your opponent's next turn. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "My power had very little to do with the victory. It's all thanks to this rain…… and the admiral.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E133.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E133.png"
+    }
+  },
+  {
+    "id": "KC/S25-E134",
+    "name": "2nd Shoho-class Light Aircraft Carrier, Zuiho",
+    "number": "E134",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【AUTO】[(2) Put the top card of your deck into your clock] When you use this card's \"Backup\", your may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it on the bottom of your opponent's deck. 【ACT】【COUNTER】Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "It's lunchtime! Let's settle down to eat, admiral♪\n……would you like to have some fried eggs I made?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E134.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E134.png"
+    }
+  },
+  {
+    "id": "KC/S25-E135",
+    "name": "Soryu-class Aircraft Carrier, Soryu",
+    "number": "E135",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【CONT】All of your other 《Fleet Girl》 characters get +500 power and \"【AUTO】Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Be very wary of aerial strikes. I'm counting on you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E135.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E135.png"
+    }
+  },
+  {
+    "id": "KC/S25-E136",
+    "name": "2nd Mogami-class Aviation Heavy Cruiser, Mikuma-Kai",
+    "number": "E136",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Heavy Cruiser"
+    ],
+    "text": "【CONT】If there is a marker underneath this card, this card gets +2000 power. 【AUTO】When this card is placed on the stage from your waiting room, you may choose a card named \"2nd Mogami-class Heavy Cruiser, Mikuma\" in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "It would not be wise to think that I have not changed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E136.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E136.png"
+    }
+  },
+  {
+    "id": "KC/S25-E137",
+    "name": "3rd Mogami-class Aviation Heavy Cruiser, Suzuya-Kai",
+    "number": "E137",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Heavy Cruiser"
+    ],
+    "text": "【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters.",
+    "flavorText": "Alrighty then, let's charge together!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E137.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E137.png"
+    }
+  },
+  {
+    "id": "KC/S25-E138",
+    "name": "Hiryu-class Aircraft Carrier, Hiryu",
+    "number": "E138",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【AUTO】When this card attacks, if there is a card named \"Second Carrier Division is heading out!\" on your climax area, this card gets +3000 power until the end of your opponent's next turn. 【AUTO】At the beginning of your draw phase, if you do not have any other characters on your center stage, this card gets +4000 power until end of turn.",
+    "flavorText": "Even if I'm the last ship left, I'll finish it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E138.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E138.png"
+    }
+  },
+  {
+    "id": "KC/S25-E139",
+    "name": "4th Mogami-class Aviation Heavy Cruiser, Kumano-Kai",
+    "number": "E139",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Heavy Cruiser"
+    ],
+    "text": "【AUTO】When your other 《Fleet Girl》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "I'll shut them up with a single twist!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E139.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E139.png"
+    }
+  },
+  {
+    "id": "KC/S25-E140",
+    "name": "4th Shiratsuyu-class Destroyer, Yudachi",
+    "number": "E140",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of your opponent's characters. 【AUTO】[Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"4th Shiratsuyu-class Destroyer, Yudachi-Kai-Ni\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "Erm- like, I've been left here? I'm not up to it? Then I have to train harder!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E140.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E140.png"
+    }
+  },
+  {
+    "id": "KC/S25-E141",
+    "name": "1st Asashio-class Destroyer, Asashio",
+    "number": "E141",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】' />.",
+    "flavorText": "If the commander wants Asashio to wait here, I am prepared to wait here forever!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E141.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E141.png"
+    }
+  },
+  {
+    "id": "KC/S25-E142",
+    "name": "1st Shiratsuyu-class Destroyer, Shiratsuyu",
+    "number": "E142",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When you level up, put this card into your waiting room.",
+    "flavorText": "Eh? Try not to crash into a tanker in my hurry? Don't worry!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E142.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E142.png"
+    }
+  },
+  {
+    "id": "KC/S25-E143",
+    "name": "1st Mogami-class Heavy Cruiser, Mogami",
+    "number": "E143",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place) 【AUTO】Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】' />, you may pay the cost. If you do, choose a card named \"1st Mogami-class Aviation Heavy Cruiser, Mogami-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I'm Mogami. Don't worry, I won't crash anymore. Really.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E143.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E143.png"
+    }
+  },
+  {
+    "id": "KC/S25-E144",
+    "name": "2nd Mogami-class Heavy Cruiser, Mikuma",
+    "number": "E144",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】Change [(1) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】' />, you may pay the cost. If you do, choose a card named \"2nd Mogami-class Aviation Heavy Cruiser, Mikuma-Kai\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Where is Mogamin? We have to look out for her.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E144.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E144.png"
+    }
+  },
+  {
+    "id": "KC/S25-E145",
+    "name": "1st Myoko-class Heavy Cruiser, Myoko",
+    "number": "E145",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "There's no way we are going to back down from this battle!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E145.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E145.png"
+    }
+  },
+  {
+    "id": "KC/S25-E146",
+    "name": "1st Shoho-class Light Aircraft Carrier, Shoho",
+    "number": "E146",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "I'm an aircraft carrier too. I'll do it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E146.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E146.png"
+    }
+  },
+  {
+    "id": "KC/S25-E147",
+    "name": "1st Mogami-class Aviation Heavy Cruiser, Mogami-Kai",
+    "number": "E147",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Heavy Cruiser"
+    ],
+    "text": "【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +500 power and \"【AUTO】Encore [Put the top card of your deck into your clock]\".",
+    "flavorText": "Alright, I'm charging in as well-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E147.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E147.png"
+    }
+  },
+  {
+    "id": "KC/S25-E148",
+    "name": "9th Asashio-class Destroyer, Arare",
+    "number": "E148",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +500 power. 【ACT】[(2) 【REST】two of your characters] Draw a card.",
+    "flavorText": "Looks like a new ship has been completed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E148.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E148.png"
+    }
+  },
+  {
+    "id": "KC/S25-E149",
+    "name": "3rd Shiratsuyu-class Destroyer, Murasame",
+    "number": "E149",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[Put the top card of your deck into your clock] When this card's battle opponent becomes 【Reverse】, you may pay the cost. If you do, draw a card. 【ACT】[【REST】one of your 《Fleet Girl》 characters] This card gets +1000 power until end of turn.",
+    "flavorText": "Let me show you just one of the good points about Murasame♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E149.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E149.png"
+    }
+  },
+  {
+    "id": "KC/S25-E150",
+    "name": "3rd Asashio-class Destroyer, Michishio",
+    "number": "E150",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】[(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "Not another boring strategy, I hope… Hmph!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E150.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E150.png"
+    }
+  },
+  {
+    "id": "KC/S25-E151",
+    "name": "2nd Shiratsuyu-class Destroyer, Shigure",
+    "number": "E151",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If you do not have any other characters, this card gets +1500 power and \"【AUTO】Encore [Put a character from your hand into your waiting room]\". 【CONT】If your level is 1 or higher, this card gets the following ability. \"【ACT】[Put a card from your hand into your waiting room & Put this card into your waiting room] Choose a card named \"Lucky Destroyer, Shigure-Kai-Ni\" in your waiting room, and put it on the stage position that this card was on.\"",
+    "flavorText": "Even if everyone has forgotten, I will always remember……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E151.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E151.png"
+    }
+  },
+  {
+    "id": "KC/S25-E152",
+    "name": "4th Asashio-class Destroyer, Arashio",
+    "number": "E152",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【ACT】[(1)] Draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Arashio, heading out in style!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E152.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E152.png"
+    }
+  },
+  {
+    "id": "KC/S25-E153",
+    "name": "6th Shiratsuyu-class Destroyer, Samidare",
+    "number": "E153",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.",
+    "flavorText": "Yes! I will work really hard!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E153.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E153.png"
+    }
+  },
+  {
+    "id": "KC/S25-E154",
+    "name": "2nd Asashio-class Destroyer, Oshio",
+    "number": "E154",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【ACT】[【REST】one of your \"1st Asashio-class Destroyer, Asashio\"] This card gets +2500 power until end of turn.",
+    "flavorText": "It's Oshio, the destroyer. Giant torpedoes on a small body! Leave everything to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E154.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E154.png"
+    }
+  },
+  {
+    "id": "KC/S25-E155",
+    "name": "10th Asashio-class Destroyer, Kasumi",
+    "number": "E155",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】If this card is on your center stage, this card cannot 【STAND】during your stand phase. 【AUTO】When this card's battle opponent becomes 【Reverse】, choose one of your other characters, 【REST】it, and move it to an open position on your back stage.",
+    "flavorText": "Kasumi here. We are pushing on. Try to keep up.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E155.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E155.png"
+    }
+  },
+  {
+    "id": "KC/S25-E156",
+    "name": "10th Shiratsuyu-class Destroyer, Suzukaze",
+    "number": "E156",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "Roger that! Let me show you what Suzukaze is capable of!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E156.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E156.png"
+    }
+  },
+  {
+    "id": "KC/S25-E157",
+    "name": "4th Myoko-class Heavy Cruiser, Haguro",
+    "number": "E157",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】[Put this card into your waiting room] When another of your 《Fleet Girl》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1500 power until end of turn.",
+    "flavorText": "I'll cover your backs!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E157.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E157.png"
+    }
+  },
+  {
+    "id": "KC/S25-E158",
+    "name": "3rd Myoko-class Heavy Cruiser, Ashigara",
+    "number": "E158",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When you use this card's \"Backup\", choose one of your 《Fleet Girl》 characters in battle, and that character gets +1000 power until the end of turn. 【ACT】【COUNTER】Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Let's move out! The battlefield, victory is calling out to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E158.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E158.png"
+    }
+  },
+  {
+    "id": "KC/S25-E159",
+    "name": "2nd Myoko-class Heavy Cruiser, Nachi",
+    "number": "E159",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】Assist During your opponent's turn, all of your characters in front of this card get +1000 power. 【AUTO】[Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Fleet Girl》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room.",
+    "flavorText": "Looks like the new ship has launched. There's something to look forward to.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E159.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E159.png"
+    }
+  },
+  {
+    "id": "KC/S25-E160",
+    "name": "Food Supply Ship, Mamiya",
+    "number": "E160",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Choose one of your characters, and that character gets +2500 power until the end of your opponent's next turn.",
+    "flavorText": "Get your cold Mamiya ice-cream here!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E160.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E160.png"
+    }
+  },
+  {
+    "id": "KC/S25-E161",
+    "name": "Do not look down on the power of the Big 7",
+    "number": "E161",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "First squadron, we are heading out!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E161.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E161.png"
+    }
+  },
+  {
+    "id": "KC/S25-E162",
+    "name": "Leave it to Suzuya-!",
+    "number": "E162",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Mogami-class heavy cruiser, Suzuya! Let's go-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E162.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E162.png"
+    }
+  },
+  {
+    "id": "KC/S25-E163",
+    "name": "Second Carrier Division is heading out!",
+    "number": "E163",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "The second wave of attacks has been approved, hurry!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E163.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E163.png"
+    }
+  },
+  {
+    "id": "KC/S25-E164",
+    "name": "Well then, let's have a great party!",
+    "number": "E164",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Where should we start shooting?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E164.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_E164.png"
+    }
+  },
+  {
+    "id": "KC/S25-E165P",
+    "name": "Hei-class Landing Craft Carrier, Akitsumaru",
+    "number": "E165P",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Amphibious Assaultship"
+    ],
+    "text": "【ACT】 [REST two of your characters] Choose one of your 《Fleet Girl》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_165p.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_165p.png"
+    }
+  },
+  {
+    "id": "KC/S25-E166P",
+    "name": "Type 3 Submergence Transport Vehicle, Maruyu",
+    "number": "E166P",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Submarine"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【ACT】 [(1) Put this card into your waiting room] Draw up to two cards, choose two cards in your hand, and put them into your waiting room.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_166p.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_166p.png"
+    }
+  },
+  {
+    "id": "KC/S25-PE07",
+    "name": "2nd Shiratsuyu-class Destroyer, Shigure-Kai-Ni",
+    "number": "PE07",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】 If there is a climax in your opponent's climax area, this card gets +2000 power.",
+    "flavorText": "You are interested in me? It's alright, just ask me anything.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_PE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_PE07.png"
+    }
+  },
+  {
+    "id": "KC/S25-PE08",
+    "name": "8th Kagero-class Destroyer, Yukikaze",
+    "number": "PE08",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Yukikaze will never sink!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_PE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_PE08.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE01",
+    "name": "Clumsy Girl, Inaduma",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place) 【AUTO】[(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search you deck for up to one level 1 or lower character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Ha wah wah wah, that was a surprise!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE01.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE02",
+    "name": "4th Hatsuharu-class Destroyer, Hatsushimo",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【AUTO】This ability activates up to one time per turn. When this card becomes 【Reverse】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】this card. (Climax are regarded as level 0. The revealed card is returned to its original place)",
+    "flavorText": "4th Hatsuharu-class, Hatsushimo.\nPleased to meet everyone!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE02.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE03",
+    "name": "7th Ayanami-class Destroyer, Oboro",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "I don't really hate…… that part about the Admiral.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE03.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE04",
+    "name": "3rd Sendai-class Light Cruiser, Naka",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock. 【AUTO】Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "Idol of the fleet. Naka. Pleased to meet you～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE04.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE05",
+    "name": "2nd Furutaka-class Heavy Cruiser, Kako",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "I'll get things done when the situation calls for it!\nSo, just let me sleep peacefully when I get back～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE05.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE06",
+    "name": "Ryujo-class Light Aircraft Carrier, Ryujo",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【ACT】[Put a 《Fleet Girl》 character from your hand into your waiting room] This card gets +3500 power until end of turn.",
+    "flavorText": "Calling all carrier-based aircraft, it's time to get to work-!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE06.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE07",
+    "name": "Akagi of the First Carrier Division is up next!",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "First wave, please take off!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE07.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE08",
+    "name": "We must go into night combat!",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Sendai, reporting for duty. Leave the night combat to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE08.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE09",
+    "name": "9th Mutsuki-class Destroyer, Kikuduki",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +500 power. 【ACT】[(1)] Choose one of your opponent's level 0 or lower characters on the center stage, and put it into your opponent's waiting room.",
+    "flavorText": "Kikuduki, on my way……!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE09.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE10",
+    "name": "8th Mutsuki-class Destroyer, Nagatsuki",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "-",
+    "flavorText": "Do you have the battle plans memorized? Then let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE10.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE11",
+    "name": "1st Mutsuki-class Destroyer, Mutsuki",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【CONT】The character facing this card gets +1 soul.",
+    "flavorText": "Oh, Admiral? Did you call for Mutsuki?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE11.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE12",
+    "name": "2nd Nagara-class Light Cruiser, Isuzu",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【AUTO】When this card attacks, if a card named \"Torpedo Squadron, Charge!\" is in your climax area, all of your level 1 or lower characters get +1500 power until end of turn. 【AUTO】Encore [Put a card from the top of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)",
+    "flavorText": "This is Isuzu. Leave command of the torpedo squadron to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE12.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE13",
+    "name": "2nd Kuma-class Light Cruiser, Tama",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "-",
+    "flavorText": "Light cruiser, Tama. I'm not a cat meow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE13.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE14",
+    "name": "1st Fuso-class Battleship, Fuso",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Battleship"
+    ],
+    "text": "【ACT】[【REST】two of your other 《Fleet Girl》 characters & Put this card into your waiting room] Choose a card named \"1st Fuso-class Aviation Battleship, Fuso-Kai\" in your waiting room, put it on the stage position that this card was on, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)",
+    "flavorText": "Battleship Fuso, heading out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE14.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE15",
+    "name": "Hosho-class Light Aircraft Carrier, Hosho",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Aircraft Carrier"
+    ],
+    "text": "【CONT】Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】[(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Aircraft Carrier》 or 《Light Aircraft Carrier》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Thank you for the hard work. Would you like to take a bath? How about a meal? Or…… just kidding.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE15.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE16",
+    "name": "I'll be the flagship! Isuzu-Kai-Ni",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】When this card is played from your hand, you may choose one of your \"2nd Nagara-class Light Cruiser, Isuzu\", and put it into your waiting room. If you do, you may play this card with 0 cost. 【AUTO】[Put a card from your hand into your waiting room] When this card attacks, if a card named \"Torpedo Squadron, Charge!\" is in your climax area, you may pay the cost. If you do, deal one damage to your opponent, and this card gets +1000 power until end of turn. (This damage may be canceled)",
+    "flavorText": "Isuzu, heading out! Follow me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE16.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE17",
+    "name": "1st Fuso-class Aviation Battleship, Fuso-Kai",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aviation Battleship"
+    ],
+    "text": "-",
+    "flavorText": "Let me show you……the true power of the Nishimura Fleet!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE17.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE18",
+    "name": "Torpedo Squadron, Charge!",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Isuzu can see everything.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE18.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE19",
+    "name": "Confident Maya",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters.",
+    "flavorText": "Take cover behind me if you are afraid!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE19.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE20",
+    "name": "All-knowing Chokai",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Heavy Cruiser"
+    ],
+    "text": "【AUTO】When another of your 《Fleet Girl》 character attacks, this card gets +1000 power unitl end of turn.",
+    "flavorText": "In pursuit! They will not escape!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE20.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE21",
+    "name": "Akagi-class Aircraft Carrier, Akagi",
+    "number": "TE21",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Fleet Girl",
+      "Aircraft Carrier"
+    ],
+    "text": "【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power. 【AUTO】When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room.",
+    "flavorText": "Do not let the victory get to your head. Reconnaissance and pre-emptive strikes are very important…… wait, what is this sensation……",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE21.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE21.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE22",
+    "name": "1st Tenryu-class Light Cruiser, Tenryu",
+    "number": "TE22",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Light Cruiser"
+    ],
+    "text": "【CONT】This card gets +500 power for each of your other level 0 or lower characters.",
+    "flavorText": "My name is Tenryu. Are you scared?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE22.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE22.png"
+    }
+  },
+  {
+    "id": "KC/S25-TE23",
+    "name": "3rd Akatsuki-class Destroyer, Ikaduchi",
+    "number": "TE23",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Fleet Girl",
+      "Destroyer"
+    ],
+    "text": "【ACT】[(1)] Choose one of your 《Fleet Girl》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "It's Ikaduchi! Not Kaminari!\nTry to remember that at the very least!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE23.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/k/kc_s25/KC_S25_TE23.png"
+    }
+  }
+]

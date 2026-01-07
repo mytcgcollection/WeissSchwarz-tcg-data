@@ -1,0 +1,3127 @@
+[
+  {
+    "id": "TSK/S70-E001",
+    "name": "After the Battle, Rimuru",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 0 or lower characters, and return it to his or her hand.",
+    "flavorText": "I guess it's over.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E001.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E002",
+    "name": "Successor, Rimuru",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of \"Inherited Wishes, Rimuru\", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [(2)] When this card attacks, if \"Meguru Mono\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled) 【ACT】 Memory [(1) 【REST】 1 of your characters] If \"\"Conqueror of Flames\" Shizu\" is in your memory, choose up to 1 \"Successor, Rimuru\" or \"\"Predator\" Rimuru\" in your hand, put it on any position of your stage, and put all markers underneath this card face down in any order underneath that character as markers.",
+    "flavorText": "Rest in peace, Geld.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E002.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E003",
+    "name": "Achieving Vindication, Shion",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Secretary"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【CONT】 During your turn, if all of your characters are 《Demon Continent》, this card gets +2000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "Right! On it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E003.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E004",
+    "name": "Cutting Down in One Blow, Hakurou",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Swordsmanship"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, all characters in your opponent's center stage get -500 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your other 《Demon Continent》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Demon Continent》 characters you have ×500.",
+    "flavorText": "Of Great Rimuru's many glorious victories in war...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E004.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E005",
+    "name": "Feeling of Respect, Eren",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Adventurer"
+    ],
+    "text": "【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "W-Wow...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E005.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E006",
+    "name": "\"Caretaker of the Great Forest\" Treyni",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Plant"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "I would like you to defeat the Orc Lord.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E006.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E007",
+    "name": "\"Samurai\" Shion",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Secretary"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "I am a Samurai, bodyguard to Great Rimuru. I'm also his secretary!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E007.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E008",
+    "name": "Mighty Warrior, Shion",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Secretary"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×500. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Overwhelming Blow\" is in your climax area, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "This will be the first, you see!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E008.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E009",
+    "name": "Shared Journey, Rimuru",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +2000 power until end of turn. 【ACT】 [【REST】 this card] Choose 1 character on your opponent's back stage with level higher than your opponent's level. That character cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "Okay!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E009.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E010",
+    "name": "Mysterious Demon, Cromwell",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +1000 power. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "Now, let's put an end to this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E010.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E011",
+    "name": "\"Orc Disaster\" Geld",
+    "number": "E011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room, and deal X damage to your opponent. X is equal to the total number of trigger icons among the cards revealed by this effect. (Damage may be canceled) 【AUTO】 【CXCOMBO】 When \"Death March Dance\" is placed on your climax area, if this card is in your center stage, choose up to 1 of your opponent's characters, return it to his or her hand, choose up to 1 《Demon Continent》 character in your waiting room, and put it into your stock. 【AUTO】 [Put 1 character with \"Orc(豚頭)\" in its card name that is not 【REVERSE】 from your stage into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "I am the Orc Disaster! I am the one who will devour all in this world!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E011.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E012",
+    "name": "\"Orc Lord\" Geld",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【CONT】 If the number of markers underneath this card is 4 or more, this card cannot 【STAND】 during your stand phase. 【ACT】 [【REST】 this card] Look at the top card of your deck, put it face down underneath this card as a marker, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn. 【ACT】 [(1) Put 4 markers underneath this card into your waiting room & Put this card into your waiting room] If your level is 2 or higher, choose up to 1 \"\"Orc Disaster\" Geld\" in your hand, and put it on the stage position that this card was on. 【ACT】 [Put 1 of your other \"Cunning Majin, Gelmud\" on your stage face down underneath this card as a marker] 【STAND】 this card, choose up to 1 《Demon Continent》 character in your waiting room, and put it into your stock.",
+    "flavorText": "I'm hungry.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E012.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E013",
+    "name": "Elemental Colossus",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, this card gets +4000 power.",
+    "flavorText": "Ramiris: \"Get careless, and you're dead! Think you can win? Think you can win?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E013.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E014",
+    "name": "\"Demon Lord\" Ramiris",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 cost 0 or lower 《Demon Continent》 character in your waiting room, put it on any position of your stage, and put that character into your memory at the end of turn.",
+    "flavorText": "Could I be a genius? Aren't I amazing?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E014.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E015",
+    "name": "\"Instructor\" Hakurou",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Swordsmanship"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into his or her stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "Benimaru: \"Hakurou is an Instructor.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E015.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E016",
+    "name": "Master, Hakurou",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Swordsmanship"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Demon Continent》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Well, come on! Strike back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E016.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E017",
+    "name": "\"Hero King\" Gazel",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "King"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, put them on the top of your deck in any order, choose up to 1 of your opponent's characters, and return it to his or her hand. 【ACT】 [(1)] Choose 1 of your 《Demon Continent》 characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "Is that all the strength you have, Rimuru?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E017.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E018",
+    "name": "Cunning Majin, Gelmud",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Hat"
+    ],
+    "text": "【AUTO】 At the beginning of your attack phase, choose 1 of your characters with \"Orc(豚頭)\" in its card name, and that character gets +X power until end of turn. X is equal to the number of characters with the same card name as that character you have ×500. 【ACT】 [(2) Put 1 character with \"Orc(豚頭)\" in its card name from your hand into your waiting room & 【REST】 this card] Choose 1 character in your waiting room, put it into your hand, choose 1 character in your waiting room with the same card name as the character returned to your hand, and return it to your hand.",
+    "flavorText": "Yes! That's why I gave out so many names, sowed so many seeds! All to create the ultimate pawn!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E018.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E019",
+    "name": "Orcs",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 This card cannot side attack. 【CONT】 This card gets +1000 power for each of your other \"Orc General\" or \"Orcs\" on your center stage.",
+    "flavorText": "Trample all! Trample all!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E019.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E020",
+    "name": "Expert Blacksmith, Kaijin",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Blacksmith"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【CONT】 If you do not have another character, this card gets +1 level and +1500 power.",
+    "flavorText": "Strike while the iron's hot, as we say! Gahahahaha!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E020.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E021",
+    "name": "\"Grandmaster\" Yuuki",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "What magic did you use to make this, Master?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E021.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E022",
+    "name": "Orc General",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【CONT】 This card cannot side attack. 【CONT】 This card gets +1500 power for each of your other \"Orc General\" or \"Orcs\".",
+    "flavorText": "Chaos Eater!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E022.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E023",
+    "name": "Troublemakers Kaval & Eren & Gido",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Adventurer"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, choose 1 cost 1 or higher character in your opponent's waiting room, and put it on an open position of his or her back stage.",
+    "flavorText": "Eren: \"We've put our lives on the line to be adventurers, you know!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E023.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E024",
+    "name": "Successor of Orc Disaster's Dying Wishes, Geld",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Earnest"
+    ],
+    "text": "【AUTO】 [(1)] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 \"Successor of Orc Disaster's Dying Wishes, Geld\" in your waiting room, and return it to your hand. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Huaagh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E024.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E025",
+    "name": "Fierce Rivalry, Shion",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Secretary"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +6500 power and +1 soul. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Which One Do You Choose? Rimuru\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Oh, no, Princess. There's no need for that. I will take good care of him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E025.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E026",
+    "name": "Shion's Home Cooking",
+    "number": "E026",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you have 1 or less climax in your waiting room, this card cannot be played from your hand. All of your opponent's characters get -1000 power until end of turn.",
+    "flavorText": "Rimuru: \"Help me, Great Sage!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E026.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E027",
+    "name": "Weapons Made in Tempest",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your characters, and that character gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×1000.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E027.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E028",
+    "name": "Meguru Mono",
+    "number": "E028",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E028.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E029",
+    "name": "Overwhelming Blow",
+    "number": "E029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E029.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E030",
+    "name": "Death March Dance",
+    "number": "E030",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E030.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E031",
+    "name": "Tribe's Princess, Shuna",
+    "number": "E031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put it into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E031.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E032",
+    "name": "Child on the Inside? Milim",
+    "number": "E032",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 [(3)] When this card is placed on the stage from your hand, you may pay the cost. If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "It's so good! This is so good!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E032.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E033",
+    "name": "\"Dragonoid\" Milim",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place) 【AUTO】 When your other 《Demon Continent》character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(3)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+    "flavorText": "I heard you were the strongest in this town, so I came to introduce myself!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E033.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E034",
+    "name": "Power of a Kijin, Benimaru",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"New Power\" is in your climax area, deal 4 damage to your opponent, choose 1 of your characters, and that character gets +1 soul until end of turn. (Damage may be canceled)",
+    "flavorText": "This is our brand new beginning.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E034.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E035",
+    "name": "A Blow from Above, Rimuru",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 [(1) Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E035.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E036",
+    "name": "Loss of Fighting Spirit, Milim",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, your opponent may put 2 cards from the top of his or her stock into his or her waiting room. If he or she does, this card cannot frontal attack until end of turn.",
+    "flavorText": "What in the world is this?! I've never had anything so delicious!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E036.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E037",
+    "name": "Shared Journey, Shizu",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Demon Continent》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E037.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E038",
+    "name": "Imperial Wrath, Milim",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"A Way of Saying Hello\" is in your climax area and your stock has 5 or less cards, look at up to 4 cards from the top of your deck, choose up to 1 《Demon Continent》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E038.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E039",
+    "name": "Glare, Rimuru",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "If you don't want to be burned to a crisp, come on out here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E039.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E040",
+    "name": "For Everyone's Sake, Shuna",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "3500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Demon Continent》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "Yes, the Hellmoth cocoons it's made from are full of magicules, so it's very sturdy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E040.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E041",
+    "name": "Pursuit, Milim",
+    "number": "E041",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(5) Put 3 《Demon Continent》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Power of a Demon Lord\" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, and 【STAND】 this card. (Damage may be canceled)",
+    "flavorText": "What do you think you're doing to my bestie's subordinate?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E041.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E042",
+    "name": "Daily Training, Benimaru",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn. 【AUTO】 When your other character in battle becomes 【REVERSE】, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E042.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E043",
+    "name": "\"Swordsmith\" Kurobe",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Blacksmith"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E043.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E044",
+    "name": "Everyone's Teacher, Rimuru",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Teacher"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card gets +500 power. 【AUTO】 【CXCOMBO】 When \"A Scenery to Be Shared\" is placed on your climax area, choose 1 of your characters, and that character gets +1 soul until end of turn. 【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "You guys are my students!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E044.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E045",
+    "name": "Honed Senses, Kurobe",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Blacksmith"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Sure do. I can tell from the color of the flame.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E045.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E046",
+    "name": "\"Shrine Maiden Princess\" Shuna",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Benimaru: \"Shuna and Kurobe, who remained in the village, have titles, as well.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E046.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E047",
+    "name": "Ifrit's Manifestation, Shizu",
+    "number": "E047",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room. If there is a climax among those cards, you may put the top card of your opponent's deck into his or her waiting room. If you do, choose 1 card in your opponent's waiting room, and put it on the top of his or her deck. 【AUTO】 Change [(1) Put 2 《Demon Continent》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"\"Highest-Ranked Flame Spirit\" Ifrit\" in your waiting room, and put it on the position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E047.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E048",
+    "name": "\"Highest-Ranked Flame Spirit\" Ifrit",
+    "number": "E048",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 [(2) Put 2 《Demon Continent》 characters from your hand into your waiting room & Choose 1 card in your clock and put it into your level] When this card attacks, you may pay the cost. If you do, perform the following action 3 times. \"Deal 4 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E048.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E049",
+    "name": "Strong Will, Benimaru",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. For each trigger icon on the revealed card, all characters in your opponent's center stage get -1000 power until end of turn. (Return the revealed card to its original place) 【AUTO】 When this card is placed on stage from your hand, you may choose 1 card in your hand, and put it into your stock.",
+    "flavorText": "I wouldn't accept a name from just anyone, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E049.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E050",
+    "name": "Radiant Smile, Milim",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You're so good at surprising people!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E050.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E051",
+    "name": "Which One Do You Choose? Rimuru",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "-",
+    "flavorText": "These two seem to have a rivalry going on…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E051.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E052",
+    "name": "A Break at the Hot Springs, Milim",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, this card gets +50 soul until end of turn.",
+    "flavorText": "Ahahahaha! This is fun! Woohoo! Ahaha! Woo!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E052.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E053",
+    "name": "\"Black Lightning\" Rimuru",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Lightning"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Demon Continent》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E053.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E054",
+    "name": "Taking Care Together, Shizu",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, choose 1 of your 《Demon Continent》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×500. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if \"Awoken Impulse\" is in your climax area, you may pay the cost, If you do, choose 1 card in your opponent's waiting room, and put it into his or her memory.",
+    "flavorText": "So what's his name?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E054.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E055",
+    "name": "Fierce Rivalry, Shuna",
+    "number": "E055",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shrine Maiden"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, all of your other 《Demon Continent》 characters get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Which One Do You Choose? Rimuru\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Hehe. I wouldn't mind taking care of Great Rimuru myself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E055.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E056",
+    "name": "\"Samurai General\" Benimaru",
+    "number": "E056",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +3000 power. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "And I received the title of Samurai General.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E056.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E057",
+    "name": "Declaration of Being Besties!",
+    "number": "E057",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Look at up to 4 cards from the top of your deck, choose up to 1 yellow character and up to 1 red character and up to 1 blue character from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into the waiting room.",
+    "flavorText": "Besties! Besties! Besties!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E057.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E058",
+    "name": "Flare Circle",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Deal 4 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E058.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E059",
+    "name": "A Way of Saying Hello",
+    "number": "E059",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E059.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E060",
+    "name": "New Power",
+    "number": "E060",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E060.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E061",
+    "name": "Power of a Demon Lord",
+    "number": "E061",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Very well. I'll play with you some more!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E061.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E062",
+    "name": "A Scenery to Be Shared",
+    "number": "E062",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E062.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E063",
+    "name": "Awoken Impulse",
+    "number": "E063",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Enemy...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E063.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E064",
+    "name": "Head of the Monsters, Rimuru",
+    "number": "E064",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +1000 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E064.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E065",
+    "name": "\"Conqueror of Flames\" Shizu",
+    "number": "E065",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When this card attacks, if \"Legendary Hero\" is in your climax area, put 2 cards from the top of your deck into your waiting room, choose up to 1 level X or lower 《Demon Continent》 character in your waiting room, return it to your hand, and this card gets +2000 power until end of turn. X is equal to the total level of cards put into your waiting room by this effect. (Climax are regarded as level 0) 【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Demon Continent》 character or \"Anti-Magic Mask\", you may put this card into your memory. (Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E065.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E066",
+    "name": "Memories of Japan, Shizu",
+    "number": "E066",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【CONT】 Memory If there are 2 or more \"\"Conqueror of Flames\" Shizu\" in your memory, this card gets -1 level while in your hand. 【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room]\". 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "\"I'm not a bad slime.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E066.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E067",
+    "name": "Request at the Kingdom of Filtwood, Shizu",
+    "number": "E067",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Demon Continent》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E067.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E068",
+    "name": "Partner Sharing Body and Soul, Rimuru",
+    "number": "E068",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among them, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I feel like I just saw Great Sage make a smug face...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E068.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E069",
+    "name": "Power to Protect Comrades, Rimuru",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 The character facing this card cannot move to another position. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Demon Continent》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "I'll take care of this.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E069.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E070",
+    "name": "\"Intimidation\" Ranga",
+    "number": "E070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shadow"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Demon Continent》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power.",
+    "flavorText": "My master has ordered me to hear what you have to say. So speak. I'm listening.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E070.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E071",
+    "name": "Inherited Wishes, Rimuru",
+    "number": "E071",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【ACT】 [Put 1 of your other \"Last Journey, Shizu\" on the stage face down underneath this card as a marker] If your level is 3 or higher, choose up to 1 《Demon Continent》 character in your waiting room, put it into your stock, and use ＄Unique Skill \"Predator\"＄. 【REPLAY】 ＄Unique Skill \"Predator\"＄ Choose up to 1 \"Successor, Rimuru\" in your waiting room, put it on the position that this card is on, and put this card and all markers underneath this card face down in any order underneath that \"Successor, Rimuru\" as markers.",
+    "flavorText": "Shizu-san, my destined one... Rest in peace within me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E071.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E072",
+    "name": "Secret Strategy, Rimuru",
+    "number": "E072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Last-Ditch Effort\" is in your climax area, you may deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "In that case, there's just one thing I can do.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E072.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E073",
+    "name": "Quiet Anger, Souei",
+    "number": "E073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Shinobi"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, choose 1 of your 《Demon Continent》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×500.",
+    "flavorText": "Making enemies of the Kijin will be your greatest regret.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E073.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E074",
+    "name": "\"Auto-Battle Mode\" Rimuru",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Unique Skill \"Great Sage\"\" in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Wow, nice! I knew I could count on Great Sage!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E074.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E075",
+    "name": "Last Journey, Shizu",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 [(1) Put 1 climax from your hand to your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+    "flavorText": "I'm not as young as I look.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E075.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E076",
+    "name": "Sensible Rigur",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Demon Continent》 characters you have.",
+    "flavorText": "I see! Now I understand!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E076.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E077",
+    "name": "All to Oneself, Chloe",
+    "number": "E077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 [Put 1 《Demon Continent》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Anti-Magic Mask\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E077.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E078",
+    "name": "Creating Potions! Rimuru",
+    "number": "E078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Plant"
+    ],
+    "text": "【ACT】 [(2) 【REST】 this card] Put 1 card from the top of your clock into your waiting room. 【ACT】 [【REST】 this card] If there are no markers underneath this card, choose 1 《Demon Continent》 character in your waiting room, and put it face down underneath this card as a marker. 【ACT】 [【REST】 this card] Put 1 marker underneath this card into your stock.",
+    "flavorText": "Gabiru: \"The potion of total recovery: full potion!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E078.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E079",
+    "name": "\"Spy\" Souei",
+    "number": "E079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shinobi"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When your opponent levels up, if \"A Trap Laid Out\" is in your climax area, and this card is in your center stage, look at up to 2 cards from the top of your deck, choose up to 2 《Demon Continent》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest of the cards into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Benimaru: \"Souei is a Spy.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E079.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E080",
+    "name": "\"Sticky Steel Thread\" Rimuru",
+    "number": "E080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's back stage with level higher than your opponent's level. That character cannot 【STAND】 during your opponent's next stand phase. 【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to the number of souls that character has ×1000.",
+    "flavorText": "Looks like you're about to fall, miss.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E080.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E081",
+    "name": "Attendance Check, Rimuru",
+    "number": "E081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Teacher"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\"",
+    "flavorText": "Okay, I'm going to call the roll.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E081.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E082",
+    "name": "The One Who Devours All, Rimuru",
+    "number": "E082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each marker underneath this card. 【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +2000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.",
+    "flavorText": "I'll devour all your sins along with you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E082.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E083",
+    "name": "Power of a Hero, Shizu",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【ACT】 [【REST】 this card] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Don't underestimate me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E083.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E084",
+    "name": "Execution of Duty, Souei",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shinobi"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each of your other \"Execution of Duty, Souei\" on your center stage. 【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 \"Execution of Duty, Souei\", put them on separate positions on your stage, and shuffle your deck.",
+    "flavorText": "I shall go and inform Rigurd at once.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E084.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E085",
+    "name": "Into the Midst of Battle, Ranga",
+    "number": "E085",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shadow"
+    ],
+    "text": "【CONT】 All of your other 《Demon Continent》 characters get +500 power. 【AUTO】 【CXCOMBO】 When \"Squaring off Against a Spirit\" is placed on your climax area, reveal the top card of your deck. If that card is a 《Demon Continent》 character, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step.\" (Return the revealed card to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E085.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E086",
+    "name": "New Subordinate, Soka",
+    "number": "E086",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shinobi"
+    ],
+    "text": "【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn. 【AUTO】 When this card attacks, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "I'll work my hardest for you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E086.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E087",
+    "name": "\"Vortex Crash\" Gabiru",
+    "number": "E087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Water"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put 4 cards from the top of your deck into your waiting room. If \"Name Overwritten, Gabiru\" is revealed among those cards, you may return this card to your hand.",
+    "flavorText": "Vortex Crash!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E087.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E088",
+    "name": "Clone, Souei",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shinobi"
+    ],
+    "text": "【ACT】 [(1) 【REST】 this card] Search your deck for up to 1 \"Clone, Souei\", put it on any position of your stage, shuffle your deck, and at the end of the turn, put that character into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E088.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E089",
+    "name": "Desperate Battle, Gobta",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, all players reveal the top card of their deck. Of the cards revealed by this effect, if your card has level higher than your opponent's card, choose 1 \"Weapons Made in Tempest\" in your waiting room, and return it to your hand. If your card has level lower than your opponent's card, choose 1 \"Shion's Home Cooking\" in your waiting room, and return it to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Anything but that!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E089.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E090",
+    "name": "Name Overwritten, Gabiru",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, put 5 cards from the top of your deck into your waiting room. If \"Name Overwritten, Gabiru\" is revealed among those cards, you may return this card to your hand.",
+    "flavorText": "Oooh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E090.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E091",
+    "name": "Chloe & Alice & Kenya & Ryota & Gale",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 4 or more cards in your hand, this card gets +3000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E091.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E092",
+    "name": "A Break at the Hot Springs, Rimuru",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Demon Continent》 characters. 【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room] (When this card is put into the waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as @REST)",
+    "flavorText": "It's my beloved hot spring, flowing freely from the source.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E092.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E093",
+    "name": "\"Rigurd Shock\" Rigurd",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Muscle"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Becoming a monster with a name raises one's rank as a monster and causes one to evolve!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E093.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E094",
+    "name": "\"Shadow Movement\" Ranga",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shadow"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 \"\"Shadow Movement\" Ranga\" in your memory, and put it on any position on your stage.",
+    "flavorText": "You called, Master?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E094.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E095",
+    "name": "Anti-Magic Mask",
+    "number": "E095",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your 《Demon Continent》 characters, and that character gets +2500 power until end of turn. Put this card into your memory. 【AUTO】 Memory [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand.",
+    "flavorText": "Shizu-san, I'll take good care of this keepsake of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E095.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E096",
+    "name": "Unique Skill \"Great Sage\"",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【AUTO】 Memory At the beginning of your climax phase, if this card is in your memory, choose 1 of your characters with \"Rimuru(リムル)\" in its card name, and that character gets +2500 power until end of turn.",
+    "flavorText": "Sage will transform into the unique skill Great Sage. Successful.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E096.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E097",
+    "name": "Legendary Hero",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "I'm ending this now! Inferno Flame!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E097.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E098",
+    "name": "A Trap Laid Out",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "I've already rendered him immobile.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E098.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E099",
+    "name": "Last-Ditch Effort",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Take this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E099.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E100",
+    "name": "Squaring off Against a Spirit",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E100.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E101",
+    "name": "Life Amongst Bountiful Valleys, Rimuru",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Worries"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)",
+    "flavorText": "This must be paradise!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E101.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E102",
+    "name": "A Break at the Hot Springs, Shion",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Secretary"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+    "flavorText": "...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E102.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E103",
+    "name": "Splendid Transformation! Milim",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Demon Lord"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put 3 cards from the top of your deck into your waiting room. If there is a climax revealed among those cards, you may choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room.",
+    "flavorText": "Transform!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E103.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E104",
+    "name": "A Break at the Hot Springs, Shuna",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shrine Maiden"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Demon Continent》 characters, this card gets +2000 power until end of turn.",
+    "flavorText": "I told you, you shouldn't play in the bath!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E104.png"
+    }
+  },
+  {
+    "id": "TSK/S70-E105",
+    "name": "Everyone's Teacher, Shizu",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【AUTO】 Bond/\"Chloe & Alice & Kenya & Ryota & Gale\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Chloe & Alice & Kenya & Ryota & Gale\" in your waiting room, and return it to your hand)",
+    "flavorText": "Shizu-san, I'll make sure your wish is realized.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_E105.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE01",
+    "name": "Rimuru Tempest",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Tea"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the card to its original place) 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Demon Continent》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE01.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE02",
+    "name": "Soon-to-be Sage, Mikami Satoru",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 \"Reincarnated From Another World, Rimuru\" in your waiting room, put it on the position that this card was on as 【REST】, and that character gets 《Stab Resistance》, 《Physical Attack Resistance》, 《Pain Nullification》, 《Thermal Fluctuation Resistance》, 《Electric Current Resistance》, 《Paralysis Resistance》, 《Predator》 and 《Great Sage》 until end of turn.",
+    "flavorText": "Oh... Hi. I'm Mikami Satoru.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE02.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE03",
+    "name": "Bonds of Friendship, Veldora",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Dragon"
+    ],
+    "text": "【CONT】 If your level is 2 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to 1 \"Bonds of Friendship, Rimuru\" in your hand, and put it on the position that this card was on.\" 【AUTO】 Bond/\"Bonds of Friendship, Rimuru\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Bonds of Friendship, Rimuru\" in your waiting room, and return it to your hand)",
+    "flavorText": "As of today, I am Veldora Tempest!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE03.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE04",
+    "name": "Reincarnated From Another World, Rimuru",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Demon Continent》 characters. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Naming\" is in your climax area, reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand. (Otherwise, return the card to its original place)",
+    "flavorText": "Okay, listen up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE04.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE05",
+    "name": "\"Free Union Adventurer\" Gido",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Adventurer"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, this card gets +1 soul until end of turn. (Return the revealed card to its original place)",
+    "flavorText": "If anything comes up, you can always send for us.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE05.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE06",
+    "name": "\"Free Union Adventurer\" Kaval",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Adventurer"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Yeah, we need to report to the Guildmaster about our findings, and about Shizu.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE06.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE07",
+    "name": "\"Free Union Adventurer\" Eren",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Adventurer"
+    ],
+    "text": "【CONT】 All of your other 《Demon Continent》 characters get +1000 power. 【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "We'll tell him about you, too, Rimuru.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE07.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE08",
+    "name": "\"Predator\" Rimuru",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each marker underneath this card. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 《Demon Continent》 character in your waiting room, and put it face down underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE08.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE09",
+    "name": "Naming",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Rimuru: \"Okay, we'll start with you.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE09.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE10",
+    "name": "Promises and Gratitude",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Thank you so much, Shizu!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE10.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE11",
+    "name": "Looking for Party Members, Shizu",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Did you not say you are going to the Great Forest of Jura?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE11.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE12",
+    "name": "\"Water Blade\"Rimuru",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Water"
+    ],
+    "text": "【CONT】 All of your other 《Demon Continent》 characters get +500 power. 【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it into his or her waiting room.",
+    "flavorText": "Water Blade!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE12.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE13",
+    "name": "Muscles Everywhere, Rigurd",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters revealed among those cards ×1000.",
+    "flavorText": "They all heard the rumors about you and came here from the nearby Goblin villages to seek protection.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE13.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE14",
+    "name": "Solitary Path, Shizu",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Mask"
+    ],
+    "text": "【AUTO】 When your other 《Demon Continent》 character attacks, this card gets +1000 power until end of turn. 【AUTO】 [(1)] At the beginning of your encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "The goal of my journey is... to find the man who summoned me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE14.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE15",
+    "name": "Summoning Tempest Wolves! Gobta",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand, choose 1 card in your card, and put it into your waiting room. (Otherwise, return the card to its original position) 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +2500 power until end of turn)",
+    "flavorText": "All right! I'll show you how it's done!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE15.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE16",
+    "name": "Heart of Loyalty, Ranga",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Demon Continent",
+      "Shadow"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Demon Continent》 characters you have ×1000. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE16.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE17",
+    "name": "Bonds of Friendship, Rimuru",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Slime"
+    ],
+    "text": "",
+    "flavorText": "I am... Rimuru Tempest.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE17.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE18",
+    "name": "Gushing Flames, Shizu",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Demon Continent",
+      "Flame"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Demon Continent》 characters you have. 【AUTO】 [(3) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE18.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE19",
+    "name": "Anti-Magic Mask",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.",
+    "flavorText": "She was the one who gave me that mask.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE19.png"
+    }
+  },
+  {
+    "id": "TSK/S70-TE20",
+    "name": "Fated One",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "You saved me. Thank you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/t/tsk_s70/TSK_S70_TE20.png"
+    }
+  }
+]

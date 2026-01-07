@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "GRI/S72-E001",
+    "name": "Baking Diligently! Makina",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room. 【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)",
+    "flavorText": "Today's a special treat fer my favorite curry fanatic. I baked us some curry bread!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E001.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E002",
+    "name": "Towards the Shimmering Sea, Michiru",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Grisaia》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Dangerous Air Mattress\" is in your climax area, and you have another 《Grisaia》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Grisaia》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "Kittymeow, let's get out of here!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E002.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E003",
+    "name": "The Fruit in God's Grasp, Kazuki",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)",
+    "flavorText": "Don't worry, I'm not going to die... We'll definitely meet again someday, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E003.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E004",
+    "name": "Farewell and Promise, Kazuki",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory. 【AUTO】 Memory If this card is in your memory, when your card or your opponent's card in the clock is put into the waiting room due to respective card effects, that player may choose 1 card in their hand, and put it into their waiting room. Otherwise, that player puts the top card of their deck into their clock.",
+    "flavorText": "I'm saying that I'll be the decoy...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E004.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E005",
+    "name": "Afterschool Sunset, Makina",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 Memory This card gets +1000 power for each \"Feeding\" in your memory. 【AUTO】 【CXCOMBO】 Memory When this card attacks, if \"Full-Scale Combat Training\" is in your climax area, you may choose 1 level X or lower 《Grisaia》 character in your waiting room, and return it to your hand. X is equal to the number of cards in your memory.",
+    "flavorText": "...What about Onii-chan?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E005.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E006",
+    "name": "Together with Meowmel, Michiru",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【ACT】 [(2) 【REST】 this card] Choose 1 character in your opponent's center stage, and return it to their hand.",
+    "flavorText": "It's not like I'm lonely or anything, for your information.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E006.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E007",
+    "name": "Fruit of Remorse, Michiru",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose 1 of your characters, and that character gets +4000 power until end of turn. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Afterschool Sunset, Michiru\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "How pathetic, you guys!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E007.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E008",
+    "name": "Fruit of Remorse, Makina",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Sleepy Eyes\" is in your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal the same damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "Hnn... nnnnn...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E008.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E009",
+    "name": "Summer Festival Sniper, Makina",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.",
+    "flavorText": "...Hunfh!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E009.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E010",
+    "name": "Atop the Hill Facing the Sea, Michiru",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1500 power.",
+    "flavorText": "Who...? What's that supposed to mean?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E010.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E011",
+    "name": "Superb Team, Makina & Sachi",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Feeding\" in your waiting room, and return it to your hand.",
+    "flavorText": "Makina: \"Sacchin, if ya'd be so kind!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E011.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E012",
+    "name": "“Ichigaya” JB",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Grisaia》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "We don't have tax money to spend on malfunctioning national defense equipment.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E012.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E013",
+    "name": "Annoying Tsundere, Michiru",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【CONT】 During your turn, if there is a marker underneath this card, this card gets +4500 power. 【AUTO】 When this card is placed on the stage from your hand or waiting room, you may choose 1 \"Natural Born Tsundere, Michiru\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Natural Born Tsundere, Michiru\" in your waiting room, and put it in the stage position that this card was in. (This ability does not activate if this card is not in the stage at the beginning of the climax phase)",
+    "flavorText": "...Shaddup, stuuuupid.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E013.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E014",
+    "name": "A Summer Memory, Amane & Makina",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【CONT】 Memory This card gets +1500 power for each \"Feeding\" in your memory.",
+    "flavorText": "Makina: \"...I'm kinda interested, but... I've never really played with fireworks before.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E014.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E015",
+    "name": "“Swimsuit” Michiru",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use \"【AUTO】 Encore\" until end of turn. (You cannot use the \"【AUTO】 Encore [(3)]\" rule either)",
+    "flavorText": "Here we are! The beaaach!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E015.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E016",
+    "name": "The Meaning of a \"Kiss\", Michiru",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn. 【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000.",
+    "flavorText": "It's fine! You have my authorization! Just do it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E016.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E017",
+    "name": "Overwhelming Difference in Skill, Yuuji",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Bread》 characters get the following ability. \"【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +500 power and \"【AUTO】 Encore [(2)]\".\" 【CONT】 Your other level 0 or lower character in the middle position of your center stage gets +1000 power.",
+    "flavorText": "Nice shirt. Where'd you buy it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E017.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E018",
+    "name": "An Abrupt Visit, JB",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +1 level and +1500 power for each of your other \"Surprise Attack, Yumiko & Yuuji\". 【AUTO】 [Put 1 《Grisaia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Surprise Attack, Yumiko & Yuuji\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Heyo! Enjoying your school life?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E018.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E019",
+    "name": "Pretend Lover, Michiru",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "―",
+    "flavorText": "Pretend is fine, but... I wanna kiss.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E019.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E020",
+    "name": "Riding Tandem, Makina & Yuuji",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. 【AUTO】 Change [(1) Put 1 《Grisaia》 character from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose this card and 1 \"I'm Not a Child, Makina\" in your level, and exchange them. (The character is placed on your stage as 【STAND】)",
+    "flavorText": "Makina: \"You're a pretty good driver, Papa, aren't ya?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E020.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E021",
+    "name": "Naïve and Innocent, Makina",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 During your turn, this card gets +4000 power.",
+    "flavorText": "M'keh! Perfection!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E021.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E022",
+    "name": "I'm Not a Child, Makina",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by \"Change\", you may choose 1 of your opponent's level 0 or lower characters, and put it into their stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "...Well? I'm not... a child, right...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E022.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E023",
+    "name": "Feeding",
+    "number": "E023",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose 1 《Grisaia》 character in your waiting room, and return it to your hand. Put this card into your memory. Reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place)",
+    "flavorText": "Eat it all up and get nice an' plump, yeah?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E023.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E024",
+    "name": "Fresh-Fish Superman Tunafish Man",
+    "number": "E024",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 5 of your characters, put them into your waiting room, and deal X damage to your opponent. X is equal to the number of characters put into your waiting room by this effect. (Damage may be canceled)",
+    "flavorText": "As long as there are saltwater fish crying out for a savior... The tuna of justice will appeaaar!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E024.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E025",
+    "name": "Dangerous Air Mattress",
+    "number": "E025",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "Oh geez, it's kinda wobbly after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E025.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E026",
+    "name": "Full-Scale Combat Training",
+    "number": "E026",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Roger that, safety on...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E026.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E027",
+    "name": "Sleepy Eyes",
+    "number": "E027",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "............",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E027.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E028",
+    "name": "Derived Answer, Yuuji",
+    "number": "E028",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Grisaia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, if you have another 《Grisaia》 character, this card gets +1500 power until end of turn.",
+    "flavorText": "If anyone else comes to kill her, I'll eliminate them one by one...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E028.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E029",
+    "name": "Lone Wolf Disposition, Yumiko",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Thundering Roar Under the Bridge\" is in your climax area, put up to 1 card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0)",
+    "flavorText": "W-Wait!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E029.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E030",
+    "name": "During the Peaceful Days, Kazuki",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Grisaia》 characters you have ×500. 【AUTO】 【CXCOMBO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if \"Clinging Wish\" is in your climax area, choose up to 2 《Grisaia》 characters in your waiting room, and put them into your stock in any order.",
+    "flavorText": "A debt is always more profitable when you postpone the collection.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E030.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E031",
+    "name": "Innocent Heart, Makina",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Grisaia》 characters, this card gets -1 level while in your hand. 【CONT】 Memory If your memory has 2 or more cards, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "Papa! Lookit me, lookit me!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E031.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E032",
+    "name": "Assertive Stance, Amane",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card's attack, if \"Ticket to Heaven\" is in your climax area, you may pay the cost. If you do, look at the top card of your opponent's deck, put it on the top or at the bottom of their deck, and 【STAND】 this card.",
+    "flavorText": "Hey, Yuuji...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E032.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E033",
+    "name": "Afterschool Sunset, Yumiko",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Grisaia》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "I see... Yes, I understand.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E033.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E034",
+    "name": "Blazing Clutches, Makina",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +1000 power. 【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Grisaia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "...Papa... It's burning... The bakery's... burning...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E034.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E035",
+    "name": "During the Peaceful Days, Amane",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 All of your other 《Grisaia》 characters get +500 power. 【ACT】 【CXCOMBO】 [(3)] Choose 1 \"Clinging Wish\" in your waiting room, and put it into your climax area.",
+    "flavorText": "Over here, Kazuki.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E035.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E036",
+    "name": "Psychology Test, Kazuki",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Grisaia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "So, who shall we save first? I'll let you decide.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E036.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E037",
+    "name": "Yuuji Kazami",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Grisaia》 characters among those cards ×1000.",
+    "flavorText": "...I guess it's a little difficult, turning into something like that all of a sudden.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E037.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E038",
+    "name": "Will to Confront, Yumiko",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into their waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "To cut myself free of you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E038.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E039",
+    "name": "The Worst Outcome, Makina",
+    "number": "E039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "...No way... This can't be happenin'...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E039.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E040",
+    "name": "Raison d'Être, Yumiko",
+    "number": "E040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Grisaia》 characters you have. 【ACT】 [Put 2 cards from your hand into your waiting room] Choose 1 of your characters, and that character gets +7000 power until end of turn.",
+    "flavorText": "...Not as many clouds as before. Bit of a different feeling…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E040.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E041",
+    "name": "Withering Heart, Makina",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each other 《Grisaia》 character in your back stage. 【AUTO】 [Put 1 card from your hand into your waiting room] When your \"Yuuji Kazami\" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card in any position of your stage as 【REST】.",
+    "flavorText": "...Papa... you liar...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E041.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E042",
+    "name": "Overly Caring Wife, Amane",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card cannot attack. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Welcome back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E042.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E043",
+    "name": "Angelic Howl, Amane",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Grisaia》 characters you have ×1000. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may return the top card of your stock to your hand.",
+    "flavorText": "...We're \"friends\", if I remember correctly...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E043.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E044",
+    "name": "Dere For Me",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【REST】 1 of your 【STAND】 《Grisaia》 characters. If you do, choose 1 of your opponent's characters, and that character gets -3000 power until end of turn.",
+    "flavorText": "Yumiko: \"...Hehehehe.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E044.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E045",
+    "name": "Amane-chan's Beauty School",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your 《Grisaia》 characters, and that character gets +X power until end of turn. X is equal to the number of cards in your stock ×500.",
+    "flavorText": "Amane: \"Hmmm. No, I think I'd actually like you to stick around for this one, Yuuji.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E045.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E046",
+    "name": "Thundering Roar Under the Bridge",
+    "number": "E046",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Yumiko: \"...Why are you so strong...?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E046.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E047",
+    "name": "Ticket to Heaven",
+    "number": "E047",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "That at long last, everything was forgiven―",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E047.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E048",
+    "name": "Clinging Wish",
+    "number": "E048",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "Amane: \"I wanna go home... I wanna go home, Kazuki...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E048.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E049",
+    "name": "Embracing Affection, Amane",
+    "number": "E049",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you reveal 1 or more cards, choose up to 1 《Grisaia》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Yuuji... I love you…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E049.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E050",
+    "name": "Well-Loved Maid, Sachi",
+    "number": "E050",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Grisaia》 characters. 【AUTO】 【CXCOMBO】 When \"Sunny Park\" is placed on your climax area, if this card is in your center stage, and you have another 《Grisaia》 character, choose 1 of the following effects, and perform it. \"Choose 1 \"Cooking With Sacchin\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"Cooking With Sacchin\", reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "A date with Yuu-kun at the playground... I'm already looking forward to it very much...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E050.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E051",
+    "name": "Fruit of Remorse, Amane",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 Assist All of your 《Grisaia》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 【CXCOMBO】 [Put 1 《Grisaia》 character from your hand into your waiting room] When \"Night of the Summer Festival\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other characters, and 【STAND】 it.",
+    "flavorText": "Aaaan...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E051.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E052",
+    "name": "Fruit of Remorse, Sachi",
+    "number": "E052",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【ACT】 Experience [(1) 【REST】 this card] If the total level of the cards in your level is 5 or higher, choose 1 of the following effects, and perform it. If it is not, your opponent chooses 1 of the following effects, and you perform it. \"Choose up to 2 of your 《Grisaia》 characters, and those characters get +1 soul until end of turn.\" \"Reveal the top card of your deck. If that card is an event or a 《Grisaia》 character, put it into your hand.\" (Otherwise, return it to its original place)",
+    "flavorText": "Thank you for your patience. This is what you wanted, yes?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E052.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E053",
+    "name": "Never-Ending Punishment, Amane",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Grisaia》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +X power until end of turn. X is equal to that character's level ×500. 【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it into their waiting room.",
+    "flavorText": "...Hey... Yuuji... ...Would you... kill me...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E053.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E054",
+    "name": "Embarrassed Smile, Amane",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 All of your opponent's characters get \"【AUTO】 Encore [(2)]\". 【AUTO】 Encore [Put 1 《Grisaia》 character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "...That was... my first kiss, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E054.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E055",
+    "name": "Skilled and Witty Honor Student, Sachi",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'm perfectly happy to purchase anything you need, so please go right ahead.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E055.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E056",
+    "name": "Suggestive Big Sister, Amane",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 [Put 1 \"Psychology Test, Kazuki\" from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "So what do you think? Does it suit me?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E056.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E057",
+    "name": "Blissful Days, Sachi",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other 《Grisaia》 characters get +1500 power. 【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of events in your waiting room. (Damage may be canceled)",
+    "flavorText": "I am your girlfriend, so please feel free to call for me whenever you like.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E057.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E058",
+    "name": "Afterschool Sunset, Amane",
+    "number": "E058",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Grisaia》 characters, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Grisaia》 character in your waiting room, and return it to your hand. 【AUTO】 Resonate [Put 1 card from your hand into your waiting room & Reveal 1 \"Afterschool Sunset, Amane\" in your hand] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Then let's walk back together.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E058.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E059",
+    "name": "Afterschool Sunset, Michiru",
+    "number": "E059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled) 【AUTO】 【CXCOMBO】 [(2) Put 2 《Grisaia》 characters from your hand into your waiting room & Put this card into your waiting room] At the beginning of your encore step, if \"Pleading Outcry\" is in your climax area, you may pay the cost. If you do, deal 4 damage to your opponent, choose 1 \"Fruit of Remorse, Michiru\" in your waiting room, and put it in the stage position that this card was in. (Damage may be canceled)",
+    "flavorText": "Are you really okay with this...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E059.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E060",
+    "name": "Guitarist, Amane",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [【REST】 this card] Choose 1 of your characters with \"Yuuji(雄二)\" in its card name, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, your opponent cannot play events or \"Backup\" from their hand.\"",
+    "flavorText": "How's that!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E060.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E061",
+    "name": "Never-Ending Tunnel, Michiru",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Grisaia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Don't call him that weird name. He's not Rommel... He's not...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E061.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E062",
+    "name": "Spirit to Serve, Sachi",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's level 1 or lower characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\"",
+    "flavorText": "I, Komine Sachi, will now service you with all my heart.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E062.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E063",
+    "name": "Natural Born Tsundere, Michiru",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +4500 power. 【AUTO】 When this card is placed on the stage from your hand or waiting room, you may choose 1 \"Annoying Tsundere, Michiru\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 \"Annoying Tsundere, Michiru\" in your waiting room, and put it in the stage position that this card was in. (This ability does not activate if this card is not in the stage at the beginning of the climax phase)",
+    "flavorText": "But I'm a Natural Born Tsundere.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E063.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E064",
+    "name": "The Girls of an Enclosed Garden",
+    "number": "E064",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Grisaia》 characters, this card gets +2000 power. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Amane: \"Come on, Makina. Aren't you going to introduce yourself?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E064.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E065",
+    "name": "Always With You, Amane & Yuuji",
+    "number": "E065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or lower than your level in your hand, put it in any position of your stage, and that character gets +2000 power until end of turn. 【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory in any position of their stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E065.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E066",
+    "name": "Class Representative, Sachi",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other \"Pretend Lover, Michiru\" get +1 soul. 【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Grisaia》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)",
+    "flavorText": "Might you be the transfer student scheduled to arrive here today... by any chance?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E066.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E067",
+    "name": "Descending Sunset, Yuuji & Sachi",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage. 【AUTO】 [Put this card into your waiting room] When your other 《Grisaia》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "Sachi: \"I want to play with you more, Yuu-kun... Lots more...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E067.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E068",
+    "name": "Rules to Stay Human, Kazuki",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【CONT】 Memory If your memory has 3 or more cards, this card gets +2000 power and +1 soul. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "...It still isn't hell. This is still a world worth living in...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E068.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E069",
+    "name": "Wanting to Be Loved, Amane",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Grisaia》 characters, this card gets +2000 power. 【AUTO】 Encore [(1) Put 1 character from your stage into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "This is just the way girlfriends and boyfriends do things these days, you know? C'mon. Can't hurt, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E069.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E070",
+    "name": "Admiration for Sharks, Sachi",
+    "number": "E070",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +2500 power for each marker underneath this card. 【AUTO】 [(1) Reveal 1 \"Admiration for Sharks, Sachi\" in your hand & Put it face down underneath this card as a marker] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Look, Yuu-kun! I'm riding Mr. Shark!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E070.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E071",
+    "name": "Childhood Memories, Sachi",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【AUTO】 When this card attacks, choose 1 of your other 《Grisaia》 characters, and that character gets +X power until end of turn. X is equal to the number of events in your waiting room ×1500. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Aren't we friends now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E071.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E072",
+    "name": "Early Arrival, Michiru",
+    "number": "E072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 4 or more other 《Grisaia》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn. 【AUTO】 [Put this card into your waiting room] When your other 《Grisaia》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +3000 power until end of turn.",
+    "flavorText": "H-Hey... uhm, well... You wait long!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E072.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E073",
+    "name": "Charlie",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Draw 1 card, choose 1 card in your hand, and put it into your waiting room. Choose 1 of your 《Grisaia》 characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\"",
+    "flavorText": "*Swishswishswish*",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E073.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E074",
+    "name": "Cooking With Sacchin",
+    "number": "E074",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Grisaia》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)",
+    "flavorText": "Let's see... All that's left is to cook this over a low flame.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E074.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E075",
+    "name": "Night of the Summer Festival",
+    "number": "E075",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Got in the mood for a kiss?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E075.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E076",
+    "name": "Pleading Outcry",
+    "number": "E076",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Meowmel... Meowmelll...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E076.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E077",
+    "name": "Sunny Park",
+    "number": "E077",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Look at this, Yuu-kun! We have it all to ourselves!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E077.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E078",
+    "name": "Genius in Name and Reality, Kazuki",
+    "number": "E078",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn. 【AUTO】 [(1) Put this card into your memory] When your other 《Grisaia》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "When you become a genius, what you gain isn't admiration so much as envy and enemies.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E078.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E079",
+    "name": "Fruit of Remorse, Yumiko",
+    "number": "E079",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Grisaia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "You don't have to look that surprised...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E079.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E080",
+    "name": "Je vous suis attaché, Yumiko",
+    "number": "E080",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"L'oiseau bleu\" is in your climax area, you may pay the cost. If you do, this card gets +2000 power until end of turn, choose 1 of the following effects, and perform it. \"Put all of your opponent's stock into their waiting room, and your opponent puts the same number of cards from the top of their deck into their stock.\" \"Deal 1 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "I never thought this day would come... but I'm so happy it did.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E080.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E081",
+    "name": "Shadow Extending in Twilight, Yumiko",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 [Put 1 《Grisaia》 character from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "...What's the meaning of this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E081.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E082",
+    "name": "Speeding, Yuuji",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Facing the Future\" is in your climax area, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may choose this card and 1 of your other characters, and return them to your hand.\"",
+    "flavorText": "This really is... going to be tough…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E082.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E083",
+    "name": "Ephemeral Girl, Yumiko",
+    "number": "E083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "...What's the meaning of this?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E083.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E084",
+    "name": "Kuudere, Yumiko",
+    "number": "E084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Kiss in the Middle of the Night\" is placed on your climax area, if this card is in your center stage, reveal the top card of your deck. If that card is a 《Grisaia》 character, choose up to X of your opponent's characters, and those characters get -2000 power until end of turn. X is equal to the number of \"Kuudere, Yumiko\" you have. (Return the revealed card to its original place)",
+    "flavorText": "...You are a truly aggravating human being.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E084.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E085",
+    "name": "Omnipotent, Kazuki",
+    "number": "E085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Genius"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 During this card's battle, you cannot play events and \"Backup\" from your hand.\" 【AUTO】 [Put 1 《Grisaia》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 2 cards of your opponent's deck into their waiting room, and deal X damage to your opponent. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "I never said \"everyone\" would survive.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E085.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E086",
+    "name": "Youthful Looks, Chizuru",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Teacher"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "So? How are things? Are you used to the school yet?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E086.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E087",
+    "name": "Afterschool Sunset, Sachi",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 event, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 When this card attacks, choose 1 of your 《Grisaia》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Certainly. If you say so, Kazami-san.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E087.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E088",
+    "name": "“Promise” Sachi",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put 1 \"Crazy Apple\" from your climax area into your waiting room] At the beginning of your encore step, you may pay the cost. If you do, choose 1 《Grisaia》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Choose 1 of your 《Grisaia》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "...Thank you for keeping your promise, Yuu-kun.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E088.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E089",
+    "name": "A Summer Memory, Yumiko",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 If you do not have another character, this card gets +1 level and +1500 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "The truth is, if you weren't on this trip... I probably wouldn't be here either.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E089.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E090",
+    "name": "Surprise Attack, Yumiko & Yuuji",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "-"
+    ],
+    "text": "―",
+    "flavorText": "Yuuji: \"Stay down, make yourself as small as possible, and keep yourself behind me.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E090.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E091",
+    "name": "Principal, Chizuru",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Teacher"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +3500 power and +1 soul. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 \"Surprise Attack, Yumiko & Yuuji\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "Come on... this is your future alma mater.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E091.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E092",
+    "name": "My Own Will, Sachi",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +1500 power for each character in your opponent's back stage. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I want to know how Mom and Dad felt.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E092.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E093",
+    "name": "Little Expectation, Yumiko",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×500. 【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.",
+    "flavorText": "Would it be... all right...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E093.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E094",
+    "name": "Confession From the Past, Sachi",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 All of your other 《Grisaia》 characters get +1000 power. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "I love you, Yuu-kun…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E094.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E095",
+    "name": "Throbbing Heartbeat, Yumiko",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 If you do not have another 《Grisaia》 character, this card cannot 【STAND】 during your stand phase. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Grisaia》 characters you have ×1000.",
+    "flavorText": "Yes, it is. You have no idea just how nervous I've been since yesterday, do you?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E095.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E096",
+    "name": "Turn Around And There's Sachi",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "4",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your opponent's characters, and 【REST】 it.",
+    "flavorText": "Yuuji: \"So, who's the target?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E096.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E097",
+    "name": "L'oiseau bleu",
+    "number": "E097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Yumiko: \"Thank you, Yuuji.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E097.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E098",
+    "name": "Kiss in the Middle of the Night",
+    "number": "E098",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Nnnh...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E098.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E099",
+    "name": "Facing the Future",
+    "number": "E099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "Thank you... for taking me here, Yuuji...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E099.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E100",
+    "name": "Crazy Apple",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Uh... uuunhh…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E100.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E101",
+    "name": "Heartbreaking Resolve, Yumiko",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 All of your other 《Grisaia》 characters get +500 power. 【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Grisaia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I'm really, truly worried about you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E101.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E102",
+    "name": "Two Taking a Bath, Amane",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "Washing a boy's hair in the bath has always been something of a dream of mine, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E102.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E103",
+    "name": "A New Beginning, Michiru",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Grisaia》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "I can talk to you again?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E103.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E104",
+    "name": "Napping, Sachi",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 If you do not have another 《Grisaia》 character, this card cannot 【STAND】 during your stand phase. 【AUTO】 This ability activates up to 1 time per turn. When you play an event, this card gets +2000 power until end of turn.",
+    "flavorText": "At the moment, I'm having my boyfriend act as a human pillow.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E104.png"
+    }
+  },
+  {
+    "id": "GRI/S72-E105",
+    "name": "Awkward Gratitude, Makina",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1000 power for each of your other 《Grisaia》 characters.",
+    "flavorText": "Ya know what...? I'm really grateful to everybody...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_E105.png"
+    }
+  },
+  {
+    "id": "GRI/S72-PE02",
+    "name": "Bunny Girl, Yumiko",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +1500 power. 【AUTO】 When your opponent's climax is placed on their climax area, you may put this card into your stock.",
+    "flavorText": "W-What do you mean it was an impulse...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_PE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_PE02.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE01",
+    "name": "Her Uneasy Daily Life, Yumiko",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 Your other character in the middle position of your center stage gets +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE01.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE02",
+    "name": "Reliable Bodyguard, Yuuji",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Grisaia》 characters, 【REST】 it, and move it to an open position of your back stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE02.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE03",
+    "name": "Sisterly Relationship, Makina",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE03.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE04",
+    "name": "Makina Irisu",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Grisaia》 characters, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card attacks, if \"Sleeping Like A Cat\" is in your climax area, this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "Thanks, Onii-chan! Will you play with me again?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE04.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE05",
+    "name": "Yumiko Sakaki",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Grisaia》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "...Look, you. Stop calling me by my first name already.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE05.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE06",
+    "name": "Spoiled Child, Makina",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Bread"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 level 2 or lower character in your opponent's center stage, and put it into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE06.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE07",
+    "name": "Sheltered Young Lady, Yumiko",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all of your characters get +3000 power until end of turn. 【AUTO】 [(4) Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE07.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE08",
+    "name": "Parent-Teacher Conference",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE08.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE09",
+    "name": "Sleeping Like A Cat",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE09.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE10",
+    "name": "Sachi Komine",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.",
+    "flavorText": "Yes, the pleasure is all mine.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE10.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE11",
+    "name": "Important Practice, Michiru",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. 【ACT】 [(1) Put this card into your waiting room] If your level is 2 or higher, choose 1 \"Michiru Matsushima\" in your waiting room, and put it in the stage position that this card was in.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE11.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE12",
+    "name": "Sisterly Relationship, Amane",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【CONT】 All of your other \"Sisterly Relationship, Makina\" get +1000 power. 【AUTO】 [Put 1 《Grisaia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Sisterly Relationship, Makina\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE12.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE13",
+    "name": "Love at First Sight, Amane",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1 level and +1000 power until end of turn. 【AUTO】 When this card attacks, choose 1 of your other 《Grisaia》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Grisaia》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE13.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE14",
+    "name": "Together at the Sea, Sachi",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Grisaia》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE14.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE15",
+    "name": "Insignificant Worries, Michiru",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE15.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE16",
+    "name": "Michiru Matsushima",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Tsundere"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000. 【AUTO】 Encore [Put 1 《Grisaia》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Tsundere means blond and twintails!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE16.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE17",
+    "name": "Winner's Reward, Sachi",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Grisaia",
+      "Maid"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Grisaia》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE17.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE18",
+    "name": "Amane Suou",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Grisaia",
+      "Housework"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "I'm Suou Amane. Nice to meet you, Yuuji-kun.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE18.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE19",
+    "name": "Cicada Sisters",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to 2 characters in your waiting room, and return them to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE19.png"
+    }
+  },
+  {
+    "id": "GRI/S72-TE20",
+    "name": "Surprise Party",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/GRI/S72_TE20.png"
+    }
+  }
+]

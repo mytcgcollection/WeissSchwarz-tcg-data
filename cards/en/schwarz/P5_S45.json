@@ -1,0 +1,3199 @@
+[
+  {
+    "id": "P5/S45-E001",
+    "name": "Protagonist as JOKER & Arsene",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Thief》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(3) Put a 《Thief》 character from your hand into your waiting room] At the beginning of your encore step, if your opponent does not have any characters in his or her center stage, or if all characters in your opponent's center stage are 【REVERSE】, you may pay the cost. If you do, for each 《Thief》 character in your center stage, perform the following action. \"Reveal the top card of your deck, put it on the bottom of your deck, and deal X damage to your opponent. X is equal to that card's level.\" Shuffle your deck afterwards. (Climax are regarded as level 0. This damage may be canceled)",
+    "flavorText": "Igor: \"...Do you have the resolve\nto challenge the distortion\nof the world?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E001.png"
+    }
+  },
+  {
+    "id": "P5/S45-E002",
+    "name": "Ryuji as SKULL: All-out Attack",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room. 【AUTO】 [Put a card from your hand into your waiting room] When a card named \"FREAKiN' BoRiNG\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose up to one of your opponent's characters, return it to his or her hand, choose one of your 《Thief》 or 《Sports》 characters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "This is it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E002.png"
+    }
+  },
+  {
+    "id": "P5/S45-E003",
+    "name": "Protagonist: The Will of Rebellion",
+    "number": "E003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Thief》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I am thou, thou art I...\nThou who art willing to perform all sacrilegious acts for thine own justice!\nCall upon my name, and release thy rage!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E003.png"
+    }
+  },
+  {
+    "id": "P5/S45-E004",
+    "name": "Ryuji as SKULL: The Phantom Vanguard",
+    "number": "E004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 or 《Sports》 characters get +500 power. 【AUTO】 When damage dealt by your direct attacking character is not canceled, choose a face down card in your opponent's memory, and put it into his or her waiting room. If you do, search your deck for up to one 《Thief》 or 《Sports》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "This effin' rocks!\nNow that I got this power, it's time for payback…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E004.png"
+    }
+  },
+  {
+    "id": "P5/S45-E005",
+    "name": "Ryuji Sakamoto",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Thief》 or 《Sports》 characters.",
+    "flavorText": "I'm Ryuji Sakamoto.\nI'll come talk if I see you around.\nDon't ignore me, all right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E005.png"
+    }
+  },
+  {
+    "id": "P5/S45-E006",
+    "name": "Protagonist as JOKER: All-out Attack",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of 《Thief》 characters you have is four or more, this card gets -1 level while in your hand. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"THE SHOW'S OVER\" is in your climax area, and the number of　other 《Thief》 characters you have is four or more, draw a card, search your deck for up to one level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E006.png"
+    }
+  },
+  {
+    "id": "P5/S45-E007",
+    "name": "Ryuji as SKULL & Captain Kidd",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Yo, I'm Ready...\" is in your climax area, choose up to one of your other characters and up to one of your opponent's characters, and return them to hand.",
+    "flavorText": "I am thou, thou art I...\nThere is no turning back...\nThe skull of rebellion\nis your flag henceforth!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E007.png"
+    }
+  },
+  {
+    "id": "P5/S45-E008",
+    "name": "Ryuji as SKULL: A Big Smile",
+    "number": "E008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets +1000 power. 【AUTO】 At the beginning of your main phase, you may put the top card of your deck into your waiting room. If that card is a level 2 or higher character, this card gets the following ability until end of turn. \"【CONT】 Your other character in the middle position of the center stage gets +1 soul.\"",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E008.png"
+    }
+  },
+  {
+    "id": "P5/S45-E009",
+    "name": "Protagonist: Leblanc's Troublesome Guest",
+    "number": "E009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Thief》 characters revealed among those cards. 【AUTO】 [Return two characters in your waiting room to your deck, and shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E009.png"
+    }
+  },
+  {
+    "id": "P5/S45-E010",
+    "name": "Akechi: The New Detective Prince",
+    "number": "E010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your waiting room] When your other character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "I feel like our discussions could\nprove quite fruitful. Would you\nmind talking with me again?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E010.png"
+    }
+  },
+  {
+    "id": "P5/S45-E011",
+    "name": "Ryuji: It's a Deal",
+    "number": "E011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Calling Card\" in your waiting room, and return it to your hand.",
+    "flavorText": "I'm countin' on you!\nDon't worry; I'm hyped\nabout this too!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E011.png"
+    }
+  },
+  {
+    "id": "P5/S45-E012",
+    "name": "Protagonist: Prisoner of Fate",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 All of your other cards named \"Protagonist as JOKER & Arsene\" get +500 power and the following ability. \"【AUTO】 During your turn, when this card's battle opponent becomes 【REVERSE】, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" 【CONT】 Assist During your turn, all of your characters in front of this card get +X power. X is equal to 1000 multiplied by that character's level.",
+    "flavorText": "Heh.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E012.png"
+    }
+  },
+  {
+    "id": "P5/S45-E013",
+    "name": "Swimsuit Ryuji",
+    "number": "E013",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.",
+    "flavorText": "It's so damn crowded...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E013.png"
+    }
+  },
+  {
+    "id": "P5/S45-E014",
+    "name": "Goro Akechi",
+    "number": "E014",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Detective",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order.",
+    "flavorText": "If they truly are heroes of justice,\nI sincerely hope they exist.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E014.png"
+    }
+  },
+  {
+    "id": "P5/S45-E015",
+    "name": "Swimsuit Protagonist",
+    "number": "E015",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Thief》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E015.png"
+    }
+  },
+  {
+    "id": "P5/S45-E016",
+    "name": "Protagonist as JOKER: Thief Clad in Black",
+    "number": "E016",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets the following ability. \"【CONT】 If the character facing this card is green or red, this card gets +3000 power.\" 【AUTO】 When this card is placed on the stage from your hand or waiting room, you may choose a card named \"Protagonist as JOKER: Lurking in the Dark\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Protagonist as JOKER: Lurking in the Dark\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)",
+    "flavorText": "Let's do this!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E016.png"
+    }
+  },
+  {
+    "id": "P5/S45-E017",
+    "name": "Protagonist as JOKER: Lurking in the Dark",
+    "number": "E017",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets the following ability. \"【CONT】 If the character facing this card is yellow or blue, this card gets +3000 power.\" 【AUTO】 When this card is placed on the stage from your hand or waiting room, you may choose a card named \"Protagonist as JOKER: Thief Clad in Black\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Protagonist as JOKER: Thief Clad in Black\" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E017.png"
+    }
+  },
+  {
+    "id": "P5/S45-E018",
+    "name": "Ryuji as SKULL: The Fight Is On",
+    "number": "E018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【CONT】 During your turn, if this card is in the middle position of your center stage, this card gets +4000 power. 【AUTO】 [Exchange a 【STAND】 character in your center stage and this card] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose one of your characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "We'll expose what you really are,\nno matter what! You better be\nready for us...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E018.png"
+    }
+  },
+  {
+    "id": "P5/S45-E019",
+    "name": "Yuuki Mishima",
+    "number": "E019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "I'd really like to help out in the\nPhantom Thieves' acts of justice!\n...Can I, please?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E019.png"
+    }
+  },
+  {
+    "id": "P5/S45-E020",
+    "name": "Akechi: The High-School Detective",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Detective",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +2000 power. 【AUTO】 When this card is put into your waiting room from the stage, choose one of your 《Thief》 characters, and put it into your waiting room.",
+    "flavorText": "If these Phantom Thieves are real...\nI believe they should be\ntried in a court of law.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E020.png"
+    }
+  },
+  {
+    "id": "P5/S45-E021",
+    "name": "Calling Card",
+    "number": "E021",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If there are no face down cards in your opponent's memory, your opponent chooses a card from your opponent's hand, puts it face down into his or her memory, and draws up to one card. Look at up to four cards from the top of your deck, choose up to one 《Thief》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. You may choose one of your opponent's cost 0 or less characters in the center stage, and return it to his or her hand.",
+    "flavorText": "Morgana: \"We warn them. Tell them, \"We're\ngoing to steal your heart.\"\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E021.png"
+    }
+  },
+  {
+    "id": "P5/S45-E022",
+    "name": "Wild Talk",
+    "number": "E022",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Thief》 character, this card cannot be played from your hand. Choose one of the following effects and perform it. \"Search your deck for up to one 《Thief》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\" \"Put this card into your stock, and put the top card of your deck into your stock.\" \"All of your characters get +1 soul until end of turn.\"",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E022.png"
+    }
+  },
+  {
+    "id": "P5/S45-E023",
+    "name": "THE SHOW'S OVER",
+    "number": "E023",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E023.png"
+    }
+  },
+  {
+    "id": "P5/S45-E024",
+    "name": "FREAKiN' BoRiNG",
+    "number": "E024",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "And don't come back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E024.png"
+    }
+  },
+  {
+    "id": "P5/S45-E025",
+    "name": "Yo, I'm Ready...",
+    "number": "E025",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Blast him away... \"Captain Kidd\"!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E025.png"
+    }
+  },
+  {
+    "id": "P5/S45-E026",
+    "name": "Makoto as QUEEN & Johanna",
+    "number": "E026",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock. 【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Thief》 or 《Student Council》 or 《Prosecutor》 character, you may pay the cost. If you do, return this card to your hand. (The revealed card is returned to its original place)",
+    "flavorText": "I am thou, thou art I...\nYou have finally found\nyour own justice...\nPlease... Never lose sight of it again.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E026.png"
+    }
+  },
+  {
+    "id": "P5/S45-E027",
+    "name": "Haru as NOIR & Milady",
+    "number": "E027",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 [(2) Put a card from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\"",
+    "flavorText": "I am thou, thou art I...\nLet us adorn your departure into\nfreedom with a beautiful betrayal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E027.png"
+    }
+  },
+  {
+    "id": "P5/S45-E028",
+    "name": "Makoto as QUEEN: The Phantom Tactician",
+    "number": "E028",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Thief》 or 《Student Council》 or 《Prosecutor》 characters, and that character gets +1 level and +1000 power until end of turn. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 or 《Student Council》 or 《Prosecutor》 character in your clock, return it to your hand, and put the top card of your deck into your clock.",
+    "flavorText": "I will not lose heart again, ever.\nI will go full speed, non-stop!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E028.png"
+    }
+  },
+  {
+    "id": "P5/S45-E029",
+    "name": "Haru Okumura",
+    "number": "E029",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, reveal the top card of your deck. If that card is a 《Thief》 character, choose one of your characters, and that character gets +1000 power until the end of your opponent's next turn. (The revealed card is returned to its original place) 【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.\"",
+    "flavorText": "I just want my father to\natone for his crimes.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E029.png"
+    }
+  },
+  {
+    "id": "P5/S45-E030",
+    "name": "Swimsuit Makoto",
+    "number": "E030",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, 【REST】 this card.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E030.png"
+    }
+  },
+  {
+    "id": "P5/S45-E031",
+    "name": "Makoto Niijima",
+    "number": "E031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.",
+    "flavorText": "I… can't be like my sister.\nI had a feeling that there'd\ncome a time.. .when we wouldn't see\neye to eye anymore.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E031.png"
+    }
+  },
+  {
+    "id": "P5/S45-E032",
+    "name": "Haru as NOIR: All-out Attack",
+    "number": "E032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【CONT】 If a card named \"Haru as NOIR & Milady\" is in your clock, this card gets -1 level while in your hand. 【AUTO】 When a card named \"Adieu.\" is placed on your climax area, if this card is in your center stage, put the top card of your deck into your stock, and this card gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "Time to punish them.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E032.png"
+    }
+  },
+  {
+    "id": "P5/S45-E033",
+    "name": "Sadayo Kawakami",
+    "number": "E033",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Maid"
+    ],
+    "text": "【CONT】 If your level is 3 or higher, this card gets the following ability. \"【ACT】 [Put this card into your waiting room] Choose up to one card named \"Protagonist as JOKER & Arsene\" in your hand, and put it on the stage position that this card was on.\"",
+    "flavorText": "...Well, I'd like to introduce\na transfer student.\nToday, we... had him attend from\nthe afternoon on since he wasn't\n\"feeling well\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E033.png"
+    }
+  },
+  {
+    "id": "P5/S45-E034",
+    "name": "Toranosuke Yoshida",
+    "number": "E034",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Speech",
+      "-"
+    ],
+    "text": "【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\" 【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one character with \"Protagonist(主人公)\" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Everyone, wake up!\nThis country is twisted!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E034.png"
+    }
+  },
+  {
+    "id": "P5/S45-E035",
+    "name": "Haru as NOIR: The Mysterious Beauty Thief",
+    "number": "E035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【CONT】 During your turn, all of your other cards named \"Morgana Car\" get +2000 power. 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named \"Morgana Car\", put it on any position of your stage, and shuffle your deck.",
+    "flavorText": "My name is Beauty Thief!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E035.png"
+    }
+  },
+  {
+    "id": "P5/S45-E036",
+    "name": "Makoto as QUEEN: All-out Attack",
+    "number": "E036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Thief》 or 《Student Council》 or 《Prosecutor》 characters you have. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"JUSTICE HAS PREVAILED.\" is in your climax area, choose one of your other characters, and that character gets +1 level and +2500 power until the end of your opponent's next turn.",
+    "flavorText": "They're in disarray!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E036.png"
+    }
+  },
+  {
+    "id": "P5/S45-E037",
+    "name": "Haru as NOIR: The Phantom Lady",
+    "number": "E037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +2000 power. 【AUTO】 [Exchange a 【STAND】 character in your center stage and this card] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Farewell, dear Father.\nI am no longer your subservient puppet!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E037.png"
+    }
+  },
+  {
+    "id": "P5/S45-E038",
+    "name": "Makoto as QUEEN: Miss Post-Apocalyptic Raider",
+    "number": "E038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [(1) Put a 《Thief》 or 《Student Council》 or 《Prosecutor》 character from your hand into your waiting room] When the damage dealt by your direct attacking character is not canceled, if the number of other 《Thief》 or 《Student Council》 or 《Prosecutor》 characters you have is three or more, you may pay the cost. If you do, choose a face down card in your opponent's memory, and put it into his or her clock.",
+    "flavorText": "Ryuji: \" 'Sup, Miss Post-Apocalyptic Raider.\"\nMakoto: \"Do you want to get smacked?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E038.png"
+    }
+  },
+  {
+    "id": "P5/S45-E039",
+    "name": "Sae Niijima",
+    "number": "E039",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Prosecutor",
+      "-"
+    ],
+    "text": "【AUTO】 Bond/\"Makoto as QUEEN: All-out Attack\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Makoto as QUEEN: All-out Attack\" in your waiting room, and return it to your hand.) 【ACT】 [【REST】 this card] Choose one of your 《Thief》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "All you need to do is remain\nfocused on what must be done now\nfor your future's sake.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E039.png"
+    }
+  },
+  {
+    "id": "P5/S45-E040",
+    "name": "Prosecutor Sae",
+    "number": "E040",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Prosecutor",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [Put this card into your waiting room] When another of your characters with \"Protagonist(主人公)\" in its card name is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E040.png"
+    }
+  },
+  {
+    "id": "P5/S45-E041",
+    "name": "Haru: It's a Deal",
+    "number": "E041",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【CONT】 If the number of other characters in your center stage is one or less, this card gets +2000 power. 【AUTO】 When this card attacks, if the number of other characters you have is one or less, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, put that character on any position of your back stage, and that character gets 《Coffee》 until end of turn.",
+    "flavorText": "It's a deal! *giggle* We're\nlike real phantom thieves!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E041.png"
+    }
+  },
+  {
+    "id": "P5/S45-E042",
+    "name": "Makoto: It's a Deal",
+    "number": "E042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 characters get +500 power. 【ACT】 [【REST】 this card] Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.\"",
+    "flavorText": "Perhaps it won't be immediately...\nbut I'm sure I can be of use.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E042.png"
+    }
+  },
+  {
+    "id": "P5/S45-E043",
+    "name": "Haru: A Life on Rails",
+    "number": "E043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E043.png"
+    }
+  },
+  {
+    "id": "P5/S45-E044",
+    "name": "Chihaya Mifune",
+    "number": "E044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Fortune Telling",
+      "Tarot"
+    ],
+    "text": "【AUTO】 When you use \"Change\", choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 This ability activates up to one time per turn. When you use \"Backup\", choose one of your characters in battle, and that character gets +1000 power until end of turn.",
+    "flavorText": "E-Excuse me!\nFor the blond one, I can sense\nimpending woman troubles.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E044.png"
+    }
+  },
+  {
+    "id": "P5/S45-E045",
+    "name": "Ichiko Ohya",
+    "number": "E045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Camera",
+      "-"
+    ],
+    "text": "【CONT】 【CLOCK】 Alarm If this card is the top card of your clock, all of your characters with \"Protagonist(主人公)\" in its card name get the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at the top card of your opponent's deck, and put it on the top or the bottom of his or her deck.\"",
+    "flavorText": "I'm a journalist.\nIf you ever get any leads,\nmind contacting me here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E045.png"
+    }
+  },
+  {
+    "id": "P5/S45-E046",
+    "name": "Calling Card",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If there are no face down cards in your opponent's memory, your opponent chooses a card from your opponent's hand, puts it face down into his or her memory, and draws up to one card. Choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\" Put this card into your memory.",
+    "flavorText": "Kaneshiro: \"Phantom Thieves...?\nDon't make me laugh.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E046.png"
+    }
+  },
+  {
+    "id": "P5/S45-E047",
+    "name": "Metaverse Navigator",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose a level 1 or lower character in your clock, put it on any position of your stage, put the top card of your deck into your clock, and that character gets 《Thief》 until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E047.png"
+    }
+  },
+  {
+    "id": "P5/S45-E048",
+    "name": "Tanaka's Shady Commodities",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Thief》 character, this card cannot be played from your hand. Put this card into your memory. Draw a card. If the number of cards named \"Tanaka's Shady Commodities\" in your memory is two or more, choose a 《Thief》 character in your waiting room, and return it to your hand. If the number of cards named \"Tanaka's Shady Commodities\" in your memory is three or more, search your deck for up to one 《Thief》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. If the number of cards named \"Tanaka's Shady Commodities\" in your memory is four or more, you may choose a 《Thief》 character in your clock, and put it into your waiting room.",
+    "flavorText": "Heheheh...\nWelcome to the alluring world\nof Tanaka's Shady Commodities!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E048.png"
+    }
+  },
+  {
+    "id": "P5/S45-E049",
+    "name": "Adieu.",
+    "number": "E049",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Coup de grace!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E049.png"
+    }
+  },
+  {
+    "id": "P5/S45-E050",
+    "name": "JUSTICE HAS PREVAILED.",
+    "number": "E050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Fist of justice!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E050.png"
+    }
+  },
+  {
+    "id": "P5/S45-E051",
+    "name": "Morgana as MONA & Zorro",
+    "number": "E051",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, if the number of other 《Thief》 characters you have is two or more, this card gets +2000 power until end of turn.",
+    "flavorText": "You wanna escape this place in\none piece, right? Let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E051.png"
+    }
+  },
+  {
+    "id": "P5/S45-E052",
+    "name": "Ann as PANTHER: All-out Attack",
+    "number": "E052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"omg!! We are SO awesome\" is in your climax area, choose up to one 《Thief》 character in your waiting room, put it into your stock, and deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "Do it with style!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E052.png"
+    }
+  },
+  {
+    "id": "P5/S45-E053",
+    "name": "Ann as PANTHER: The Talented(?) Phantom Actress",
+    "number": "E053",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, choose one of your characters, and that character gets +1500 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Scared?\nRight now, you're seeing the\nsame view that Shiho did.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E053.png"
+    }
+  },
+  {
+    "id": "P5/S45-E054",
+    "name": "Morgana as MONA: The Phantom Guide",
+    "number": "E054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "From now on, I'm not going\nto hold anything back.\nYou'd better put some\neffort in too! Don't\nmake me regret my choice!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E054.png"
+    }
+  },
+  {
+    "id": "P5/S45-E055",
+    "name": "Ann as PANTHER & Carmen",
+    "number": "E055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [Exchange a 【STAND】 character in your center stage and this card] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "I am thou, thou art I...\nWe can finally forge a contract…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E055.png"
+    }
+  },
+  {
+    "id": "P5/S45-E056",
+    "name": "Morgana as MONA: All-out Attack",
+    "number": "E056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn. 【AUTO】 When this card attacks, if a card named \"MISSION ACCOMPLISHED\" is in your climax area, and you have another 《Thief》 character, reveal the top card of your deck, and put that card into your hand. If that card is not a 《Thief》 character, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Quiver in fear!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E056.png"
+    }
+  },
+  {
+    "id": "P5/S45-E057",
+    "name": "Ann Takamaki",
+    "number": "E057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 character in your waiting room, and return it to your hand.",
+    "flavorText": "If you're going to deal with\nKamoshida... let me in on it too.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E057.png"
+    }
+  },
+  {
+    "id": "P5/S45-E058",
+    "name": "Shinya Oda",
+    "number": "E058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Net Game",
+      "-"
+    ],
+    "text": "【CONT】 【CLOCK】 Alarm If this card is the top card of your clock and your level is 2 or higher, all of your characters with \"Protagonist(主人公)\" in its card name get the following ability. \"【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character.\"",
+    "flavorText": "...Once you stop them from\nmoving, you gotta hit their\nweak point right away.\nYou should be able to\ninflict a lot of damage to the cheater this way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E058.png"
+    }
+  },
+  {
+    "id": "P5/S45-E059",
+    "name": "Ann as PANTHER: Quiet Rage",
+    "number": "E059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 characters get +500 power. 【AUTO】 [(1)] When damage dealt by your direct attacking character is not canceled, choose a face down card in your opponent's memory, and put it into his or her waiting room. If you do, you may pay the cost. If you do, choose a 《Thief》 character in your waiting room, and return it to your hand.",
+    "flavorText": "You stole everything from\nShiho... You destroyed her...\nNow it's your turn!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E059.png"
+    }
+  },
+  {
+    "id": "P5/S45-E060",
+    "name": "Ann: It's a Deal",
+    "number": "E060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 character in your waiting room, and return it to your hand.",
+    "flavorText": "I'll do whatever it takes!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E060.png"
+    }
+  },
+  {
+    "id": "P5/S45-E061",
+    "name": "Morgana as MONA: It's a Deal",
+    "number": "E061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Thief》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "Hehehe... Then it's a deal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E061.png"
+    }
+  },
+  {
+    "id": "P5/S45-E062",
+    "name": "Ann as PANTHER: Determination",
+    "number": "E062",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +2000 power. 【AUTO】 [(1)] When a card named \"For My Best Friend\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a cost 0 or lower 《Thief》 character in your waiting room, put it on any position of your stage, and this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\"",
+    "flavorText": "Shut up. I bet everyone... told you the same!\nBut you... you took everything from them!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E062.png"
+    }
+  },
+  {
+    "id": "P5/S45-E063",
+    "name": "Morgana Car",
+    "number": "E063",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [(2) Put two cards from your hand into your waiting room] At the beginning of your opponent's main phase, you may pay the cost. If you do, put all of your other characters face down in any order underneath this card as markers. 【AUTO】 At the beginning of your opponent's attack phase, if there is a marker underneath this card, you may move this card to an open position of your stage. 【AUTO】 At the beginning of your main phase, put all markers from underneath this card on to separate positions of your stage.",
+    "flavorText": "We're going full throttle!\nIt's time to fly!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E063.png"
+    }
+  },
+  {
+    "id": "P5/S45-E064",
+    "name": "Hifumi Togo",
+    "number": "E064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Shogi",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 character in your waiting room, return it to your hand, choose one of your other 《Thief》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "If it's all right with you,\nmay I request another\nmatch sometime?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E064.png"
+    }
+  },
+  {
+    "id": "P5/S45-E065",
+    "name": "Morgana as MONA: Earnest Affection",
+    "number": "E065",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 During your turn, all of your other cards named \"Ann as PANTHER & Carmen\" get +2000 power. 【AUTO】 When your other character in the middle position of the center stage attacks, you may put the top card of your deck into your waiting room. If that card is a climax, choose a card in your opponent's waiting room, and put it on the top of his or her deck.",
+    "flavorText": "If my actions can help her\nachieve happiness, that's\nmore than enough for me…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E065.png"
+    }
+  },
+  {
+    "id": "P5/S45-E066",
+    "name": "Munehisa Iwai",
+    "number": "E066",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Weapon",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a 《Weapon》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Real guns feel... different.\nMaybe someday I'll show you the\nreal good stuff.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E066.png"
+    }
+  },
+  {
+    "id": "P5/S45-E067",
+    "name": "Swimsuit Ann",
+    "number": "E067",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, if the number of other 《Thief》 characters you have is two or more, this card gets +2000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E067.png"
+    }
+  },
+  {
+    "id": "P5/S45-E068",
+    "name": "Morgana as MONA: Identity Unknown",
+    "number": "E068",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E068.png"
+    }
+  },
+  {
+    "id": "P5/S45-E069",
+    "name": "Morgana as MONA: For the Sake of the Team",
+    "number": "E069",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Thief》 characters you have. 【AUTO】 When a card named \"Where I Belong\" is placed on your climax area, if this card is in your center stage, you may choose three characters in your waiting room, and return them to your hand. If you do, choose three cards in your hand, and put them into your waiting room.",
+    "flavorText": "In this world, there are tons of things that money and fame can't buy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E069.png"
+    }
+  },
+  {
+    "id": "P5/S45-E070",
+    "name": "Calling Card",
+    "number": "E070",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If there are no face down cards in your opponent's memory, your opponent chooses a card from your opponent's hand, puts it face down into his or her memory, and draws up to one card. Choose up to one of your opponent's level 1 or lower characters in the center stage, put it into his or her waiting room, choose one of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Kamoshida: \"Come... Steal it, if you can!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E070.png"
+    }
+  },
+  {
+    "id": "P5/S45-E071",
+    "name": "Mementos",
+    "number": "E071",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Put this card into your memory. 【AUTO】 Memory [Put this card into your waiting room] When the damage you received is not canceled, if this card is in your memory and that damage is three or more, you may pay the cost. If you do, choose up to two characters in your waiting room, return them to your hand, choose a card in your hand, and put it into your stock.",
+    "flavorText": "Instead of many individual\nPalaces, the \"general public\" has\none gigantic shared Palace.\nThat's where we are now...\nMementos.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E071.png"
+    }
+  },
+  {
+    "id": "P5/S45-E072",
+    "name": "omg!! We are SO awesome",
+    "number": "E072",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "How's that!? *giggle*",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E072.png"
+    }
+  },
+  {
+    "id": "P5/S45-E073",
+    "name": "For My Best Friend",
+    "number": "E073",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Let's go, Carmen!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E073.png"
+    }
+  },
+  {
+    "id": "P5/S45-E074",
+    "name": "MISSION ACCOMPLISHED",
+    "number": "E074",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Game over!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E074.png"
+    }
+  },
+  {
+    "id": "P5/S45-E075",
+    "name": "Where I Belong",
+    "number": "E075",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Nobody could replace these guys, period!\nYou know what that means? Your offer was a no-go from the start!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E075.png"
+    }
+  },
+  {
+    "id": "P5/S45-E076",
+    "name": "Futaba as ORACLE: Navigation Duty",
+    "number": "E076",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "5500",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 or 《Coffee》 characters get +1500 power. 【AUTO】 [(1) Put a card named \"I'll Never Forgive Them!\" from your hand into your waiting room] When another of your characters is being attacked, if the number of other 《Thief》 or 《Coffee》 characters you have is three or more, you may pay the cost. If you do, choose one of your opponent's characters in battle, and that character gets the following ability until end of turn. \"【CONT】 This card cannot deal damage to a player.\" 【AUTO】 During your opponent's turn, when the damage you received is not canceled, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Support's on the way!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E076.png"
+    }
+  },
+  {
+    "id": "P5/S45-E077",
+    "name": "Yusuke as FOX & Goemon",
+    "number": "E077",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put a 《Thief》 character from your hand into your waiting room] When this card attacks, if you have another 《Thief》 character, you may pay the cost. If you do, put the top card of your clock into your waiting room. 【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "I am thou, thou art I...\nThe world is filled with both beauty and vice...\nIt is time you teach people which is which!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E077.png"
+    }
+  },
+  {
+    "id": "P5/S45-E078",
+    "name": "Caroline",
+    "number": "E078",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Twins",
+      "Eye Patch"
+    ],
+    "text": "【CONT】 If you would pay the cost for an event in your hand, you may put a marker from underneath this card into your waiting room instead of a card from your stock. 【AUTO】 [【REST】 this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker. 【AUTO】 [(1)] When a climax is put on your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Thief》 or 《Twins》 character or character with \"Igor(イゴール)\" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Hmph, try and struggle\nas hard as you like.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E078.png"
+    }
+  },
+  {
+    "id": "P5/S45-E079",
+    "name": "Futaba Sakura",
+    "number": "E079",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Thief》 or 《Coffee》 character, you may put it face down underneath this card as a marker. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Futaba: \"I knew the Medjed members in\nJapan weren't anything special,\nso I wasn't worried.\"\nAnn: \"How do you know that?\"\nFutaba: \" 'Cause I'm the founder.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E079.png"
+    }
+  },
+  {
+    "id": "P5/S45-E080",
+    "name": "Yusuke as FOX: The Phantom Artist",
+    "number": "E080",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Calling Card\" in your waiting room, and return it to your hand. 【AUTO】 This ability activates up to one time per turn. When you play an event, this card gets +2000 power until end of turn.",
+    "flavorText": "I thank you, Madarame...!\nEvery reason for me to forgive\nyou has disappeared without a\ntrace at this very moment!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E080.png"
+    }
+  },
+  {
+    "id": "P5/S45-E081",
+    "name": "Futaba as ORACLE & Necronomicon",
+    "number": "E081",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Thief》 or 《Coffee》 characters you have.",
+    "flavorText": "I am thou, thou art I...\nThe forbidden wisdom has been revealed.\nNo mysteries... No illusions shall deceive you any longer.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E081.png"
+    }
+  },
+  {
+    "id": "P5/S45-E082",
+    "name": "Yusuke Kitagawa",
+    "number": "E082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have another 《Thief》 character, draw up to one card, choose a card in your hand, put it into your waiting room, and put up to one card from the top of your deck into your stock. 【AUTO】 Change [(1) Put two 《Thief》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Yusuke as FOX & Goemon\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "An artist and a Phantom Thief...\nIt seems I'll be engaging in\ntwo trades from here on...\nVery well. You only\nlive once, after all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E082.png"
+    }
+  },
+  {
+    "id": "P5/S45-E083",
+    "name": "Justine",
+    "number": "E083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Twins",
+      "Eye Patch"
+    ],
+    "text": "【CONT】 If you have another card named \"Caroline\", this card gets \"【CONT】 Assist All of your 《Thief》 characters in front of this card get +1 level and +500 power.\". 【AUTO】 Bond/\"Caroline\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Caroline\" in your waiting room, and return it to your hand.)",
+    "flavorText": "The duty of wardens is to protect inmates.\nWe are also your collaborators.\n...That is, if you remain obedient.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E083.png"
+    }
+  },
+  {
+    "id": "P5/S45-E084",
+    "name": "Swimsuit Futaba",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 or 《Coffee》 characters get +500 power. 【AUTO】 [(1) Put a card from your hand into your waiting room] When damage dealt by your direct attacking character is not canceled, choose a face down card in your opponent's memory, and put it into his or her waiting room. If you do, you may pay the cost. If you do, put the top card of your clock into your waiting room.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E084.png"
+    }
+  },
+  {
+    "id": "P5/S45-E085",
+    "name": "Igor: Imposer of Rehabilitation",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Execution\" in your waiting room, and return it to your hand.",
+    "flavorText": "The time has come... Your\nrehabilitation will soon begin.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E085.png"
+    }
+  },
+  {
+    "id": "P5/S45-E086",
+    "name": "Futaba as ORACLE: The Phantom Hacker",
+    "number": "E086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "Whoa! What in the world!?\nOoh! It's totally skin-tight!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E086.png"
+    }
+  },
+  {
+    "id": "P5/S45-E087",
+    "name": "Tae Takemi",
+    "number": "E087",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Doctor",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+    "flavorText": "I guess high school kids have\nit tough nowadays too, huh?\nWell, fine. I'll prescribe\nyou some medication.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E087.png"
+    }
+  },
+  {
+    "id": "P5/S45-E088",
+    "name": "Sojiro Sakura",
+    "number": "E088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Glasses",
+      "Coffee"
+    ],
+    "text": "【CONT】 All of your other cards named \"Futaba: Hacking in Session\" get +1 level and +500 power. 【AUTO】 Bond/\"Futaba: Hacking in Session\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Futaba: Hacking in Session\" in your waiting room, and return it to your hand.)",
+    "flavorText": "I know it's cliche, but more than\nanything I want Futaba to be happy\nlike a normal person.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E088.png"
+    }
+  },
+  {
+    "id": "P5/S45-E089",
+    "name": "Yusuke: First Encounter",
+    "number": "E089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 characters get +500 power. 【AUTO】 [(1)] When your other character in the middle position of the center stage attacks, you may put the top card of your deck into your waiting room. If that card is a climax, you may pay the cost. If you do, draw a card.",
+    "flavorText": "…?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E089.png"
+    }
+  },
+  {
+    "id": "P5/S45-E090",
+    "name": "Yusuke: It's a Deal",
+    "number": "E090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.",
+    "flavorText": "I was the one who was able\nto bring it to life, all thanks\nto your assistance.\nYou have my sincerest gratitude.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E090.png"
+    }
+  },
+  {
+    "id": "P5/S45-E091",
+    "name": "Futaba: It's a Deal",
+    "number": "E091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your stock for up to one 《Thief》 or 《Coffee》 character or event, reveal it to your opponent, return it to your hand, and shuffle your stock.",
+    "flavorText": "Please, be my key item!\nI'll try and get better\nat navigation if you do!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E091.png"
+    }
+  },
+  {
+    "id": "P5/S45-E092",
+    "name": "Futaba: Hacking in Session",
+    "number": "E092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【CONT】 If the number of 《Thief》 or 《Coffee》 characters you have is two or less, this card cannot be played from your hand.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E092.png"
+    }
+  },
+  {
+    "id": "P5/S45-E093",
+    "name": "Yusuke: Card Duplication",
+    "number": "E093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 Your other 《Thief》 character in the middle position of the center stage gets +2000 power. 【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one climax with the same card name as a climax in your waiting room, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I must inherit my mother's wishes...\nand improve myself even further.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E093.png"
+    }
+  },
+  {
+    "id": "P5/S45-E094",
+    "name": "Igor: Master of the Velvet Room",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      ""
+    ],
+    "text": "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your main phase, look at your opponent's hand.",
+    "flavorText": "I am Igor, the master of this place. Remember it well.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E094.png"
+    }
+  },
+  {
+    "id": "P5/S45-E095",
+    "name": "Yusuke as FOX: All-out Attack",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +2000 power. 【AUTO】 [(1)] When a card named \"IT WAS FUN WHILE IT LASTED, GOODBYE.\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one card named \"Yusuke as FOX: All-out Attack\", put it on any position of your stage, and shuffle your deck.",
+    "flavorText": "Now, let us strike!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E095.png"
+    }
+  },
+  {
+    "id": "P5/S45-E096",
+    "name": "Calling Card",
+    "number": "E096",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If there are no face down cards in your opponent's memory, your opponent chooses a card from your opponent's hand, puts it face down into his or her memory, and draws up to one card. Choose one of your 《Thief》 characters, and until end of turn, that character gets +2500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent's deck.\"",
+    "flavorText": "Madarame: \"It's those damn brats'\ndoing, isn't it?\nWell, it means nothing... They'll\nonly be able to do as they please\nuntil this exhibit is over…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E096.png"
+    }
+  },
+  {
+    "id": "P5/S45-E097",
+    "name": "Execution",
+    "number": "E097",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "3",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to four of your characters, and put them into your waiting room. Search your deck for up to one 《Thief》 character with a total level and cost of X or lower, put it on any position of your stage, and shuffle your deck. X is equal to the total level and cost of the characters put into your waiting room by this effect while they were on the stage.",
+    "flavorText": "Igor: \"You may think of it as\na \"fusion\" of Personas.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E097.png"
+    }
+  },
+  {
+    "id": "P5/S45-E098",
+    "name": "Velvet Room",
+    "number": "E098",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters, and put it into your waiting room. If you do, search your deck for up to one event, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Igor: \"This place exists between dream and reality, mind and matter.\nIt is a room that only those who are\nbound by a \"contract\" may enter.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E098.png"
+    }
+  },
+  {
+    "id": "P5/S45-E099",
+    "name": "IT WAS FUN WHILE IT LASTED, GOODBYE.",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "We've done it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E099.png"
+    }
+  },
+  {
+    "id": "P5/S45-E100",
+    "name": "I'll Never Forgive Them!",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "Please, help me!\nThat's gotta go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E100.png"
+    }
+  },
+  {
+    "id": "P5/S45-E101",
+    "name": "Protagonist as JOKER: Phantom Thief of Hearts",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", choose one of your characters in battle, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.\" 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Your heart is mine!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E101.png"
+    }
+  },
+  {
+    "id": "P5/S45-E102",
+    "name": "Ryuji: Phantom Thief of Hearts",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I'll be takin' your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E102.png"
+    }
+  },
+  {
+    "id": "P5/S45-E103",
+    "name": "Ann: Phantom Thief of Hearts",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Thief》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)",
+    "flavorText": "Get ready... I'm taking your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E103.png"
+    }
+  },
+  {
+    "id": "P5/S45-E104",
+    "name": "Morgana as MONA: Phantom Thief of Hearts",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【ACT】 [【REST】 two of your 《Thief》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "We are the Phantom Thieves, here to take your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E104.png"
+    }
+  },
+  {
+    "id": "P5/S45-E105",
+    "name": "Yusuke: Phantom Thief of Hearts",
+    "number": "E105",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Thief》 characters. 【AUTO】 [Exchange a 【STAND】 character in your center stage and this card] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "I shall take your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E105.png"
+    }
+  },
+  {
+    "id": "P5/S45-E106",
+    "name": "Makoto: Phantom Thief of Hearts",
+    "number": "E106",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Student Council"
+    ],
+    "text": "【AUTO】 When a climax is placed on your opponent's climax area, put this card into your waiting room.",
+    "flavorText": "Your heart will be mine. Any objections?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E106.png"
+    }
+  },
+  {
+    "id": "P5/S45-E107",
+    "name": "Futaba: Phantom Thief of Hearts",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Net"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +1000 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Mwehehe... I'll take your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E107.png"
+    }
+  },
+  {
+    "id": "P5/S45-E108",
+    "name": "Haru: Phantom Thief of Hearts",
+    "number": "E108",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Heiress"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "I'm here to take your heart!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E108.png"
+    }
+  },
+  {
+    "id": "P5/S45-E109",
+    "name": "Protagonist as JOKER: Destiny Awaits",
+    "number": "E109",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 [(1) Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_E109.png"
+    }
+  },
+  {
+    "id": "P5/S45-PE01",
+    "name": "Protagonist & Ryuji & Ann",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card's battle opponent becomes REVERSE, if the number of characters in your opponent's center stage is two or less, choose one of your other characters, REST it, and move it to an open position on your back stage.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_p01.png"
+    }
+  },
+  {
+    "id": "P5/S45-PE02",
+    "name": "Protagonist as JOKER: Destiny Awaits",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 [(1) Put this card into your clock] When this card becomes REVERSE in battle, you may pay the cost. IF you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_p02.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_p02.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE01",
+    "name": "Protagonist as JOKER: Phantom Thief Under Moonlight",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your waiting room] When your other character is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2000 power until end of turn.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE01.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE02",
+    "name": "Mishima: Volleyball Team Member",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "Net"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "I can't apologize enough\nfor what I did to you.\n...I swear I'll make it\nup to you someday.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE02.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE03",
+    "name": "Protagonist (P5)",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Thief》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Thief》 characters you have.",
+    "flavorText": "Igor: \"You will be training the\npower of Persona, which\nyou have awakened to.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE03.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE04",
+    "name": "Ryuji: Spirit of Defiance",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named \"Ryuji as SKULL: The Skull of Rebellion\" in your hand, and put it on this card's stage position as the defending character.",
+    "flavorText": "All you think about is using\npeople... You're the real\nscumbag, Kamoshida!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE04.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE05",
+    "name": "Protagonist: Imprisonment",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Thief》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 【AUTO】 [Put this card into your waiting room] When a card named \"The Will of Rebellion\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Protagonist as JOKER\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE05.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE06",
+    "name": "Ryuji as SKULL: The Skull of Rebellion",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "Sports"
+    ],
+    "text": "-",
+    "flavorText": "Even if you apologize now...\nI ain't forgivin' you...!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE06.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE07",
+    "name": "Protagonist as JOKER",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +1500 power, and this card cannot be chosen by your opponent's effects. 【CONT】 The character facing this card gets -1 soul.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE07.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE08",
+    "name": "The Unforgettable Memory",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Thief》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "\"Still, I couldn't\njust let that go…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE08.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE09",
+    "name": "The Will of Rebellion",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE09.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE10",
+    "name": "Power Awakens",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE10.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE11",
+    "name": "Ann: Concerned for Her Friend",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Thief》 or 《Sports》 characters get +500 power,",
+    "flavorText": "Is there really no way for\nme to help Shiho...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE11.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE12",
+    "name": "Morgana as MONA: The Elusive Phantom Thief",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Thief》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Sometimes bold moves have\nthe greatest payout.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE12.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE13",
+    "name": "Shiho Suzui",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Sports",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"Ann as PANTHER: First Infiltration\" in your waiting room, and put it on any position of your stage as 【REST】.",
+    "flavorText": "I wonder if running away\nwill solve all my problems…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE13.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE14",
+    "name": "Morgana as MONA: The Plan Fails",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "Hey! What the hell!? Ugh, seriously!\nWhy're you wrapping this up like\neverything's all hunky-dory!?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE14.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE15",
+    "name": "Ann as PANTHER: First Infiltration",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +1000 power.",
+    "flavorText": "Maybe... \"Panther\"?\nThat sounds pretty cool, doesn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE15.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE16",
+    "name": "Morgana as MONA: That's the Treasure!",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Thief",
+      "-"
+    ],
+    "text": "【AUTO】 When your other 《Thief》 character attacks, this card gets +1000 power until end of turn.",
+    "flavorText": "T-Treasure…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE16.png"
+    }
+  },
+  {
+    "id": "P5/S45-TE17",
+    "name": "We Will Promptly Shut Them Up!",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "",
+      "cost": "",
+      "power": "",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Come...!\nZorro!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/p/p5_s45/P5_S45_TE17.png"
+    }
+  }
+]

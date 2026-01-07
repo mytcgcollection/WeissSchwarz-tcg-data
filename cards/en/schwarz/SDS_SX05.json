@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "SDS/SX05-001",
+    "name": "Elizabeth: Trust in the Promise",
+    "number": "001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"A World Without You\" is placed on your climax area, if you have another 《Britannia》 character, put the top card of your deck into your waiting room, choose up to 1 level X or lower 《Britannia》 character in your waiting room, and return it to your hand. X is equal to the level of that card. (Climax are regarded as level 0) 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "After all, he promised me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_001.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-002",
+    "name": "Hawk: Pride of a Hero",
+    "number": "002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Pig"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage. 【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Britannia》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Wow, the whole town is lauding Sir Hawk's dazzling medal!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_002.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-003",
+    "name": "Meliodas: Wielder of Lostvayne",
+    "number": "003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have another \"Meliodas: Wielder of Lostvayne\" in your center stage, this card gets the following 2 abilities. \"【CONT】 This card gets +500 power for each of your other 《Britannia》 characters.\" \"【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.\" 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Meliodas: Wielder of Lostvayne\", put it on any position of your stage, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_003.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-004",
+    "name": "Escanor: Arrogant and Powerful",
+    "number": "004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put 1 \"Escanor: Master of the Tavern\" from your hand into your waiting room] When this card attacks, if \"Master of the Sun\" is in your climax area, this card's soul is 4 or lower, and you have 4 or more other 《Britannia》 characters, you may pay the cost. If you do, during that attack, when this card deals attack damage to your opponent, deal 1 damage X times to your opponent instead. X is equal to this card's soul. (This damage is not damage caused by an 【AUTO】 effect. Damage may be canceled)",
+    "flavorText": "I told you, didn't I? That your death wouldn't be easy?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_004.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-005",
+    "name": "Escanor: Wielder of Rhitta",
+    "number": "005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level X or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room. X is equal to the number of \"Escanor: Wielder of Rhitta\" in your waiting room.",
+    "flavorText": "A battle-axe adorned by the sun, bearing a maiden's name. A mere Demon who writhes in the darkness isn't worthy of touching it.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_005.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-006",
+    "name": "Meliodas: Fulfilling His Promise",
+    "number": "006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place) 【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Elizabeth, I know I've kept you waiting for a while.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_006.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-007",
+    "name": "Escanor: Master of the Tavern",
+    "number": "007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Britannia》 character from your waiting room at the bottom of your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Britannia》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.",
+    "flavorText": "W-Welcome to My Sweet Gluttony.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_007.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-008",
+    "name": "Elizabeth: Strong Heart",
+    "number": "008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [Put 1 《Britannia》 character from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your \"Meliodas: To the Rescue\" in battle, and that card gets the following ability until end of turn. \"【CONT】 The character facing this card gets -2 soul.\" 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I'll do anything if it will help me to accomplish it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_008.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-009",
+    "name": "Meliodas: Overcoming His Past",
+    "number": "009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Britannia》 characters, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 [Put 1 \"The Trial\" from your climax area into your waiting room] At the beginning of your encore step, if this card is in your center stage, and you have 4 or more other 《Britannia》 characters, you may pay the cost. If you do, choose up to 2 《Britannia》 characters in your waiting room, return them to your hand, and this card gets +1000 power until the end of your opponent's next turn.",
+    "flavorText": "Easy, right, Meliodas? It's not a big deal.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_009.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-010",
+    "name": "Meliodas: Internal Strife",
+    "number": "010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Britannia》 characters, this card gets +1000 power. 【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", you may put the top card of your clock into your waiting room. 【AUTO】 [(2) Put 2 《Britannia》 characters from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal 4 damage to your opponent.\" (Damage may be canceled)",
+    "flavorText": "What is it you want to say, King?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_010.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-011",
+    "name": "Hawk: Transpork",
+    "number": "011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "30",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Pig"
+    ],
+    "text": "【CONT】 During your turn, this card gets +1 level and +2970 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at your opponent's hand, choose up to 1 \"Balor's Magical Eye\" in your waiting room, and return it to your hand.",
+    "flavorText": "With my ears transformed into wings, I can soar across the sky!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_011.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-012",
+    "name": "Meliodas: The Dragon Sin of Wrath",
+    "number": "012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If your hand has 5 or more cards, this card gets +2000 power. 【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_012.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-013",
+    "name": "Hawk Mama: Casually Saving the Day",
+    "number": "013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Pig"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", all characters in battle get the following ability until end of turn. \"【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】.\" 【ACT】 【COUNTER】 Backup 0, Level 1 [Put this card from your hand into your waiting room] （Choose 1 of your characters that is being frontal attacked, and that character gets +0 power until end of turn）",
+    "flavorText": "But seriously, you’re unbelievable, Hawk Mama! To swallow that intense magical power in a single gulp!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_013.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-014",
+    "name": "Escanor: Flashback",
+    "number": "014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Britannia》 character, this card gets +3000 power. 【AUTO】 When this card's trigger check reveals a level 0 or lower card, this card gets +1 soul until end of turn. (Climax are regarded as level 0)",
+    "flavorText": "Just seeing Ms. Merlin makes my heart pound...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_014.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-015",
+    "name": "Nanashi: Mysterious Swordsman",
+    "number": "015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there is a climax among those cards, you may choose 1 level 3 or lower character in your opponent's center stage, and put it into their waiting room. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into their waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_015.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-016",
+    "name": "Escanor: The Lion Sin of Pride",
+    "number": "016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card attacks, if you have 2 or more other 《Britannia》 characters, this card gets +4000 power until end of turn. 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "I'm going to allow you to atone with your flesh, for the great sin of toying with others' hearts!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_016.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-017",
+    "name": "Elizabeth: New Power",
+    "number": "017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【CONT】 All of your other 《Britannia》 characters get +1500 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "How can it be so easy for you to take another's life?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_017.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-018",
+    "name": "Druid Chief Zaneri",
+    "number": "018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【CONT】 Memory If this card is in your memory, \"Meliodas: Overcoming His Past\" gets -1 cost while in your hand. 【ACT】 【CXCOMBO】 [Put 1 climax from your hand into your waiting room & Put this 【STAND】 card into your memory] Search your deck for up to 1 \"The Trial\", reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_018.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-019",
+    "name": "Druid Chief Jenna",
+    "number": "019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【CONT】 Memory If this card is in your memory, all of your \"Meliodas: Overcoming His Past\" get +500 power. 【ACT】 [(1) Put this 【STAND】 card into your memory] Choose 1 \"Meliodas: Overcoming His Past\" in your waiting room, and return it to your hand.",
+    "flavorText": "We know your purpose for coming to the Holy Land.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_019.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-020",
+    "name": "Liz: Happier Times",
+    "number": "020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(1) Put 1 card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 character with \"Elizabeth\" in its card name in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_020.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-021",
+    "name": "Elizabeth: Emotional Support",
+    "number": "021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_021.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-022",
+    "name": "Elizabeth: Through Thick and Thin",
+    "number": "022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【CONT】 This card cannot be chosen by your opponent's effects. 【ACT】 [【REST】 this card] Choose 1 of your 《Britannia》 characters, that character gets +1500 power until end of turn, choose another of your characters with the same card name as the character chosen, and that character gets +1500 power until end of turn.",
+    "flavorText": "No matter what happens, no matter who becomes my enemy, I'll always be by your side.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_022.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-023",
+    "name": "Arthur: Monster Cat Companion",
+    "number": "023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【CONT】 If you have another character with \"Merlin\" in its card name, this card gets +8500 power and \"【AUTO】 Encore [Put 1 《Britannia》 character from your hand into your waiting room]\".",
+    "flavorText": "Nanashi: \"So long as that monster cat is with you, you'll never die.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_023.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-024",
+    "name": "Meliodas: Mid-Match Squabble",
+    "number": "024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Britannia》 characters, you may draw 2 cards. If you do, choose 2 cards from your hand, and put it into your waiting room.",
+    "flavorText": "Ban: \"Captain, what's that you're wearing on your head?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_024.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-025",
+    "name": "Arthur: Tearful Apology",
+    "number": "025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000. 【AUTO】 When this card attacks, if you have 4 or more other 《Britannia》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn.",
+    "flavorText": "I'm sorry, Merlin. I'm always the one being protected.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_025.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-026",
+    "name": "Balor's Magical Eye",
+    "number": "026",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If your opponent's hand has 1 or more cards, your opponent chooses 1 card in their hand. Declare any number, and they reveal the chosen card. If that card's power is the same as the number you declared, choose up to 2 《Britannia》 characters in your waiting room, and put them into your stock in any order. (Climax and events are regarded as 0 power) Search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Hawk: \"You mean I can actually see how strong someone is?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_026.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-027",
+    "name": "The Trial",
+    "number": "027",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_027.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-028",
+    "name": "A World Without You",
+    "number": "028",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Elizabeth: \"To live in a world without you... I can't bear it!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_028.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-029",
+    "name": "Master of the Sun",
+    "number": "029",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【CHOICE】: When this card triggers, you may choose a character with 【SOUL】 in its trigger icon in your waiting room, and return it to your hand or put it into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_029.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-030",
+    "name": "Diane: Importance of Memories",
+    "number": "030",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CLOCK】 Alarm Memory [Put 1 card from your hand into your waiting room] If this card is the top card of your clock, and \"Diane: Importance of Memories\" is in your memory, at the beginning of your main phase, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "No matter the reason, there's no way it's ever okay to manipulate someone's memories!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_030.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-031",
+    "name": "King: Greedy",
+    "number": "031",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 Memory During your turn, if there is a green card in your memory, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When \"True Spirit Spear Chastiefol\" is placed on your climax area, if all of your characters are 《Britannia》, this card gets the following 2 abilities until end of turn. \"【CONT】 The character facing this card cannot be returned to hand, move to another stage position, or be put into memory.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\"",
+    "flavorText": "Sacred Treasure, release!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_031.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-032",
+    "name": "Deldry: Love Manipulator",
+    "number": "032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【ACT】 [【REST】 1 of your 《Holy Knight》 characters] Choose 1 《Holy Knight》 character in your waiting room and the bottom card of your clock, and exchange them. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "The slightest goodwill morphs into passionate devotion. And then it becomes blind loyalty.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_032.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-033",
+    "name": "Deathpierce: Realization",
+    "number": "033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, look at up to 3 cards from the top of your deck, choose up to 1 climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put a card into your hand, choose 1 card in your hand, and put it into your waiting room.",
+    "flavorText": "Denzel: \"If we were to kill Dreyfus, it's clear that we would be subjected to its Commandment curse.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_033.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-034",
+    "name": "Griamore: Reverted to a Child",
+    "number": "034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 Assist All of your 《Britannia》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Britannia》 characters, at the beginning of your climax phase, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CLOCK】 Shift, Level 0 （At the beginning of your main phase, you may choose this card in your clock and 1 green card in your hand, and exchange them）",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_034.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-035",
+    "name": "King: Protective",
+    "number": "035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×1000. 【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Diane: Believing in Her Friends\", when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.",
+    "flavorText": "Diane, I won't let you feel scared ever again!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_035.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-036",
+    "name": "Diane: Believing in Her Friends",
+    "number": "036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 Memory If your memory has 3 or more green cards, this card gets -1 level while in your hand. 【AUTO】 【CXCOMBO】 When \"Friends\" is placed on your climax area, if this card is in your center stage, you may choose 1 character in your waiting room, and put it on any position of your stage. If you do not, deal 1 damage to your opponent, and this card gets +1500 power until the end of your opponent's next turn. (Damage may be canceled)",
+    "flavorText": "Elizabeth, you're amazing!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_036.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-037",
+    "name": "Gilthunder: Training Buddies",
+    "number": "037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 If you have another \"Howzer: Training Buddies\", this card gets +1500 power and the following ability. \"【AUTO】 When this card direct attacks, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock.\" 【AUTO】 [(2)] When this card attacks, put the top card of your deck into your waiting room. If that card is a 《Holy Knight》 character, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)",
+    "flavorText": "Howzer, there's something I'd like to try.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_037.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-038",
+    "name": "Gerheade: Matter-of-Factly",
+    "number": "038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Fairy King's Forest\" in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into their waiting room. If you do, your opponent puts the top card of their deck into their clock.",
+    "flavorText": "Harlequin is the one who should be King. You, after all, are nothing more than this forest's nutrients.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_038.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-039",
+    "name": "Helbram: Adviser in the Helmet",
+    "number": "039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 Memory If this card is in your memory, at the beginning of your climax phase, choose 1 of your \"King: Greedy\" or \"King: Wielder of Chastiefol\" or \"King: Protective\", and that character gets +500 power until end of turn. 【ACT】 [(1) Put this 【STAND】 card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 event or 《Britannia》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "You could be more selfish, you know, Harlequin.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_039.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-040",
+    "name": "King: The Grizzly Sin of Sloth",
+    "number": "040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room & Put 1 character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, return it to your hand, choose 1 of your other 《Britannia》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_040.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-041",
+    "name": "Diane: Learning to Dance",
+    "number": "041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [(1) Put 1 《Britannia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has.",
+    "flavorText": "It's way more fun to smile and dance than to shed blood and fight, isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_041.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-042",
+    "name": "Matrona: Warrior Chief",
+    "number": "042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if there is a climax in your opponent's climax area, choose 1 of your 《Britannia》 characters in battle, and that character gets +2000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "You’re grossly underestimating the Giant race, who can control the earth.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_042.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-043",
+    "name": "Diane: The Serpent Sin of Envy",
+    "number": "043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 During your turn, this card gets +10000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_043.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-044",
+    "name": "Arden: Draining Enemies",
+    "number": "044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 During your turn, events get +1 cost while in your opponent's hand. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "If you're hit by a weapon suffused with my magical power, it increases the demand on your magical powers like crazy.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_044.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-045",
+    "name": "Dogedo: Happily Unaware",
+    "number": "045",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 If your stock has 2 or less cards, this card gets +1 level and +1000 power. 【AUTO】 Accelerate [Put 1 《Britannia》 character from your waiting room at the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1500 power and +1 soul until the end of your opponent's next turn.",
+    "flavorText": "Are you guys done guarding the research building?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_045.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-046",
+    "name": "Diane: Retaliating",
+    "number": "046",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, if all of your characters are 《Britannia》, you may put the top card of your deck into your waiting room. If that card is a level 2 or lower character, this card gets the following ability until end of turn. \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "To fight for the sake of fighting... that's... too sad!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_046.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-047",
+    "name": "Gilthunder: Second Thoughts",
+    "number": "047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 All of your other 《Britannia》 characters get +500 power. 【AUTO】 [Put 1 《Britannia》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 \"Gilthunder: Smile of Relief\", reveal it to your opponent, put it into your hand, and shuffle your deck. 【ACT】 [【REST】 this card] Choose 1 of your \"Gilthunder: Smile of Relief\", and that card gets +1500 power until the end of your opponent's next turn.",
+    "flavorText": "Were the three of us going on this journey the best decision?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_047.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-048",
+    "name": "King: Internal Strife",
+    "number": "048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Britannia》 characters. 【AUTO】 [Put 1 climax with in its trigger icon from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Why do you know so much about the Ten Commandments, who were sealed 3,--- years ago?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_048.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-049",
+    "name": "Denzel: Demon Clan Researcher",
+    "number": "049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Holy Knight》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put this card into your waiting room] At the beginning of your encore step, if \"Summoning a Goddess\" is in your climax area, and this card is in your center stage, you may pay the cost. If you do, choose 1 character with a level equal to or lower than your level +1 in your hand, and put it on the stage position this card was on.",
+    "flavorText": "What I want to prove today is that even a Human can defeat an ancient Demon.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_049.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-050",
+    "name": "King: Protecting the Forest",
+    "number": "050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +3000 power until the end of your opponent's next turn. 【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax with in its trigger icon, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.",
+    "flavorText": "Don't think you can do as you like in my homeland!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_050.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-051",
+    "name": "Waillo: Seeking Marriage",
+    "number": "051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 If you have another \"Deldry: Love Manipulator\", this card gets +7000 power. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock.",
+    "flavorText": "Well then, Ms. Deldry, will you seriously consider dating me with the intent of marriage now?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_051.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-052",
+    "name": "Fairy King's Forest",
+    "number": "052",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Britannia》 character, this card cannot be played from your hand. Choose 1 of the following effects, and perform it. \"Choose 1 《Britannia》 character in your waiting room, and return it to your hand.\" \"Choose 1 《Britannia》 character in your waiting room, put it into your stock, choose 1 of your 《Britannia》 characters, and that character gets +1500 power until the end of your opponent's next turn.\" If your memory has 2 or less cards, put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_052.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-053",
+    "name": "True Spirit Spear Chastiefol",
+    "number": "053",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_053.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-054",
+    "name": "Friends",
+    "number": "054",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Diane: \"Well, I was a little vague on the details, but I envisioned my precious friends!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_054.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-055",
+    "name": "Summoning a Goddess",
+    "number": "055",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 level 1 or lower character in your waiting room, put it into your stock, and all your characters get +1 soul until end of turn.",
+    "flavorText": "Deathpierce: \"Sir Denzel decided to manifest, in his body in exchange for his life, a member of the Goddess Clan.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_055.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-056",
+    "name": "Gowther: Fighting It Out",
+    "number": "056",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If all of your characters are 《Britannia》, this card gets +1 level and +1500 power. 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_056.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-057",
+    "name": "Merlin: True Identity",
+    "number": "057",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If all of your characters are 《Britannia》, this card gets +2000 power. 【AUTO】 【CXCOMBO】 When \"Striking Fear\" is placed on your climax area, if this card is in your center stage, and you have 2 or more other 《Britannia》 characters, choose 1 of your characters, and that character gets the following 2 abilities until the end of your opponent's next turn. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.\" \"【AUTO】 When this card is frontal attacked, you may return this card to your hand.\"",
+    "flavorText": "Daughter of Belialuin. Surely you Ten Commandments are at least somewhat familiar with that name?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_057.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-058",
+    "name": "Ban: Facing Off",
+    "number": "058",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have another 《Britannia》 character, this card gets +1000 power and \"【AUTO】 Encore [Put 1 《Britannia》 character from your hand into your waiting room]\". 【AUTO】 【CXCOMBO】 [(1) Put 1 《Britannia》 character from your stage into your waiting room] During your climax phase, when this card is placed on the stage by the effect of \"Caught In a Trap\", you may pay the cost. If you do, 【STAND】 this card, and perform the following 2 effects 1 time each in any order. \"You may put the top 4 cards of your opponent's deck into their waiting room.\" \"You may choose 1 card in your opponent's waiting room, and put it into their memory.\"",
+    "flavorText": "I'm not interested in being your king!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_058.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-059",
+    "name": "Gowther: Reflecting",
+    "number": "059",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If all of your characters are 《Britannia》, this card gets +1500 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 《Britannia》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.\"",
+    "flavorText": "Please lock me up. Away from everyone else. Before I cease being myself.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_059.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-060",
+    "name": "Merlin: Handy Ability",
+    "number": "060",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 Assist All of your 《Britannia》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When your climax is placed on your climax area, you may put the top card of your deck into your waiting room. If that card is level 1 or higher, choose 1 of your characters, and that character gets +1 soul until end of turn. (Climax are regarded as level 0) 【ACT】 [Put 1 character with \"Merlin\" in its card name from your hand into your waiting room & 【REST】 this card] Choose 1 character with \"Escanor\" or \"Arthur\" in its card name in your waiting room, and return it to your hand.",
+    "flavorText": "Captain. I just located him.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_060.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-061",
+    "name": "Merlin: Miscalculation",
+    "number": "061",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【ACT】 [Put 2 cards from your hand into your waiting room & 【REST】 this card] Draw 2 cards. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, you may choose this card and 1 of your 《Britannia》 characters, and exchange them as 【STAND】.\"",
+    "flavorText": "Galland: \"You lied to me, didn't you?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_061.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-062",
+    "name": "Ban: Mid-Match Squabble",
+    "number": "062",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Britannia》 character in your center stage. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Why is this one dead?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_062.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-063",
+    "name": "Elaine: Capable Saint",
+    "number": "063",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "3500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+    "flavorText": "Ban! You don’t have to worry about me, either!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_063.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-064",
+    "name": "Merlin: Wielder of Aldan",
+    "number": "064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may choose 1 of the following 3 effects, and perform it. \"Choose 1 card in your hand, and put it into your waiting room. If you do, put the top card of your clock into your stock.\" \"Choose 1 of your opponent's characters, and return it to their hand.\" \"Choose 1 character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Magic Cancel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_064.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-065",
+    "name": "Zhivago: Taking Under His Wing",
+    "number": "065",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【CONT】 All of your other \"Ban: Rough Childhood\" get the following ability. \"【AUTO】 When this card attacks, look at the top card of your deck, put it on the top of your deck or into your waiting room, and this card gets +1000 power until end of turn.\" 【AUTO】 Bond/\"Ban: Rough Childhood\" [Put 1 《Britannia》 character from your waiting room at the bottom of your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Ban: Rough Childhood\" in your waiting room, and return it to your hand)",
+    "flavorText": "I'm Zhivago. Nice to meet you, Ban.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_065.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-066",
+    "name": "Elaine: Revived",
+    "number": "066",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When \"Back From the Dead\" is placed on your climax area, if you have another 《Britannia》 character, you may choose 1 \"Ban: Mid-Match Squabble\" in your waiting room, and return it to your hand. 【ACT】 Brainstorm [Put 1 other character from your stage into your waiting room & 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.\"",
+    "flavorText": "Wait for me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_066.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-067",
+    "name": "Elaine: Coming to Her Senses",
+    "number": "067",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 [(2)] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Jericho: \"You're still oozing with affection for Ban, right?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_067.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-068",
+    "name": "Gowther: The Goat Sin of Lust",
+    "number": "068",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or put into your waiting room from the stage, you may put the top 3 cards of your deck into your waiting room. 【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's memory.",
+    "flavorText": "I don't understand. Because I have no heart.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_068.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-069",
+    "name": "Ban: The Fox Sin of Greed",
+    "number": "069",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Britannia》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\".",
+    "flavorText": "There's no one who can kill me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_069.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-070",
+    "name": "Merlin: The Boar Sin of Gluttony",
+    "number": "070",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If you have 4 or more 《Britannia》 characters, this card gets -1 cost while in your hand. 【AUTO】 Experience When this card attacks, if your level has a yellow card, and the character facing this card is level 2, this card gets +6000 power until end of turn.",
+    "flavorText": "No matter how difficult it may be to sustain a spell, all I need to do is activate it once. And unless I disable it myself, it will be sustained.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_070.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-071",
+    "name": "Ban: To Save a Friend",
+    "number": "071",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character among those cards, this card's soul does not decrease by side attacking until end of turn. 【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.",
+    "flavorText": "Zero Sign!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_071.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-072",
+    "name": "Merlin: Recruitment",
+    "number": "072",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 \"Wanted Poster\" or 《Deadly Sin》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Would you lend us your strength?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_072.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-073",
+    "name": "Zhivago & Ban: A Final Reunion",
+    "number": "073",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 Memory [Put this card at the bottom of your deck] If this card is in your memory, when your other character with \"Ban\" in its card name is frontal attacked, you may pay the cost. If you do, put that character into your memory, and at the beginning of the encore step, put that character from your memory to its previous stage position. 【ACT】 [(1)] Put this card into your memory.",
+    "flavorText": "Zhivago: \"When did you get so damned big?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_073.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-074",
+    "name": "Gowther: Original Form",
+    "number": "074",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock. 【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Britannia》 characters you have ×500.",
+    "flavorText": "Merlin: \"Gowther was created by a great magician long ago. He's a doll.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_074.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-075",
+    "name": "Ban: Rough Childhood",
+    "number": "075",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "-",
+    "flavorText": "If I fall asleep, he'll kick me in the stomach.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_075.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-076",
+    "name": "Gowther: Blunt",
+    "number": "076",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. \"If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards in your memory except those cards into your waiting room.\" 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may put that character into your opponent's memory.",
+    "flavorText": "Feelings? I don't understand the question. Surely they aren't necessary to erase someone's memories.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_076.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-077",
+    "name": "Delicious Meat",
+    "number": "077",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose 1 of your 《Britannia》 characters, that character gets +1500 power until end of turn, and perform the following action. \"You may choose 1 card in your hand, and put it into your waiting room. If you do, look at the top card of your deck, and put it on the top of your deck or into your waiting room.\" You may perform that action as many times as you like.",
+    "flavorText": "Arthur: \"Even the palace chefs would be left speechless!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_077.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-078",
+    "name": "Back From the Dead",
+    "number": "078",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Ban: \"Elaine...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_078.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-079",
+    "name": "Caught In a Trap",
+    "number": "079",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect. (【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)",
+    "flavorText": "Gerheade: \"This man will live on for the sake of the forest, as its new Fountain of Youth.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_079.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-080",
+    "name": "Striking Fear",
+    "number": "080",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "Merlin: \"I can't let my precious guinea pigs escape, can I?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_080.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-081",
+    "name": "Zeldris of the Ten Commandments",
+    "number": "081",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 If all of your characters are 《Ten Commandments》, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if \"Ten Commandments\" is in your climax area, you may pay the cost. If you do, put the bottom 5 cards of your opponent's deck into their waiting room, deal X damage to your opponent, and until the end of your opponent's next turn, during this card's battle, you cannot receive damage by the 【AUTO】 effect of your opponent's characters. X is equal to the number of climax among those cards. (Damage may be canceled)",
+    "flavorText": "There's nothing for us to talk about.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_081.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-082",
+    "name": "Jericho: Passionate",
+    "number": "082",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step. 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "You keep saying you love Ban, but you're being so easily controlled right now!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_082.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-083",
+    "name": "Hendrickson: Usual Self",
+    "number": "083",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Britannia》 character, choose 1 of your characters, and that character gets +1000 power until end of turn. (Return the revealed card to its original place) 【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Britannia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "The thought that even a drop of your blood flowed inside my body fills me with rage and disgust towards myself!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_083.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-084",
+    "name": "Gustaf: Desperate Attempt",
+    "number": "084",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand, move to another stage position, or be put into memory.\" 【AUTO】 When your other 《Britannia》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×500.",
+    "flavorText": "Freezing Field!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_084.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-085",
+    "name": "Gloxinia & Drole: Reasons for Switching",
+    "number": "085",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Ten Commandments》 characters. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Death-Trap Maze\" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 2 level 1 or higher cards from among them, reveal them to your opponent, choose 1 card from the revealed cards, put it into your hand, choose 1 card from the revealed cards, put it into your stock, and put the rest into your waiting room. (Climax are regarded as level 0)",
+    "flavorText": "Meliodas: \"I know why you two went over to that side, and how you felt about it.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_085.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-086",
+    "name": "Howzer: Training Buddies",
+    "number": "086",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 If \"Griamore: Reverted to a Child\" is in your clock, this card gets -1 level while in your hand. 【CONT】 If you have another \"Gilthunder: Training Buddies\", this card gets +2000 power and the following ability. \"【AUTO】 [Put 1 《Holy Knight》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your opponent's characters, and return it to their hand.\" 【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Gilthunder: Training Buddies\" in your waiting room, and put it on any position of your stage.",
+    "flavorText": "What a coincidence. Same here!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_086.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-087",
+    "name": "Gloxinia of the Ten Commandments",
+    "number": "087",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 If you have 2 or more other 《Ten Commandments》 characters, this card gets +1500 power and the following ability. \"【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】, you may pay the cost. If you do, return this card to your hand.\" 【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.",
+    "flavorText": "I’m going to wipe out all those little worms still lurking in the maze, okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_087.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-088",
+    "name": "Drole of the Ten Commandments",
+    "number": "088",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_088.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-089",
+    "name": "Fraudrin of the Ten Commandments",
+    "number": "089",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if there is a climax in your climax area, you may pay the cost. If you do, choose 1 《Ten Commandments》 character in your waiting room, and return it to your hand. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 《Ten Commandments》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Hendrickson: \"So this is the true form of the Ten Commandment, Fraudrin?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_089.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-090",
+    "name": "Galland of the Ten Commandments",
+    "number": "090",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to 1 《Ten Commandments》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Speak any lies in my presence, and no matter who you are, you'll be turned to stone!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_090.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-091",
+    "name": "Derieri of the Ten Commandments",
+    "number": "091",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 All of your characters get the following ability. \"【CONT】 This card cannot side attack.\" 【AUTO】 When this card attacks, choose 1 of your other 《Ten Commandments》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ten Commandments》 characters you have ×500.",
+    "flavorText": "Monspeet: \"As long as she lands those consecutive blows uninterrupted, the weight behind each blow is increased.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_091.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-092",
+    "name": "Grayroad of the Ten Commandments",
+    "number": "092",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Ten Commandments》 characters get +1000 power. 【AUTO】 When this card or your other 《Ten Commandments》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place) 【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Britannia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Anyone who commits murder before me shall have all of their time taken from them.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_092.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-093",
+    "name": "Monspeet of the Ten Commandments",
+    "number": "093",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if there is a climax in your opponent's climax area, choose 1 of your 《Ten Commandments》 characters in battle, and that character gets +2000 power until end of turn. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "This is why I detest people with no manners.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_093.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-094",
+    "name": "Jericho: Following Behind",
+    "number": "094",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the bottom X cards of your opponent's deck into their waiting room. X is equal to the number of 《Britannia》 characters you have. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "Hey...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_094.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-095",
+    "name": "Melascula of the Ten Commandments",
+    "number": "095",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 All of your other 《Ten Commandments》 characters get +X power. X is equal to that character's level ×500. 【AUTO】 [(1) Put 1 blue climax from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your opponent's characters, and that character gets -2 soul until end of turn.",
+    "flavorText": "Tell me, what do you think a soul becomes after it dies?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_095.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-096",
+    "name": "Estarossa of the Ten Commandments",
+    "number": "096",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Ten Commandments》 characters, you may choose 1 《Ten Commandments》 character in your waiting room, and put it into your stock. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "Anyone who stands before me with hatred in his heart loses the ability to hurt others.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_096.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-097",
+    "name": "Dreyfus: Usual Self",
+    "number": "097",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock. 【AUTO】 [【REST】 1 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses 1 climax in their waiting room, returns all cards from their waiting room except that card to their deck, and shuffles their deck.",
+    "flavorText": "There's no wavering or conflict in my convictions. Therefore, there is nothing I cannot pierce!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_097.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-098",
+    "name": "Monspeet & Derieri: Taken Aback",
+    "number": "098",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Ten Commandments》 characters. 【AUTO】 [Put 1 blue climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ten Commandments》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_098.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-099",
+    "name": "Dreyfus: Unfortunate Investigation",
+    "number": "099",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 If all of your characters are 《Britannia》, this card gets +2000 power. 【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 4 or less cards, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "My will is a sword that will sever anyone and anything, and a shield to protect my country, my people, my child, and my friends!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_099.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-100",
+    "name": "Slader: Pledging Loyalty",
+    "number": "100",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, if your opponent's center stage has 1 or less characters, you may choose 1 cost 0 or lower character in your opponent's center stage, and put it into their waiting room. 【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Britannia》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Your wish is my command!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_100.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-101",
+    "name": "Vivian: Disguised as Gilfrost",
+    "number": "101",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put this card into your waiting room] When your other 《Britannia》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand.",
+    "flavorText": "I'll use Teleportation to bring everyone here to a safe place.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_101.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-102",
+    "name": "Grayroad & Fraudrin: Upper Hand",
+    "number": "102",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 0 or lower 《Ten Commandments》 character, put it on any position of your stage as 【REST】, and shuffle your deck.",
+    "flavorText": "Grayroad: \"All Humans inside the castle have been captured!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_102.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-103",
+    "name": "Zeldris & Estarossa: In the Heat of Battle",
+    "number": "103",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until end of turn. \"【CONT】 This card cannot be returned to hand or put into memory.\" 【AUTO】 When this card attacks, choose 1 of your 《Ten Commandments》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Ten Commandments》 characters you have ×500.",
+    "flavorText": "Zeldris: \"Brother!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_103.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-104",
+    "name": "Zaratras: Heading to the Capital",
+    "number": "104",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "Don't tell me they already noticed us?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_104.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-105",
+    "name": "Galland & Melascula: Drinking",
+    "number": "105",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Ten Commandments"
+    ],
+    "text": "【CONT】 This card gets +1000 power for each of your other 《Ten Commandments》 characters. 【AUTO】 【CXCOMBO】 [Put 1 \"Galland Game!\" from your climax area into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 1 character in your waiting room, return it to your hand, choose up to 2 《Ten Commandments》 characters in your waiting room, put them into your stock in any order, and all of your characters get the following ability until the end of your next stand phase. \"【CONT】 If this card's level is higher than your level, this card cannot 【STAND】 during your stand phase.\"",
+    "flavorText": "Galland: \"That's good! Who would have thought that alcohol had progressed this far in 3,--- years?\"\nMelascula: \"Yummy! Who would have thought that alcohol had progressed this far in 3,--- years?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_105.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-106",
+    "name": "Hendrickson: Unfortunate Investigation",
+    "number": "106",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Holy Knight"
+    ],
+    "text": "【CONT】 During this card's battle, all players cannot play \"Backup\" from their hands. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "There's no question, it's the legendary Demon Clan!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_106.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_106.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-107",
+    "name": "Flyer Distributors",
+    "number": "107",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If you do not have a 《Ten Commandments》 character, this card cannot be played from your hand. Choose 1 of the following abilities, and perform it. \"Choose 1 level X or lower 《Ten Commandments》 character in your waiting room, and return it to your hand. X is equal to the number of \"Gloxinia & Drole: Reasons for Switching\" in your waiting room.\" \"[(1)] You may pay the cost. If you do, choose 1 of your opponent's characters, and move it to another open position of their stage.\"",
+    "flavorText": "Gloxinia: \"Okay, you guys. Thanks for passing out those flyers.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_107.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_107.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-108",
+    "name": "Ten Commandments",
+    "number": "108",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_108.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_108.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-109",
+    "name": "Death-Trap Maze",
+    "number": "109",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_109.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_109.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-110",
+    "name": "Galland Game!",
+    "number": "110",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_110.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_110.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-111",
+    "name": "Petit Meliodas: New Chapter",
+    "number": "111",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When your other 《Britannia》 character attacks, this card gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_111.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_111.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-112",
+    "name": "Petit Elizabeth: New Chapter",
+    "number": "112",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【CONT】 All of your other 《Britannia》 characters get +500 power. 【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_112.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_112.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-113",
+    "name": "Petit Escanor: New Chapter",
+    "number": "113",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 This card gets +2000 power for each other 《Britannia》 character in your back stage. 【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Britannia》 characters, you may choose 1 《Britannia》 character in your waiting room, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_113.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_113.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-114",
+    "name": "Petit Diane: New Chapter",
+    "number": "114",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +3000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an event or a 《Britannia》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_114.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_114.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-115",
+    "name": "Petit King: New Chapter",
+    "number": "115",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_115.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_115.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-116",
+    "name": "Petit Ban: New Chapter",
+    "number": "116",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Britannia》 characters. 【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_116.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_116.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-117",
+    "name": "Petit Gowther: New Chapter",
+    "number": "117",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", put the top 3 cards of your opponent's deck into their waiting room. 【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_117.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_117.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-118",
+    "name": "Petit Merlin: New Chapter",
+    "number": "118",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Deadly Sin"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage. 【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Britannia》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_118.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_118.png"
+    }
+  },
+  {
+    "id": "SDS/SX05-P01",
+    "name": "Elizabeth: In a Dream",
+    "number": "P01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Britannia",
+      "Royalty"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent's characters, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 This card cannot move to another position of the stage.\" 【AUTO】 When this card attacks, choose 1 of your other 《Britannia》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Britannia》 characters you have ×500.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_P01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/SDS2/SDS_SX05_P01.png"
+    }
+  }
+]

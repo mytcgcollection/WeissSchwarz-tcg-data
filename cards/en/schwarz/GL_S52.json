@@ -1,0 +1,3177 @@
+[
+  {
+    "id": "GL/S52-E001",
+    "name": "Unexpected Kiss, Yoko",
+    "number": "E001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, your other character in the middle position of your center stage gets +500 power and the following ability. \"【CONT】 This card cannot be chosen by your opponent's effects.\" 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one 《Team DAI-GURREN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Your back is one big\nblind spot, isn't it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E001.png"
+    }
+  },
+  {
+    "id": "GL/S52-E002",
+    "name": "Kamina",
+    "number": "E002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 During your turn, if you have another 《Team DAI-GURREN》 character, this card gets +1500 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Later, Buddy\" is in your climax area, and you have another 《Team DAI-GURREN》 character, search your deck for up to one 《Team DAI-GURREN》 character, reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets the following ability until the end of your opponent's next turn. \"【AUTO】 When this card is attacked, if the number of cards in your memory is two or less, put this card into your memory.\"",
+    "flavorText": "Who the hell do you think I am?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E002.png"
+    }
+  },
+  {
+    "id": "GL/S52-E003",
+    "name": "Yoko",
+    "number": "E003",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card attacks, choose one of your other characters, and that character gets the following ability until end of turn. \" 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E003.png"
+    }
+  },
+  {
+    "id": "GL/S52-E004",
+    "name": "I'll Be Seeing Ya Soon, You Bozos! Kittan",
+    "number": "E004",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the end of this card's attack, if a card named \"So This Is the Power of the Spiral, Huh...?\" is in your climax area, and during that turn, damage dealt by this card was canceled, you may pay the cost. If you do, choose a card named \"King Kittan\" in your waiting room, and put it on any position of your stage.",
+    "flavorText": "My King Kittan is still doin' fine!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E004.png"
+    }
+  },
+  {
+    "id": "GL/S52-E005",
+    "name": "Team Super Galaxy DAI-GURREN, Yoko",
+    "number": "E005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your level 2 or higher characters, and that character gets +3000 power until end of turn. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E005.png"
+    }
+  },
+  {
+    "id": "GL/S52-E006",
+    "name": "Kid & Iraak",
+    "number": "E006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order. 【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check two times on the trigger step.",
+    "flavorText": "Kid: \"That's easy.\"\nIraak: \"As far as it takes.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E006.png"
+    }
+  },
+  {
+    "id": "GL/S52-E007",
+    "name": "King Kittan",
+    "number": "E007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.",
+    "flavorText": "Kittan: \"Sorry to keep you waiting!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E007.png"
+    }
+  },
+  {
+    "id": "GL/S52-E008",
+    "name": "Warrior Brimming With Life Experience, Makken",
+    "number": "E008",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "Sorry, it took a long time to find a sitter for the kids…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E008.png"
+    }
+  },
+  {
+    "id": "GL/S52-E009",
+    "name": "Sniper Yoko",
+    "number": "E009",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Team DAI-GURREN》 characters you have.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E009.png"
+    }
+  },
+  {
+    "id": "GL/S52-E010",
+    "name": "Zorthy",
+    "number": "E010",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Team DAI-GURREN》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Team DAI-GURREN》 characters you have.",
+    "flavorText": "Can you believe this? How far are we gonna go?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E010.png"
+    }
+  },
+  {
+    "id": "GL/S52-E011",
+    "name": "Science Bureau Chief, Leeron",
+    "number": "E011",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Mecha"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Team DAI-GURREN》 character in your waiting room, and return it to your hand.",
+    "flavorText": "For adults, making it in time is all part of the job♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E011.png"
+    }
+  },
+  {
+    "id": "GL/S52-E012",
+    "name": "Chief Advisor's Secretary, Kinon",
+    "number": "E012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When your other 《Team DAI-GURREN》 character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E012.png"
+    }
+  },
+  {
+    "id": "GL/S52-E013",
+    "name": "Aretenborough",
+    "number": "E013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 At the beginning of your climax phase, put the top card of your deck into your waiting room. If that card is a level 2 or higher character, choose one of your other characters, and that character gets +1 soul until end of turn.",
+    "flavorText": "You got it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E013.png"
+    }
+  },
+  {
+    "id": "GL/S52-E014",
+    "name": "Setting Off from Adai Village, Rossiu",
+    "number": "E014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Team DAI-GURREN》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E014.png"
+    }
+  },
+  {
+    "id": "GL/S52-E015",
+    "name": "If You Doubt Yourself, Kamina",
+    "number": "E015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 This card cannot side attack. 【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Team DAI-GURREN》 characters revealed among those cards.",
+    "flavorText": "Let's see you grit those teeth!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E015.png"
+    }
+  },
+  {
+    "id": "GL/S52-E016",
+    "name": "Jorgun & Balinbow",
+    "number": "E016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Twins"
+    ],
+    "text": "【CONT】 You cannot play event cards and \"Backup\" from your hand. 【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Team DAI-GURREN》 characters and this card, and exchange them as 【STAND】.",
+    "flavorText": "Jorgun: \"As far as it takes!\"\nBalinbow: \"Yeah, we go wherever we have to go!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E016.png"
+    }
+  },
+  {
+    "id": "GL/S52-E017",
+    "name": "Dreadnaught Captain, Dayakka",
+    "number": "E017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is a 《Team DAI-GURREN》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "What's happening?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E017.png"
+    }
+  },
+  {
+    "id": "GL/S52-E018",
+    "name": "Make the Impossible Possible! Kamina",
+    "number": "E018",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.",
+    "flavorText": "That's the way Team GURREN rolls, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E018.png"
+    }
+  },
+  {
+    "id": "GL/S52-E019",
+    "name": "Special Lesson, Yomako",
+    "number": "E019",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Teacher",
+      "Team DAI-GURREN"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [(2) Put a card from your hand into your waiting room] When this card attacks, if a card named \"For the Sake of Precious Children\" is in your climax area, and the number of other 《Team DAI-GURREN》 characters you have is four or more, you may pay the cost. If you do, all of your characters on your center stage get the following ability until end of turn. \"【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "This will be on the test, so pay close attention.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E019.png"
+    }
+  },
+  {
+    "id": "GL/S52-E020",
+    "name": "The Black Siblings, Kinon & Kiyoh & Kiyal",
+    "number": "E020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 Bond/\"The Black Siblings, Kittan\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “The Black Siblings, Kittan” in your waiting room, and return it to your hand) 【ACT】 [【REST】 this card] Choose one of your cards named \"The Black Siblings, Kittan\", and that character gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E020.png"
+    }
+  },
+  {
+    "id": "GL/S52-E021",
+    "name": "I Have to Know～! Kiyal & Kiyoh",
+    "number": "E021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 [Put this card into your waiting room] At the beginning of your main phase, you may pay the cost. If you do, choose a card named \"Dreadnaught Captain, Dayakka\" in your waiting room, and return it to your hand.",
+    "flavorText": "～!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E021.png"
+    }
+  },
+  {
+    "id": "GL/S52-E022",
+    "name": "Yomako's Students, Maosha & Nakim",
+    "number": "E022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Treeclimbing",
+      "-"
+    ],
+    "text": "【AUTO】 Bond/\"New Teacher, Yomako\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “New Teacher, Yomako” in your waiting room, and return it to your hand) 【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one yellow character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+    "flavorText": "Maosha: \"How come I'm being\npunished, too...?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E022.png"
+    }
+  },
+  {
+    "id": "GL/S52-E023",
+    "name": "Girls' Feelings, Leeron",
+    "number": "E023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Mecha"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Team DAI-GURREN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "…Jealous?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E023.png"
+    }
+  },
+  {
+    "id": "GL/S52-E024",
+    "name": "New Supreme Commander of the New Government, Rossiu",
+    "number": "E024",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 0 or lower, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place) 【ACT】 [(1) Put this card into your clock] Choose up to one card named \"ARC-GURREN\" in your hand, and put it on any position of your stage.",
+    "flavorText": "Nevertheless, we will survive. By any means necessary.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E024.png"
+    }
+  },
+  {
+    "id": "GL/S52-E025",
+    "name": "Reliable Mechanic, Leyte",
+    "number": "E025",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Mecha"
+    ],
+    "text": "【CONT】 During your turn, all of your other 《Team DAI-GURREN》 characters get +1000 power. 【CONT】 All of your other 《Team DAI-GURREN》 characters get \"【AUTO】 Encore [(2)]\".",
+    "flavorText": "That last burst was all we had.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E025.png"
+    }
+  },
+  {
+    "id": "GL/S52-E026",
+    "name": "Masculinity Is About Fighting Spirit! Kamina",
+    "number": "E026",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 If you have another card named \"Simon the Digger\", this card gets +3000 power.",
+    "flavorText": "Alright!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E026.png"
+    }
+  },
+  {
+    "id": "GL/S52-E027",
+    "name": "The Black Siblings, Kittan",
+    "number": "E027",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E027.png"
+    }
+  },
+  {
+    "id": "GL/S52-E028",
+    "name": "New Teacher, Yomako",
+    "number": "E028",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Teacher",
+      "Team DAI-GURREN"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put this card into your stock] When a card named \"For the Sake of Precious Children\" is placed on your climax area, you may pay the cost. If you do, choose a card named \"Special Lesson, Yomako\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "You can get up by yourself, right?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E028.png"
+    }
+  },
+  {
+    "id": "GL/S52-E029",
+    "name": "Team DAI-GURREN Flag",
+    "number": "E029",
+    "rarity": "U",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to two 《Team DAI-GURREN》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E029.png"
+    }
+  },
+  {
+    "id": "GL/S52-E030",
+    "name": "Later, Buddy",
+    "number": "E030",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Later, buddy…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E030.png"
+    }
+  },
+  {
+    "id": "GL/S52-E031",
+    "name": "For the Sake of Precious Children",
+    "number": "E031",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Stay back, kids.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E031.png"
+    }
+  },
+  {
+    "id": "GL/S52-E032",
+    "name": "So This Is the Power of the Spiral, Huh...?",
+    "number": "E032",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Okay, I'm impressed…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E032.png"
+    }
+  },
+  {
+    "id": "GL/S52-E033",
+    "name": "Nia",
+    "number": "E033",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 [Put the top card of your stock into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Well met♪",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E033.png"
+    }
+  },
+  {
+    "id": "GL/S52-E034",
+    "name": "Beastman, Viral",
+    "number": "E034",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Beast Man"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E034.png"
+    }
+  },
+  {
+    "id": "GL/S52-E035",
+    "name": "Human Eradication Forces Far East Theater Commander, Viral",
+    "number": "E035",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room. 【AUTO】 When this card is put into your waiting room from the stage, choose a card in your hand, and put it into your waiting room. Then, return this card to your hand.",
+    "flavorText": "I'm impressed, human.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E035.png"
+    }
+  },
+  {
+    "id": "GL/S52-E036",
+    "name": "Team DAI-GURREN's Head Cook, Nia",
+    "number": "E036",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your 《Team DAI-GURREN》 characters in front of this card get +500 power and \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent's center stage, and that character gets 《Cooking》 and -2000 power until end of turn. 【ACT】 [【REST】 this card] Choose one of your characters with \"Simon(シモン)\" in its card name, 【STAND】 that character, and that character gets 《Cooking》 until end of turn.",
+    "flavorText": "Simon's drill, is the drill that will break through the heavens!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E036.png"
+    }
+  },
+  {
+    "id": "GL/S52-E037",
+    "name": "Spiral King's Supreme General, Cytomander the Swift",
+    "number": "E037",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock. 【AUTO】 [Put a card named \"Spiral King's Supreme General, Thymilph the Raging Wave\" and a card named \"Spiral King's Supreme General, Adiane the Elegant\" from your memory into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower character on your opponent's back stage, and put it into his or her waiting room.",
+    "flavorText": "The time has finally come to demonstrate my power.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E037.png"
+    }
+  },
+  {
+    "id": "GL/S52-E038",
+    "name": "Believing Heart, Nia",
+    "number": "E038",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "6500",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Team DAI-GURREN》 characters get +1500 power. 【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Team DAI-GURREN》 characters you have. 【ACT】 [【REST】 this card] If the number of cards in your memory is two or less, choose a character in your waiting room, and put it into your memory.",
+    "flavorText": "Just as Simon believed in his Bro, I believe in Simon!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E038.png"
+    }
+  },
+  {
+    "id": "GL/S52-E039",
+    "name": "Lazengann",
+    "number": "E039",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Drill",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1500 power. 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, reveal the top card of your deck. If that card is a green character, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\" (The revealed card is returned to its original place) 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may choose a card named \"The Spiral King, Lordgenome\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E039.png"
+    }
+  },
+  {
+    "id": "GL/S52-E040",
+    "name": "The Spiral King, Lordgenome",
+    "number": "E040",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Drill",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Lazengann\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "I will show you what true Spiral Power is.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E040.png"
+    }
+  },
+  {
+    "id": "GL/S52-E041",
+    "name": "Elusive Old Coco",
+    "number": "E041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Beast Man"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named \"Team DAI-GURREN Flag\" in your waiting room, and return it to your hand. 【AUTO】 Bond/\"Believing Heart, Nia\" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Believing Heart, Nia” in your waiting room, and return it to your hand)",
+    "flavorText": "…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E041.png"
+    }
+  },
+  {
+    "id": "GL/S52-E042",
+    "name": "My Feelings, Nia",
+    "number": "E042",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Team DAI-GURREN》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E042.png"
+    }
+  },
+  {
+    "id": "GL/S52-E043",
+    "name": "Tyrant of Teppelin, Lordgenome",
+    "number": "E043",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Drill",
+      "-"
+    ],
+    "text": "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn. 【AUTO】 【CXCOMBO】 [(1)] When this card's battle opponent becomes 【REVERSE】, if a card named \"Lord of the Beastmen\" is in your climax area, you may pay the cost. If you do, search your deck for up to one green character, reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets +3000 power until the end of your opponent's next turn.",
+    "flavorText": "Very well. But bear in mind that you will not receive another chance.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E043.png"
+    }
+  },
+  {
+    "id": "GL/S52-E044",
+    "name": "Destined Duel, Enkidu",
+    "number": "E044",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【CONT】 If there are no markers underneath this card, this card gets -4500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"Human Eradication Forces Far East Theater Commander, Viral\" or \"Two Faces, Enki\" in your waiting room, and put it face down underneath this card as a marker. 【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters on your center stage, you may pay the cost. If you do, 【REST】 this card.",
+    "flavorText": "Viral: \"Kamina! Return my helmet\nthis instant!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E044.png"
+    }
+  },
+  {
+    "id": "GL/S52-E045",
+    "name": "Mobile Fortress Gunmen, Dai-Gunzan",
+    "number": "E045",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【CONT】 All of your other cards named \"Mystery Monstrous Mecha, Gunmen\" get +1000 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E045.png"
+    }
+  },
+  {
+    "id": "GL/S52-E046",
+    "name": "Special Seat of an Ex-Rival, Viral",
+    "number": "E046",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Beast Man"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When a card named \"Destiny Combining, GURREN LAGANN\" is placed on your climax area, you may pay the cost. If you do, choose up to one card named \"Combine! GURREN LAGANN\" in your hand, put it on the stage position that this card was on, and that character gets the following ability until the end of your opponent's next turn. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from hand.\"",
+    "flavorText": "What's the matter, Simon?!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E046.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E046.png"
+    }
+  },
+  {
+    "id": "GL/S52-E047",
+    "name": "First Swimsuit, Nia",
+    "number": "E047",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Team DAI-GURREN》 characters get +500 power. 【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to one 《Team DAI-GURREN》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Do you think this is all right...?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E047.png"
+    }
+  },
+  {
+    "id": "GL/S52-E048",
+    "name": "Spiral King's Supreme General, Thymilph the Raging Wave",
+    "number": "E048",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one green character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "I won't tolerate your big mouth!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E048.png"
+    }
+  },
+  {
+    "id": "GL/S52-E049",
+    "name": "Two Faces, Enki",
+    "number": "E049",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 When a card named \"This Time, It Really Is Over…\" is placed on your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place) 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one green character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Viral: \"Faces? Oh, that. It's traditional for a warrior to have a crested helmet...\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E049.png"
+    }
+  },
+  {
+    "id": "GL/S52-E050",
+    "name": "Bio-Computer Lordgenome Head",
+    "number": "E050",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【CONT】 This card cannot move to another position on the stage. 【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(1) Put this card into your waiting room] Choose a card named \"That's What... I Was Waiting For!!\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E050.png"
+    }
+  },
+  {
+    "id": "GL/S52-E051",
+    "name": "Mystery Monstrous Mecha, Gunmen",
+    "number": "E051",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E051.png"
+    }
+  },
+  {
+    "id": "GL/S52-E052",
+    "name": "Spiral King's Supreme General, Adiane the Elegant",
+    "number": "E052",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【CONT】 Memory During your turn, if a card named \"Spiral King's Supreme General, Thymilph the Raging Wave\" is in your memory, this card gets +4000 power. 【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of cards in your memory is two or less, you may put this card into your memory.",
+    "flavorText": "You aren't a princess anymore!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E052.png"
+    }
+  },
+  {
+    "id": "GL/S52-E053",
+    "name": "Obstructive Viral",
+    "number": "E053",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in any order.",
+    "flavorText": "Nicely dodged…",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E053.png"
+    }
+  },
+  {
+    "id": "GL/S52-E054",
+    "name": "Spiral King's Supreme General, Guame the Immovable",
+    "number": "E054",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【CONT】 Memory If there are cards named \"Spiral King's Supreme General, Thymilph the Raging Wave\" and \"Spiral King's Supreme General, Adiane the Elegant\" in your memory, this card gets -1 level while in your hand. 【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock. 【ACT】 [(1) Put a 《Beast Man》 character from your memory into your waiting room] This card gets +2000 power until the end of your opponent's next turn.",
+    "flavorText": "That's MISTER Furball to you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E054.png"
+    }
+  },
+  {
+    "id": "GL/S52-E055",
+    "name": "Spiral Energy",
+    "number": "E055",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm Put the top card of your deck into your stock. Flip over three cards from the top of your deck, and put them into your waiting room. If there is a climax revealed among those cards, put this card into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E055.png"
+    }
+  },
+  {
+    "id": "GL/S52-E056",
+    "name": "That's What... I Was Waiting For!!",
+    "number": "E056",
+    "rarity": "U",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 If the number of cards in your clock is four or more, you may choose two 《Team DAI-GURREN》 characters in your hand, and put them into your waiting room. If you do, perform the following effects once each in any order. \"Choose a level 3 character in battle, and that character gets -3 soul until end of turn.\" \"Choose a card named \"GIGA DRILL BREAK\" in your waiting room, and return it to your hand.\" \"Put up to two cards from the top of your deck into your stock.\"",
+    "flavorText": "Simon! Take it!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E056.png"
+    }
+  },
+  {
+    "id": "GL/S52-E057",
+    "name": "Destiny Combining, GURREN LAGANN",
+    "number": "E057",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "The Spiral Path, in which the twin paths of man and beast wind and intersect! Join with yesterday's enemy to smash fate! And grab hold of tomorrow's path with our own hands!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E057.png"
+    }
+  },
+  {
+    "id": "GL/S52-E058",
+    "name": "This Time, It Really Is Over…",
+    "number": "E058",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E058.png"
+    }
+  },
+  {
+    "id": "GL/S52-E059",
+    "name": "Lord of the Beastmen",
+    "number": "E059",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E059.png"
+    }
+  },
+  {
+    "id": "GL/S52-E060",
+    "name": "To Save The Woman I Love, Simon",
+    "number": "E060",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 All of your other 《Team DAI-GURREN》 characters with a marker get +500 power. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one 《Team DAI-GURREN》 character in your waiting room, and return it to your hand.",
+    "flavorText": "Let's go. This is our final battle!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E060.png"
+    }
+  },
+  {
+    "id": "GL/S52-E061",
+    "name": "GURREN LAGANN, Double Boomerang Spiral",
+    "number": "E061",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Team DAI-GURREN》 characters. 【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named \"Dueling with the Moon\" is in your climax area, you may pay the cost. If you do, choose one of your other characters and this card, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E061.png"
+    }
+  },
+  {
+    "id": "GL/S52-E062",
+    "name": "Team DAI-GURREN's Leader, Simon",
+    "number": "E062",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, if a card named \"On My Back, In My Heart,\" is in your climax area, you may pay the cost. If you do, deal four damage to your opponent. (This damage may be canceled) 【ACT】 [(1) Put a card named \"Kamina\" from your memory face up underneath this card as a marker] Until the end of your opponent's next turn, this card gets +2500 power and the following ability. \"【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.\"",
+    "flavorText": "My Bro is dead! He's gone!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E062.png"
+    }
+  },
+  {
+    "id": "GL/S52-E063",
+    "name": "TENGEN TOPPA GURREN LAGANN",
+    "number": "E063",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "3",
+      "power": "11500",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to four cards in your waiting room, and put them face up in any order underneath this card as markers. 【AUTO】 【CXCOMBO】 When a card named \"My Drill Is the Drill That Creates the Heavens!!!!\" is placed on your climax area, if you do not have any other characters, this card gets the following ability until end of turn. \"【AUTO】 Sunder/\"Super Galaxy GURREN LAGANN\" [(2) Put four cards from your hand into your waiting room]\" (At the end of this card's attack, you may pay the cost. If you do, choose a marker of this card named \"Super Galaxy GURREN LAGANN\", put it on any position of your stage, and put this card and all markers underneath this card face up in any order underneath that character as markers)",
+    "flavorText": "Who the hell do you think we are???!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E063.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E063.png"
+    }
+  },
+  {
+    "id": "GL/S52-E064",
+    "name": "A Proper Member of Team DAI-GURREN, Boota",
+    "number": "E064",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Animal"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 2 or higher, put it into your stock. (Climax are regarded as level 0. If it is not, return the revealed card to its original place) 【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Viral: \"This little pig-mole is a bundle of Spiral Power...!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E064.png"
+    }
+  },
+  {
+    "id": "GL/S52-E065",
+    "name": "Drill Power, LAGANN",
+    "number": "E065",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other 《Team DAI-GURREN》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Team DAI-GURREN》 characters you have. 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E065.png"
+    }
+  },
+  {
+    "id": "GL/S52-E066",
+    "name": "Strong Will, Simon",
+    "number": "E066",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 [Put a card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named \"Core Drill\" in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E066.png"
+    }
+  },
+  {
+    "id": "GL/S52-E067",
+    "name": "Team Super Galaxy DAI-GURREN's Leader, Simon",
+    "number": "E067",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Team DAI-GURREN》 characters.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E067.png"
+    }
+  },
+  {
+    "id": "GL/S52-E068",
+    "name": "GURREN LAGANN",
+    "number": "E068",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If there are no markers underneath this card, this card gets -4500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"To Save The Woman I Love, Simon\" or \"LAGANN IMPACT!\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 When this card is placed on the stage from the marker area of a card named \"ARCH-GURREN LAGANN\", this card gets the following ability until end of turn. \"【AUTO】 Sunder/\"LAGANN IMPACT!\" [(1)]\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E068.png"
+    }
+  },
+  {
+    "id": "GL/S52-E069",
+    "name": "Super Galaxy DAI-GURREN",
+    "number": "E069",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 Assist All of your 《Team DAI-GURREN》 characters in front of this card get +2500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Team DAI-GURREN》 character in your waiting room, and return it to your hand. 【AUTO】 Change [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to one card named \"TENGEN TOPPA GURREN LAGANN\" in your hand, and put it on the stage position that this card was on.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E069.png"
+    }
+  },
+  {
+    "id": "GL/S52-E070",
+    "name": "Super Galaxy GURREN LAGANN",
+    "number": "E070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "11000",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If there are no markers underneath this card, this card gets -3000 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"ARCH-GURREN LAGANN\" or \"To Save The Woman I Love, Simon\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 When this card is placed on the stage from the marker area of a card named \"TENGEN TOPPA GURREN LAGANN\", this card gets the following ability until end of turn. \"【AUTO】 Sunder/\"ARCH-GURREN LAGANN\" [(1)]\"",
+    "flavorText": "Unmatched in heaven and Earth! One machine, equal to the gods!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E070.png"
+    }
+  },
+  {
+    "id": "GL/S52-E071",
+    "name": "Supreme Commander of the New Government, Simon",
+    "number": "E071",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When you other character becomes 【REVERSE】 in battle, choose one of your 《Team DAI-GURREN》 characters, and that character gets +1000 power until end of turn. 【AUTO】 【CXCOMBO】 [Put two cards from your hand into your waiting room] When a card named \"That's the Team DAI-GURREN Way!!\" is placed on your climax area, you may pay the cost. If you do, choose up to two 《Team DAI-GURREN》 characters in your waiting room, and return them to your hand.",
+    "flavorText": "I think that's great.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E071.png"
+    }
+  },
+  {
+    "id": "GL/S52-E072",
+    "name": "DAI-GURREN",
+    "number": "E072",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to two characters in your waiting room with \"LAGANN(ラガン)\" in its card name, return them to your hand, chooase one of your other 《Team DAI-GURREN》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E072.png"
+    }
+  },
+  {
+    "id": "GL/S52-E073",
+    "name": "Evolution By Spiral Power, Boota",
+    "number": "E073",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Beast Man"
+    ],
+    "text": "【AUTO】 [Put two cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters with level higher than your opponent's level, and put it into his or her waiting room. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "I won't let you lay a hand on Simon!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E073.png"
+    }
+  },
+  {
+    "id": "GL/S52-E074",
+    "name": "Piercing Sentiments, Simon & Nia",
+    "number": "E074",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 All of your other 《Team DAI-GURREN》 characters with a marker get +1500 power. 【ACT】 [【REST】 this card] Choose one of your cards named \"ARCH-GURREN LAGANN\", and that character gets +1 soul until end of turn. 【ACT】 【CXCOMBO】 [Put three characters from your stage into your waiting room] Choose a card named \"My Drill Is the Drill That Creates the Heavens!!!!\" in your waiting room, and return it to your hand.",
+    "flavorText": "We don't care about time or space or extradimensional whatevers. We don't give a damn about that!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E074.png"
+    }
+  },
+  {
+    "id": "GL/S52-E075",
+    "name": "Kamina's Partner, Simon",
+    "number": "E075",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 All of your other cards named \"Team GURREN's Leader, Kamina\" get +500 power and the following ability. \"【AUTO】 [(2) Put two 《Team DAI-GURREN》 characters from your hand into your waiting room] This ability activates up to one time per turn. When damage dealt by this card is canceled, you may pay the cost. If you do, deal four damage to your opponent.\" (This damage may be canceled) 【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E075.png"
+    }
+  },
+  {
+    "id": "GL/S52-E076",
+    "name": "ARCH-GURREN LAGANN",
+    "number": "E076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "10000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If there are no markers underneath this card, this card gets -8500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"GURREN LAGANN\" or \"GURREN LAGANN, Double Boomerang Spiral\" in your waiting room, and put it face up underneath this card as a marker. 【AUTO】 When this card is placed on the stage from the marker area of a card named \"Super Galaxy GURREN LAGANN\", this card gets the following ability until end of turn. \"【AUTO】 Sunder/\"GURREN LAGANN\" [(1)]\"",
+    "flavorText": "Smashing through both karma and fate! The screams of life echo through the galaxy! Raging Wave Combining! Arch-Gurren Lagann!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E076.png"
+    }
+  },
+  {
+    "id": "GL/S52-E077",
+    "name": "Grapearl (For Gimmy's & Darry's Dedicated Use)",
+    "number": "E077",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Twins"
+    ],
+    "text": "【CONT】 All of your other cards named \"Mass-Production Model, Grapearl\" get +1 level and +500 power. 【CONT】 Assist All of your characters in front of this card get +500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E077.png"
+    }
+  },
+  {
+    "id": "GL/S52-E078",
+    "name": "LAGANN IMPACT!",
+    "number": "E078",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +2000 power. 【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Team DAI-GURREN》 character or a card named \"Core Drill\", you may put that card face up underneath this card as a marker. (If it is not, return the revealed card to its original place) 【AUTO】 When this card attacks, if you do not have any other characters, this card gets +1 soul and the following ability until end of turn. \"【CONT】 This card cannot become 【REVERSE】.\"",
+    "flavorText": "LAGANN IMPACT!!!!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E078.png"
+    }
+  },
+  {
+    "id": "GL/S52-E079",
+    "name": "Mass-Production Model, Grapearl",
+    "number": "E079",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E079.png"
+    }
+  },
+  {
+    "id": "GL/S52-E080",
+    "name": "Berserk Simon",
+    "number": "E080",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If you do not have another character with \"Nia(ニア)\" in its card name, this card cannot 【STAND】 during your stand phase. 【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Team DAI-GURREN》 characters you have.",
+    "flavorText": "I'm sick of it! I'm sick of watching people die!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E080.png"
+    }
+  },
+  {
+    "id": "GL/S52-E081",
+    "name": "Ace of the New Government Defense Squadron, Gimmy",
+    "number": "E081",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Twins"
+    ],
+    "text": "【CONT】 During your turn, if you have another card named \"First Rate Marksman, Darry\", this card gets +2000 power. 【AUTO】 At the beginning of your opponent's attack phase, you may choose one of your cards named \"First Rate Marksman, Darry\" and this card, and exchange them as 【STAND】.",
+    "flavorText": "The Supreme Commander isn't gonna dirty his hands with you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E081.png"
+    }
+  },
+  {
+    "id": "GL/S52-E082",
+    "name": "First Rate Marksman, Darry",
+    "number": "E082",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Twins"
+    ],
+    "text": "【CONT】 If you have another card named \"Ace of the New Government Defense Squadron, Gimmy\", this card gets +2000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "Gimmy, be careful!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E082.png"
+    }
+  },
+  {
+    "id": "GL/S52-E083",
+    "name": "ARC-GURREN",
+    "number": "E083",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "4000",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1500 power. 【AUTO】 This ability activates up to one time per turn. When you play an event card, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E083.png"
+    }
+  },
+  {
+    "id": "GL/S52-E084",
+    "name": "Core Drill",
+    "number": "E084",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Brainstorm If you do not have a 《Team DAI-GURREN》 character, this card cannot be played from your hand. Flip over three cards from the top of your deck, and put them into your waiting room. Choose a level X or lower 《Team DAI-GURREN》 character in your waiting room, return it to your hand, choose one of your characters, and that character gets +3000 power until end of turn. X is equal to the number of 《Team DAI-GURREN》 characters revealed among those cards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E084.png"
+    }
+  },
+  {
+    "id": "GL/S52-E085",
+    "name": "GIGA DRILL BREAK",
+    "number": "E085",
+    "rarity": "U",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose one of your characters with \"GURREN LAGANN(グレンラガン)\" in its card name or a card named \"King Kittan\", and that character gets the following ability until end of turn. \"【AUTO】 At the beginning of the encore step, if this card is on the center stage, you may deal four damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "GIGA DRILL BREAK!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E085.png"
+    }
+  },
+  {
+    "id": "GL/S52-E086",
+    "name": "On My Back, In My Heart,",
+    "number": "E086",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "He lives on as part of me!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E086.png"
+    }
+  },
+  {
+    "id": "GL/S52-E087",
+    "name": "Dueling with the Moon",
+    "number": "E087",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E087.png"
+    }
+  },
+  {
+    "id": "GL/S52-E088",
+    "name": "My Drill Is the Drill That Creates the Heavens!!!!",
+    "number": "E088",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)",
+    "flavorText": "The dreams of those who have fallen. The hopes of those who will follow. Those two sets of dreams weave together into a double helix...drilling a path towards tomorrow. THAT'S TENGEN TOPPA!! THAT'S GURREN LAGANN!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E088.png"
+    }
+  },
+  {
+    "id": "GL/S52-E089",
+    "name": "That's the Team DAI-GURREN Way!!",
+    "number": "E089",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Force your way down a path YOU chose to take, and do it YOUR way...",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E089.png"
+    }
+  },
+  {
+    "id": "GL/S52-E090",
+    "name": "Messenger Nia",
+    "number": "E090",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When a card named \"Humanity Extermination System\" is placed on your climax area, you may pay the cost. If you do, choose up to two cards named \"Mugann\" in your waiting room, and put them on separate positions of your stage. 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. If there is a card named \"Mugann\" revealed among those cards, search your deck for up to one 《Anti-Spiral》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.",
+    "flavorText": "Even if they do escape into space, all that awaits them is despair.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E090.png"
+    }
+  },
+  {
+    "id": "GL/S52-E091",
+    "name": "Ultimate Universal Diablo, Granzeboma",
+    "number": "E091",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room. 【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named \"The Conclusion of Evolution is Universal Destruction－－\" is in your climax area, you may pay the cost. If you do, put the top three cards of your deck into your waiting room, look at up to X cards from the top of your opponent's deck, choose up to X cards from among them, put them into your opponent's waiting room, return the rest to your opponent's deck, and your opponent shuffles his or her deck. X is equal to the number of characters with \"Mugann(ムガン)\" in its card name put into your waiting room by this effect +2.",
+    "flavorText": "We say no! No! No! No! No! No! Not in the least!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E091.png"
+    }
+  },
+  {
+    "id": "GL/S52-E092",
+    "name": "Anti-Spiral Race",
+    "number": "E092",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Anti-Spiral》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place) 【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "Now, follow the same fate as all those Spiral warriors who came before you!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E092.png"
+    }
+  },
+  {
+    "id": "GL/S52-E093",
+    "name": "Ashtanga Class",
+    "number": "E093",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【CONT】 All of your other 《Anti-Spiral》 characters get +1000 power. 【AUTO】 At the beginning of the climax phase, if all of your characters are 《Anti-Spiral》, all players put all of their characters with level higher than their level at the bottom of their deck in any order.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E093.png"
+    }
+  },
+  {
+    "id": "GL/S52-E094",
+    "name": "Mugann",
+    "number": "E094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【CONT】 You can put any number of cards with the same card name as this card into your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E094.png"
+    }
+  },
+  {
+    "id": "GL/S52-E095",
+    "name": "Advanced Class Mugann",
+    "number": "E095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +4500 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"Mugann\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E095.png"
+    }
+  },
+  {
+    "id": "GL/S52-E096",
+    "name": "Ku-Mugann",
+    "number": "E096",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named \"Kyo-Mugann\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E096.png"
+    }
+  },
+  {
+    "id": "GL/S52-E097",
+    "name": "Kyo-Mugann",
+    "number": "E097",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Anti-Spiral",
+      "-"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +6000 power. 【AUTO】 When this card is placed on the stage from your hand or by a \"Change\" effect, you may choose a card named \"Mugann\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E097.png"
+    }
+  },
+  {
+    "id": "GL/S52-E098",
+    "name": "Death Spiral Machine",
+    "number": "E098",
+    "rarity": "U",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose two of your opponent's characters not in battle, and exchange them as 【STAND】.",
+    "flavorText": "Anti-Spiral: \"The Spiral graveyard…\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E098.png"
+    }
+  },
+  {
+    "id": "GL/S52-E099",
+    "name": "The Conclusion of Evolution is Universal Destruction－－",
+    "number": "E099",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)",
+    "flavorText": "This ugly form is the symbol of our determination－－!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E099.png"
+    }
+  },
+  {
+    "id": "GL/S52-E100",
+    "name": "Humanity Extermination System",
+    "number": "E100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "We hereby activate the Humanity Extermination System.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E100.png"
+    }
+  },
+  {
+    "id": "GL/S52-E101",
+    "name": "One Shot to Finish Them All, Yoko",
+    "number": "E101",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E101.png"
+    }
+  },
+  {
+    "id": "GL/S52-E102",
+    "name": "Perennial Pledge, Nia",
+    "number": "E102",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.",
+    "flavorText": "I love you, Simon.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E102.png"
+    }
+  },
+  {
+    "id": "GL/S52-E103",
+    "name": "Helmet Bond, Viral",
+    "number": "E103",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Beast Man",
+      "-"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "Now... You will return my helmet to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E103.png"
+    }
+  },
+  {
+    "id": "GL/S52-E104",
+    "name": "Charge Into the Wilderness! Team GURREN",
+    "number": "E104",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Team DAI-GURREN》 character in your waiting room, and return it to your hand.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_E104.png"
+    }
+  },
+  {
+    "id": "GL/S52-PE01",
+    "name": "We Are Team GURREN!",
+    "number": "PE01",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if you have a 《Team DAI-GURREN》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p01.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p01.png"
+    }
+  },
+  {
+    "id": "GL/S52-PE02",
+    "name": "Together Forever, Simon & Nia",
+    "number": "PE02",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, your opponent looks at the top card of your opponent's deck, and puts it on the top or at the bottom of his or her deck. 【AUTO】 When this card becomes reverse in battle, your opponent may choose a card in your opponent's waiting room, and put it into his or her memory.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p02.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p02.png"
+    }
+  },
+  {
+    "id": "GL/S52-PE03",
+    "name": "Yoko & Nia",
+    "number": "PE03",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn. 【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.",
+    "flavorText": "...",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p03.gif",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_p03.gif"
+    }
+  },
+  {
+    "id": "GL/S52-TE01",
+    "name": "Support Role, Yoko",
+    "number": "TE01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Now we can remain in contact with each other during a fight.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE01.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE02",
+    "name": "The Girl From the Surface, Yoko",
+    "number": "TE02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.",
+    "flavorText": "All right, you two! Get back!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE02.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE03",
+    "name": "\"Bro\" Kamina",
+    "number": "TE03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 This card cannot side attack.",
+    "flavorText": "Don't call me Kamina, call me \"Bro\"!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE03.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE04",
+    "name": "Massive Rifle, Yoko",
+    "number": "TE04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE04.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE05",
+    "name": "Badass Indomitable Leader, Kamina",
+    "number": "TE05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 If you have another card named \"Simon the Digger\", this card gets +2000 power. 【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "They're talking about ME, the mighty Kamina!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE05.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE06",
+    "name": "The Brutal Surface, Yoko",
+    "number": "TE06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other 《Team DAI-GURREN》 characters get +1000 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a cost 0 or lower character on your opponent's back stage, and put it into his or her stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE06.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE07",
+    "name": "Team GURREN's Leader, Kamina",
+    "number": "TE07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 During your turn, this card gets +500 power for each of your other 《Team DAI-GURREN》 characters. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "I'll be a man that won't be laughed at by that back.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE07.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE08",
+    "name": "Who The Hell Do You Think I Am??!!",
+    "number": "TE08",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "Combining is all about one fighting spirit slamming into another!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE08.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE09",
+    "name": "Chibi Pig-Mole, Boota",
+    "number": "TE09",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Animal"
+    ],
+    "text": "【CONT】 All of your other cards named \"Giha Village Youth, Simon\" get +1000 power. 【AUTO】 Bond/\"Giha Village Youth, Simon\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Giha Village Youth, Simon” in your waiting room, and return it to your hand)",
+    "flavorText": "Bwi!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE09.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE10",
+    "name": "Simon the Digger",
+    "number": "TE10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 At the beginning of your climax phase, if you have another character with \"Kamina(カミナ)\" in its card name, choose one of your other characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to one card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE10.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE11",
+    "name": "LAGANN",
+    "number": "TE11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【ACT】 [【REST】 this card] Choose one of your 《Team DAI-GURREN》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE11.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE12",
+    "name": "Heaven-Piercing Drill, LAGANN",
+    "number": "TE12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【CONT】 If the number of other 《Team DAI-GURREN》 characters you have is two or more, this card gets +1000 power. 【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if a card named \"Bust Through the Heavens with Your Drill!!\" is in your climax area, you may choose a character in your waiting room, and return it to your hand.",
+    "flavorText": "Woooaaaaahhhhhhhhh-------!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE12.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE13",
+    "name": "Giha Village Youth, Simon",
+    "number": "TE13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE13.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE14",
+    "name": "Its Name Is GURREN",
+    "number": "TE14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【CONT】 If there are no markers underneath this card, this card gets -4000 power. 【AUTO】 When this card is placed on the stage from your hand, you may choose a card named \"\"Bro\" Kamina\" or \"Team GURREN's Leader, Kamina\" in your waiting room, and put it face up underneath this card as a marker.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE14.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE15",
+    "name": "GURREN",
+    "number": "TE15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Sunglasses"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand, choose up to two cards in your waiting room named \"Combine! GURREN LAGANN\", and put them at the bottom of your deck in any order. 【ACT】 Fusion [Put a card named \"LAGANN\" from your stage face up underneath this card as a marker] Search your deck for up to one card named \"Combine! GURREN LAGANN\", put it on this card's stage position, put this card and all markers underneath this card face up in any order underneath the card named \"Combine! GURREN LAGANN\" as markers, and shuffle your deck.",
+    "flavorText": "Dumbass! What else would I be talking about?! We're gonna combine!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE15.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE16",
+    "name": "Save My Bro! Simon",
+    "number": "TE16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 This ability activates up to two times per turn. When your other 《Team DAI-GURREN》 character is placed on the stage from your hand, you may put the top card of your deck into your waiting room. If that card is a 《Team DAI-GURREN》 character, this card gets +3000 power until end of turn.",
+    "flavorText": "Brooo---!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE16.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE17",
+    "name": "Combine! GURREN LAGANN",
+    "number": "TE17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Team DAI-GURREN",
+      "Drill"
+    ],
+    "text": "【AUTO】 When this card is placed on the stage from your hand or by a \"Fusion\" effect, draw up to two cards, choose a card in your hand, and put it into your waiting room. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)",
+    "flavorText": "A combining of courage that sets a man's soul on fire!! GURREN LAGANN!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE17.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE18",
+    "name": "Cross Counter",
+    "number": "TE18",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your cards named \"Combine! GURREN LAGANN\" in battle, and until end of turn, that character gets +3000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may deal four damage to your opponent.\" (This damage may be canceled)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE18.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE19",
+    "name": "Bust Through the Heavens with Your Drill!!",
+    "number": "TE19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "Kamina: \"Farewell, Giha Village! We're off to the surface! Off to the surface I saw as a kid!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE19.png"
+    }
+  },
+  {
+    "id": "GL/S52-TE20",
+    "name": "There's A Surface, All Right!",
+    "number": "TE20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "This big mug fell from the surface! It fell from above!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/g/gl_s52/GL_S52_TE20.png"
+    }
+  }
+]

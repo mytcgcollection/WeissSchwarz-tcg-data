@@ -1,0 +1,3452 @@
+[
+  {
+    "id": "FT/S02-001",
+    "name": "\"Heaven’s Wheel Armor\" Erza",
+    "number": "001",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Circle Sword\" is in your climax area, this card gets +4000 power and +1 soul until end of turn. 【ACT】 [(1)] This card gets +1 soul until end of turn. 【ACT】 [【REST】 two of your 《Magic》 characters] This card gets +2500 power until end of turn.",
+    "flavorText": "Annoying, but I'll wipe them out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_001.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_001.png"
+    }
+  },
+  {
+    "id": "FT/S02-002",
+    "name": "Titania Erza",
+    "number": "002",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 The character facing this card gets -1 soul. 【CONT】 Memory During your turn, if the number of cards in your memory is two or more, this card gets +1500 power. 【AUTO】 [(2) Put a card named \"Heaven's Wheel, Scattered Petals\" from your hand into your waiting room] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.",
+    "flavorText": "So you're the one who harmed our master.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_002.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_002.png"
+    }
+  },
+  {
+    "id": "FT/S02-003",
+    "name": "Fairy Tail Master, Makarov",
+    "number": "003",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Master"
+    ],
+    "text": "【AUTO】 Bond／\"Makarov's Grandson, Laxus\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Makarov's Grandson, Laxus\" in your waiting room, and return it to your hand.) 【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "Nice to meet ya.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_003.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_003.png"
+    }
+  },
+  {
+    "id": "FT/S02-004",
+    "name": "Magic Swordsman, Erza",
+    "number": "004",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may put the top three cards of your deck into your waiting room. 【AUTO】 Change [Put a card from your hand into your clock & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"\"Black Winged Armor\" Erza\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "Leave it to me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_004.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_004.png"
+    }
+  },
+  {
+    "id": "FT/S02-005",
+    "name": "\"Black Winged Armor\" Erza",
+    "number": "005",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Fairy Tail has come calling!!!!!!\" is in your climax area, search your deck for up to one character with \"Erza(エルザ)\" in its card name, and put it into your waiting room. Shuffle your deck afterwards, and this card gets +2500 power until end of turn. 【AUTO】 [Put this card into your waiting room] At the beginning of your opponent's draw phase, you may pay the cost. If you do, choose a card named \"\"Flame Empress Armor\" Erza\" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn.",
+    "flavorText": "Let's go!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_005.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_005.png"
+    }
+  },
+  {
+    "id": "FT/S02-006",
+    "name": "Childhood Erza",
+    "number": "006",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 Memory If the number of 《Magic》 characters in your memory is two or more, this card gets +1500 power.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_006.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_006.png"
+    }
+  },
+  {
+    "id": "FT/S02-007",
+    "name": "\"Infinity Robe\" Erza",
+    "number": "007",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power. 【AUTO】 When a card named \"And more importantly, live with an open heart\" is placed on your climax area, if this card is on the center stage, choose up to two cards in your opponent's waiting room, and return those cards to your opponent's deck. Shuffle your opponent's deck afterwards.",
+    "flavorText": "I swear on this sacred blade I wield, I will end this chaos. And your life!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_007.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_007.png"
+    }
+  },
+  {
+    "id": "FT/S02-008",
+    "name": "Childhood Jellal",
+    "number": "008",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory. 【AUTO】 Bond／\"Childhood Erza\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Childhood Erza\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Let’s go. Okay?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_008.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_008.png"
+    }
+  },
+  {
+    "id": "FT/S02-009",
+    "name": "Ultra Close Type, Erza",
+    "number": "009",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 During your turn, all of your other characters with \"Erza(エルザ)\" in its card name get +1000 power. 【CONT】 If you would pay the 【ACT】 cost for one of your characters in your hand or stage, you may put a marker from underneath this card into your waiting room instead of a card from your stock. 【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on stage from your hand, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Good, I really love to see the two of you getting along.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_009.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_009.png"
+    }
+  },
+  {
+    "id": "FT/S02-010",
+    "name": "\"Parfum Magic\" Ichiya",
+    "number": "010",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Rose"
+    ],
+    "text": "【CONT】 If you do not have any other characters, this card gets +2000 power. 【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.",
+    "flavorText": "But don't cry. I'm here.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_010.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_010.png"
+    }
+  },
+  {
+    "id": "FT/S02-011",
+    "name": "\"Flame Empress Armor\" Erza",
+    "number": "011",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 [Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named \"\"Black Winged Armor\" Erza\" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "Well, I’m not going to go easy on you.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_011.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_011.png"
+    }
+  },
+  {
+    "id": "FT/S02-012",
+    "name": "Little Fairy, Levy",
+    "number": "012",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Book"
+    ],
+    "text": "【ACT】 [(1)] Choose one of your 《Magic》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_012.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_012.png"
+    }
+  },
+  {
+    "id": "FT/S02-013",
+    "name": "S-class Wizard, Mystogan",
+    "number": "013",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Mystery"
+    ],
+    "text": "【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power. 【ACT】 [(1) 【REST】 this card] Choose one of your opponent's level 0 or lower characters, and return it to your opponent's hand.",
+    "flavorText": "I shall return.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_013.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_013.png"
+    }
+  },
+  {
+    "id": "FT/S02-014",
+    "name": "Healing Wizard, Porlyusica",
+    "number": "014",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 [(2)] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's level 2 or higher characters, and that character gets -1 soul until end of turn. 【ACT】【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "You really are.... such a pig-headed old fool..",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_014.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_014.png"
+    }
+  },
+  {
+    "id": "FT/S02-015",
+    "name": "Laxus's \"Grandpa\" Makarov",
+    "number": "015",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Master"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +1000 power. 【CONT】 Memory If the number of 《Magic》 characters in your memory is two or more, all of your other 《Magic》 characters get +500 power.",
+    "flavorText": "I may not be able to see you, there may be hundreds of miles between us, but I'll always be looking your way.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_015.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_015.png"
+    }
+  },
+  {
+    "id": "FT/S02-016",
+    "name": "Makarov's Grandson, Laxus",
+    "number": "016",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1000 power and +1 soul until end of turn.",
+    "flavorText": "I'm the guild's strongest wizard!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_016.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_016.png"
+    }
+  },
+  {
+    "id": "FT/S02-017",
+    "name": "Phantom Lord Master, Jose",
+    "number": "017",
+    "rarity": "U",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Master"
+    ],
+    "text": "【CONT】 If there is a marker underneath this card, this card gets +1000 power. 【AUTO】 When this card is placed on stage from your hand, choose up to two 《Element》 characters in your waiting room, and return them to your deck. Shuffle your deck afterwards. If you returned two cards, put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Kill them.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_017.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_017.png"
+    }
+  },
+  {
+    "id": "FT/S02-018",
+    "name": "\"Seidhr Magic\" Bixlow",
+    "number": "018",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Puppet"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【ACT】 [(2)] Search your deck for up to one level 0 or lower 《Magic》 character, and put it on any position of your stage. Shuffle your deck afterwards",
+    "flavorText": "Yo, what d'ya say we have some fun, huh?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_018.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_018.png"
+    }
+  },
+  {
+    "id": "FT/S02-019",
+    "name": "\"Stone Eyes\" Evergreen",
+    "number": "019",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Glasses"
+    ],
+    "text": "【AUTO】 When this card direct attacks, choose up to one of your opponent's level 0 or lower character on the center stage, and that character cannot 【STAND】 during your opponent's next stand phase.",
+    "flavorText": "I am the very definition of \"fairy\". Not to mention, the very definition of beauty. I'm the only woman here who embodies everything men desire. Therefore, the winner is me, the lovely Evergreen～?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_019.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_019.png"
+    }
+  },
+  {
+    "id": "FT/S02-020",
+    "name": "\"The Reaper\" Erigor",
+    "number": "020",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【ACT】 [(2)] This card gets +3000 power and +1 soul until end of turn.",
+    "flavorText": "The Reaper's cleansing is nigh!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_020.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_020.png"
+    }
+  },
+  {
+    "id": "FT/S02-021",
+    "name": "Aria of the Heavens",
+    "number": "021",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Element"
+    ],
+    "text": "【AUTO】 [(4) Put a climax from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose one of your opponent's characters, and 【REST】 it. 【ACT】【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)",
+    "flavorText": "It's heartbreaking! Why am I suddenly feeling melancholy!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_021.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_021.png"
+    }
+  },
+  {
+    "id": "FT/S02-022",
+    "name": "\"Dark Ecriture\" Fried",
+    "number": "022",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【ACT】 [(2)] Until end of turn, this card gets +2000 power, and your opponent cannot use \"【AUTO】 Encore\". (Your opponent cannot use the \"【AUTO】 Encore [(3)]\" rule either.)",
+    "flavorText": "I'm sorry Elfman, but you've already lost to Evergreen. Therefore, you are not allowed to rejoin the game.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_022.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_022.png"
+    }
+  },
+  {
+    "id": "FT/S02-023",
+    "name": "Tower of Heaven Ruler, Jellal",
+    "number": "023",
+    "rarity": "C",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【AUTO】 When this card attacks, you may choose one of your characters with \"Erza(エルザ)\" in its card name, and put it into your stock.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_023.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_023.png"
+    }
+  },
+  {
+    "id": "FT/S02-024",
+    "name": "Fairy Law",
+    "number": "024",
+    "rarity": "C",
+    "type": "Event",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "4",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "If the number of cards in your memory is two or less, this card cannot be played from your hand. Choose up to three of your opponent's level 2 or lower characters on the center stage, and put them into your opponent's stock.",
+    "flavorText": "Erza: \"It only affects those who the caster sees as their enemy. Incredible, isn't it? It's one of the most legendary spells in existence.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_024.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_024.png"
+    }
+  },
+  {
+    "id": "FT/S02-025",
+    "name": "And more importantly, live with an open heart",
+    "number": "025",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Go--ng, go--ng",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_025.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_025.png"
+    }
+  },
+  {
+    "id": "FT/S02-026",
+    "name": "Heaven's Wheel, Scattered Petals",
+    "number": "026",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_026.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_026.png"
+    }
+  },
+  {
+    "id": "FT/S02-027",
+    "name": "Circle Sword",
+    "number": "027",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)",
+    "flavorText": "Now, dance, my swords!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_027.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_027.png"
+    }
+  },
+  {
+    "id": "FT/S02-028",
+    "name": "Fairy Tail has come calling!!!!!!",
+    "number": "028",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_028.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_028.png"
+    }
+  },
+  {
+    "id": "FT/S02-029",
+    "name": "Fairy Tail Wizard, Lucy",
+    "number": "029",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 Memory If the number of cards in your memory is two or more, this card gets +1500 power. 【AUTO】 [(2)] When a card named \"Power of the Celestial Spirits\" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《Key》 character, and put it on any position of your stage. Shuffle your deck afterwards.",
+    "flavorText": "Watch out!!! 'Cause you're dealing with a full-fledged member of the Fairy Tail guild now!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_029.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_029.png"
+    }
+  },
+  {
+    "id": "FT/S02-030",
+    "name": "Celestial Wizard, Lucy",
+    "number": "030",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 The character facing this card gets -1 soul. 【CONT】 Memory If the number of cards in your memory is four or more, this card gets the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【AUTO】 When a card named \"Forced Gate Closure\" is placed on your climax area, if this card is on your center stage, all of your characters get +3000 power until end of turn.",
+    "flavorText": "I'm the greatest Celestial Wizard Fairy Tail’s got. So, why don't you just leave it to me!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_030.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_030.png"
+    }
+  },
+  {
+    "id": "FT/S02-031",
+    "name": "\"Unison Raid\" Lucy",
+    "number": "031",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 [(1) Put a card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "It's okay, tears of joy are allowed.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_031.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_031.png"
+    }
+  },
+  {
+    "id": "FT/S02-032",
+    "name": "Rookie Wizard, Lucy",
+    "number": "032",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 If the number of your other 《Key》 characters is two or more, this card gets +1 level and +1500 power.",
+    "flavorText": "I'm actually.. standing inside the Fairy Tail guild hall.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_032.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_032.png"
+    }
+  },
+  {
+    "id": "FT/S02-033",
+    "name": "My Determination, Lucy",
+    "number": "033",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If the revealed card is a 《Key》 character, you may put this card into your memory. (The revealed card is returned to its original place.)",
+    "flavorText": "You'd better start behavin' or you're gonna get hurt!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_033.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_033.png"
+    }
+  },
+  {
+    "id": "FT/S02-034",
+    "name": "Beautiful Bond, Lucy",
+    "number": "034",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Key》 characters. 【AUTO】 [(1)] When this card attacks, if a card named \"You did nothin' wrong!\" is in your climax zone, you may pay the cost. If you do, look at up to two cards from the top of your deck, search for up to two 《Key》 characters, reveal them to your opponent, and put them into your hand. Put the rest into your waiting room.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_034.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_034.png"
+    }
+  },
+  {
+    "id": "FT/S02-035",
+    "name": "Lucy Heartfilia",
+    "number": "035",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Key》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "You see, a Celestial Wizard's contract relies on the promise that's made between the wizard and the spirit.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_035.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_035.png"
+    }
+  },
+  {
+    "id": "FT/S02-036",
+    "name": "With Special Friends, Lucy",
+    "number": "036",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power.",
+    "flavorText": "Blue Pegasus, Lamia Scale, it's certainly been a wild ride..",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_036.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_036.png"
+    }
+  },
+  {
+    "id": "FT/S02-037",
+    "name": "Aquarius the Water Bearer",
+    "number": "037",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand or your deck, deal one damage to all players. (This damage may be canceled.)",
+    "flavorText": "Don't call me for a while. I'm going on a week-long vacation with my boyfriend.\nAnd he's hot.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_037.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_037.png"
+    }
+  },
+  {
+    "id": "FT/S02-038",
+    "name": "Former S-class Wizard, Mirajane",
+    "number": "038",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Waitress"
+    ],
+    "text": "【ACT】 [(2)] Choose one of your 《Magic》 characters, and that character gets +4000 power until end of turn.",
+    "flavorText": "Elfman....",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_038.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_038.png"
+    }
+  },
+  {
+    "id": "FT/S02-039",
+    "name": "Still a Rookie, Lucy",
+    "number": "039",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Change [Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Fairy Tail Wizard, Lucy\" in your waiting room, and put it on the stage position that this card was on.",
+    "flavorText": "They're hopeless..",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_039.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_039.png"
+    }
+  },
+  {
+    "id": "FT/S02-040",
+    "name": "Holder Wizard, Lucy",
+    "number": "040",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Key》 characters get +500 power and the following ability. \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【CONT】【CLOCK】 Alarm When this card is the top card of your clock, all of your 《Key》 characters get +1000 power.",
+    "flavorText": "Lucy: \"He flew!!\"\nHappy: \"It's wind magic!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_040.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_040.png"
+    }
+  },
+  {
+    "id": "FT/S02-041",
+    "name": "Daughter of Heartfilia Family, Lucy",
+    "number": "041",
+    "rarity": "U",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 [(2)] When this card's trigger check reveals a climax, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《Key》 character, and put it on any position of your back stage. Shuffle your deck afterwards. 【ACT】 [(1)] Choose up to one Level 2 or lower 《Key》 character in your hand, and put it on any position of your stage. At the end of turn, if that character is on stage, return that character to your hand.",
+    "flavorText": "You're the ones who attacked my friends.... Aren't you!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_041.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_041.png"
+    }
+  },
+  {
+    "id": "FT/S02-042",
+    "name": "\"Beast Arm\" Elfman",
+    "number": "042",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【AUTO】 Bond／\"Former S-class Wizard, Mirajane\" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Former S-class Wizard, Mirajane\" in your waiting room, and return it to your hand.)",
+    "flavorText": "Beast Arm \"Black Bull\"!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_042.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_042.png"
+    }
+  },
+  {
+    "id": "FT/S02-043",
+    "name": "Celestial Wizard, Angel",
+    "number": "043",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【ACT】 [(2)] Search your deck for up to one card with the same card name as a character in your stage or your opponent's stage, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "I'm afraid short-stuff isn't going to make it to the party.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_043.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_043.png"
+    }
+  },
+  {
+    "id": "FT/S02-044",
+    "name": "Sol of the Earth",
+    "number": "044",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Element"
+    ],
+    "text": "【CONT】 If the number of cards in your stock is three or more, this card gets +1000 power.",
+    "flavorText": "Non, non, non, non, non, non, non!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_044.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_044.png"
+    }
+  },
+  {
+    "id": "FT/S02-045",
+    "name": "Gate Key",
+    "number": "045",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Key》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_045.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_045.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Ari",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Ari",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Aries: \"Wool bomb!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Ari.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Ari.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Gem",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Gem",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Gemini: \"Piri, piri.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Gem.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Gem.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Leo",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Leo",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Leo: \"So the time has come to fulfill my promise, huh.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Leo.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Leo.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Sgr",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Sgr",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Sagittarius: \"Howdy-doo, my lady! You called?\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Sgr.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Sgr.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Tau",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Tau",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Taurus: \"You've got some moves of your own!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Tau.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Tau.png"
+    }
+  },
+  {
+    "id": "FT/S02-046Vir",
+    "name": "Celestial Spirit of the Zodiac Gates",
+    "number": "046Vir",
+    "rarity": "C",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn. 【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Virgo: \"As you wish.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Vir.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_046Vir.png"
+    }
+  },
+  {
+    "id": "FT/S02-047",
+    "name": "Changeling",
+    "number": "047",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one character with \"Change\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_047.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_047.png"
+    }
+  },
+  {
+    "id": "FT/S02-048",
+    "name": "LOVE & LUCKY",
+    "number": "048",
+    "rarity": "C",
+    "type": "Event",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Reveal the top card of your deck. If the revealed card is a 《Key》 character, put it into your stock, choose one of your characters, and that character gets +3000 power until end of turn. (If it is not, return the revealed card to its original place.) Put this card into your stock.",
+    "flavorText": "When we were leaving, we noticed the guild's sign had lost its \"K\". The word \"Lucky\" had become \"Lucy\".",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_048.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_048.png"
+    }
+  },
+  {
+    "id": "FT/S02-049",
+    "name": "You did nothin' wrong!",
+    "number": "049",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "You did nothin' wrong!!!!\nBecause it can't be a crime to protect the people you care about!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_049.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_049.png"
+    }
+  },
+  {
+    "id": "FT/S02-050",
+    "name": "Power of the Celestial Spirits",
+    "number": "050",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【POOL】: When this card triggers, you may put the top card of your deck into your stock)",
+    "flavorText": "Open!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_050.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_050.png"
+    }
+  },
+  {
+    "id": "FT/S02-051",
+    "name": "Forced Gate Closure",
+    "number": "051",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "It.... worked.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_051.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_051.png"
+    }
+  },
+  {
+    "id": "FT/S02-052",
+    "name": "Dragon Force, Natsu",
+    "number": "052",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When a card named \"Natsu vs. Zero\" is placed on your climax area, until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\" 【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "This doesn't mean you're off the hook, Jellal. Not yet.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_052.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_052.png"
+    }
+  },
+  {
+    "id": "FT/S02-053",
+    "name": "Fairy Tail Wizard, Natsu",
+    "number": "053",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1000 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "My name is Natsu. I'm a Fairy Tail wizard!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_053.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_053.png"
+    }
+  },
+  {
+    "id": "FT/S02-054",
+    "name": "Natsu & Happy",
+    "number": "054",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 All of your other 《Dragon》 characters get +500 power. 【CONT】 If you would pay the 【ACT】 cost for one of your characters in your hand or stage, you may put a marker from underneath this card into your waiting room instead of a card from your stock. 【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on stage from your hand, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Natsu: \"Thanks 'lil buddy!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_054.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_054.png"
+    }
+  },
+  {
+    "id": "FT/S02-055",
+    "name": "Black Steel Gajeel",
+    "number": "055",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 [(1)] When this card attacks, if a card named \"Iron Dragon Roar\" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 【ACT】 [(1)] Choose one of your 《Dragon》 characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "Poor 'lil Fairy. That had to hurt, huh?\nHate to break it to ya, but your puny hand can't even scratch this steel.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_055.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_055.png"
+    }
+  },
+  {
+    "id": "FT/S02-056",
+    "name": "A Place to Return to, Natsu",
+    "number": "056",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 This card gets +500 power for each of your other 《Magic》 characters.",
+    "flavorText": "Cause everyone in the guild is supposed to be considered family!!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_056.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_056.png"
+    }
+  },
+  {
+    "id": "FT/S02-057",
+    "name": "Power of Allies, Natsu",
+    "number": "057",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, if the number of other 《Magic》 characters you have is three or more, you may put the top card of your deck into your stock. 【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.",
+    "flavorText": "Woooaaah!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_057.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_057.png"
+    }
+  },
+  {
+    "id": "FT/S02-058",
+    "name": "Erza Scarlet",
+    "number": "058",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【CONT】 All of your other characters with \"Lucy(ルーシィ)\" or \"Natsu(ナツ)\" or \"Gray(グレイ)\" in its card name get +500 power. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_058.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_058.png"
+    }
+  },
+  {
+    "id": "FT/S02-059",
+    "name": "Oracion Seis Master, Zero",
+    "number": "059",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Master"
+    ],
+    "text": "【CONT】 If the number of markers underneath this card is six or more, this card gets +2 level, +6000 power, and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent's deck.\" 【AUTO】 When another of your 《Magic》 characters becomes 【REVERSE】 in battle, if the number of markers underneath this card is five or less, you may put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Why should that man be an exception!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_059.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_059.png"
+    }
+  },
+  {
+    "id": "FT/S02-060",
+    "name": "Natsu Living on Instincts",
+    "number": "060",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "Lucy: \"Must be nice.... He doesn't haveta worry about anything but eating, fighting and sleeping.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_060.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_060.png"
+    }
+  },
+  {
+    "id": "FT/S02-061",
+    "name": "Flame Dragon, Igneel",
+    "number": "061",
+    "rarity": "U",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "6000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 Assist All of your 《Dragon》 characters in front of this card get +2000 power.",
+    "flavorText": "Never forget you are a true Dragon Slayer and you should take pride in that acomplishment!!!\nKnow that no matter what happens, I, Igneel, will always be proud of you!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_061.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_061.png"
+    }
+  },
+  {
+    "id": "FT/S02-062",
+    "name": "Problem Child, Natsu",
+    "number": "062",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 If the level of the character facing this card is 3 or higher, this card gets +7500 power.",
+    "flavorText": "I'd like to see you try!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_062.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_062.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Ang",
+    "name": "Oracion Seis",
+    "number": "063Ang",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Angel: \"There's no stopping the Oracion Seis.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Ang.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Ang.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Bra",
+    "name": "Oracion Seis",
+    "number": "063Bra",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Is that so? You'll stop Nirvana? Try your best.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Bra.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Bra.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Cob",
+    "name": "Oracion Seis",
+    "number": "063Cob",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Cobra: \"Yeah, I hear it. The sound of the future.. of light crashing to the ground.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Cob.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Cob.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Hot",
+    "name": "Oracion Seis",
+    "number": "063Hot",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Hoteye: \"Money determines strength in this world. Oh, yeah.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Hot.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Hot.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Mid",
+    "name": "Oracion Seis",
+    "number": "063Mid",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Midnight: \"You could throw a thousand, but they still won't hit me.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Mid.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Mid.png"
+    }
+  },
+  {
+    "id": "FT/S02-063Rac",
+    "name": "Oracion Seis",
+    "number": "063Rac",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "【CONT】 You can put up to six cards with the same card name as this card in your deck. 【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your cards named \"Oracion Seis Master, Zero\", and put this card face down underneath that card as a marker.",
+    "flavorText": "Racer: \"The quicker we wrap this up, the better. I'll run you over so fast.. it'll make your heads spin.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Rac.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_063Rac.png"
+    }
+  },
+  {
+    "id": "FT/S02-064",
+    "name": "Great Fire Totomaru",
+    "number": "064",
+    "rarity": "C",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "9500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Element"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.",
+    "flavorText": "Yes, and any form of fire is my plaything to do with as I please.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_064.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_064.png"
+    }
+  },
+  {
+    "id": "FT/S02-065",
+    "name": "Flame Lotus Phoenix Sword",
+    "number": "065",
+    "rarity": "C",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【COUNTER】 Choose one of your 《Magic》 characters, and that character gets +6500 power until end of turn. Put this card into your memory.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_065.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_065.png"
+    }
+  },
+  {
+    "id": "FT/S02-066",
+    "name": "Natsu vs. Zero",
+    "number": "066",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)",
+    "flavorText": "Flame Lotus Phoenix Sword!!!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_066.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_066.png"
+    }
+  },
+  {
+    "id": "FT/S02-067",
+    "name": "Iron Dragon Roar",
+    "number": "067",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_067.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_067.png"
+    }
+  },
+  {
+    "id": "FT/S02-068",
+    "name": "Fairy Tail Wizard, Gray",
+    "number": "068",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【CONT】 Memory During your opponent's turn, if the number of cards in your memory is two or more, this card gets +1500 power. 【AUTO】 When this card is placed on stage from your hand or by a \"Change\" effect, you may put the top card of your clock into your waiting room.",
+    "flavorText": "So.... ya wanna go at it?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_068.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_068.png"
+    }
+  },
+  {
+    "id": "FT/S02-069",
+    "name": "Sky Dragon Slayer, Wendy",
+    "number": "069",
+    "rarity": "RR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. 【ACT】 [(1) Put a card from your hand into your waiting room] Choose one of your 《Dragon》 characters, and that character gets +2500 power until end of your opponent's next turn.",
+    "flavorText": "It's a pleasure to meet you all.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_069.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_069.png"
+    }
+  },
+  {
+    "id": "FT/S02-070",
+    "name": "Ur's Student, Gray",
+    "number": "070",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 Bond／\"Gray's Teacher, Ur\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Gray's Teacher, Ur\" in your waiting room, and return it to your hand.) 【ACT】 [(1)] Choose one of your 《Ice》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Because I put my faith in what Ur told me.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_070.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_070.png"
+    }
+  },
+  {
+    "id": "FT/S02-071",
+    "name": "Juvia Loxar",
+    "number": "071",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "My body is made entirely of water.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_071.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_071.png"
+    }
+  },
+  {
+    "id": "FT/S02-072",
+    "name": "Wendy Marvell",
+    "number": "072",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 [Put the top card of your deck into your clock] When a card named \"Sky Dragon Roar\" is placed on your climax area, and this card is in your center stage, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters, put it on the bottom of your opponent's deck, and this card gets +1000 power until end of turn.",
+    "flavorText": "I'm the one who caused this so I'll do whatever I can to make it right.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_072.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_072.png"
+    }
+  },
+  {
+    "id": "FT/S02-073",
+    "name": "Clothes-removing Habit, Gray",
+    "number": "073",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Fairy Tail Wizard, Gray\" in your waiting room, and put it on the stage position this card was on. 【ACT】 [(1)] Draw a card, choose a card from your hand, and put it into your waiting room.",
+    "flavorText": "Hey look! The sun is comin' out.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_073.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_073.png"
+    }
+  },
+  {
+    "id": "FT/S02-074",
+    "name": "Fairy Tail Wizard, Juvia",
+    "number": "074",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】 Memory If the number of 《Magic》 characters in your memory is two or more, all of your other 《Love》 or 《Ice》 characters get +1000 power.",
+    "flavorText": "Look at me, Gray!!! Do you like what you see?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_074.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_074.png"
+    }
+  },
+  {
+    "id": "FT/S02-075",
+    "name": "Gray Fullbuster",
+    "number": "075",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【CONT】 Memory If a card named \"Gray's Teacher, Ur\" is in your memory, this card gets +1500 power. 【AUTO】 [(2)] When this card attacks, if a card named \"Ice Geyser\" is in your climax area, you may pay the cost. If you do, choose one of your opponent's level 1 or lower characters, and put it on the bottom of your opponent's deck.",
+    "flavorText": "Ice Make--",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_075.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_075.png"
+    }
+  },
+  {
+    "id": "FT/S02-076",
+    "name": "\"A New Goal\" Gray",
+    "number": "076",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【CONT】 If the number of your other 《Ice》 or 《Dragon》 characters is two or more, this card gets +1500 power.",
+    "flavorText": "There's a whole lot more to this world than just life and death, you know?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_076.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_076.png"
+    }
+  },
+  {
+    "id": "FT/S02-077",
+    "name": "Childhood Wendy",
+    "number": "077",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【ACT】 [(1)] Choose one of your 《Dragon》 characters, and that character gets +1000 power until end of your opponent's next turn.",
+    "flavorText": "She left me.... She left me all alone....",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_077.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_077.png"
+    }
+  },
+  {
+    "id": "FT/S02-078",
+    "name": "Castle Wall of Ice, Gray",
+    "number": "078",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_078.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_078.png"
+    }
+  },
+  {
+    "id": "FT/S02-079",
+    "name": "Magic Cards, Cana",
+    "number": "079",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Fortune Telling"
+    ],
+    "text": "【CONT】 Assist During your opponent's turn, all of your characters in front of this card get +1 level and +500 power. 【AUTO】 When this card is placed on stage from your hand, look at up to two cards from the top of your deck, and put them on top of your deck in any order.",
+    "flavorText": "We need everybody on their feet to fight these guys!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_079.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_079.png"
+    }
+  },
+  {
+    "id": "FT/S02-080",
+    "name": "\"Ur's Teachings\" Gray",
+    "number": "080",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【CONT】 Memory If a card named \"Gray's Teacher, Ur\" is in your memory, this card gets +2000 power. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "Yeah, 'cause that's what Ur taught us. Single-handed spell casting is incomplete and unbalanced.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_080.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_080.png"
+    }
+  },
+  {
+    "id": "FT/S02-081",
+    "name": "Gray's Teacher, Ur",
+    "number": "081",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 When you use this card's \"Backup\", if the number of 《Ice》 characters you have is two or more, you may choose a card named \"Gray's Teacher, Ur\" in your waiting room, and put it into your memory. 【ACT】【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)",
+    "flavorText": "I've freed you from the darkness, Gray. I've sealed it away forever.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_081.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_081.png"
+    }
+  },
+  {
+    "id": "FT/S02-082",
+    "name": "Maiden in Love, Juvia",
+    "number": "082",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【CONT】【CLOCK】 Alarm When this card is the top card of your clock, if the number of 《Love》 or 《Ice》 characters you have is four or more, at the beginning of your climax phase, search your deck for up to one 《Love》 or 《Ice》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "There must be something wrong with me. Why is my heart beating so fast?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_082.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_082.png"
+    }
+  },
+  {
+    "id": "FT/S02-083",
+    "name": "Gray's Determination",
+    "number": "083",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your memory] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room. 【AUTO】 [(1)] When this card attacks, if a card named \"Ice Cannon\" is in your climax area, you may pay the cost. If you do, draw a card.",
+    "flavorText": "I'll seal the demon myself!!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_083.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_083.png"
+    }
+  },
+  {
+    "id": "FT/S02-084",
+    "name": "\"Ur's Tears\" Ultear",
+    "number": "084",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "3500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Time"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. 【ACT】 [Put one of your other characters from your stage into your waiting room & 【REST】 this card] Draw up to two cards, choose two cards in your hand, and put them into your waiting room.",
+    "flavorText": "They took down an entire guild with a handful of wizards. That is quite a feat.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_084.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_084.png"
+    }
+  },
+  {
+    "id": "FT/S02-085",
+    "name": "Phantom Wizard, Juvia",
+    "number": "085",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "7500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"Water Lock\" is in your climax area, choose one of your opponent's level 3 or lower characters. That character cannot 【STAND】 during your opponent's next stand phase. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)",
+    "flavorText": "Drip drip drop..",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_085.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_085.png"
+    }
+  },
+  {
+    "id": "FT/S02-086",
+    "name": "\"Healing Spell\" Wendy",
+    "number": "086",
+    "rarity": "U",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 If the number of your other 《Magic》 characters is three or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\". 【ACT】 [(2) 【REST】 two of your characters] Put the top card of your clock into your waiting room.",
+    "flavorText": "Well, that should do it. I got rid of all the venom. Now all we have to do is wait.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_086.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_086.png"
+    }
+  },
+  {
+    "id": "FT/S02-087",
+    "name": "Juvia of the Great Sea",
+    "number": "087",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Element"
+    ],
+    "text": "【CONT】 If you would pay the 【ACT】 cost for one of your characters in your hand or stage, you may put a marker from underneath this card into your waiting room instead of a card from your stock. 【CONT】 During your opponent's turn, all of your other characters get +500 power. 【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on stage from your hand, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker.",
+    "flavorText": "Juvia is a part of Element 4, as well as the rain woman.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_087.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_087.png"
+    }
+  },
+  {
+    "id": "FT/S02-088",
+    "name": "Cold Emperor, Lyon",
+    "number": "088",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【AUTO】 [(2) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one card named \"Fairy Tail Wizard, Gray\", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "That's why I'm resurrecting Deliora. To prove that I am more than Ur's star pupil.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_088.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_088.png"
+    }
+  },
+  {
+    "id": "FT/S02-089",
+    "name": "Cana Alberona",
+    "number": "089",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Fortune Telling"
+    ],
+    "text": "【CONT】 Your other character in the middle position of the center stage gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\".",
+    "flavorText": "Elfman can hold his own against Phantom....",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_089.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_089.png"
+    }
+  },
+  {
+    "id": "FT/S02-090",
+    "name": "Cait Shelter Master, Robaul",
+    "number": "090",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Master"
+    ],
+    "text": "【ACT】 [(1)] Choose one of your characters, and that character gets +1500 power until end of turn. At the end of the turn, put this card into your memory.",
+    "flavorText": "And now.... My post can be vacated, for that person has been found.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_090.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_090.png"
+    }
+  },
+  {
+    "id": "FT/S02-091",
+    "name": "Honest and Brave, Wendy",
+    "number": "091",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "-",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_091.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_091.png"
+    }
+  },
+  {
+    "id": "FT/S02-092",
+    "name": "Wendy's Caretaker, Carla",
+    "number": "092",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【ACT】 [【REST】 two of your characters] Choose one of your 《Magic》 characters, and that character gets +2000 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_092.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_092.png"
+    }
+  },
+  {
+    "id": "FT/S02-093",
+    "name": "\"Unison Raid\" Juvia",
+    "number": "093",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "6500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Love"
+    ],
+    "text": "【AUTO】 Memory When this card's battle opponent becomes 【REVERSE】, if a card named \"\"Unison Raid\" Lucy\" is in your memory, draw a card, choose a card in your hand, and put it into your waiting room.",
+    "flavorText": "Just great. As if there's not enough water in here already.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_093.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_093.png"
+    }
+  },
+  {
+    "id": "FT/S02-094",
+    "name": "Natsu's Friendly Rival, Gray",
+    "number": "094",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "-",
+    "flavorText": "Don't make me hurt you, buddy!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_094.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_094.png"
+    }
+  },
+  {
+    "id": "FT/S02-095",
+    "name": "Young Council Member, Siegrain",
+    "number": "095",
+    "rarity": "C",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "-"
+    ],
+    "text": "-",
+    "flavorText": "After all, if it wasn't for those \"fools\".. think how boring this world would be.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_095.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_095.png"
+    }
+  },
+  {
+    "id": "FT/S02-096",
+    "name": "Moon Drip",
+    "number": "096",
+    "rarity": "C",
+    "type": "Event",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Search your deck for up to one level 3 or higher character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. You may put the top card of your clock into your waiting room. Put this card into your memory.",
+    "flavorText": "While the Iced Shell is strong, it can still be melted using Moon Drip. Focused moon energy can break any magical spell.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_096.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_096.png"
+    }
+  },
+  {
+    "id": "FT/S02-097",
+    "name": "Ice Geyser",
+    "number": "097",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【DRAW】: When this card triggers, you may draw 1 card)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_097.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_097.png"
+    }
+  },
+  {
+    "id": "FT/S02-098",
+    "name": "Sky Dragon Roar",
+    "number": "098",
+    "rarity": "CR",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Sky Dragon Roar..!!!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_098.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_098.png"
+    }
+  },
+  {
+    "id": "FT/S02-099",
+    "name": "Ice Cannon",
+    "number": "099",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +2 soul.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_099.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_099.png"
+    }
+  },
+  {
+    "id": "FT/S02-100",
+    "name": "Water Lock",
+    "number": "100",
+    "rarity": "CC",
+    "type": "Climax",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.",
+    "flavorText": "Don't waste your energy. My Water Lock spell cannot be broken.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_100.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_100.png"
+    }
+  },
+  {
+    "id": "FT/S02-101",
+    "name": "Guardian of Fairy Tail, Erza",
+    "number": "101",
+    "rarity": "R",
+    "type": "Character",
+    "color": "YELLOW",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Memory When you use this card's \"Backup\", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1000 power until end of turn. 【ACT】【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_101.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_101.png"
+    }
+  },
+  {
+    "id": "FT/S02-102",
+    "name": "Girl Who Loves Celestial Spirits, Lucy",
+    "number": "102",
+    "rarity": "R",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "10000",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 Memory If the number of cards in your memory is two or more, this card gets +1500 power. 【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's clock.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_102.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_102.png"
+    }
+  },
+  {
+    "id": "FT/S02-103",
+    "name": "Searching for Igneel, Natsu",
+    "number": "103",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. \"Choose a 《Dragon》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.\"",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_103.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_103.png"
+    }
+  },
+  {
+    "id": "FT/S02-104",
+    "name": "\"Dragon Egg\" Happy",
+    "number": "104",
+    "rarity": "R",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "5000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【CONT】 If this card is on the stage, this card gets 《Dragon》. 【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Dragon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_104.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_104.png"
+    }
+  },
+  {
+    "id": "FT/S02-105",
+    "name": "Silent Ice Make, Gray",
+    "number": "105",
+    "rarity": "R",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "1000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【CONT】 All of your other 《Love》 or 《Ice》 characters get +500 power. 【ACT】 [【REST】 this card] Choose one of your 《Love》 or 《Ice》 characters, and that character gets +500 power until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_105.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_105.png"
+    }
+  },
+  {
+    "id": "FT/S02-T01",
+    "name": "Fire Dragon Slayer, Natsu",
+    "number": "T01",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "3",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 If the number of cards named \"Fire Dragon Roar\" in your waiting room is two or more, this card gets +2000 power. 【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.",
+    "flavorText": "I'm a Dragon Slayer of Fairy Tail!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T01.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T01.png"
+    }
+  },
+  {
+    "id": "FT/S02-T02",
+    "name": "Draw of Fairy Tail, Mirajane",
+    "number": "T02",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Waitress"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.",
+    "flavorText": "Hello? Are you new here?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T02.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T02.png"
+    }
+  },
+  {
+    "id": "FT/S02-T03",
+    "name": "Ice Make Wizard, Gray",
+    "number": "T03",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Ice"
+    ],
+    "text": "【ACT】 [(2)] This card gets +5000 power until end of turn.",
+    "flavorText": "I use ice magic.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T03.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T03.png"
+    }
+  },
+  {
+    "id": "FT/S02-T04",
+    "name": "Lisanna",
+    "number": "T04",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, put this card into your memory.",
+    "flavorText": "It'd be nice if we could stay like this forever, dontcha think?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T04.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T04.png"
+    }
+  },
+  {
+    "id": "FT/S02-T05",
+    "name": "Maid Look, Lucy",
+    "number": "T05",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "-",
+    "flavorText": "I know I look super cute in this uniform.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T05.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T05.png"
+    }
+  },
+  {
+    "id": "FT/S02-T06",
+    "name": "Literature Girl, Lucy",
+    "number": "T06",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 When this card attacks, if a card named \"DEAR KABY\" is in your climax area, this card gets +3000 power until end of turn. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "A man like you doesn't deserve to know what it is… You're an enemy of literature…!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T06.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T06.png"
+    }
+  },
+  {
+    "id": "FT/S02-T07",
+    "name": "Cute Celestial User? Lucy",
+    "number": "T07",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【CONT】 All of your other 《Magic》 characters get +500 power. 【ACT】 [(1)] Choose one of your characters, and that character gets +1500 power until end of turn.",
+    "flavorText": "That's the power of a Celestial Wizard.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T07.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T07.png"
+    }
+  },
+  {
+    "id": "FT/S02-T08",
+    "name": "Ring Magic, Loke",
+    "number": "T08",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "9500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Key"
+    ],
+    "text": "【AUTO】 [Put a character from your hand into your memory] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.",
+    "flavorText": "Look at the size of it! A dark black wave that big would wipe out the entire city!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T08.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T08.png"
+    }
+  },
+  {
+    "id": "FT/S02-T09",
+    "name": "DEAR KABY",
+    "number": "T09",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "GREEN",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)",
+    "flavorText": "Lucy: \"A novel containing everything he ever wanted to say to his beloved son!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T09.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T09.png"
+    }
+  },
+  {
+    "id": "FT/S02-T10",
+    "name": "Gajeel Redfoxx",
+    "number": "T10",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.",
+    "flavorText": "Cause I'm startin' to get bored with all this \"holding back\" garbage.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T10.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T10.png"
+    }
+  },
+  {
+    "id": "FT/S02-T11",
+    "name": "Natsu Dragneel",
+    "number": "T11",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "3000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "-",
+    "flavorText": "Oh yeah! I'm fired up!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T11.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T11.png"
+    }
+  },
+  {
+    "id": "FT/S02-T12",
+    "name": "Young Dragon, Natsu",
+    "number": "T12",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【ACT】【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)",
+    "flavorText": "Quit feelin' sorry for yourself 'cause you lost a fight!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T12.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T12.png"
+    }
+  },
+  {
+    "id": "FT/S02-T13",
+    "name": "Natsu's Partner, Happy",
+    "number": "T13",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "1500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Animal"
+    ],
+    "text": "【CONT】 Assist All of your characters in front of this card get the following ability. \"【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn.\" 【AUTO】 Bond／\"Fire Dragon Slayer, Natsu\" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named \"Fire Dragon Slayer, Natsu\" in your waiting room, and return it to your hand)",
+    "flavorText": "You showed him that if you mess with the Salamander, you're gonna get toasted.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T13.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T13.png"
+    }
+  },
+  {
+    "id": "FT/S02-T14",
+    "name": "Childhood Natsu & Happy",
+    "number": "T14",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "4000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named \"Dragon Power, Natsu\" in your waiting room, and put it on the stage position that this card was on. 【ACT】 [【REST】 this card] Choose one of your 《Dragon》 characters, and that character gets +1000 power until end of turn.",
+    "flavorText": "Natsu: \"Happy the dragon.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T14.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T14.png"
+    }
+  },
+  {
+    "id": "FT/S02-T15",
+    "name": "Fire Wizard, Natsu",
+    "number": "T15",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "-",
+    "flavorText": "I'm ready for ya!",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T15.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T15.png"
+    }
+  },
+  {
+    "id": "FT/S02-T16",
+    "name": "Dragon Power, Natsu",
+    "number": "T16",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "7000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【CONT】 Memory If the number of cards in your memory is two or more, this card gets +1500 power. 【AUTO】 [(3)] When this card attacks, if a card named \"Fire Dragon Brilliant Flame\" is in your climax area, you may pay the cost. If you do, choose one of your opponent's level 2 or lower characters, and put it on the top of your opponent's deck.",
+    "flavorText": "Happy: \"It's called Dragon Slayer magic! Igneel was the one who taught it to him.\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T16.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T16.png"
+    }
+  },
+  {
+    "id": "FT/S02-T17",
+    "name": "Armor Wizard, Erza",
+    "number": "T17",
+    "rarity": "TD",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "2",
+      "power": "8500",
+      "soul": 2
+    },
+    "tags": [
+      "Magic",
+      "Weapon"
+    ],
+    "text": "【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)",
+    "flavorText": "I have returned. Where is Master Makarov?",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T17.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T17.png"
+    }
+  },
+  {
+    "id": "FT/S02-T18",
+    "name": "S-class Quest",
+    "number": "T18",
+    "rarity": "TD",
+    "type": "Event",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "0",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "Choose up to two of your characters, and they get the following ability until end of turn. \"【AUTO】 [(1)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.\"",
+    "flavorText": "Natsu: \"Our team is ready for the big time… S-class!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T18.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T18.png"
+    }
+  },
+  {
+    "id": "FT/S02-T19",
+    "name": "Fire Dragon Roar",
+    "number": "T19",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T19.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T19.png"
+    }
+  },
+  {
+    "id": "FT/S02-T20",
+    "name": "Fire Dragon Brilliant Flame",
+    "number": "T20",
+    "rarity": "TD",
+    "type": "Climax",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "-",
+      "cost": "-",
+      "power": "-",
+      "soul": 0
+    },
+    "tags": [
+      "-",
+      "-"
+    ],
+    "text": "【CONT】 All of your characters get +1000 power and +1 soul. (【COME BACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)",
+    "flavorText": "-",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T20.png",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/f/ft_en_s02/FT_EN_S02_T20.png"
+    }
+  },
+  {
+    "id": "FT/S09-E107",
+    "name": "Flame of Emotions, Natsu",
+    "number": "E107",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "1",
+      "cost": "1",
+      "power": "5500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【ACT】 [Put a climax from your hand into your waiting room] This card gets +4000 power until end of turn.",
+    "flavorText": "Enough talking, its time to start fighting! C'mon!!!!",
+    "images": {
+      "small": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_107.png",
+      "large": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_107.png"
+    }
+  },
+  {
+    "id": "FT/S09-E110",
+    "name": "Natsu & Lucy & Happy",
+    "number": "E110",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "RED",
+    "side": "S",
+    "stats": {
+      "level": "0",
+      "cost": "0",
+      "power": "2500",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn.",
+    "flavorText": "Natsu: \"Come and get me!!!\"",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/WS_FT_S09_E110.jpg",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/WS_FT_S09_E110.jpg"
+    }
+  },
+  {
+    "id": "FT/SE10-E46",
+    "name": "\"Maiden of the Sky\" Wendy",
+    "number": "E46",
+    "rarity": "PR",
+    "type": "Character",
+    "color": "BLUE",
+    "side": "S",
+    "stats": {
+      "level": "2",
+      "cost": "1",
+      "power": "8000",
+      "soul": 1
+    },
+    "tags": [
+      "Magic",
+      "Dragon"
+    ],
+    "text": "【ACT】 If the number of cards in your hand is five or more, this card gets +1000 power.",
+    "flavorText": "Hi. I.... Uh.. I’m sorry I got here so late.",
+    "images": {
+      "small": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/WS_FT_SE10_E46.jpg",
+      "large": "https://en.ws-tcg.com/wp/wp-content/images/cardimages/WS_FT_SE10_E46.jpg"
+    }
+  }
+]
